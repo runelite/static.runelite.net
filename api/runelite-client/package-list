@@ -7,6 +7,7 @@ net.runelite.client.game
 net.runelite.client.menus
 net.runelite.client.plugins
 net.runelite.client.plugins.account
+net.runelite.client.plugins.attackindicator
 net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
 net.runelite.client.plugins.chatcommands
@@ -23,7 +24,7 @@ net.runelite.client.plugins.grounditems
 net.runelite.client.plugins.hiscore
 net.runelite.client.plugins.idlenotifier
 net.runelite.client.plugins.implings
-net.runelite.client.plugins.jewelrycount
+net.runelite.client.plugins.jewellerycount
 net.runelite.client.plugins.mousehighlight
 net.runelite.client.plugins.opponentinfo
 net.runelite.client.plugins.pestcontrol
@@ -43,4 +44,5 @@ net.runelite.client.task
 net.runelite.client.ui
 net.runelite.client.ui.overlay
 net.runelite.client.ui.overlay.infobox
+net.runelite.client.ui.overlay.tooltips
 net.runelite.client.util
