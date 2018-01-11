@@ -23,6 +23,7 @@ net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
 net.runelite.client.plugins.grounditems
 net.runelite.client.plugins.hiscore
+net.runelite.client.plugins.hunter
 net.runelite.client.plugins.idlenotifier
 net.runelite.client.plugins.implings
 net.runelite.client.plugins.instancemap
@@ -32,6 +33,7 @@ net.runelite.client.plugins.opponentinfo
 net.runelite.client.plugins.pestcontrol
 net.runelite.client.plugins.prayflick
 net.runelite.client.plugins.rememberusername
+net.runelite.client.plugins.reportbutton
 net.runelite.client.plugins.runecraft
 net.runelite.client.plugins.runepouch
 net.runelite.client.plugins.slayer
@@ -44,6 +46,7 @@ net.runelite.client.plugins.xpglobes
 net.runelite.client.plugins.xptracker
 net.runelite.client.plugins.xtea
 net.runelite.client.plugins.zulrah
+net.runelite.client.plugins.zulrah.overlays
 net.runelite.client.plugins.zulrah.patterns
 net.runelite.client.plugins.zulrah.phase
 net.runelite.client.task
