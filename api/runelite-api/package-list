@@ -1,4 +1,5 @@
 net.runelite.api
+net.runelite.api.events
 net.runelite.api.kit
 net.runelite.api.model
 net.runelite.api.queries
