@@ -1,1 +1,25 @@
-{"client":{"groupId":"net.runelite","artifactId":"client","version":"1.2.13","classifier":"","extension":"jar","properties":{}},"clientJvmArguments":["-Xmx256m","-Xss2m","-Dsun.java2d.noddraw\u003dfalse","-XX:CompileThreshold\u003d1500","-Xincgc","-XX:+UseConcMarkSweepGC","-XX:+UseParNewGC"]}
+{
+    "client": {
+        "artifactId": "client",
+        "classifier": "",
+        "extension": "jar",
+        "groupId": "net.runelite",
+        "properties": {},
+        "version": "1.2.13"
+    },
+    "clientJvmArguments": [
+        "-Xmx256m",
+        "-Xss2m",
+        "-Dsun.java2d.noddraw=false",
+        "-XX:CompileThreshold=1500",
+        "-Xincgc",
+        "-XX:+UseConcMarkSweepGC",
+        "-XX:+UseParNewGC"
+    ],
+    "clientJvm9Arguments": [
+        "-Xmx256m",
+        "-Xss2m",
+        "-Dsun.java2d.noddraw=false",
+        "-XX:CompileThreshold=1500"
+    ]
+}
