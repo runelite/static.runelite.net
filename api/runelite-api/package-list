@@ -2,5 +2,6 @@ net.runelite.api
 net.runelite.api.events
 net.runelite.api.kit
 net.runelite.api.model
+net.runelite.api.overlay
 net.runelite.api.queries
 net.runelite.api.widgets
