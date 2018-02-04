@@ -10,7 +10,7 @@
     "clientJvmArguments": [
         "-Xmx256m",
         "-Xss2m",
-        "-Dsun.java2d.noddraw=false",
+        "-Dsun.java2d.noddraw=true",
         "-XX:CompileThreshold=1500",
         "-Xincgc",
         "-XX:+UseConcMarkSweepGC",
@@ -19,7 +19,7 @@
     "clientJvm9Arguments": [
         "-Xmx256m",
         "-Xss2m",
-        "-Dsun.java2d.noddraw=false",
+        "-Dsun.java2d.noddraw=true",
         "-XX:CompileThreshold=1500"
     ]
 }
