@@ -3,11 +3,14 @@ net.runelite.client.account
 net.runelite.client.callback
 net.runelite.client.chat
 net.runelite.client.config
+net.runelite.client.discord
+net.runelite.client.discord.events
 net.runelite.client.events
 net.runelite.client.game
 net.runelite.client.menus
 net.runelite.client.plugins
 net.runelite.client.plugins.account
+net.runelite.client.plugins.agilityplugin
 net.runelite.client.plugins.attackindicator
 net.runelite.client.plugins.barbarianassault
 net.runelite.client.plugins.boosts
@@ -20,6 +23,7 @@ net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
 net.runelite.client.plugins.devtools
 net.runelite.client.plugins.diaryprogress
+net.runelite.client.plugins.discord
 net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
 net.runelite.client.plugins.fightcave
@@ -29,6 +33,7 @@ net.runelite.client.plugins.hiscore
 net.runelite.client.plugins.hunter
 net.runelite.client.plugins.idlenotifier
 net.runelite.client.plugins.implings
+net.runelite.client.plugins.info
 net.runelite.client.plugins.instancemap
 net.runelite.client.plugins.itemstats
 net.runelite.client.plugins.itemstats.delta
@@ -43,6 +48,7 @@ net.runelite.client.plugins.mousehighlight
 net.runelite.client.plugins.opponentinfo
 net.runelite.client.plugins.pestcontrol
 net.runelite.client.plugins.playerindicators
+net.runelite.client.plugins.poh
 net.runelite.client.plugins.prayflick
 net.runelite.client.plugins.rememberusername
 net.runelite.client.plugins.reportbutton
@@ -52,6 +58,7 @@ net.runelite.client.plugins.screenshot
 net.runelite.client.plugins.screenshot.imgur
 net.runelite.client.plugins.slayer
 net.runelite.client.plugins.specorb
+net.runelite.client.plugins.teamcapes
 net.runelite.client.plugins.tileindicators
 net.runelite.client.plugins.timers
 net.runelite.client.plugins.woodcutting
