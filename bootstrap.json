@@ -14,12 +14,14 @@
         "-XX:CompileThreshold=1500",
         "-Xincgc",
         "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC"
+        "-XX:+UseParNewGC",
+        "-Djna.nosys=true"
     ],
     "clientJvm9Arguments": [
         "-Xmx256m",
         "-Xss2m",
         "-Dsun.java2d.noddraw=true",
-        "-XX:CompileThreshold=1500"
+        "-XX:CompileThreshold=1500",
+        "-Djna.nosys=true"
     ]
 }
