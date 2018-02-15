@@ -5,7 +5,7 @@
         "extension": "jar",
         "groupId": "net.runelite",
         "properties": {},
-        "version": "1.2.15"
+        "version": "1.2.16"
     },
     "clientJvmArguments": [
         "-Xmx256m",
