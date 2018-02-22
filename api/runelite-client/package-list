@@ -14,10 +14,12 @@ net.runelite.client.plugins.agilityplugin
 net.runelite.client.plugins.attackindicator
 net.runelite.client.plugins.barbarianassault
 net.runelite.client.plugins.barrows
+net.runelite.client.plugins.blastfurnace
 net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
 net.runelite.client.plugins.cannon
 net.runelite.client.plugins.chatcommands
+net.runelite.client.plugins.chathistory
 net.runelite.client.plugins.clanchat
 net.runelite.client.plugins.cluescrolls
 net.runelite.client.plugins.combatlevel
@@ -42,8 +44,10 @@ net.runelite.client.plugins.itemstats.food
 net.runelite.client.plugins.itemstats.potions
 net.runelite.client.plugins.itemstats.stats
 net.runelite.client.plugins.jewellerycount
+net.runelite.client.plugins.kourendlibrary
 net.runelite.client.plugins.lowmemory
 net.runelite.client.plugins.metronome
+net.runelite.client.plugins.minimap
 net.runelite.client.plugins.motherlode
 net.runelite.client.plugins.mousehighlight
 net.runelite.client.plugins.nightmarezone
@@ -53,7 +57,8 @@ net.runelite.client.plugins.playerindicators
 net.runelite.client.plugins.poh
 net.runelite.client.plugins.prayflick
 net.runelite.client.plugins.puzzlesolver
-net.runelite.client.plugins.rememberusername
+net.runelite.client.plugins.raids
+net.runelite.client.plugins.raids.solver
 net.runelite.client.plugins.reportbutton
 net.runelite.client.plugins.roguesden
 net.runelite.client.plugins.runecraft
@@ -65,6 +70,7 @@ net.runelite.client.plugins.specorb
 net.runelite.client.plugins.teamcapes
 net.runelite.client.plugins.tileindicators
 net.runelite.client.plugins.timers
+net.runelite.client.plugins.usernamesyncer
 net.runelite.client.plugins.woodcutting
 net.runelite.client.plugins.xpglobes
 net.runelite.client.plugins.xptracker
