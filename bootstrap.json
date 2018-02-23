@@ -8,20 +8,12 @@
         "version": "1.2.17"
     },
     "clientJvmArguments": [
-        "-Xmx256m",
-        "-Xss2m",
-        "-Dsun.java2d.noddraw=true",
-        "-XX:CompileThreshold=1500",
-        "-Xincgc",
-        "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC",
+        "-Dsun.java2d.noddraw=false",
+        "-XX:+UseG1GC",
         "-Djna.nosys=true"
     ],
     "clientJvm9Arguments": [
-        "-Xmx256m",
-        "-Xss2m",
-        "-Dsun.java2d.noddraw=true",
-        "-XX:CompileThreshold=1500",
+        "-Dsun.java2d.noddraw=false",
         "-Djna.nosys=true"
     ]
 }
