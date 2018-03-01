@@ -7,6 +7,7 @@ net.runelite.client.discord
 net.runelite.client.discord.events
 net.runelite.client.events
 net.runelite.client.game
+net.runelite.client.input
 net.runelite.client.menus
 net.runelite.client.plugins
 net.runelite.client.plugins.account
@@ -25,12 +26,12 @@ net.runelite.client.plugins.cluescrolls
 net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
 net.runelite.client.plugins.devtools
-net.runelite.client.plugins.diaryprogress
 net.runelite.client.plugins.discord
 net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
 net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
+net.runelite.client.plugins.grandexchange
 net.runelite.client.plugins.grounditems
 net.runelite.client.plugins.hiscore
 net.runelite.client.plugins.hunter
@@ -57,6 +58,10 @@ net.runelite.client.plugins.playerindicators
 net.runelite.client.plugins.poh
 net.runelite.client.plugins.prayflick
 net.runelite.client.plugins.puzzlesolver
+net.runelite.client.plugins.puzzlesolver.solver
+net.runelite.client.plugins.puzzlesolver.solver.heuristics
+net.runelite.client.plugins.puzzlesolver.solver.pathfinding
+net.runelite.client.plugins.pyramidplunder
 net.runelite.client.plugins.raids
 net.runelite.client.plugins.raids.solver
 net.runelite.client.plugins.reportbutton
