@@ -25,10 +25,12 @@ net.runelite.client.plugins.clanchat
 net.runelite.client.plugins.cluescrolls
 net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
+net.runelite.client.plugins.defaultworld
 net.runelite.client.plugins.devtools
 net.runelite.client.plugins.discord
 net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
+net.runelite.client.plugins.feed
 net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
 net.runelite.client.plugins.grandexchange
@@ -52,6 +54,7 @@ net.runelite.client.plugins.minimap
 net.runelite.client.plugins.motherlode
 net.runelite.client.plugins.mousehighlight
 net.runelite.client.plugins.nightmarezone
+net.runelite.client.plugins.notes
 net.runelite.client.plugins.opponentinfo
 net.runelite.client.plugins.pestcontrol
 net.runelite.client.plugins.playerindicators
@@ -71,7 +74,7 @@ net.runelite.client.plugins.runepouch
 net.runelite.client.plugins.screenshot
 net.runelite.client.plugins.screenshot.imgur
 net.runelite.client.plugins.slayer
-net.runelite.client.plugins.specorb
+net.runelite.client.plugins.stretchedfixedmode
 net.runelite.client.plugins.teamcapes
 net.runelite.client.plugins.tileindicators
 net.runelite.client.plugins.timers
