@@ -49,6 +49,7 @@ net.runelite.client.plugins.itemstats.stats
 net.runelite.client.plugins.jewellerycount
 net.runelite.client.plugins.kourendlibrary
 net.runelite.client.plugins.lowmemory
+net.runelite.client.plugins.menuentryswapper
 net.runelite.client.plugins.metronome
 net.runelite.client.plugins.minimap
 net.runelite.client.plugins.motherlode
@@ -67,6 +68,7 @@ net.runelite.client.plugins.puzzlesolver.solver.pathfinding
 net.runelite.client.plugins.pyramidplunder
 net.runelite.client.plugins.raids
 net.runelite.client.plugins.raids.solver
+net.runelite.client.plugins.regenmeter
 net.runelite.client.plugins.reportbutton
 net.runelite.client.plugins.roguesden
 net.runelite.client.plugins.runecraft
