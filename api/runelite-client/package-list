@@ -13,6 +13,7 @@ net.runelite.client.plugins
 net.runelite.client.plugins.account
 net.runelite.client.plugins.agilityplugin
 net.runelite.client.plugins.attackindicator
+net.runelite.client.plugins.bankvalue
 net.runelite.client.plugins.barbarianassault
 net.runelite.client.plugins.barrows
 net.runelite.client.plugins.blastfurnace
@@ -35,12 +36,14 @@ net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
 net.runelite.client.plugins.grandexchange
 net.runelite.client.plugins.grounditems
+net.runelite.client.plugins.herbiboars
 net.runelite.client.plugins.hiscore
 net.runelite.client.plugins.hunter
 net.runelite.client.plugins.idlenotifier
 net.runelite.client.plugins.implings
 net.runelite.client.plugins.info
 net.runelite.client.plugins.instancemap
+net.runelite.client.plugins.itemprices
 net.runelite.client.plugins.itemstats
 net.runelite.client.plugins.itemstats.delta
 net.runelite.client.plugins.itemstats.food
@@ -56,6 +59,7 @@ net.runelite.client.plugins.motherlode
 net.runelite.client.plugins.mousehighlight
 net.runelite.client.plugins.nightmarezone
 net.runelite.client.plugins.notes
+net.runelite.client.plugins.npchighlight
 net.runelite.client.plugins.opponentinfo
 net.runelite.client.plugins.pestcontrol
 net.runelite.client.plugins.playerindicators
@@ -69,6 +73,7 @@ net.runelite.client.plugins.pyramidplunder
 net.runelite.client.plugins.raids
 net.runelite.client.plugins.raids.solver
 net.runelite.client.plugins.regenmeter
+net.runelite.client.plugins.reorderprayers
 net.runelite.client.plugins.reportbutton
 net.runelite.client.plugins.roguesden
 net.runelite.client.plugins.runecraft
