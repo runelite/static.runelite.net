@@ -24,8 +24,10 @@ net.runelite.client.plugins.chatcommands
 net.runelite.client.plugins.chathistory
 net.runelite.client.plugins.clanchat
 net.runelite.client.plugins.cluescrolls
+net.runelite.client.plugins.cluescrolls.clues
 net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
+net.runelite.client.plugins.dailytaskindicators
 net.runelite.client.plugins.defaultworld
 net.runelite.client.plugins.devtools
 net.runelite.client.plugins.discord
@@ -48,8 +50,10 @@ net.runelite.client.plugins.itemstats
 net.runelite.client.plugins.itemstats.delta
 net.runelite.client.plugins.itemstats.food
 net.runelite.client.plugins.itemstats.potions
+net.runelite.client.plugins.itemstats.special
 net.runelite.client.plugins.itemstats.stats
 net.runelite.client.plugins.jewellerycount
+net.runelite.client.plugins.kingdomofmiscellania
 net.runelite.client.plugins.kourendlibrary
 net.runelite.client.plugins.lowmemory
 net.runelite.client.plugins.menuentryswapper
@@ -85,6 +89,7 @@ net.runelite.client.plugins.stretchedfixedmode
 net.runelite.client.plugins.teamcapes
 net.runelite.client.plugins.tileindicators
 net.runelite.client.plugins.timers
+net.runelite.client.plugins.tithefarm
 net.runelite.client.plugins.usernamesyncer
 net.runelite.client.plugins.woodcutting
 net.runelite.client.plugins.xpglobes
