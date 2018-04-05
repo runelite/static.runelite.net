@@ -13,6 +13,7 @@ net.runelite.client.plugins
 net.runelite.client.plugins.account
 net.runelite.client.plugins.agilityplugin
 net.runelite.client.plugins.attackindicator
+net.runelite.client.plugins.banktags
 net.runelite.client.plugins.bankvalue
 net.runelite.client.plugins.barbarianassault
 net.runelite.client.plugins.barrows
