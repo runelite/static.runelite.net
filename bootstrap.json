@@ -27,7 +27,7 @@
     "launcherArguments": [
         "-Drunelite.launcher.nojvm=true",
 	"-Xmx512m",
-	"-Xms2m",
+	"-Xss2m",
 	"-Dsun.java2d.noddraw=false",
 	"-XX:CompileThreshold=1500",
 	"-Xincgc",
