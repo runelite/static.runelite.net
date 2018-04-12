@@ -12,7 +12,8 @@ net.runelite.client.menus
 net.runelite.client.plugins
 net.runelite.client.plugins.account
 net.runelite.client.plugins.agilityplugin
-net.runelite.client.plugins.attackindicator
+net.runelite.client.plugins.animsmoothing
+net.runelite.client.plugins.attackstyles
 net.runelite.client.plugins.banktags
 net.runelite.client.plugins.bankvalue
 net.runelite.client.plugins.barbarianassault
@@ -74,7 +75,6 @@ net.runelite.client.plugins.puzzlesolver
 net.runelite.client.plugins.puzzlesolver.solver
 net.runelite.client.plugins.puzzlesolver.solver.heuristics
 net.runelite.client.plugins.puzzlesolver.solver.pathfinding
-net.runelite.client.plugins.pyramidplunder
 net.runelite.client.plugins.raids
 net.runelite.client.plugins.raids.solver
 net.runelite.client.plugins.regenmeter
