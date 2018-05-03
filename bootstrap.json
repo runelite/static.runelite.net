@@ -5,7 +5,7 @@
         "extension": "jar", 
         "groupId": "net.runelite", 
         "properties": {}, 
-        "version": "1.3.6"
+        "version": "1.3.7"
     }, 
     "clientJvm9Arguments": [
         "-Xmx512m", 
@@ -25,7 +25,7 @@
     "dependencyHashes": {
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
-        "client-1.3.6.jar": "2153be53f753e91ad66051c40a75145669d51662e462336a304a692b1d3871cd", 
+        "client-1.3.7.jar": "39863687a8fb3ccaa6ee7b8c11c12555cc35ca1fc21783d7a7d6d880110eaecd", 
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847", 
         "commons-text-1.2.jar": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b", 
         "discord-1.0.jar": "5a5612ce7afb947783ec40fbf6280d9d5f3667f8013278a7820a2e5ff02fa6a0", 
@@ -33,8 +33,8 @@
         "gson-2.4.jar": "a35abbcf689eb3d60a2959e83a624831658b023220cd2edb66350993ebfdc025", 
         "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564", 
         "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad", 
-        "http-api-1.3.6.jar": "a389a0522579b3d027e59b99ed4083485ec4ffe1e96d37ce0f6c34a70300b6a5", 
-        "injected-client-1.3.6.jar": "a02f69531f3fc547c2cffb543429fcf71d58708ad036d1d4bba7cc7201a6f653", 
+        "http-api-1.3.7.jar": "c18b071f92bbbaced353ccb15e7616ac0b1e213ec8c5a7299d5dc398b6ac5016", 
+        "injected-client-1.3.7.jar": "39db0eba6e1856e7cd354ceace81a75029ea17d8d0b5ae4e2279eaaed84f88b9", 
         "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6", 
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff", 
         "jna-4.5.1.jar": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b", 
@@ -44,9 +44,9 @@
         "logback-core-1.2.3.jar": "5946d837fe6f960c02a53eda7a6926ecc3c758bbdd69aa453ee429f858217f22", 
         "okhttp-3.7.0.jar": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
         "okio-1.12.0.jar": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae", 
-        "runelite-api-1.3.6.jar": "545d438eb64094616fffb8212086f895832c0fcfbeb5e840e85cbbcd141662c6", 
-        "runescape-api-1.3.6.jar": "c687551967f7e6ed96ddfb3b5a21b0a7ee9d0475de74116a3cffb59cbacd3f68", 
-        "scripts-1.3.6.jar": "cdfa133b02b2d18ba8d66fb2edee4abad87de2c7ad3a85ec0b8a49a5f5e521a3", 
+        "runelite-api-1.3.7.jar": "0eb9e82727b38bd43382726625f259ec2d35089ae8f1fc427508c77b3c1002c8", 
+        "runescape-api-1.3.7.jar": "0185792bc21415ea8438c21bf8065bbdb10e2d43a4592a274bcd70818fb3e706", 
+        "scripts-1.3.7.jar": "e1a89e5ffdf30da295304ac33ffb56477ef5669088a252c27d6a9abe767b8597", 
         "slf4j-api-1.7.12.jar": "0aee9a77a4940d72932b0d0d9557793f872e66a03f598e473f45e7efecdccf99", 
         "substance-8.0.00-dev.jar": "e5f9b551b706df617fb1567207c2e23b413b7ea16c93bb8d326d942ca6912fe6", 
         "trident-1.4.jar": "40513d203ffda4b73ead63f04b542108afa6e263d224ba5ed3f8ab10193f556e"

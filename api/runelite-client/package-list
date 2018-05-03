@@ -11,7 +11,7 @@ net.runelite.client.input
 net.runelite.client.menus
 net.runelite.client.plugins
 net.runelite.client.plugins.account
-net.runelite.client.plugins.agilityplugin
+net.runelite.client.plugins.agility
 net.runelite.client.plugins.animsmoothing
 net.runelite.client.plugins.attackstyles
 net.runelite.client.plugins.banktags
@@ -22,6 +22,7 @@ net.runelite.client.plugins.blastfurnace
 net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
 net.runelite.client.plugins.cannon
+net.runelite.client.plugins.cerberus
 net.runelite.client.plugins.chatcommands
 net.runelite.client.plugins.chathistory
 net.runelite.client.plugins.clanchat
@@ -32,12 +33,14 @@ net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
 net.runelite.client.plugins.dailytaskindicators
 net.runelite.client.plugins.defaultworld
+net.runelite.client.plugins.demonicgorilla
 net.runelite.client.plugins.devtools
 net.runelite.client.plugins.discord
 net.runelite.client.plugins.entityhider
 net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
 net.runelite.client.plugins.fairyring
+net.runelite.client.plugins.farmingtracker
 net.runelite.client.plugins.feed
 net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
