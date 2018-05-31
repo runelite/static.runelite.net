@@ -113,7 +113,6 @@ net.runelite.client.plugins.tithefarm
 net.runelite.client.plugins.usernamesyncer
 net.runelite.client.plugins.woodcutting
 net.runelite.client.plugins.worldmap
-net.runelite.client.plugins.worldmaptest
 net.runelite.client.plugins.xpglobes
 net.runelite.client.plugins.xptracker
 net.runelite.client.plugins.xtea
