@@ -20,12 +20,14 @@ net.runelite.client.plugins.bankvalue
 net.runelite.client.plugins.barbarianassault
 net.runelite.client.plugins.barrows
 net.runelite.client.plugins.blastfurnace
+net.runelite.client.plugins.blastmine
 net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
 net.runelite.client.plugins.cannon
 net.runelite.client.plugins.cerberus
 net.runelite.client.plugins.chatcommands
 net.runelite.client.plugins.chathistory
+net.runelite.client.plugins.chatnotifications
 net.runelite.client.plugins.clanchat
 net.runelite.client.plugins.cluescrolls
 net.runelite.client.plugins.cluescrolls.clues
@@ -33,6 +35,7 @@ net.runelite.client.plugins.cluescrolls.clues.emote
 net.runelite.client.plugins.cluescrolls.clues.hotcold
 net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
+net.runelite.client.plugins.crystalmathlabs
 net.runelite.client.plugins.dailytaskindicators
 net.runelite.client.plugins.deathindicator
 net.runelite.client.plugins.defaultworld
@@ -61,6 +64,7 @@ net.runelite.client.plugins.implings
 net.runelite.client.plugins.info
 net.runelite.client.plugins.instancemap
 net.runelite.client.plugins.interfacestyles
+net.runelite.client.plugins.itemcharges
 net.runelite.client.plugins.itemprices
 net.runelite.client.plugins.itemstats
 net.runelite.client.plugins.itemstats.delta
@@ -68,7 +72,6 @@ net.runelite.client.plugins.itemstats.food
 net.runelite.client.plugins.itemstats.potions
 net.runelite.client.plugins.itemstats.special
 net.runelite.client.plugins.itemstats.stats
-net.runelite.client.plugins.jewellerycount
 net.runelite.client.plugins.kingdomofmiscellania
 net.runelite.client.plugins.kourendlibrary
 net.runelite.client.plugins.lowmemory
