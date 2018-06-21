@@ -80,6 +80,11 @@ net.runelite.client.plugins.metronome
 net.runelite.client.plugins.minimap
 net.runelite.client.plugins.motherlode
 net.runelite.client.plugins.mousehighlight
+net.runelite.client.plugins.mta
+net.runelite.client.plugins.mta.alchemy
+net.runelite.client.plugins.mta.enchantment
+net.runelite.client.plugins.mta.graveyard
+net.runelite.client.plugins.mta.telekinetic
 net.runelite.client.plugins.nightmarezone
 net.runelite.client.plugins.notes
 net.runelite.client.plugins.npchighlight
