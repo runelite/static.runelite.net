@@ -2,6 +2,7 @@ net.runelite.api
 net.runelite.api.annotations
 net.runelite.api.coords
 net.runelite.api.events
+net.runelite.api.hooks
 net.runelite.api.kit
 net.runelite.api.model
 net.runelite.api.overlay
