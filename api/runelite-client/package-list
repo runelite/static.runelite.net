@@ -97,6 +97,7 @@ net.runelite.client.plugins.playerindicators
 net.runelite.client.plugins.poh
 net.runelite.client.plugins.prayer
 net.runelite.client.plugins.puzzlesolver
+net.runelite.client.plugins.puzzlesolver.lightbox
 net.runelite.client.plugins.puzzlesolver.solver
 net.runelite.client.plugins.puzzlesolver.solver.heuristics
 net.runelite.client.plugins.puzzlesolver.solver.pathfinding
