@@ -120,6 +120,7 @@ net.runelite.client.plugins.slayer
 net.runelite.client.plugins.specialcounter
 net.runelite.client.plugins.stretchedfixedmode
 net.runelite.client.plugins.teamcapes
+net.runelite.client.plugins.tearsofguthix
 net.runelite.client.plugins.tileindicators
 net.runelite.client.plugins.timers
 net.runelite.client.plugins.tithefarm
