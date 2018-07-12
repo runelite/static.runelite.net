@@ -1,10 +1,10 @@
 {
     "artifacts": [
         {
-            "hash": "87b882937c27eb0d2ed86b54670b9b9a516f51b3078c535edff755e1b417b00f", 
-            "name": "client-1.4.6.jar", 
-            "path": "http://repo.runelite.net/net/runelite/client/1.4.6/client-1.4.6.jar", 
-            "size": 2660924
+            "hash": "9453bbc5c362b76d86948962a59eaab131c1df040fd57eb57649508aa7e8c50e", 
+            "name": "client-1.4.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/client/1.4.7/client-1.4.7.jar", 
+            "size": 2681565
         }, 
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79", 
@@ -109,34 +109,34 @@
             "size": 499634
         }, 
         {
-            "hash": "1729c5b9eb2a1d58cf422eb1bd83728fe549c71281da7577d5a55e3d252a9535", 
-            "name": "runelite-api-1.4.6.jar", 
-            "path": "http://repo.runelite.net/net/runelite/runelite-api/1.4.6/runelite-api-1.4.6.jar", 
-            "size": 813475
+            "hash": "88d1dcaed138d5b2f08b13f067cfbfc267e8d72bcfb05371656b3d120efc3ef5", 
+            "name": "runelite-api-1.4.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/runelite-api/1.4.7/runelite-api-1.4.7.jar", 
+            "size": 813512
         }, 
         {
-            "hash": "5451f7689f02d1ead296b70911584c9f3c00e935e61057c078de52dcc8bb2793", 
-            "name": "runescape-api-1.4.6.jar", 
-            "path": "http://repo.runelite.net/net/runelite/rs/runescape-api/1.4.6/runescape-api-1.4.6.jar", 
-            "size": 47442
+            "hash": "7ba7a5785841ba39e08553bbf411dad5b38e2c452af22dd564c4cddaf6938e48", 
+            "name": "runescape-api-1.4.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/rs/runescape-api/1.4.7/runescape-api-1.4.7.jar", 
+            "size": 47463
         }, 
         {
-            "hash": "86a6c5288517d0e8d6e2989c47b0db112f157e8a31ba4b6f77bb8e14e7937067", 
-            "name": "injected-client-1.4.6.jar", 
-            "path": "http://repo.runelite.net/net/runelite/injected-client/1.4.6/injected-client-1.4.6.jar", 
-            "size": 2240028
+            "hash": "17fe1bd878fcf8957dbf30d0581ff63650ed76790095aee289a55a4f69e7b7fb", 
+            "name": "injected-client-1.4.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/injected-client/1.4.7/injected-client-1.4.7.jar", 
+            "size": 2240055
         }, 
         {
-            "hash": "39575009e62f34bb2384329f9296460eaf33f54bea9afcc34c392783e0e823da", 
-            "name": "scripts-1.4.6.jar", 
-            "path": "http://repo.runelite.net/net/runelite/scripts/1.4.6/scripts-1.4.6.jar", 
-            "size": 8195
+            "hash": "7de27419a7e35a790aa8fb36cbc121d942ed3e72f61ab323ecba0b91052aac44", 
+            "name": "scripts-1.4.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/scripts/1.4.7/scripts-1.4.7.jar", 
+            "size": 8633
         }, 
         {
-            "hash": "656758ad365a9c6ba821627ee619f4b9866116fb9b39b0e28b674366d9a4908d", 
-            "name": "http-api-1.4.6.jar", 
-            "path": "http://repo.runelite.net/net/runelite/http-api/1.4.6/http-api-1.4.6.jar", 
-            "size": 77267
+            "hash": "10944fb0be82fbcd06693e340b6789c4696f8eea495243fcc49baca4a621c07c", 
+            "name": "http-api-1.4.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/http-api/1.4.7/http-api-1.4.7.jar", 
+            "size": 79097
         }, 
         {
             "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
@@ -169,7 +169,7 @@
         "extension": "jar", 
         "groupId": "net.runelite", 
         "properties": {}, 
-        "version": "1.4.6"
+        "version": "1.4.7"
     }, 
     "clientJvm9Arguments": [
         "-Xmx512m", 
@@ -189,7 +189,7 @@
     "dependencyHashes": {
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
-        "client-1.4.6.jar": "87b882937c27eb0d2ed86b54670b9b9a516f51b3078c535edff755e1b417b00f", 
+        "client-1.4.7.jar": "9453bbc5c362b76d86948962a59eaab131c1df040fd57eb57649508aa7e8c50e", 
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847", 
         "commons-text-1.2.jar": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b", 
         "discord-1.0.jar": "5a5612ce7afb947783ec40fbf6280d9d5f3667f8013278a7820a2e5ff02fa6a0", 
@@ -197,8 +197,8 @@
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81", 
         "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564", 
         "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad", 
-        "http-api-1.4.6.jar": "656758ad365a9c6ba821627ee619f4b9866116fb9b39b0e28b674366d9a4908d", 
-        "injected-client-1.4.6.jar": "86a6c5288517d0e8d6e2989c47b0db112f157e8a31ba4b6f77bb8e14e7937067", 
+        "http-api-1.4.7.jar": "10944fb0be82fbcd06693e340b6789c4696f8eea495243fcc49baca4a621c07c", 
+        "injected-client-1.4.7.jar": "17fe1bd878fcf8957dbf30d0581ff63650ed76790095aee289a55a4f69e7b7fb", 
         "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6", 
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff", 
         "jna-4.5.1.jar": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b", 
@@ -208,9 +208,9 @@
         "logback-core-1.2.3.jar": "5946d837fe6f960c02a53eda7a6926ecc3c758bbdd69aa453ee429f858217f22", 
         "okhttp-3.7.0.jar": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
         "okio-1.12.0.jar": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae", 
-        "runelite-api-1.4.6.jar": "1729c5b9eb2a1d58cf422eb1bd83728fe549c71281da7577d5a55e3d252a9535", 
-        "runescape-api-1.4.6.jar": "5451f7689f02d1ead296b70911584c9f3c00e935e61057c078de52dcc8bb2793", 
-        "scripts-1.4.6.jar": "39575009e62f34bb2384329f9296460eaf33f54bea9afcc34c392783e0e823da", 
+        "runelite-api-1.4.7.jar": "88d1dcaed138d5b2f08b13f067cfbfc267e8d72bcfb05371656b3d120efc3ef5", 
+        "runescape-api-1.4.7.jar": "7ba7a5785841ba39e08553bbf411dad5b38e2c452af22dd564c4cddaf6938e48", 
+        "scripts-1.4.7.jar": "7de27419a7e35a790aa8fb36cbc121d942ed3e72f61ab323ecba0b91052aac44", 
         "slf4j-api-1.7.25.jar": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79", 
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83", 
         "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
