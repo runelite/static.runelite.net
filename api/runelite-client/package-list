@@ -49,7 +49,6 @@ net.runelite.client.plugins.entityhider
 net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
 net.runelite.client.plugins.fairyring
-net.runelite.client.plugins.farmingtracker
 net.runelite.client.plugins.feed
 net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
@@ -126,6 +125,10 @@ net.runelite.client.plugins.teamcapes
 net.runelite.client.plugins.tearsofguthix
 net.runelite.client.plugins.tileindicators
 net.runelite.client.plugins.timers
+net.runelite.client.plugins.timetracking
+net.runelite.client.plugins.timetracking.clocks
+net.runelite.client.plugins.timetracking.farming
+net.runelite.client.plugins.timetracking.hunter
 net.runelite.client.plugins.tithefarm
 net.runelite.client.plugins.usernamesyncer
 net.runelite.client.plugins.woodcutting
