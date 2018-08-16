@@ -131,7 +131,9 @@ net.runelite.client.plugins.timetracking.farming
 net.runelite.client.plugins.timetracking.hunter
 net.runelite.client.plugins.tithefarm
 net.runelite.client.plugins.usernamesyncer
+net.runelite.client.plugins.wasdcamera
 net.runelite.client.plugins.woodcutting
+net.runelite.client.plugins.worldhopper
 net.runelite.client.plugins.worldmap
 net.runelite.client.plugins.xpglobes
 net.runelite.client.plugins.xptracker
