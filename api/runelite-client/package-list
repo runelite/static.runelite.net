@@ -53,6 +53,7 @@ net.runelite.client.plugins.feed
 net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
 net.runelite.client.plugins.fps
+net.runelite.client.plugins.friendlist
 net.runelite.client.plugins.friendnotes
 net.runelite.client.plugins.grandexchange
 net.runelite.client.plugins.grounditems
@@ -110,6 +111,7 @@ net.runelite.client.plugins.reorderprayers
 net.runelite.client.plugins.reportbutton
 net.runelite.client.plugins.roguesden
 net.runelite.client.plugins.runecraft
+net.runelite.client.plugins.runenergy
 net.runelite.client.plugins.runepouch
 net.runelite.client.plugins.runepouch.config
 net.runelite.client.plugins.screenmarkers
