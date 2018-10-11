@@ -18,6 +18,7 @@ net.runelite.client.plugins.animsmoothing
 net.runelite.client.plugins.antidrag
 net.runelite.client.plugins.attackstyles
 net.runelite.client.plugins.banktags
+net.runelite.client.plugins.banktags.tabs
 net.runelite.client.plugins.bankvalue
 net.runelite.client.plugins.barbarianassault
 net.runelite.client.plugins.barrows
