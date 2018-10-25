@@ -7,6 +7,7 @@ net.runelite.client.discord
 net.runelite.client.discord.events
 net.runelite.client.events
 net.runelite.client.game
+net.runelite.client.game.chatbox
 net.runelite.client.input
 net.runelite.client.menus
 net.runelite.client.plugins
@@ -133,6 +134,8 @@ net.runelite.client.plugins.timetracking.clocks
 net.runelite.client.plugins.timetracking.farming
 net.runelite.client.plugins.timetracking.hunter
 net.runelite.client.plugins.tithefarm
+net.runelite.client.plugins.twitch
+net.runelite.client.plugins.twitch.irc
 net.runelite.client.plugins.usernamesyncer
 net.runelite.client.plugins.virtuallevels
 net.runelite.client.plugins.wasdcamera
