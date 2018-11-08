@@ -1,10 +1,10 @@
 {
     "artifacts": [
         {
-            "hash": "23fedd6b0bff8c3027a0a567eebc7f29ef123eb8805c11820ad6b18f68fa6072", 
-            "name": "client-1.4.24.jar", 
-            "path": "http://repo.runelite.net/net/runelite/client/1.4.24/client-1.4.24.jar", 
-            "size": 2667492
+            "hash": "2893c869c112d62580e595dfae108161b7863b592eb415d326ce66d5df13e335", 
+            "name": "client-1.4.25.jar", 
+            "path": "http://repo.runelite.net/net/runelite/client/1.4.25/client-1.4.25.jar", 
+            "size": 2691697
         }, 
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79", 
@@ -109,28 +109,28 @@
             "size": 499634
         }, 
         {
-            "hash": "d9ce02226e701aaa8769a4aadc335379bd35a098725e5e0940e939e5db27205f", 
-            "name": "runelite-api-1.4.24.jar", 
-            "path": "http://repo.runelite.net/net/runelite/runelite-api/1.4.24/runelite-api-1.4.24.jar", 
-            "size": 848373
+            "hash": "e56ea97a570510dd3d112481ee4b46f99dd7ae0112b0791cc9ecc2495720d6f9", 
+            "name": "runelite-api-1.4.25.jar", 
+            "path": "http://repo.runelite.net/net/runelite/runelite-api/1.4.25/runelite-api-1.4.25.jar", 
+            "size": 849779
         }, 
         {
-            "hash": "24e7c8c3cbd951f3f885d587dcba45a98350ad2dc50995466d12bff9220a77f3", 
-            "name": "runescape-api-1.4.24.jar", 
-            "path": "http://repo.runelite.net/net/runelite/rs/runescape-api/1.4.24/runescape-api-1.4.24.jar", 
-            "size": 49966
+            "hash": "04af8562e38eb698f1a3b51ff7db7b995e08aecaf0ee417788391abdc8e19ba7", 
+            "name": "runescape-api-1.4.25.jar", 
+            "path": "http://repo.runelite.net/net/runelite/rs/runescape-api/1.4.25/runescape-api-1.4.25.jar", 
+            "size": 50045
         }, 
         {
-            "hash": "6e825e30958ea3486866e6fd70b5aec782be5fdce532605c40a5a086bb984046", 
-            "name": "injected-client-1.4.24.jar", 
-            "path": "http://repo.runelite.net/net/runelite/injected-client/1.4.24/injected-client-1.4.24.jar", 
-            "size": 2194085
+            "hash": "e22e2b49b832fc5692a7e9b815db51a1cdf1ea452426bd9c41d00ca902b81faf", 
+            "name": "injected-client-1.4.25.jar", 
+            "path": "http://repo.runelite.net/net/runelite/injected-client/1.4.25/injected-client-1.4.25.jar", 
+            "size": 2193574
         }, 
         {
-            "hash": "b44ad469f25a7390efdc31ab6b038e191461582b2a3e9b0be169207051c00820", 
-            "name": "http-api-1.4.24.jar", 
-            "path": "http://repo.runelite.net/net/runelite/http-api/1.4.24/http-api-1.4.24.jar", 
-            "size": 82872
+            "hash": "5e8db4d5f1f37f19cc922fa7044553c8c5ee586bcc9a21b51fa61682a22f84be", 
+            "name": "http-api-1.4.25.jar", 
+            "path": "http://repo.runelite.net/net/runelite/http-api/1.4.25/http-api-1.4.25.jar", 
+            "size": 82873
         }, 
         {
             "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
@@ -169,7 +169,7 @@
         "extension": "jar", 
         "groupId": "net.runelite", 
         "properties": {}, 
-        "version": "1.4.24"
+        "version": "1.4.25"
     }, 
     "clientJvm9Arguments": [
         "-Xmx512m", 
@@ -189,7 +189,7 @@
     "dependencyHashes": {
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
-        "client-1.4.24.jar": "23fedd6b0bff8c3027a0a567eebc7f29ef123eb8805c11820ad6b18f68fa6072", 
+        "client-1.4.25.jar": "2893c869c112d62580e595dfae108161b7863b592eb415d326ce66d5df13e335", 
         "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008", 
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847", 
         "commons-text-1.2.jar": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b", 
@@ -198,8 +198,8 @@
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81", 
         "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564", 
         "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad", 
-        "http-api-1.4.24.jar": "b44ad469f25a7390efdc31ab6b038e191461582b2a3e9b0be169207051c00820", 
-        "injected-client-1.4.24.jar": "6e825e30958ea3486866e6fd70b5aec782be5fdce532605c40a5a086bb984046", 
+        "http-api-1.4.25.jar": "5e8db4d5f1f37f19cc922fa7044553c8c5ee586bcc9a21b51fa61682a22f84be", 
+        "injected-client-1.4.25.jar": "e22e2b49b832fc5692a7e9b815db51a1cdf1ea452426bd9c41d00ca902b81faf", 
         "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6", 
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff", 
         "jna-4.5.1.jar": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b", 
@@ -209,8 +209,8 @@
         "logback-core-1.2.3.jar": "5946d837fe6f960c02a53eda7a6926ecc3c758bbdd69aa453ee429f858217f22", 
         "okhttp-3.7.0.jar": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
         "okio-1.12.0.jar": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae", 
-        "runelite-api-1.4.24.jar": "d9ce02226e701aaa8769a4aadc335379bd35a098725e5e0940e939e5db27205f", 
-        "runescape-api-1.4.24.jar": "24e7c8c3cbd951f3f885d587dcba45a98350ad2dc50995466d12bff9220a77f3", 
+        "runelite-api-1.4.25.jar": "e56ea97a570510dd3d112481ee4b46f99dd7ae0112b0791cc9ecc2495720d6f9", 
+        "runescape-api-1.4.25.jar": "04af8562e38eb698f1a3b51ff7db7b995e08aecaf0ee417788391abdc8e19ba7", 
         "slf4j-api-1.7.25.jar": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79", 
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83", 
         "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
