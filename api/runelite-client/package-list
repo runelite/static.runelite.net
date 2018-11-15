@@ -124,6 +124,7 @@ net.runelite.client.plugins.skillcalculator
 net.runelite.client.plugins.skillcalculator.beans
 net.runelite.client.plugins.slayer
 net.runelite.client.plugins.specialcounter
+net.runelite.client.plugins.statusbars
 net.runelite.client.plugins.stretchedmode
 net.runelite.client.plugins.teamcapes
 net.runelite.client.plugins.tearsofguthix
