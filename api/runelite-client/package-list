@@ -29,6 +29,7 @@ net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
 net.runelite.client.plugins.cannon
 net.runelite.client.plugins.cerberus
+net.runelite.client.plugins.chatboxperformance
 net.runelite.client.plugins.chatcommands
 net.runelite.client.plugins.chathistory
 net.runelite.client.plugins.chatnotifications
@@ -57,6 +58,8 @@ net.runelite.client.plugins.fishing
 net.runelite.client.plugins.fps
 net.runelite.client.plugins.friendlist
 net.runelite.client.plugins.friendnotes
+net.runelite.client.plugins.gpu
+net.runelite.client.plugins.gpu.template
 net.runelite.client.plugins.grandexchange
 net.runelite.client.plugins.grounditems
 net.runelite.client.plugins.grounditems.config
