@@ -84,6 +84,7 @@ net.runelite.client.plugins.itemstats.special
 net.runelite.client.plugins.itemstats.stats
 net.runelite.client.plugins.kingdomofmiscellania
 net.runelite.client.plugins.kourendlibrary
+net.runelite.client.plugins.loginscreen
 net.runelite.client.plugins.loottracker
 net.runelite.client.plugins.lowmemory
 net.runelite.client.plugins.menuentryswapper
@@ -140,7 +141,6 @@ net.runelite.client.plugins.timetracking.hunter
 net.runelite.client.plugins.tithefarm
 net.runelite.client.plugins.twitch
 net.runelite.client.plugins.twitch.irc
-net.runelite.client.plugins.usernamesyncer
 net.runelite.client.plugins.virtuallevels
 net.runelite.client.plugins.wasdcamera
 net.runelite.client.plugins.wintertodt
