@@ -5,6 +5,7 @@ net.runelite.client.chat
 net.runelite.client.config
 net.runelite.client.discord
 net.runelite.client.discord.events
+net.runelite.client.eventbus
 net.runelite.client.events
 net.runelite.client.game
 net.runelite.client.game.chatbox
@@ -53,12 +54,12 @@ net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
 net.runelite.client.plugins.fairyring
 net.runelite.client.plugins.feed
-net.runelite.client.plugins.fightcave
 net.runelite.client.plugins.fishing
 net.runelite.client.plugins.fps
 net.runelite.client.plugins.friendlist
 net.runelite.client.plugins.friendnotes
 net.runelite.client.plugins.gpu
+net.runelite.client.plugins.gpu.config
 net.runelite.client.plugins.gpu.template
 net.runelite.client.plugins.grandexchange
 net.runelite.client.plugins.grounditems
