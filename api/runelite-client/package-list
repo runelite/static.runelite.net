@@ -102,6 +102,7 @@ net.runelite.client.plugins.mta.telekinetic
 net.runelite.client.plugins.nightmarezone
 net.runelite.client.plugins.notes
 net.runelite.client.plugins.npchighlight
+net.runelite.client.plugins.objectindicators
 net.runelite.client.plugins.opponentinfo
 net.runelite.client.plugins.pestcontrol
 net.runelite.client.plugins.playerindicators
