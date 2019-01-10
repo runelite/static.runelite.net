@@ -129,6 +129,7 @@ net.runelite.client.plugins.screenshot
 net.runelite.client.plugins.screenshot.imgur
 net.runelite.client.plugins.skillcalculator
 net.runelite.client.plugins.skillcalculator.beans
+net.runelite.client.plugins.skybox
 net.runelite.client.plugins.slayer
 net.runelite.client.plugins.specialcounter
 net.runelite.client.plugins.statusbars
