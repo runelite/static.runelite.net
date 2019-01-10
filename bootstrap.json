@@ -1,10 +1,10 @@
 {
     "artifacts": [
         {
-            "hash": "99dbb6e80a77ad973c79ff55c563a1f9d57f7eb163bcd503115a7d1061cb6393", 
-            "name": "client-1.5.6.1.jar", 
-            "path": "http://repo.runelite.net/net/runelite/client/1.5.6.1/client-1.5.6.1.jar", 
-            "size": 2850694
+            "hash": "2a26ea66ec3a8edc4507490d5e6c96ea1b4311ffee5da1d5325362cf15e225f3", 
+            "name": "client-1.5.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/client/1.5.7/client-1.5.7.jar", 
+            "size": 2892172
         }, 
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79", 
@@ -193,28 +193,28 @@
             "size": 2327547
         }, 
         {
-            "hash": "ab6824364482193a5155f80171c89a28d2460aa396633e43d91ecb8843640238", 
-            "name": "runelite-api-1.5.6.1.jar", 
-            "path": "http://repo.runelite.net/net/runelite/runelite-api/1.5.6.1/runelite-api-1.5.6.1.jar", 
-            "size": 857991
+            "hash": "3e46041e882138dfb1d9cadcc497bfc6547df545c1512abe2e2ecb4e6882ecd7", 
+            "name": "runelite-api-1.5.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/runelite-api/1.5.7/runelite-api-1.5.7.jar", 
+            "size": 884166
         }, 
         {
-            "hash": "31559b1730c64e7a10849bedd6c6f7c7fce29ad571a601855d3b4e00d77c590f", 
-            "name": "runescape-api-1.5.6.1.jar", 
-            "path": "http://repo.runelite.net/net/runelite/rs/runescape-api/1.5.6.1/runescape-api-1.5.6.1.jar", 
-            "size": 54770
+            "hash": "0cf6147b4d8b95cbddb381d1c53d50710a922edb35a6d3a6b9361e74ef1fd51b", 
+            "name": "runescape-api-1.5.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/rs/runescape-api/1.5.7/runescape-api-1.5.7.jar", 
+            "size": 54841
         }, 
         {
-            "hash": "d097c8c6634f30d9a7593b6c62227dce7abae521253881089d0673f88a506ef6", 
-            "name": "client-patch-1.5.6.1.jar", 
-            "path": "http://repo.runelite.net/net/runelite/client-patch/1.5.6.1/client-patch-1.5.6.1.jar", 
-            "size": 403932
+            "hash": "1e8e920554abab1ceee9787e601c93379c8c798bb1a97598c6644bb57180ecfb", 
+            "name": "client-patch-1.5.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/client-patch/1.5.7/client-patch-1.5.7.jar", 
+            "size": 404731
         }, 
         {
-            "hash": "ea66cfaa66973f49b630ff620e585813b86b6ce79043ed9bc9d16c14fc65ad02", 
-            "name": "http-api-1.5.6.1.jar", 
-            "path": "http://repo.runelite.net/net/runelite/http-api/1.5.6.1/http-api-1.5.6.1.jar", 
-            "size": 93484
+            "hash": "2bef685f5a40181f378965ec8b10eaa6064a668872b01d8750aae5d70b2e1db9", 
+            "name": "http-api-1.5.7.jar", 
+            "path": "http://repo.runelite.net/net/runelite/http-api/1.5.7/http-api-1.5.7.jar", 
+            "size": 93899
         }, 
         {
             "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
@@ -247,7 +247,7 @@
         "extension": "jar", 
         "groupId": "net.runelite", 
         "properties": {}, 
-        "version": "1.5.6.1"
+        "version": "1.5.7"
     }, 
     "clientJvm9Arguments": [
         "-Xmx512m", 
@@ -267,8 +267,8 @@
     "dependencyHashes": {
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
-        "client-1.5.6.1.jar": "99dbb6e80a77ad973c79ff55c563a1f9d57f7eb163bcd503115a7d1061cb6393", 
-        "client-patch-1.5.6.1.jar": "d097c8c6634f30d9a7593b6c62227dce7abae521253881089d0673f88a506ef6", 
+        "client-1.5.7.jar": "2a26ea66ec3a8edc4507490d5e6c96ea1b4311ffee5da1d5325362cf15e225f3", 
+        "client-patch-1.5.7.jar": "1e8e920554abab1ceee9787e601c93379c8c798bb1a97598c6644bb57180ecfb", 
         "commons-compress-1.5.jar": "55bbfe26cee9296fd5b7c0d47ce6a00ea4dd572e235b63e9bb4eaf6f802315e4", 
         "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008", 
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847", 
@@ -283,7 +283,7 @@
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81", 
         "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564", 
         "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad", 
-        "http-api-1.5.6.1.jar": "ea66cfaa66973f49b630ff620e585813b86b6ce79043ed9bc9d16c14fc65ad02", 
+        "http-api-1.5.7.jar": "2bef685f5a40181f378965ec8b10eaa6064a668872b01d8750aae5d70b2e1db9", 
         "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6", 
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff", 
         "jbsdiff-1.0.jar": "7b7ae00e2aa98c3b2b5ac76e793e2c9b752bf51c86c54654dbd473843a25f1aa", 
@@ -300,8 +300,8 @@
         "logback-core-1.2.3.jar": "5946d837fe6f960c02a53eda7a6926ecc3c758bbdd69aa453ee429f858217f22", 
         "okhttp-3.7.0.jar": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
         "okio-1.12.0.jar": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae", 
-        "runelite-api-1.5.6.1.jar": "ab6824364482193a5155f80171c89a28d2460aa396633e43d91ecb8843640238", 
-        "runescape-api-1.5.6.1.jar": "31559b1730c64e7a10849bedd6c6f7c7fce29ad571a601855d3b4e00d77c590f", 
+        "runelite-api-1.5.7.jar": "3e46041e882138dfb1d9cadcc497bfc6547df545c1512abe2e2ecb4e6882ecd7", 
+        "runescape-api-1.5.7.jar": "0cf6147b4d8b95cbddb381d1c53d50710a922edb35a6d3a6b9361e74ef1fd51b", 
         "slf4j-api-1.7.25.jar": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79", 
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83", 
         "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
