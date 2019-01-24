@@ -3,7 +3,8 @@
     "quest": true
   },
   "Toolkit": {
-    "quest": true
+    "quest": true,
+    "weight": 0.453
   },
   "Nulodion's notes": {
     "quest": true,
@@ -53,7 +54,7 @@
   },
   "Holy grail": {
     "quest": true,
-    "weight": 4.0
+    "weight": 0.085
   },
   "White cog": {
     "quest": true,
@@ -94,12 +95,13 @@
     "weight": 2.5
   },
   "Lit black candle": {
-    "quest": true
+    "quest": true,
+    "weight": 0.028
   },
   "Excalibur": {
     "quest": true,
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 20,
@@ -113,7 +115,8 @@
     }
   },
   "Black candle": {
-    "quest": true
+    "quest": true,
+    "weight": 0.028
   },
   "Longbow (u)": {
     "weight": 1.332
@@ -257,6 +260,12 @@
   "Torstol potion (unf)": {
     "weight": 0.056
   },
+  "Weapon poison": {
+    "weight": 0.025
+  },
+  "Potion": {
+    "weight": 0.025
+  },
   "Poison chalice": {
     "weight": 0.056
   },
@@ -298,6 +307,12 @@
   },
   "Limpwurt root": {
     "weight": 0.007
+  },
+  "Vial of water": {
+    "weight": 0.02
+  },
+  "Vial": {
+    "weight": 0.015
   },
   "Snape grass": {
     "weight": 0.007
@@ -470,7 +485,7 @@
     "weight": 0.255
   },
   "Small fishing net": {
-    "weight": 4.5
+    "weight": 4.535
   },
   "Big fishing net": {
     "weight": 8.1
@@ -491,7 +506,7 @@
     "weight": 0.1
   },
   "Raw shrimps": {
-    "weight": 0.5
+    "weight": 0.12
   },
   "Anchovies": {
     "weight": 0.1
@@ -530,6 +545,9 @@
   },
   "Raw cod": {
     "weight": 0.45
+  },
+  "Raw herring": {
+    "weight": 0.55
   },
   "Herring": {
     "weight": 0.5
@@ -574,7 +592,7 @@
     "weight": 0.7
   },
   "Shark": {
-    "weight": 0.6
+    "weight": 0.65
   },
   "Raw manta ray": {
     "weight": 0.45
@@ -649,7 +667,8 @@
     }
   },
   "Karamjan rum": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Pirate message": {
     "quest": true,
@@ -730,10 +749,6 @@
       "slot": 3
     }
   },
-  "Broken axe": {
-    "equipable": true,
-    "weight": 2.5
-  },
   "Enchanted beef": {
     "quest": true,
     "weight": 0.5
@@ -745,6 +760,10 @@
   "Enchanted bear": {
     "quest": true,
     "weight": 0.5
+  },
+  "Enchanted chicken": {
+    "quest": true,
+    "weight": 0.3
   },
   "Bones": {
     "weight": 0.5
@@ -806,7 +825,7 @@
   },
   "Shade robe": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.907,
     "equipment": {
       "slot": 7,
       "prayer": 4
@@ -817,6 +836,7 @@
   },
   "Ghostspeak amulet": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 2
     }
@@ -866,8 +886,13 @@
       "dmagic": 3
     }
   },
-  "Bailing bucket": {
+  "Orb of protection": {
+    "quest": true,
     "weight": 1.0
+  },
+  "Orbs of protection": {
+    "quest": true,
+    "weight": 2.0
   },
   "Gnome amulet": {
     "quest": true,
@@ -879,6 +904,9 @@
       "dslash": 13,
       "dcrush": 13
     }
+  },
+  "Tinderbox": {
+    "weight": 0.035
   },
   "Ashes": {
     "weight": 0.056
@@ -966,6 +994,9 @@
   "Bone beads": {
     "quest": true,
     "weight": 0.001
+  },
+  "Paramaya ticket": {
+    "weight": 0.004
   },
   "Ship ticket": {
     "weight": 0.004
@@ -1137,7 +1168,7 @@
   },
   "Blue hat": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 0,
       "amagic": 3,
@@ -1250,7 +1281,8 @@
     "weight": 1.814
   },
   "Broken glass": {
-    "quest": true
+    "quest": true,
+    "weight": 0.056
   },
   "Level 1 certificate": {
     "quest": true,
@@ -1291,11 +1323,11 @@
   },
   "Unidentified liquid": {
     "quest": true,
-    "weight": 1.0
+    "weight": 0.025
   },
   "Nitroglycerin": {
     "quest": true,
-    "weight": 1.0
+    "weight": 0.025
   },
   "Ground charcoal": {
     "quest": true,
@@ -1313,7 +1345,8 @@
     "weight": 0.01
   },
   "Vase": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Book on chemicals": {
     "quest": true,
@@ -1323,14 +1356,16 @@
     "weight": 0.1
   },
   "Radimus notes": {
-    "quest": true
+    "quest": true,
+    "weight": 0.02
   },
   "Bull roarer": {
     "quest": true,
     "weight": 0.02
   },
   "Scrawled note": {
-    "quest": true
+    "quest": true,
+    "weight": 0.02
   },
   "A scribbled note": {
     "quest": true,
@@ -1357,7 +1392,8 @@
     "weight": 1.0
   },
   "Hollow reed": {
-    "quest": true
+    "quest": true,
+    "weight": 0.012
   },
   "Shamans tome": {
     "quest": true,
@@ -1410,7 +1446,8 @@
     "weight": 0.05
   },
   "Heart crystal": {
-    "quest": true
+    "quest": true,
+    "weight": 0.15
   },
   "Dark dagger": {
     "quest": true,
@@ -1475,7 +1512,7 @@
   },
   "Broken shield": {
     "quest": true,
-    "weight": 2.7
+    "weight": 2.721
   },
   "Coal bag": {
     "weight": 10.0
@@ -1483,7 +1520,7 @@
   "Phoenix crossbow": {
     "quest": true,
     "equipable": true,
-    "weight": 3.6,
+    "weight": 3.628,
     "equipment": {
       "slot": 3,
       "arange": 6,
@@ -1589,8 +1626,7 @@
     }
   },
   "Crest part": {
-    "quest": true,
-    "weight": 1.36
+    "quest": true
   },
   "Bark sample": {
     "quest": true,
@@ -1617,7 +1653,8 @@
     "weight": 0.01
   },
   "Twigs": {
-    "quest": true
+    "quest": true,
+    "weight": 0.02
   },
   "Daconia rock": {
     "quest": true,
@@ -1950,7 +1987,7 @@
   },
   "Maple shortbow": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.36,
     "equipment": {
       "slot": 3,
       "arange": 29,
@@ -1968,7 +2005,7 @@
   },
   "Yew shortbow": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.36,
     "equipment": {
       "slot": 3,
       "arange": 47,
@@ -1986,11 +2023,20 @@
   },
   "Magic shortbow": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.36,
     "equipment": {
       "slot": 3,
       "arange": 69,
       "aspeed": 4
+    }
+  },
+  "Iron knife": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 5,
+      "rstr": 4,
+      "aspeed": 3
     }
   },
   "Bronze knife": {
@@ -2053,6 +2099,15 @@
       "slot": 3,
       "arange": 4,
       "rstr": 3,
+      "aspeed": 3
+    }
+  },
+  "Iron knife(p)": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 5,
+      "rstr": 4,
       "aspeed": 3
     }
   },
@@ -2220,6 +2275,9 @@
       "rstr": 49
     }
   },
+  "Knife": {
+    "weight": 0.453
+  },
   "Bear fur": {
     "weight": 3.0
   },
@@ -2230,7 +2288,7 @@
     "weight": 1.814
   },
   "Rope": {
-    "weight": 1.3
+    "weight": 1.36
   },
   "Flier": {
     "weight": 0.015
@@ -2243,6 +2301,12 @@
   },
   "Christmas cracker": {
     "weight": 0.2
+  },
+  "Tile": {
+    "weight": 0.07
+  },
+  "Papyrus": {
+    "weight": 0.02
   },
   "Charcoal": {
     "weight": 0.005
@@ -2278,7 +2342,7 @@
   },
   "White apron": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 4
     }
@@ -2419,6 +2483,7 @@
   },
   "Bunny ears": {
     "equipable": true,
+    "weight": 0.226,
     "equipment": {
       "slot": 0
     }
@@ -2439,6 +2504,7 @@
   },
   "Blue partyhat": {
     "equipable": true,
+    "weight": 0.056,
     "equipment": {
       "slot": 0
     }
@@ -2473,7 +2539,7 @@
   },
   "Cape of legends": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 1.814,
     "equipment": {
       "slot": 1,
       "dstab": 7,
@@ -2514,7 +2580,7 @@
   },
   "Leather boots": {
     "equipable": true,
-    "weight": 0.3,
+    "weight": 0.34,
     "equipment": {
       "slot": 10,
       "dslash": 1,
@@ -2589,7 +2655,7 @@
   },
   "Adamant platelegs": {
     "equipable": true,
-    "weight": 10.0,
+    "weight": 10.432,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -2603,7 +2669,17 @@
   },
   "Bronze platelegs": {
     "equipable": true,
-    "weight": 9.071
+    "weight": 9.071,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 8,
+      "dslash": 7,
+      "dcrush": 6,
+      "dmagic": -4,
+      "drange": 7
+    }
   },
   "Black platelegs": {
     "equipable": true,
@@ -2621,7 +2697,7 @@
   },
   "Rune platelegs": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -2919,7 +2995,7 @@
   },
   "Adamant platebody": {
     "equipable": true,
-    "weight": 11.0,
+    "weight": 11.339,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -2947,7 +3023,7 @@
   },
   "Rune platebody": {
     "equipable": true,
-    "weight": 9.9,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -2989,7 +3065,17 @@
   },
   "Studded body": {
     "equipable": true,
-    "weight": 5.443
+    "weight": 5.443,
+    "equipment": {
+      "slot": 4,
+      "amagic": -4,
+      "arange": 8,
+      "dstab": 18,
+      "dslash": 25,
+      "dcrush": 22,
+      "dmagic": 8,
+      "drange": 25
+    }
   },
   "Green d'hide body": {
     "equipable": true,
@@ -3063,7 +3149,7 @@
   },
   "Adamant med helm": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -3091,7 +3177,7 @@
   },
   "Dragon med helm": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.36,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -3175,7 +3261,7 @@
   },
   "Adamant full helm": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -3215,9 +3301,22 @@
       "drange": 12
     }
   },
+  "Leather cowl": {
+    "equipable": true,
+    "weight": 0.907,
+    "equipment": {
+      "slot": 0,
+      "arange": 1,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 4,
+      "dmagic": 2,
+      "drange": 3
+    }
+  },
   "Coif": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.907,
     "equipment": {
       "slot": 0,
       "amagic": -1,
@@ -3231,7 +3330,7 @@
   },
   "Wooden shield": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 5,
       "dstab": 4,
@@ -3376,7 +3475,7 @@
   },
   "Steel kiteshield": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -3418,7 +3517,7 @@
   },
   "Adamant kiteshield": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.896,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -3432,7 +3531,7 @@
   },
   "Rune kiteshield": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -3446,7 +3545,7 @@
   },
   "Iron dagger": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -3460,7 +3559,7 @@
   },
   "Bronze dagger": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 4,
@@ -3473,12 +3572,11 @@
     }
   },
   "Steel dagger": {
-    "equipable": true,
-    "weight": 0.4
+    "equipable": true
   },
   "Mithril dagger": {
     "equipable": true,
-    "weight": 0.3,
+    "weight": 0.396,
     "equipment": {
       "slot": 3,
       "astab": 11,
@@ -3492,7 +3590,6 @@
   },
   "Adamant dagger": {
     "equipable": true,
-    "weight": 0.5,
     "equipment": {
       "slot": 3,
       "astab": 15,
@@ -3506,7 +3603,7 @@
   },
   "Rune dagger": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 25,
@@ -3520,7 +3617,7 @@
   },
   "Dragon dagger": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -3534,7 +3631,7 @@
   },
   "Black dagger": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -3548,7 +3645,7 @@
   },
   "Iron dagger(p)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -3562,7 +3659,7 @@
   },
   "Bronze dagger(p)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 4,
@@ -3575,12 +3672,11 @@
     }
   },
   "Steel dagger(p)": {
-    "equipable": true,
-    "weight": 0.4
+    "equipable": true
   },
   "Mithril dagger(p)": {
     "equipable": true,
-    "weight": 0.3,
+    "weight": 0.396,
     "equipment": {
       "slot": 3,
       "astab": 11,
@@ -3594,7 +3690,6 @@
   },
   "Adamant dagger(p)": {
     "equipable": true,
-    "weight": 0.5,
     "equipment": {
       "slot": 3,
       "astab": 15,
@@ -3608,7 +3703,7 @@
   },
   "Rune dagger(p)": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 25,
@@ -3622,7 +3717,7 @@
   },
   "Dragon dagger(p)": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -3636,7 +3731,7 @@
   },
   "Black dagger(p)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -3650,7 +3745,7 @@
   },
   "Bronze spear": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -3664,7 +3759,7 @@
   },
   "Iron spear": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 8,
@@ -3678,7 +3773,7 @@
   },
   "Steel spear": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -3692,7 +3787,6 @@
   },
   "Mithril spear": {
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "astab": 17,
@@ -3706,7 +3800,7 @@
   },
   "Adamant spear": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 3,
       "astab": 24,
@@ -3720,7 +3814,6 @@
   },
   "Rune spear": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 36,
@@ -3734,7 +3827,7 @@
   },
   "Dragon spear": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 55,
@@ -3751,7 +3844,7 @@
   },
   "Bronze spear(p)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -3765,7 +3858,7 @@
   },
   "Iron spear(p)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 8,
@@ -3779,7 +3872,7 @@
   },
   "Steel spear(p)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -3793,7 +3886,6 @@
   },
   "Mithril spear(p)": {
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "astab": 17,
@@ -3807,7 +3899,7 @@
   },
   "Adamant spear(p)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 3,
       "astab": 24,
@@ -3821,7 +3913,6 @@
   },
   "Rune spear(p)": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 36,
@@ -3835,7 +3926,7 @@
   },
   "Dragon spear(p)": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 55,
@@ -3878,7 +3969,16 @@
   },
   "Steel pickaxe": {
     "equipable": true,
-    "weight": 2.267
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 8,
+      "aslash": -2,
+      "acrush": 6,
+      "dslash": 1,
+      "str": 9,
+      "aspeed": 5
+    }
   },
   "Adamant pickaxe": {
     "equipable": true,
@@ -4103,7 +4203,7 @@
   },
   "Rune longsword": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 1.814,
     "equipment": {
       "slot": 3,
       "astab": 38,
@@ -4215,7 +4315,7 @@
   },
   "Rune 2h sword": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.628,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -4229,7 +4329,16 @@
   },
   "Bronze scimitar": {
     "equipable": true,
-    "weight": 1.814
+    "weight": 1.814,
+    "equipment": {
+      "slot": 3,
+      "astab": 1,
+      "aslash": 7,
+      "acrush": -2,
+      "dslash": 1,
+      "str": 6,
+      "aspeed": 4
+    }
   },
   "Iron scimitar": {
     "equipable": true,
@@ -4298,7 +4407,7 @@
   },
   "Rune scimitar": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 1.814,
     "equipment": {
       "slot": 3,
       "astab": 7,
@@ -4558,7 +4667,7 @@
   },
   "Rune battleaxe": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 3,
       "astab": -2,
@@ -4571,7 +4680,16 @@
   },
   "Bronze battleaxe": {
     "equipable": true,
-    "weight": 2.721
+    "weight": 2.721,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 6,
+      "acrush": 3,
+      "drange": -1,
+      "str": 9,
+      "aspeed": 6
+    }
   },
   "Dragon battleaxe": {
     "equipable": true,
@@ -4787,6 +4905,23 @@
       "aspeed": 5
     }
   },
+  "Mystic water staff": {
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 10,
+      "aslash": -1,
+      "acrush": 40,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 50,
+      "aspeed": 5
+    }
+  },
   "Mystic air staff": {
     "equipable": true,
     "weight": 2.267,
@@ -4822,12 +4957,11 @@
     }
   },
   "Iban's staff": {
-    "quest": true,
-    "weight": 2.2
+    "quest": true
   },
   "Scythe": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 3,
       "astab": 3,
@@ -4977,6 +5111,14 @@
   "Nature talisman": {
     "weight": 0.015
   },
+  "Damp sticks": {
+    "quest": true,
+    "weight": 0.085
+  },
+  "Dry sticks": {
+    "quest": true,
+    "weight": 0.056
+  },
   "Red bead": {
     "quest": true,
     "weight": 0.003
@@ -5085,7 +5227,8 @@
     "weight": 2.2
   },
   "A magic scroll": {
-    "quest": true
+    "quest": true,
+    "weight": 0.02
   },
   "Gas mask": {
     "quest": true,
@@ -5180,7 +5323,7 @@
   "Anti-dragon shield": {
     "quest": true,
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "dstab": 7,
@@ -5197,6 +5340,9 @@
   "Stake": {
     "quest": true,
     "weight": 0.085
+  },
+  "Garlic": {
+    "weight": 0.028
   },
   "Seasoned sardine": {
     "quest": true,
@@ -5288,6 +5434,9 @@
   "Ruby": {
     "weight": 0.002
   },
+  "Emerald": {
+    "weight": 0.002
+  },
   "Sapphire": {
     "weight": 0.002
   },
@@ -5301,7 +5450,7 @@
     "weight": 0.002
   },
   "Dragonstone": {
-    "weight": 0.3
+    "weight": 0.002
   },
   "Uncut diamond": {
     "weight": 0.003
@@ -5580,6 +5729,7 @@
   },
   "Holy symbol": {
     "equipable": true,
+    "weight": 0.007,
     "equipment": {
       "slot": 2,
       "dstab": 2,
@@ -5602,6 +5752,7 @@
   },
   "Unholy symbol": {
     "equipable": true,
+    "weight": 0.007,
     "equipment": {
       "slot": 2,
       "astab": 2,
@@ -5659,11 +5810,17 @@
       "prayer": 1
     }
   },
+  "Shears": {
+    "weight": 0.113
+  },
   "Wool": {
     "weight": 0.003
   },
   "Cowhide": {
     "weight": 2.721
+  },
+  "Leather": {
+    "weight": 2.267
   },
   "Hard leather": {
     "weight": 3.175
@@ -5682,6 +5839,9 @@
   },
   "Green dragonhide": {
     "weight": 3.175
+  },
+  "Chisel": {
+    "weight": 0.453
   },
   "Brown apron": {
     "equipable": true,
@@ -5742,27 +5902,36 @@
   "Unfired bowl": {
     "weight": 0.68
   },
+  "Bronze wire": {
+    "weight": 0.005
+  },
   "Silver necklace": {
     "quest": true,
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 2
     }
   },
   "Silver cup": {
-    "quest": true
+    "quest": true,
+    "weight": 0.07
   },
   "Silver bottle": {
-    "quest": true
+    "quest": true,
+    "weight": 0.09
   },
   "Silver book": {
-    "quest": true
+    "quest": true,
+    "weight": 0.226
   },
   "Silver needle": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Criminal's thread": {
-    "quest": true
+    "quest": true,
+    "weight": 0.002
   },
   "Flypaper": {
     "quest": true,
@@ -5773,7 +5942,8 @@
     "weight": 0.907
   },
   "Criminal's dagger": {
-    "quest": true
+    "quest": true,
+    "weight": 0.453
   },
   "Killer's print": {
     "quest": true,
@@ -5945,14 +6115,18 @@
   "Uncooked cake": {
     "weight": 0.5
   },
+  "Asgarnian ale": {
+    "weight": 0.55
+  },
   "Wizard's mind bomb": {
     "weight": 0.55
   },
   "Greenman's ale": {
-    "quest": true
+    "quest": true,
+    "weight": 0.55
   },
   "Dragon bitter": {
-    "weight": 1.0
+    "weight": 0.55
   },
   "Dwarven stout": {
     "weight": 0.55
@@ -5961,7 +6135,7 @@
     "weight": 0.55
   },
   "Beer": {
-    "weight": 1.0
+    "weight": 0.55
   },
   "Beer glass": {
     "weight": 0.05
@@ -5985,7 +6159,7 @@
     "weight": 0.453
   },
   "Pot of flour": {
-    "weight": 1.0
+    "weight": 1.36
   },
   "Jug": {
     "weight": 0.453
@@ -6000,7 +6174,7 @@
     "weight": 0.02
   },
   "Flour": {
-    "weight": 1.0
+    "weight": 1.36
   },
   "Grain": {
     "weight": 0.6
@@ -6031,7 +6205,7 @@
     "weight": 0.028
   },
   "Cabbage": {
-    "weight": 0.4
+    "weight": 0.453
   },
   "Spinach roll": {
     "weight": 0.1
@@ -6047,6 +6221,9 @@
   },
   "Chocolatey milk": {
     "weight": 2.0
+  },
+  "Empty cup": {
+    "weight": 0.05
   },
   "Tomato": {
     "weight": 0.08
@@ -6065,22 +6242,22 @@
     "weight": 1.0
   },
   "Jug of bad wine": {
-    "weight": 1.0
+    "weight": 1.5
   },
   "Jug of wine": {
     "weight": 1.5
   },
   "Unfermented wine": {
-    "weight": 1.0
-  },
-  "Incomplete stew": {
-    "weight": 1.0
+    "weight": 1.5
   },
   "Uncooked stew": {
     "weight": 1.5
   },
   "Stew": {
     "weight": 1.5
+  },
+  "Spice": {
+    "weight": 0.2
   },
   "Uncooked curry": {
     "weight": 1.5
@@ -6101,9 +6278,12 @@
     "weight": 1.0
   },
   "Cocktail guide": {
-    "weight": 0.5
+    "weight": 0.51
   },
   "Cocktail shaker": {
+    "weight": 0.15
+  },
+  "Cocktail glass": {
     "weight": 0.1
   },
   "Premade blurb' sp.": {
@@ -6127,11 +6307,26 @@
   "Premade wiz blz'd": {
     "weight": 0.45
   },
+  "Pineapple punch": {
+    "weight": 0.5
+  },
   "Wizard blizzard": {
-    "weight": 1.0
+    "weight": 0.5
+  },
+  "Blurberry special": {
+    "weight": 0.5
   },
   "Choc saturday": {
-    "weight": 0.1
+    "weight": 0.5
+  },
+  "Short green guy": {
+    "weight": 0.5
+  },
+  "Fruit blast": {
+    "weight": 0.5
+  },
+  "Drunk dragon": {
+    "weight": 0.5
   },
   "Lemon": {
     "weight": 0.1
@@ -6176,7 +6371,7 @@
     "weight": 0.2
   },
   "Raw beef": {
-    "weight": 0.3
+    "weight": 0.34
   },
   "Raw rat meat": {
     "weight": 0.141
@@ -6185,13 +6380,13 @@
     "weight": 0.425
   },
   "Raw chicken": {
-    "weight": 0.15
+    "weight": 0.17
   },
   "Cooked chicken": {
-    "weight": 0.1
+    "weight": 0.141
   },
   "Cooked meat": {
-    "weight": 0.25
+    "weight": 0.283
   },
   "Raw lava eel": {
     "quest": true,
@@ -6235,12 +6430,15 @@
     "weight": 0.3
   },
   "Chocolate bomb": {
-    "weight": 0.3
+    "weight": 0.35
   },
   "Tangled toad's legs": {
     "weight": 0.35
   },
   "Worm hole": {
+    "weight": 0.35
+  },
+  "Veg ball": {
     "weight": 0.35
   },
   "Half baked crunchy": {
@@ -6257,6 +6455,12 @@
   },
   "Chocchip crunchies": {
     "weight": 0.2
+  },
+  "Spicy crunchies": {
+    "weight": 0.25
+  },
+  "Toad crunchies": {
+    "weight": 0.25
   },
   "Premade w'm batta": {
     "weight": 0.25
@@ -6303,8 +6507,14 @@
   "Worm batta": {
     "weight": 0.25
   },
+  "Toad batta": {
+    "weight": 0.25
+  },
+  "Cheese+tom batta": {
+    "weight": 0.25
+  },
   "Vegetable batta": {
-    "weight": 0.2
+    "weight": 0.25
   },
   "Pizza base": {
     "weight": 0.1
@@ -6335,24 +6545,6 @@
   },
   "Uncooked berry pie": {
     "weight": 0.5
-  },
-  "Apple pie": {
-    "weight": 0.4
-  },
-  "Redberry pie": {
-    "weight": 0.4
-  },
-  "Meat pie": {
-    "weight": 0.4
-  },
-  "Half a meat pie": {
-    "weight": 0.4
-  },
-  "Half a redberry pie": {
-    "weight": 0.4
-  },
-  "Half an apple pie": {
-    "weight": 0.4
   },
   "Raw oomlie": {
     "weight": 0.225
@@ -6409,20 +6601,71 @@
   "Steel studs": {
     "weight": 1.36
   },
+  "Ogre relic": {
+    "quest": true,
+    "weight": 3.0
+  },
+  "Relic part 1": {
+    "quest": true,
+    "weight": 1.0
+  },
+  "Relic part 2": {
+    "quest": true,
+    "weight": 1.0
+  },
+  "Relic part 3": {
+    "quest": true,
+    "weight": 1.0
+  },
   "Skavid map": {
+    "quest": true,
+    "weight": 0.01
+  },
+  "Ogre tooth": {
+    "quest": true,
+    "weight": 0.01
+  },
+  "Toban's key": {
     "quest": true,
     "weight": 0.01
   },
   "Rock cake": {
     "quest": true
   },
+  "Fingernails": {
+    "quest": true,
+    "weight": 0.002
+  },
+  "Old robe": {
+    "quest": true,
+    "weight": 1.814
+  },
+  "Unusual armour": {
+    "quest": true,
+    "weight": 3.628
+  },
+  "Damaged dagger": {
+    "quest": true,
+    "weight": 0.453
+  },
+  "Tattered eye patch": {
+    "quest": true,
+    "weight": 0.006
+  },
   "Ground bat bones": {
     "quest": true,
     "weight": 0.1
   },
+  "Toban's gold": {
+    "quest": true,
+    "weight": 1.814
+  },
   "Magic ogre potion": {
     "quest": true,
     "weight": 0.025
+  },
+  "Spell scroll": {
+    "quest": true
   },
   "Shaman robe": {
     "quest": true,
@@ -6433,7 +6676,7 @@
   },
   "Silverlight": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 3,
       "astab": 9,
@@ -6588,6 +6831,7 @@
   },
   "Red flowers": {
     "equipable": true,
+    "weight": 0.028,
     "equipment": {
       "slot": 3,
       "astab": -100,
@@ -6727,7 +6971,7 @@
   },
   "Blue d'hide chaps": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -6741,7 +6985,7 @@
   },
   "Red d'hide chaps": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -6755,7 +6999,7 @@
   },
   "Black d'hide chaps": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -6769,7 +7013,7 @@
   },
   "Blue d'hide body": {
     "equipable": true,
-    "weight": 7.0,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -6783,7 +7027,7 @@
   },
   "Red d'hide body": {
     "equipable": true,
-    "weight": 7.0,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -6797,7 +7041,7 @@
   },
   "Black d'hide body": {
     "equipable": true,
-    "weight": 6.8,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -6820,7 +7064,7 @@
   },
   "Dragon chainbody": {
     "equipable": true,
-    "weight": 6.0,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -6845,6 +7089,9 @@
   },
   "Grey toy horsey": {
     "weight": 0.05
+  },
+  "Lamp": {
+    "weight": 0.1
   },
   "Dead orb": {
     "quest": true,
@@ -6916,6 +7163,10 @@
   "Ring of dueling(1)": {
     "equipable": true
   },
+  "Ring of forging": {
+    "equipable": true,
+    "weight": 0.006
+  },
   "Ring of life": {
     "equipable": true,
     "weight": 0.006
@@ -6937,7 +7188,7 @@
   },
   "Ranger boots": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.283,
     "equipment": {
       "slot": 10,
       "amagic": -10,
@@ -6950,6 +7201,7 @@
   },
   "Wizard boots": {
     "equipable": true,
+    "weight": 0.283,
     "equipment": {
       "slot": 10,
       "amagic": 4,
@@ -6958,7 +7210,7 @@
   },
   "Robin hood hat": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.283,
     "equipment": {
       "slot": 0,
       "amagic": -10,
@@ -7028,7 +7280,7 @@
   },
   "Black platebody (g)": {
     "equipable": true,
-    "weight": 9.07,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -7084,7 +7336,7 @@
   },
   "Adamant platebody (t)": {
     "equipable": true,
-    "weight": 9.07,
+    "weight": 11.339,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -7140,7 +7392,7 @@
   },
   "Adamant platebody (g)": {
     "equipable": true,
-    "weight": 9.07,
+    "weight": 11.339,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -7196,7 +7448,7 @@
   },
   "Rune platebody (g)": {
     "equipable": true,
-    "weight": 9.9,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -7252,7 +7504,7 @@
   },
   "Rune platebody (t)": {
     "equipable": true,
-    "weight": 9.9,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -7308,60 +7560,70 @@
   },
   "Highwayman mask": {
     "equipable": true,
+    "weight": 0.02,
     "equipment": {
       "slot": 0
     }
   },
   "Blue beret": {
     "equipable": true,
+    "weight": 0.04,
     "equipment": {
       "slot": 0
     }
   },
   "Black beret": {
     "equipable": true,
+    "weight": 0.04,
     "equipment": {
       "slot": 0
     }
   },
   "White beret": {
     "equipable": true,
+    "weight": 0.04,
     "equipment": {
       "slot": 0
     }
   },
   "Tan cavalier": {
     "equipable": true,
+    "weight": 0.08,
     "equipment": {
       "slot": 0
     }
   },
   "Dark cavalier": {
     "equipable": true,
+    "weight": 0.001,
     "equipment": {
       "slot": 0
     }
   },
   "Black cavalier": {
     "equipable": true,
+    "weight": 0.08,
     "equipment": {
       "slot": 0
     }
   },
   "Red headband": {
     "equipable": true,
+    "weight": 0.04,
     "equipment": {
       "slot": 0
     }
   },
   "Black headband": {
     "equipable": true,
+    "weight": 0.04,
     "equipment": {
       "slot": 0
     }
   },
   "Brown headband": {
     "equipable": true,
+    "weight": 0.04,
     "equipment": {
       "slot": 0
     }
@@ -7374,7 +7636,7 @@
   },
   "Zamorak platebody": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -7494,7 +7756,7 @@
   },
   "Guthix platebody": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -7582,20 +7844,16 @@
     }
   },
   "Ogre bellows": {
-    "quest": true,
-    "weight": 0.5
+    "quest": true
   },
   "Ogre bellows (3)": {
-    "quest": true,
-    "weight": 0.5
+    "quest": true
   },
   "Ogre bellows (2)": {
-    "quest": true,
-    "weight": 0.5
+    "quest": true
   },
   "Ogre bellows (1)": {
-    "quest": true,
-    "weight": 0.5
+    "quest": true
   },
   "Bloated toad": {
     "quest": true,
@@ -7640,6 +7898,14 @@
       "slot": 5,
       "dmagic": 6
     }
+  },
+  "Elemental ore": {
+    "quest": true,
+    "weight": 2.267
+  },
+  "Elemental metal": {
+    "quest": true,
+    "weight": 1.814
   },
   "Grey boots": {
     "equipable": true,
@@ -7870,7 +8136,8 @@
     "weight": 0.01
   },
   "Iron key": {
-    "quest": true
+    "quest": true,
+    "weight": 0.01
   },
   "Golden tinderbox": {
     "quest": true,
@@ -7915,6 +8182,9 @@
   "Blessed water": {
     "quest": true,
     "weight": 3.0
+  },
+  "Moonlight mead": {
+    "weight": 0.55
   },
   "Druid pouch": {
     "quest": true
@@ -8008,7 +8278,7 @@
   },
   "Lava battlestaff": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 7,
@@ -8042,6 +8312,7 @@
   },
   "Mime mask": {
     "equipable": true,
+    "weight": 0.001,
     "equipment": {
       "slot": 0
     }
@@ -8211,7 +8482,7 @@
   "Climbing boots": {
     "quest": true,
     "equipable": true,
-    "weight": 0.3,
+    "weight": 0.34,
     "equipment": {
       "slot": 10,
       "dslash": 2,
@@ -8231,8 +8502,7 @@
     }
   },
   "Stone ball": {
-    "quest": true,
-    "weight": 3.6
+    "quest": true
   },
   "Granite shield": {
     "equipable": true,
@@ -8258,11 +8528,11 @@
   },
   "Pasty jogre bones": {
     "quest": true,
-    "weight": 1.0
+    "weight": 0.8
   },
   "Marinated j' bones": {
     "quest": true,
-    "weight": 1.0
+    "weight": 0.8
   },
   "Cell key 1": {
     "quest": true,
@@ -8288,14 +8558,15 @@
     "weight": 0.14
   },
   "Karambwan paste": {
-    "quest": true
+    "quest": true,
+    "weight": 0.01
   },
   "Karambwanji paste": {
-    "quest": true
+    "quest": true,
+    "weight": 0.01
   },
   "Karambwan vessel": {
-    "quest": true,
-    "weight": 3.0
+    "quest": true
   },
   "Crafting manual": {
     "quest": true
@@ -8321,7 +8592,7 @@
   },
   "Bronze spear(kp)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -8335,7 +8606,7 @@
   },
   "Iron spear(kp)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 8,
@@ -8349,7 +8620,7 @@
   },
   "Steel spear(kp)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -8363,7 +8634,6 @@
   },
   "Mithril spear(kp)": {
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "astab": 17,
@@ -8377,7 +8647,7 @@
   },
   "Adamant spear(kp)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 3,
       "astab": 24,
@@ -8391,7 +8661,6 @@
   },
   "Rune spear(kp)": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 36,
@@ -8405,7 +8674,7 @@
   },
   "Dragon spear(kp)": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 55,
@@ -8617,7 +8886,8 @@
     "weight": 1.0
   },
   "Goutweed": {
-    "quest": true
+    "quest": true,
+    "weight": 0.007
   },
   "Troll thistle": {
     "quest": true,
@@ -8692,6 +8962,9 @@
   "Fat snail meat": {
     "weight": 5.0
   },
+  "Sample bottle": {
+    "weight": 0.02
+  },
   "Raw slimy eel": {
     "weight": 2.0
   },
@@ -8700,7 +8973,7 @@
   },
   "Splitbark helm": {
     "equipable": true,
-    "weight": 0.9,
+    "weight": 0.907,
     "equipment": {
       "slot": 0,
       "amagic": 3,
@@ -8996,7 +9269,7 @@
   },
   "Gilded platebody": {
     "equipable": true,
-    "weight": 10.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -9079,7 +9352,6 @@
   "Enchanted lyre": {
     "quest": true,
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "aspeed": 4
@@ -9088,7 +9360,6 @@
   "Enchanted lyre(1)": {
     "quest": true,
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "aspeed": 4
@@ -9096,7 +9367,7 @@
   },
   "Branch": {
     "quest": true,
-    "weight": 1.0
+    "weight": 1.814
   },
   "Golden fleece": {
     "quest": true,
@@ -9158,7 +9429,8 @@
     "weight": 0.005
   },
   "Promissory note": {
-    "quest": true
+    "quest": true,
+    "weight": 0.005
   },
   "Warriors' contract": {
     "quest": true,
@@ -9180,7 +9452,8 @@
     "weight": 0.001
   },
   "Red disk": {
-    "quest": true
+    "quest": true,
+    "weight": 0.002
   },
   "Blue thread": {
     "quest": true,
@@ -9293,7 +9566,7 @@
   },
   "Archer helm": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "astab": -5,
@@ -9324,7 +9597,7 @@
   },
   "Warrior helm": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "aslash": 5,
@@ -9338,7 +9611,7 @@
   },
   "Farseer helm": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "astab": -5,
@@ -9367,7 +9640,7 @@
   },
   "Fremennik shield": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -9634,28 +9907,36 @@
     "weight": 5.0
   },
   "Games necklace(8)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Games necklace(7)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Games necklace(6)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Games necklace(5)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Games necklace(4)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Games necklace(3)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Games necklace(2)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Games necklace(1)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.01
   },
   "Awful anthem": {
     "quest": true,
@@ -9737,7 +10018,7 @@
   "M'speak amulet": {
     "quest": true,
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.36,
     "equipment": {
       "slot": 2
     }
@@ -9792,7 +10073,7 @@
   },
   "Saradomin banner": {
     "equipable": true,
-    "weight": 2.266,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "aspeed": 4
@@ -9800,7 +10081,7 @@
   },
   "Zamorak banner": {
     "equipable": true,
-    "weight": 2.266,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "aspeed": 4
@@ -9860,7 +10141,8 @@
     "weight": 0.007
   },
   "Sled": {
-    "quest": true
+    "quest": true,
+    "weight": 0.018
   },
   "Wax": {
     "quest": true,
@@ -9881,7 +10163,7 @@
   },
   "Dragon platelegs": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -10081,12 +10363,22 @@
   },
   "Abyssal whip": {
     "equipable": true,
-    "weight": 0.45,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "aslash": 82,
       "str": 82,
       "aspeed": 4
+    }
+  },
+  "Granite maul": {
+    "equipable": true,
+    "weight": 4.535,
+    "equipment": {
+      "slot": 3,
+      "acrush": 81,
+      "str": 79,
+      "aspeed": 6
     }
   },
   "Enchanted gem": {
@@ -10106,7 +10398,7 @@
   },
   "Leaf-bladed spear": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 47,
@@ -10192,8 +10484,7 @@
     "weight": 0.8
   },
   "Extended brush": {
-    "quest": true,
-    "weight": 0.9
+    "quest": true
   },
   "Torso": {
     "quest": true,
@@ -10208,8 +10499,7 @@
     "weight": 6.35
   },
   "Decapitated head": {
-    "quest": true,
-    "weight": 3.0
+    "quest": true
   },
   "Pickled brain": {
     "quest": true,
@@ -10224,10 +10514,12 @@
     "weight": 3.628
   },
   "Ring of charos": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.005
   },
   "Consecration seed": {
-    "quest": true
+    "quest": true,
+    "weight": 0.014
   },
   "Crystal seed": {
     "quest": true,
@@ -10517,14 +10809,15 @@
   },
   "Nettle tea": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Nettles": {
     "quest": true,
     "weight": 0.007
   },
   "Porcelain cup": {
-    "quest": true
+    "quest": true,
+    "weight": 0.05
   },
   "Mystical robes": {
     "quest": true,
@@ -10539,16 +10832,19 @@
     "weight": 1.0
   },
   "Ectophial": {
-    "quest": true
+    "quest": true,
+    "weight": 0.035
   },
   "Model ship": {
-    "quest": true
+    "quest": true,
+    "weight": 0.01
   },
   "Bonemeal": {
     "weight": 1.0
   },
   "Map scrap": {
-    "quest": true
+    "quest": true,
+    "weight": 0.01
   },
   "Treasure map": {
     "quest": true,
@@ -10570,6 +10866,7 @@
   },
   "Ham shirt": {
     "equipable": true,
+    "weight": 0.907,
     "equipment": {
       "slot": 4,
       "dslash": 2,
@@ -11170,7 +11467,8 @@
     "weight": 0.01
   },
   "Broken vane part": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Directionals": {
     "quest": true,
@@ -11271,7 +11569,8 @@
     "weight": 1.0
   },
   "Pole": {
-    "quest": true
+    "quest": true,
+    "weight": 0.01
   },
   "Broken pole": {
     "weight": 0.01
@@ -11295,7 +11594,7 @@
     "weight": 0.453
   },
   "Oil lamp": {
-    "weight": 0.4
+    "weight": 0.453
   },
   "Empty oil lamp": {
     "weight": 0.453
@@ -11304,13 +11603,13 @@
     "weight": 0.907
   },
   "Candle lantern": {
-    "weight": 1.0
+    "weight": 0.907
   },
   "Empty oil lantern": {
     "weight": 0.907
   },
   "Oil lantern": {
-    "weight": 0.9
+    "weight": 0.907
   },
   "Oil lantern frame": {
     "weight": 0.453
@@ -11322,6 +11621,9 @@
     "weight": 1.36
   },
   "Bullseye lantern (empty)": {
+    "weight": 1.36
+  },
+  "Bullseye lantern": {
     "weight": 1.36
   },
   "Spiny helmet": {
@@ -11352,6 +11654,7 @@
   },
   "Rubber chicken": {
     "equipable": true,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": -100,
@@ -11389,7 +11692,8 @@
     "weight": 0.002
   },
   "Pages": {
-    "quest": true
+    "quest": true,
+    "weight": 0.002
   },
   "Base schematics": {
     "quest": true,
@@ -11397,6 +11701,48 @@
   },
   "Cannon ball": {
     "quest": true
+  },
+  "Black spear": {
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "dstab": 1,
+      "dslash": 1,
+      "str": 16,
+      "aspeed": 5
+    }
+  },
+  "Black spear(p)": {
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "dstab": 1,
+      "dslash": 1,
+      "str": 16,
+      "aspeed": 5
+    }
+  },
+  "Black spear(kp)": {
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "dstab": 1,
+      "dslash": 1,
+      "str": 16,
+      "aspeed": 5
+    }
   },
   "Dragon plateskirt": {
     "equipable": true,
@@ -11414,7 +11760,7 @@
   },
   "Dragon scimitar": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 1.814,
     "equipment": {
       "slot": 3,
       "astab": 8,
@@ -11541,6 +11887,10 @@
     "quest": true,
     "weight": 0.51
   },
+  "Translation": {
+    "quest": true,
+    "weight": 0.51
+  },
   "Warm key": {
     "quest": true,
     "weight": 0.01
@@ -11554,7 +11904,7 @@
   },
   "Blessed pot": {
     "quest": true,
-    "weight": 2.0
+    "weight": 0.453
   },
   "Garlic powder": {
     "quest": true,
@@ -11581,7 +11931,7 @@
   },
   "Ancient staff": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -11631,6 +11981,10 @@
   "Gold leaf": {
     "weight": 1.0
   },
+  "Sapphire lantern": {
+    "quest": true,
+    "weight": 1.36
+  },
   "Magic stone": {
     "weight": 1.0
   },
@@ -11643,7 +11997,6 @@
   },
   "Ahrim's hood": {
     "equipable": true,
-    "weight": 0.9,
     "equipment": {
       "slot": 0,
       "amagic": 6,
@@ -11656,7 +12009,7 @@
   },
   "Ahrim's staff": {
     "equipable": true,
-    "weight": 2.25,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -11674,7 +12027,7 @@
   },
   "Ahrim's robetop": {
     "equipable": true,
-    "weight": 4.5,
+    "weight": 4.535,
     "equipment": {
       "slot": 4,
       "amagic": 30,
@@ -11687,7 +12040,6 @@
   },
   "Ahrim's robeskirt": {
     "equipable": true,
-    "weight": 11.3,
     "equipment": {
       "slot": 7,
       "amagic": 22,
@@ -11700,7 +12052,7 @@
   },
   "Dharok's helm": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -11714,7 +12066,7 @@
   },
   "Dharok's greataxe": {
     "equipable": true,
-    "weight": 13.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -11728,7 +12080,6 @@
   },
   "Dharok's platebody": {
     "equipable": true,
-    "weight": 9.0,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -11742,7 +12093,7 @@
   },
   "Dharok's platelegs": {
     "equipable": true,
-    "weight": 10.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -11756,7 +12107,7 @@
   },
   "Guthan's helm": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -11770,7 +12121,6 @@
   },
   "Guthan's warspear": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 75,
@@ -11785,7 +12135,7 @@
   },
   "Guthan's platebody": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -11799,7 +12149,7 @@
   },
   "Guthan's chainskirt": {
     "equipable": true,
-    "weight": 8.0,
+    "weight": 8.164,
     "equipment": {
       "slot": 7,
       "amagic": -14,
@@ -11813,7 +12163,6 @@
   },
   "Karil's coif": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -1,
@@ -11827,7 +12176,7 @@
   },
   "Karil's crossbow": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 3.628,
     "equipment": {
       "slot": 3,
       "arange": 84,
@@ -11836,7 +12185,7 @@
   },
   "Karil's leathertop": {
     "equipable": true,
-    "weight": 6.8,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -11850,7 +12199,6 @@
   },
   "Karil's leatherskirt": {
     "equipable": true,
-    "weight": 4.0,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -11871,7 +12219,7 @@
   },
   "Torag's helm": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -11885,7 +12233,7 @@
   },
   "Torag's hammers": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 3.628,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -11898,7 +12246,7 @@
   },
   "Torag's platebody": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -11912,7 +12260,7 @@
   },
   "Torag's platelegs": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -11926,7 +12274,6 @@
   },
   "Verac's helm": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -11940,7 +12287,7 @@
   },
   "Verac's flail": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 68,
@@ -11953,7 +12300,7 @@
   },
   "Verac's brassard": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 4.989,
     "equipment": {
       "slot": 4,
       "amagic": -6,
@@ -11967,7 +12314,6 @@
   },
   "Verac's plateskirt": {
     "equipable": true,
-    "weight": 4.5,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -12047,7 +12393,8 @@
     "weight": 0.8
   },
   "Sithik portrait": {
-    "quest": true
+    "quest": true,
+    "weight": 0.02
   },
   "Signed portrait": {
     "quest": true,
@@ -12058,7 +12405,8 @@
     "weight": 1.0
   },
   "Ogre artefact": {
-    "quest": true
+    "quest": true,
+    "weight": 0.8
   },
   "Unstrung comp bow": {
     "weight": 5.0
@@ -12100,9 +12448,44 @@
   "Ogre coffin key": {
     "weight": 0.055
   },
+  "Ahrim's hood 100": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6
+    }
+  },
+  "Ahrim's hood 75": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6
+    }
+  },
+  "Ahrim's hood 50": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6
+    }
+  },
   "Ahrim's hood 25": {
     "equipable": true,
-    "weight": 0.9,
     "equipment": {
       "slot": 0,
       "amagic": 6,
@@ -12115,7 +12498,6 @@
   },
   "Ahrim's hood 0": {
     "equipable": true,
-    "weight": 0.9,
     "equipment": {
       "slot": 0,
       "amagic": 6,
@@ -12128,7 +12510,7 @@
   },
   "Ahrim's staff 100": {
     "equipable": true,
-    "weight": 2.25,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -12146,7 +12528,7 @@
   },
   "Ahrim's staff 0": {
     "equipable": true,
-    "weight": 2.25,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -12162,9 +12544,9 @@
       "aspeed": 6
     }
   },
-  "Ahrim's robetop 0": {
+  "Ahrim's robetop 100": {
     "equipable": true,
-    "weight": 4.5,
+    "weight": 4.535,
     "equipment": {
       "slot": 4,
       "amagic": 30,
@@ -12175,9 +12557,59 @@
       "dmagic": 30
     }
   },
+  "Ahrim's robetop 75": {
+    "equipable": true,
+    "weight": 4.535,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30
+    }
+  },
+  "Ahrim's robetop 25": {
+    "equipable": true,
+    "weight": 4.535,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30
+    }
+  },
+  "Ahrim's robetop 0": {
+    "equipable": true,
+    "weight": 4.535,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30
+    }
+  },
+  "Ahrim's robeskirt 75": {
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 30,
+      "dcrush": 36,
+      "dmagic": 22
+    }
+  },
   "Ahrim's robeskirt 50": {
     "equipable": true,
-    "weight": 11.3,
     "equipment": {
       "slot": 7,
       "amagic": 22,
@@ -12190,7 +12622,6 @@
   },
   "Ahrim's robeskirt 25": {
     "equipable": true,
-    "weight": 11.3,
     "equipment": {
       "slot": 7,
       "amagic": 22,
@@ -12203,7 +12634,6 @@
   },
   "Ahrim's robeskirt 0": {
     "equipable": true,
-    "weight": 11.3,
     "equipment": {
       "slot": 7,
       "amagic": 22,
@@ -12216,7 +12646,7 @@
   },
   "Dharok's helm 100": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -12230,7 +12660,7 @@
   },
   "Dharok's helm 75": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -12244,7 +12674,7 @@
   },
   "Dharok's helm 50": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -12258,7 +12688,7 @@
   },
   "Dharok's helm 25": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -12272,7 +12702,7 @@
   },
   "Dharok's helm 0": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -12286,7 +12716,7 @@
   },
   "Dharok's greataxe 100": {
     "equipable": true,
-    "weight": 13.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -12300,7 +12730,7 @@
   },
   "Dharok's greataxe 75": {
     "equipable": true,
-    "weight": 13.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -12314,7 +12744,7 @@
   },
   "Dharok's greataxe 50": {
     "equipable": true,
-    "weight": 13.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -12328,7 +12758,7 @@
   },
   "Dharok's greataxe 25": {
     "equipable": true,
-    "weight": 13.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -12342,7 +12772,7 @@
   },
   "Dharok's greataxe 0": {
     "equipable": true,
-    "weight": 13.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -12354,9 +12784,47 @@
       "aspeed": 7
     }
   },
+  "Dharok's platebody 100": {
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 122,
+      "dslash": 120,
+      "dcrush": 107,
+      "dmagic": -6,
+      "drange": 132
+    }
+  },
   "Dharok's platebody 75": {
     "equipable": true,
-    "weight": 9.0,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 122,
+      "dslash": 120,
+      "dcrush": 107,
+      "dmagic": -6,
+      "drange": 132
+    }
+  },
+  "Dharok's platebody 50": {
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 122,
+      "dslash": 120,
+      "dcrush": 107,
+      "dmagic": -6,
+      "drange": 132
+    }
+  },
+  "Dharok's platebody 25": {
+    "equipable": true,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12370,7 +12838,6 @@
   },
   "Dharok's platebody 0": {
     "equipable": true,
-    "weight": 9.0,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12384,7 +12851,7 @@
   },
   "Dharok's platelegs 100": {
     "equipable": true,
-    "weight": 10.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -12398,7 +12865,7 @@
   },
   "Dharok's platelegs 75": {
     "equipable": true,
-    "weight": 10.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -12412,7 +12879,21 @@
   },
   "Dharok's platelegs 50": {
     "equipable": true,
-    "weight": 10.0,
+    "weight": 9.071,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "dmagic": -4,
+      "drange": 92
+    }
+  },
+  "Dharok's platelegs 25": {
+    "equipable": true,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -12426,7 +12907,7 @@
   },
   "Dharok's platelegs 0": {
     "equipable": true,
-    "weight": 10.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -12438,9 +12919,9 @@
       "drange": 92
     }
   },
-  "Guthan's helm 0": {
+  "Guthan's helm 100": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12452,9 +12933,78 @@
       "drange": 62
     }
   },
+  "Guthan's helm 50": {
+    "equipable": true,
+    "weight": 2.721,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "dmagic": -1,
+      "drange": 62
+    }
+  },
+  "Guthan's helm 25": {
+    "equipable": true,
+    "weight": 2.721,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "dmagic": -1,
+      "drange": 62
+    }
+  },
+  "Guthan's helm 0": {
+    "equipable": true,
+    "weight": 2.721,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "dmagic": -1,
+      "drange": 62
+    }
+  },
+  "Guthan's warspear 100": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 75,
+      "aslash": 75,
+      "acrush": 75,
+      "dstab": 7,
+      "dslash": 7,
+      "dcrush": 7,
+      "str": 75,
+      "aspeed": 5
+    }
+  },
+  "Guthan's warspear 75": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 75,
+      "aslash": 75,
+      "acrush": 75,
+      "dstab": 7,
+      "dslash": 7,
+      "dcrush": 7,
+      "str": 75,
+      "aspeed": 5
+    }
+  },
   "Guthan's warspear 50": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 75,
@@ -12469,7 +13019,6 @@
   },
   "Guthan's warspear 25": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 75,
@@ -12484,7 +13033,6 @@
   },
   "Guthan's warspear 0": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 75,
@@ -12499,7 +13047,35 @@
   },
   "Guthan's platebody 100": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 122,
+      "dslash": 120,
+      "dcrush": 107,
+      "dmagic": -6,
+      "drange": 132
+    }
+  },
+  "Guthan's platebody 75": {
+    "equipable": true,
+    "weight": 9.979,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 122,
+      "dslash": 120,
+      "dcrush": 107,
+      "dmagic": -6,
+      "drange": 132
+    }
+  },
+  "Guthan's platebody 50": {
+    "equipable": true,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12513,7 +13089,7 @@
   },
   "Guthan's platebody 25": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12527,7 +13103,7 @@
   },
   "Guthan's platebody 0": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12541,7 +13117,7 @@
   },
   "Guthan's chainskirt 100": {
     "equipable": true,
-    "weight": 8.0,
+    "weight": 8.164,
     "equipment": {
       "slot": 7,
       "amagic": -14,
@@ -12555,7 +13131,7 @@
   },
   "Guthan's chainskirt 50": {
     "equipable": true,
-    "weight": 8.0,
+    "weight": 8.164,
     "equipment": {
       "slot": 7,
       "amagic": -14,
@@ -12569,7 +13145,7 @@
   },
   "Guthan's chainskirt 25": {
     "equipable": true,
-    "weight": 8.0,
+    "weight": 8.164,
     "equipment": {
       "slot": 7,
       "amagic": -14,
@@ -12583,7 +13159,7 @@
   },
   "Guthan's chainskirt 0": {
     "equipable": true,
-    "weight": 8.0,
+    "weight": 8.164,
     "equipment": {
       "slot": 7,
       "amagic": -14,
@@ -12595,9 +13171,21 @@
       "drange": 82
     }
   },
+  "Karil's coif 100": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -1,
+      "arange": 7,
+      "dstab": 6,
+      "dslash": 9,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 10
+    }
+  },
   "Karil's coif 50": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -1,
@@ -12611,7 +13199,6 @@
   },
   "Karil's coif 25": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -1,
@@ -12625,7 +13212,6 @@
   },
   "Karil's coif 0": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -1,
@@ -12639,7 +13225,7 @@
   },
   "Karil's crossbow 0": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 3.628,
     "equipment": {
       "slot": 3,
       "arange": 84,
@@ -12648,7 +13234,35 @@
   },
   "Karil's leathertop 100": {
     "equipable": true,
-    "weight": 6.8,
+    "weight": 6.803,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 30,
+      "dstab": 47,
+      "dslash": 42,
+      "dcrush": 50,
+      "dmagic": 65,
+      "drange": 57
+    }
+  },
+  "Karil's leathertop 75": {
+    "equipable": true,
+    "weight": 6.803,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 30,
+      "dstab": 47,
+      "dslash": 42,
+      "dcrush": 50,
+      "dmagic": 65,
+      "drange": 57
+    }
+  },
+  "Karil's leathertop 50": {
+    "equipable": true,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -12662,7 +13276,7 @@
   },
   "Karil's leathertop 25": {
     "equipable": true,
-    "weight": 6.8,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -12676,7 +13290,7 @@
   },
   "Karil's leathertop 0": {
     "equipable": true,
-    "weight": 6.8,
+    "weight": 6.803,
     "equipment": {
       "slot": 4,
       "amagic": -15,
@@ -12690,7 +13304,19 @@
   },
   "Karil's leatherskirt 100": {
     "equipable": true,
-    "weight": 4.0,
+    "equipment": {
+      "slot": 7,
+      "amagic": -10,
+      "arange": 17,
+      "dstab": 26,
+      "dslash": 20,
+      "dcrush": 28,
+      "dmagic": 35,
+      "drange": 33
+    }
+  },
+  "Karil's leatherskirt 75": {
+    "equipable": true,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -12704,7 +13330,6 @@
   },
   "Karil's leatherskirt 50": {
     "equipable": true,
-    "weight": 4.0,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -12718,7 +13343,6 @@
   },
   "Karil's leatherskirt 25": {
     "equipable": true,
-    "weight": 4.0,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -12732,7 +13356,6 @@
   },
   "Karil's leatherskirt 0": {
     "equipable": true,
-    "weight": 4.0,
     "equipment": {
       "slot": 7,
       "amagic": -10,
@@ -12744,9 +13367,23 @@
       "drange": 33
     }
   },
+  "Torag's helm 100": {
+    "equipable": true,
+    "weight": 2.721,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "dmagic": -1,
+      "drange": 62
+    }
+  },
   "Torag's helm 75": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12760,7 +13397,7 @@
   },
   "Torag's helm 50": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12774,7 +13411,7 @@
   },
   "Torag's helm 25": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12788,7 +13425,7 @@
   },
   "Torag's helm 0": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12800,9 +13437,22 @@
       "drange": 62
     }
   },
+  "Torag's hammers 100": {
+    "equipable": true,
+    "weight": 3.628,
+    "equipment": {
+      "slot": 3,
+      "astab": -4,
+      "aslash": -4,
+      "acrush": 85,
+      "amagic": -4,
+      "str": 72,
+      "aspeed": 5
+    }
+  },
   "Torag's hammers 0": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 3.628,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -12815,7 +13465,7 @@
   },
   "Torag's platebody 100": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12829,7 +13479,7 @@
   },
   "Torag's platebody 75": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12843,7 +13493,21 @@
   },
   "Torag's platebody 50": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 122,
+      "dslash": 120,
+      "dcrush": 107,
+      "dmagic": -6,
+      "drange": 132
+    }
+  },
+  "Torag's platebody 25": {
+    "equipable": true,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12857,7 +13521,7 @@
   },
   "Torag's platebody 0": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -12871,7 +13535,49 @@
   },
   "Torag's platelegs 100": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.071,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "dmagic": -4,
+      "drange": 92
+    }
+  },
+  "Torag's platelegs 75": {
+    "equipable": true,
+    "weight": 9.071,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "dmagic": -4,
+      "drange": 92
+    }
+  },
+  "Torag's platelegs 50": {
+    "equipable": true,
+    "weight": 9.071,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "dmagic": -4,
+      "drange": 92
+    }
+  },
+  "Torag's platelegs 25": {
+    "equipable": true,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -12885,7 +13591,7 @@
   },
   "Torag's platelegs 0": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 9.071,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -12897,9 +13603,21 @@
       "drange": 92
     }
   },
+  "Verac's helm 100": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "drange": 56,
+      "prayer": 3
+    }
+  },
   "Verac's helm 75": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12913,7 +13631,6 @@
   },
   "Verac's helm 50": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12927,7 +13644,6 @@
   },
   "Verac's helm 0": {
     "equipable": true,
-    "weight": 1.0,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -12939,9 +13655,22 @@
       "prayer": 3
     }
   },
+  "Verac's flail 100": {
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 68,
+      "aslash": -2,
+      "acrush": 82,
+      "str": 72,
+      "prayer": 6,
+      "aspeed": 5
+    }
+  },
   "Verac's flail 0": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 68,
@@ -12954,7 +13683,7 @@
   },
   "Verac's brassard 75": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 4.989,
     "equipment": {
       "slot": 4,
       "amagic": -6,
@@ -12968,7 +13697,7 @@
   },
   "Verac's brassard 50": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 4.989,
     "equipment": {
       "slot": 4,
       "amagic": -6,
@@ -12982,7 +13711,7 @@
   },
   "Verac's brassard 0": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 4.989,
     "equipment": {
       "slot": 4,
       "amagic": -6,
@@ -12994,9 +13723,21 @@
       "prayer": 5
     }
   },
+  "Verac's plateskirt 100": {
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "drange": 84,
+      "prayer": 4
+    }
+  },
   "Verac's plateskirt 75": {
     "equipable": true,
-    "weight": 4.5,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -13010,7 +13751,6 @@
   },
   "Verac's plateskirt 50": {
     "equipable": true,
-    "weight": 4.5,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -13024,7 +13764,6 @@
   },
   "Verac's plateskirt 25": {
     "equipable": true,
-    "weight": 4.5,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -13038,7 +13777,6 @@
   },
   "Verac's plateskirt 0": {
     "equipable": true,
-    "weight": 4.5,
     "equipment": {
       "slot": 7,
       "amagic": -21,
@@ -13077,7 +13815,6 @@
   },
   "Mining helmet": {
     "equipable": true,
-    "weight": 0.9,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -13117,7 +13854,7 @@
     }
   },
   "Minecart ticket": {
-    "weight": 0.1
+    "weight": 0.001
   },
   "Dwarven battleaxe": {
     "quest": true,
@@ -13145,6 +13882,9 @@
   "Exquisite clothes": {
     "quest": true,
     "weight": 0.05
+  },
+  "Bird's egg": {
+    "weight": 0.002
   },
   "Gardening trowel": {
     "weight": 0.056
@@ -13247,7 +13987,7 @@
     "weight": 0.028
   },
   "Empty sack": {
-    "weight": 0.4
+    "weight": 0.453
   },
   "Apple seedling": {
     "weight": 0.907
@@ -13347,9 +14087,6 @@
   },
   "Elemental talisman": {
     "weight": 0.015
-  },
-  "Scrying orb": {
-    "weight": 1.0
   },
   "Abyssal book": {
     "weight": 0.01
@@ -13459,7 +14196,7 @@
   },
   "Rogue mask": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 0,
       "dstab": 5,
@@ -13592,7 +14329,7 @@
   },
   "Metal spade": {
     "quest": true,
-    "weight": 1.8
+    "weight": 1.814
   },
   "Alchemical notes": {
     "quest": true,
@@ -13912,6 +14649,15 @@
       "aspeed": 3
     }
   },
+  "Iron knife(p+)": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 5,
+      "rstr": 4,
+      "aspeed": 3
+    }
+  },
   "Steel knife(p+)": {
     "equipable": true,
     "equipment": {
@@ -13966,6 +14712,15 @@
       "aspeed": 3
     }
   },
+  "Iron knife(p++)": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 5,
+      "rstr": 4,
+      "aspeed": 3
+    }
+  },
   "Steel knife(p++)": {
     "equipable": true,
     "equipment": {
@@ -14013,7 +14768,7 @@
   },
   "Iron dagger(p+)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -14027,7 +14782,7 @@
   },
   "Bronze dagger(p+)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 4,
@@ -14040,12 +14795,11 @@
     }
   },
   "Steel dagger(p+)": {
-    "equipable": true,
-    "weight": 0.4
+    "equipable": true
   },
   "Mithril dagger(p+)": {
     "equipable": true,
-    "weight": 0.3,
+    "weight": 0.396,
     "equipment": {
       "slot": 3,
       "astab": 11,
@@ -14059,7 +14813,6 @@
   },
   "Adamant dagger(p+)": {
     "equipable": true,
-    "weight": 0.5,
     "equipment": {
       "slot": 3,
       "astab": 15,
@@ -14073,7 +14826,7 @@
   },
   "Rune dagger(p+)": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 25,
@@ -14087,7 +14840,7 @@
   },
   "Dragon dagger(p+)": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -14101,7 +14854,7 @@
   },
   "Black dagger(p+)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -14115,7 +14868,7 @@
   },
   "Iron dagger(p++)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -14129,7 +14882,7 @@
   },
   "Bronze dagger(p++)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 4,
@@ -14142,12 +14895,11 @@
     }
   },
   "Steel dagger(p++)": {
-    "equipable": true,
-    "weight": 0.4
+    "equipable": true
   },
   "Mithril dagger(p++)": {
     "equipable": true,
-    "weight": 0.3,
+    "weight": 0.396,
     "equipment": {
       "slot": 3,
       "astab": 11,
@@ -14159,23 +14911,9 @@
       "aspeed": 4
     }
   },
-  "Adamant dagger(p++)": {
-    "equipable": true,
-    "weight": 0.5,
-    "equipment": {
-      "slot": 3,
-      "astab": 15,
-      "aslash": 8,
-      "acrush": -4,
-      "amagic": 1,
-      "dmagic": 1,
-      "str": 14,
-      "aspeed": 4
-    }
-  },
   "Rune dagger(p++)": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 25,
@@ -14189,7 +14927,7 @@
   },
   "Dragon dagger(p++)": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -14203,7 +14941,7 @@
   },
   "Black dagger(p++)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -14217,7 +14955,7 @@
   },
   "Bronze spear(p+)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -14231,7 +14969,7 @@
   },
   "Iron spear(p+)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 8,
@@ -14245,7 +14983,7 @@
   },
   "Steel spear(p+)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -14259,7 +14997,6 @@
   },
   "Mithril spear(p+)": {
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "astab": 17,
@@ -14273,7 +15010,7 @@
   },
   "Adamant spear(p+)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 3,
       "astab": 24,
@@ -14287,7 +15024,6 @@
   },
   "Rune spear(p+)": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 36,
@@ -14301,7 +15037,7 @@
   },
   "Dragon spear(p+)": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 55,
@@ -14318,7 +15054,7 @@
   },
   "Bronze spear(p++)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -14332,7 +15068,7 @@
   },
   "Iron spear(p++)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 8,
@@ -14346,7 +15082,7 @@
   },
   "Steel spear(p++)": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 12,
@@ -14360,7 +15096,6 @@
   },
   "Mithril spear(p++)": {
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "astab": 17,
@@ -14374,7 +15109,7 @@
   },
   "Adamant spear(p++)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 3,
       "astab": 24,
@@ -14388,7 +15123,6 @@
   },
   "Rune spear(p++)": {
     "equipable": true,
-    "weight": 2.2,
     "equipment": {
       "slot": 3,
       "astab": 36,
@@ -14402,7 +15136,7 @@
   },
   "Dragon spear(p++)": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 3,
       "astab": 55,
@@ -14419,6 +15153,34 @@
   },
   "Rotten potato": {
     "weight": 1.814
+  },
+  "Black spear(p+)": {
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "dstab": 1,
+      "dslash": 1,
+      "str": 16,
+      "aspeed": 5
+    }
+  },
+  "Black spear(p++)": {
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "dstab": 1,
+      "dslash": 1,
+      "str": 16,
+      "aspeed": 5
+    }
   },
   "Asgarnian ale(m)": {
     "weight": 0.55
@@ -14441,6 +15203,9 @@
   "Axeman's folly(m)": {
     "weight": 0.55
   },
+  "Chef's delight": {
+    "weight": 0.55
+  },
   "Chef's delight(m)": {
     "weight": 0.55
   },
@@ -14451,7 +15216,7 @@
     "weight": 0.55
   },
   "Cider": {
-    "weight": 1.0
+    "weight": 0.55
   },
   "Mature cider": {
     "weight": 0.55
@@ -14462,8 +15227,81 @@
   "Calquat keg": {
     "weight": 0.028
   },
+  "Dwarven stout(1)": {
+    "weight": 0.028
+  },
+  "Dwarven stout(2)": {
+    "weight": 0.028
+  },
+  "Dwarven stout(3)": {
+    "weight": 0.028
+  },
+  "Dwarven stout(4)": {
+    "weight": 0.028
+  },
   "Greenmans ale(4)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.55
+  },
+  "Mind bomb(1)": {
+    "weight": 0.028
+  },
+  "Mind bomb(2)": {
+    "weight": 0.028
+  },
+  "Mind bomb(3)": {
+    "weight": 0.028
+  },
+  "Mind bomb(4)": {
+    "weight": 0.028
+  },
+  "Dragon bitter(1)": {
+    "weight": 0.028
+  },
+  "Dragon bitter(2)": {
+    "weight": 0.028
+  },
+  "Dragon bitter(3)": {
+    "weight": 0.028
+  },
+  "Dragon bitter(4)": {
+    "weight": 0.028
+  },
+  "Axeman's folly(1)": {
+    "weight": 0.028
+  },
+  "Axeman's folly(2)": {
+    "weight": 0.028
+  },
+  "Axeman's folly(3)": {
+    "weight": 0.028
+  },
+  "Axeman's folly(4)": {
+    "weight": 0.028
+  },
+  "Chef's delight(1)": {
+    "weight": 0.028
+  },
+  "Chef's delight(2)": {
+    "weight": 0.028
+  },
+  "Chef's delight(3)": {
+    "weight": 0.028
+  },
+  "Chef's delight(4)": {
+    "weight": 0.028
+  },
+  "Slayer's respite(1)": {
+    "weight": 0.028
+  },
+  "Slayer's respite(2)": {
+    "weight": 0.028
+  },
+  "Slayer's respite(3)": {
+    "weight": 0.028
+  },
+  "Slayer's respite(4)": {
+    "weight": 0.028
   },
   "Dwarven stout(m4)": {
     "weight": 0.55
@@ -14483,14 +15321,23 @@
   "Axeman's folly(m4)": {
     "weight": 0.55
   },
+  "Chef's delight(m4)": {
+    "weight": 0.028
+  },
   "Slayer's respite(m4)": {
     "weight": 0.55
+  },
+  "Cider(m4)": {
+    "weight": 0.028
   },
   "Jute fibre": {
     "weight": 0.226
   },
   "Willow branch": {
     "weight": 0.907
+  },
+  "Coconut milk": {
+    "weight": 0.035
   },
   "Weapon poison+ (unf)": {
     "weight": 0.035
@@ -14510,13 +15357,31 @@
   "Antidote++ (unf)": {
     "weight": 0.035
   },
+  "Antidote++(4)": {
+    "weight": 0.035
+  },
+  "Antidote++(3)": {
+    "weight": 0.035
+  },
+  "Antidote++(2)": {
+    "weight": 0.035
+  },
+  "Antidote++(1)": {
+    "weight": 0.035
+  },
   "Curry leaf": {
     "weight": 0.028
   },
   "Papaya fruit": {
     "weight": 0.028
   },
+  "Coconut": {
+    "weight": 0.028
+  },
   "Half coconut": {
+    "weight": 0.028
+  },
+  "Coconut shell": {
     "weight": 0.028
   },
   "Calquat fruit": {
@@ -14526,6 +15391,9 @@
     "weight": 0.113
   },
   "Watermelon slice": {
+    "weight": 0.028
+  },
+  "Sweetcorn": {
     "weight": 0.028
   },
   "Cooked sweetcorn": {
@@ -14555,7 +15423,13 @@
   "Barley malt": {
     "weight": 0.028
   },
+  "Marigolds": {
+    "weight": 0.028
+  },
   "Nasturtiums": {
+    "weight": 0.028
+  },
+  "Rosemary": {
     "weight": 0.028
   },
   "Cactus spine": {
@@ -14564,11 +15438,17 @@
   "Poison ivy berries": {
     "weight": 0.007
   },
+  "Leaves": {
+    "weight": 0.028
+  },
   "Compost": {
     "weight": 3.0
   },
   "Supercompost": {
     "weight": 3.0
+  },
+  "Plant cure": {
+    "weight": 0.035
   },
   "Magic string": {
     "weight": 0.014
@@ -14600,7 +15480,7 @@
     "weight": 0.001
   },
   "Hay sack": {
-    "weight": 0.1
+    "weight": 0.113
   },
   "Scarecrow": {
     "weight": 0.113
@@ -14623,9 +15503,43 @@
     "quest": true,
     "weight": 2.721
   },
+  "Mourner top": {
+    "quest": true,
+    "equipable": true,
+    "weight": 2.721,
+    "equipment": {
+      "slot": 4
+    }
+  },
   "Mourner trousers": {
     "quest": true,
-    "weight": 2.0
+    "weight": 2.267
+  },
+  "Mourner gloves": {
+    "quest": true,
+    "equipable": true,
+    "weight": 2.0,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "Mourner boots": {
+    "quest": true,
+    "equipable": true,
+    "weight": 1.36,
+    "equipment": {
+      "slot": 10,
+      "dslash": 1,
+      "dcrush": 1
+    }
+  },
+  "Mourner cloak": {
+    "quest": true,
+    "equipable": true,
+    "weight": 2.267,
+    "equipment": {
+      "slot": 1
+    }
   },
   "Mourner letter": {
     "quest": true,
@@ -14729,6 +15643,7 @@
   "Ghostly boots": {
     "quest": true,
     "equipable": true,
+    "weight": 0.001,
     "equipment": {
       "slot": 10,
       "amagic": 2,
@@ -14777,8 +15692,7 @@
     "weight": 0.55
   },
   "Square stone": {
-    "quest": true,
-    "weight": 1.0
+    "quest": true
   },
   "A chair": {
     "quest": true,
@@ -14788,7 +15702,6 @@
   "Enchanted lyre(3)": {
     "quest": true,
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "aspeed": 4
@@ -14797,7 +15710,6 @@
   "Enchanted lyre(4)": {
     "quest": true,
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "aspeed": 4
@@ -14805,7 +15717,7 @@
   },
   "Rock-shell helm": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -14847,7 +15759,7 @@
   },
   "Spined helm": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "astab": -6,
@@ -14891,7 +15803,7 @@
   },
   "Skeletal helm": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.36,
     "equipment": {
       "slot": 0,
       "amagic": 2,
@@ -15017,7 +15929,7 @@
   },
   "Lederhosen top": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 4
     }
@@ -15055,7 +15967,7 @@
   },
   "Princess blouse": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.721,
     "equipment": {
       "slot": 4
     }
@@ -15069,6 +15981,7 @@
   },
   "Frog mask": {
     "equipable": true,
+    "weight": 0.453,
     "equipment": {
       "slot": 0
     }
@@ -15081,6 +15994,9 @@
   },
   "Fishlike thing": {
     "weight": 0.7
+  },
+  "Teak pyre logs": {
+    "weight": 1.36
   },
   "Mahogany pyre log": {
     "weight": 1.36
@@ -15149,6 +16065,20 @@
       "aspeed": 4
     }
   },
+  "Snakeskin body": {
+    "equipable": true,
+    "weight": 6.803,
+    "equipment": {
+      "slot": 4,
+      "amagic": -5,
+      "arange": 12,
+      "dstab": 25,
+      "dslash": 28,
+      "dcrush": 32,
+      "dmagic": 15,
+      "drange": 35
+    }
+  },
   "Snakeskin chaps": {
     "equipable": true,
     "weight": 3.628,
@@ -15179,6 +16109,7 @@
   },
   "Snakeskin boots": {
     "equipable": true,
+    "weight": 0.34,
     "equipment": {
       "slot": 10,
       "amagic": -10,
@@ -15218,6 +16149,7 @@
   },
   "Desert top": {
     "equipable": true,
+    "weight": 0.005,
     "equipment": {
       "slot": 4
     }
@@ -15393,7 +16325,8 @@
     "weight": 0.907
   },
   "Ring of charos(a)": {
-    "equipable": true
+    "equipable": true,
+    "weight": 0.005
   },
   "Rune shards": {
     "quest": true,
@@ -15426,7 +16359,7 @@
   },
   "Toktz-xil-ak": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 1.814,
     "equipment": {
       "slot": 3,
       "astab": 47,
@@ -15518,7 +16451,8 @@
     }
   },
   "Present": {
-    "quest": true
+    "quest": true,
+    "weight": 2.0
   },
   "Catspeak amulet(e)": {
     "quest": true,
@@ -15574,11 +16508,24 @@
   },
   "Mystic mud staff": {
     "equipable": true,
-    "weight": 2.267
+    "weight": 2.267,
+    "equipment": {
+      "slot": 3,
+      "astab": 10,
+      "aslash": -1,
+      "acrush": 40,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 50,
+      "aspeed": 5
+    }
   },
   "Obsidian cape": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 1.814,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -15587,9 +16534,6 @@
       "dmagic": 9,
       "drange": 9
     }
-  },
-  "Fire cape": {
-    "weight": 1.8
   },
   "Uncut onyx": {
     "weight": 0.003
@@ -15675,7 +16619,6 @@
   },
   "White dagger": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -15690,7 +16633,6 @@
   },
   "White dagger(p)": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -15705,7 +16647,6 @@
   },
   "White dagger(p+)": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -15720,7 +16661,6 @@
   },
   "White dagger(p++)": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -15870,7 +16810,7 @@
   },
   "White platebody": {
     "equipable": true,
-    "weight": 9.9,
+    "weight": 9.979,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -16003,6 +16943,14 @@
     "quest": true,
     "weight": 0.001
   },
+  "Colour wheel": {
+    "quest": true,
+    "weight": 0.001
+  },
+  "Hand mirror": {
+    "quest": true,
+    "weight": 0.01
+  },
   "Red crystal": {
     "quest": true,
     "weight": 0.015
@@ -16016,7 +16964,12 @@
     "weight": 0.015
   },
   "Cyan crystal": {
-    "quest": true
+    "quest": true,
+    "weight": 0.015
+  },
+  "Blue crystal": {
+    "quest": true,
+    "weight": 0.015
   },
   "Magenta crystal": {
     "quest": true,
@@ -16038,7 +16991,8 @@
     "weight": 0.015
   },
   "Newly made crystal": {
-    "quest": true
+    "quest": true,
+    "weight": 0.015
   },
   "Crystal trinket": {
     "quest": true,
@@ -16046,21 +17000,21 @@
   },
   "Camo top": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 4
     }
   },
   "Camo bottoms": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 7
     }
   },
   "Camo helmet": {
     "equipable": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipment": {
       "slot": 0
     }
@@ -16134,6 +17088,7 @@
   },
   "Slayer gloves": {
     "equipable": true,
+    "weight": 0.226,
     "equipment": {
       "slot": 9,
       "dstab": 4,
@@ -16158,7 +17113,8 @@
     "weight": 3.0
   },
   "Karamthulhu": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Fever spider body": {
     "quest": true,
@@ -16170,6 +17126,9 @@
   },
   "Rusty scimitar": {
     "weight": 2.267
+  },
+  "Zombie head": {
+    "weight": 2.721
   },
   "Seercull": {
     "equipable": true,
@@ -16234,7 +17193,7 @@
   "Darklight": {
     "quest": true,
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 3,
       "astab": 10,
@@ -16353,6 +17312,7 @@
   "Robe of elidinis": {
     "quest": true,
     "equipable": true,
+    "weight": 0.005,
     "equipment": {
       "slot": 4
     }
@@ -16437,14 +17397,25 @@
   "Orb": {
     "weight": 0.001
   },
+  "Star bauble": {
+    "weight": 0.2
+  },
+  "Diamond bauble": {
+    "weight": 0.2
+  },
+  "Tree bauble": {
+    "weight": 0.2
+  },
   "Bobble hat": {
     "equipable": true,
+    "weight": 0.25,
     "equipment": {
       "slot": 0
     }
   },
   "Bobble scarf": {
     "equipable": true,
+    "weight": 0.25,
     "equipment": {
       "slot": 2
     }
@@ -16532,7 +17503,7 @@
   },
   "Beginner wand": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.283,
     "equipment": {
       "slot": 3,
       "amagic": 5,
@@ -16542,6 +17513,7 @@
   },
   "Apprentice wand": {
     "equipable": true,
+    "weight": 0.255,
     "equipment": {
       "slot": 3,
       "amagic": 10,
@@ -16561,6 +17533,7 @@
   },
   "Master wand": {
     "equipable": true,
+    "weight": 0.198,
     "equipment": {
       "slot": 3,
       "amagic": 20,
@@ -16570,7 +17543,7 @@
   },
   "Infinity top": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 4,
       "amagic": 22,
@@ -16605,7 +17578,7 @@
   },
   "Infinity bottoms": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.814,
     "equipment": {
       "slot": 7,
       "amagic": 17,
@@ -16629,10 +17602,12 @@
     "weight": 0.02
   },
   "Magical orb": {
-    "quest": true
+    "quest": true,
+    "weight": 0.02
   },
   "Magical orb (a)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.02
   },
   "Truth serum": {
     "quest": true
@@ -16695,17 +17670,56 @@
   "Granite (5kg)": {
     "quest": true
   },
+  "Sandstone (20kg)": {
+    "quest": true,
+    "weight": 20.0
+  },
   "Sandstone (32kg)": {
     "quest": true,
     "weight": 32.0
   },
+  "Sandstone body": {
+    "quest": true,
+    "weight": 30.0
+  },
+  "Sandstone base": {
+    "quest": true,
+    "weight": 23.0
+  },
   "Stone head": {
+    "quest": true,
+    "weight": 0.5
+  },
+  "Z sigil": {
     "quest": true,
     "weight": 0.5
   },
   "M sigil": {
     "quest": true,
     "weight": 0.5
+  },
+  "R sigil": {
+    "weight": 0.5
+  },
+  "K sigil": {
+    "quest": true,
+    "weight": 0.5
+  },
+  "Stone left arm": {
+    "quest": true,
+    "weight": 9.0
+  },
+  "Stone right arm": {
+    "quest": true,
+    "weight": 9.0
+  },
+  "Stone left leg": {
+    "quest": true,
+    "weight": 9.0
+  },
+  "Stone right leg": {
+    "quest": true,
+    "weight": 9.0
   },
   "Camel mould (p)": {
     "quest": true,
@@ -16721,14 +17735,14 @@
   },
   "Unlit bug lantern": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 5
     }
   },
   "Lit bug lantern": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 5
     }
@@ -16789,7 +17803,7 @@
     "weight": 0.001
   },
   "Fuse": {
-    "weight": 3.0
+    "weight": 1.0
   },
   "Pirate boots": {
     "equipable": true,
@@ -16875,7 +17889,7 @@
   },
   "Dragon 2h sword": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.628,
     "equipment": {
       "slot": 3,
       "astab": -4,
@@ -16918,16 +17932,40 @@
   "Raw garden pie": {
     "weight": 0.001
   },
+  "Garden pie": {
+    "weight": 0.001
+  },
+  "Half a garden pie": {
+    "weight": 0.001
+  },
   "Raw fish pie": {
     "weight": 0.001
   },
   "Raw admiral pie": {
     "weight": 0.001
   },
+  "Admiral pie": {
+    "weight": 0.001
+  },
+  "Half an admiral pie": {
+    "weight": 0.001
+  },
   "Raw wild pie": {
     "weight": 0.001
   },
+  "Wild pie": {
+    "weight": 0.001
+  },
+  "Half a wild pie": {
+    "weight": 0.001
+  },
   "Raw summer pie": {
+    "weight": 0.001
+  },
+  "Summer pie": {
+    "weight": 0.001
+  },
+  "Half a summer pie": {
     "weight": 0.001
   },
   "Roast rabbit": {
@@ -16936,45 +17974,47 @@
   "Iron spit": {
     "weight": 1.5
   },
-  "Burnt chompy": {
-    "weight": 10.0
-  },
   "Skewered chompy": {
     "weight": 2.5
   },
   "Red boater": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 0
     }
   },
   "Orange boater": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 0
     }
   },
   "Green boater": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 0
     }
   },
   "Blue boater": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 0
     }
   },
   "Black boater": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 0
     }
   },
   "Black shield (h1)": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -16988,7 +18028,7 @@
   },
   "Adamant shield (h1)": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.896,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17002,7 +18042,7 @@
   },
   "Rune shield (h1)": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17016,7 +18056,7 @@
   },
   "Black shield (h2)": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17030,7 +18070,7 @@
   },
   "Adamant shield (h2)": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.896,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17044,7 +18084,7 @@
   },
   "Rune shield (h2)": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17058,7 +18098,7 @@
   },
   "Black shield (h3)": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17072,7 +18112,7 @@
   },
   "Adamant shield (h3)": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.896,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17086,7 +18126,7 @@
   },
   "Rune shield (h3)": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17100,7 +18140,7 @@
   },
   "Black shield (h4)": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17114,7 +18154,7 @@
   },
   "Adamant shield (h4)": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.896,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17128,7 +18168,7 @@
   },
   "Rune shield (h4)": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17142,7 +18182,7 @@
   },
   "Black shield (h5)": {
     "equipable": true,
-    "weight": 4.0,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17156,7 +18196,7 @@
   },
   "Adamant shield (h5)": {
     "equipable": true,
-    "weight": 5.0,
+    "weight": 5.896,
     "equipment": {
       "slot": 5,
       "amagic": -8,
@@ -17184,7 +18224,7 @@
   },
   "Studded body (g)": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 4,
       "amagic": -4,
@@ -17198,7 +18238,7 @@
   },
   "Studded body (t)": {
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 4,
       "amagic": -4,
@@ -17411,7 +18451,7 @@
   },
   "Enchanted top": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 4,
       "amagic": 20,
@@ -17456,6 +18496,9 @@
       "aspeed": 5
     }
   },
+  "Queen's secateurs": {
+    "weight": 0.453
+  },
   "Symptoms list": {
     "quest": true,
     "weight": 0.01
@@ -17469,6 +18512,39 @@
   },
   "Mole skin": {
     "weight": 0.001
+  },
+  "Fungicide spray 10": {
+    "weight": 2.0
+  },
+  "Fungicide spray 9": {
+    "weight": 2.0
+  },
+  "Fungicide spray 8": {
+    "weight": 2.0
+  },
+  "Fungicide spray 7": {
+    "weight": 2.0
+  },
+  "Fungicide spray 6": {
+    "weight": 2.0
+  },
+  "Fungicide spray 5": {
+    "weight": 2.0
+  },
+  "Fungicide spray 4": {
+    "weight": 2.0
+  },
+  "Fungicide spray 3": {
+    "weight": 2.0
+  },
+  "Fungicide spray 2": {
+    "weight": 2.0
+  },
+  "Fungicide spray 1": {
+    "weight": 2.0
+  },
+  "Fungicide spray 0": {
+    "weight": 2.0
   },
   "Fungicide": {
     "weight": 0.1
@@ -17525,7 +18601,7 @@
       "acrush": 21,
       "amagic": -4,
       "drange": -1,
-      "str": 22,
+      "str": 26,
       "aspeed": 7
     }
   },
@@ -17598,7 +18674,7 @@
   },
   "Cleaver": {
     "equipable": true,
-    "weight": 0.5,
+    "weight": 1.814,
     "equipment": {
       "slot": 3,
       "astab": 7,
@@ -17701,7 +18777,7 @@
   },
   "Mithril gloves": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 9,
       "astab": 6,
@@ -17719,7 +18795,7 @@
   },
   "Adamant gloves": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 9,
       "astab": 7,
@@ -17737,7 +18813,7 @@
   },
   "Rune gloves": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 9,
       "astab": 8,
@@ -17832,52 +18908,68 @@
     "weight": 1.5
   },
   "Red spice (4)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Red spice (3)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Red spice (2)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Red spice (1)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Orange spice (4)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Orange spice (3)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Orange spice (2)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Orange spice (1)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Brown spice (4)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Brown spice (3)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Brown spice (2)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Brown spice (1)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Yellow spice (4)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Yellow spice (3)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Yellow spice (2)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Yellow spice (1)": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Empty spice shaker": {
     "quest": true
@@ -17891,7 +18983,8 @@
     "weight": 0.55
   },
   "Dwarven rock cake": {
-    "quest": true
+    "quest": true,
+    "weight": 0.453
   },
   "Slop of compromise": {
     "quest": true,
@@ -17921,7 +19014,8 @@
     "weight": 0.056
   },
   "Crab meat": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Burnt crab meat": {
     "quest": true,
@@ -17982,6 +19076,10 @@
       "dcrush": 2,
       "str": 1
     }
+  },
+  "Fresh crab shell": {
+    "quest": true,
+    "weight": 0.907
   },
   "Crab helmet": {
     "equipable": true,
@@ -18077,6 +19175,7 @@
   },
   "Zombie shirt": {
     "equipable": true,
+    "weight": 0.003,
     "equipment": {
       "slot": 4
     }
@@ -18140,7 +19239,8 @@
     "weight": 0.05
   },
   "Silvthrill rod": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Rod clay mould": {
     "quest": true
@@ -18164,7 +19264,7 @@
   },
   "Boxing gloves": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "dslash": 1,
@@ -18209,6 +19309,9 @@
   },
   "Teapot with leaves": {
     "weight": 1.5
+  },
+  "Teapot": {
+    "weight": 0.453
   },
   "Tea leaves": {
     "weight": 0.01
@@ -18325,13 +19428,15 @@
     "weight": 1.36
   },
   "Goblin skull": {
-    "quest": true
+    "quest": true,
+    "weight": 0.003
   },
   "Bone in vinegar": {
     "weight": 1.0
   },
   "Bear ribs": {
-    "quest": true
+    "quest": true,
+    "weight": 0.003
   },
   "Ram skull": {
     "quest": true
@@ -18340,107 +19445,120 @@
     "quest": true
   },
   "Giant rat bone": {
-    "quest": true
+    "quest": true,
+    "weight": 0.003
   },
   "Giant bat wing": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Wolf bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Bat wing": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Rat bone": {
-    "quest": true,
-    "weight": 0.4
+    "quest": true
   },
   "Baby dragon bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Ogre ribs": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Jogre bone": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Zogre bone": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Mogre bone": {
     "quest": true
   },
   "Monkey paw": {
-    "quest": true
+    "quest": true,
+    "weight": 0.003
   },
   "Dagannoth ribs": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Snake spine": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Zombie bone": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Werewolf bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Moss giant bone": {
-    "quest": true
+    "quest": true,
+    "weight": 0.003
   },
   "Fire giant bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Ice giant ribs": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Terrorbird wing": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Ghoul bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Troll bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Seagull wing": {
     "quest": true
   },
   "Undead cow ribs": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Experiment bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Rabbit bone": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Basilisk bone": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Desert lizard bone": {
     "quest": true
   },
   "Cave goblin skull": {
     "quest": true,
-    "weight": 0.9
+    "weight": 0.907
   },
   "Big frog leg": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Vulture wing": {
-    "quest": true
+    "quest": true,
+    "weight": 0.907
   },
   "Jackal bone": {
     "quest": true
@@ -18448,7 +19566,28 @@
   "Ram skull helm": {
     "quest": true,
     "equipable": true,
-    "weight": 3.175
+    "weight": 3.175,
+    "equipment": {
+      "slot": 0,
+      "arange": -2,
+      "dstab": 19,
+      "dslash": 21,
+      "dcrush": 16,
+      "drange": 19
+    }
+  },
+  "Bonesack": {
+    "quest": true,
+    "equipable": true,
+    "weight": 0.003,
+    "equipment": {
+      "slot": 1,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 4,
+      "dmagic": 4,
+      "drange": 4
+    }
   },
   "Bottle of wine": {
     "weight": 1.0
@@ -18457,6 +19596,9 @@
     "weight": 1.0
   },
   "Al kharid flyer": {
+    "weight": 0.001
+  },
+  "Easter ring": {
     "weight": 0.001
   },
   "Field ration": {
@@ -18473,8 +19615,7 @@
     "weight": 1.814
   },
   "Fresh monkfish": {
-    "quest": true,
-    "weight": 0.4
+    "quest": true
   },
   "Raw monkfish": {
     "weight": 0.45
@@ -18522,6 +19663,13 @@
   },
   "Lift manual": {
     "quest": true
+  },
+  "Beam": {
+    "quest": true,
+    "weight": 0.01
+  },
+  "Cockatrice head": {
+    "weight": 10.0
   },
   "Basilisk head": {
     "weight": 10.0
@@ -18673,38 +19821,14 @@
   "Bolt of cloth": {
     "weight": 1.0
   },
+  "Clockwork": {
+    "weight": 1.0
+  },
   "Saw": {
     "weight": 1.0
   },
   "Void knight top": {
     "weight": 6.0
-  },
-  "Void knight robe": {
-    "weight": 8.0
-  },
-  "Void knight mace": {
-    "weight": 1.0
-  },
-  "Bronze defender": {
-    "weight": 0.4
-  },
-  "Iron defender": {
-    "weight": 0.4
-  },
-  "Steel defender": {
-    "weight": 0.4
-  },
-  "Black defender": {
-    "weight": 0.4
-  },
-  "Mithril defender": {
-    "weight": 0.4
-  },
-  "Adamant defender": {
-    "weight": 0.4
-  },
-  "Rune defender": {
-    "weight": 0.4
   },
   "Defensive shield": {
     "equipable": true,
@@ -18773,7 +19897,7 @@
   },
   "Bone dagger": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -18787,7 +19911,7 @@
   },
   "Bone dagger (p)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -18801,7 +19925,7 @@
   },
   "Bone dagger (p+)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -18815,7 +19939,7 @@
   },
   "Bone dagger (p++)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 5,
@@ -18845,7 +19969,6 @@
   },
   "Black mask (10)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18859,7 +19982,6 @@
   },
   "Black mask (9)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18873,7 +19995,6 @@
   },
   "Black mask (8)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18887,7 +20008,6 @@
   },
   "Black mask (7)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18901,7 +20021,6 @@
   },
   "Black mask (6)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18915,7 +20034,6 @@
   },
   "Black mask (5)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18929,7 +20047,6 @@
   },
   "Black mask (4)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18943,7 +20060,6 @@
   },
   "Black mask (3)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18957,7 +20073,6 @@
   },
   "Black mask (2)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18971,7 +20086,6 @@
   },
   "Black mask (1)": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -18985,7 +20099,6 @@
   },
   "Black mask": {
     "equipable": true,
-    "weight": 9.5,
     "equipment": {
       "slot": 0,
       "amagic": -3,
@@ -19204,6 +20317,9 @@
     "weight": 0.003
   },
   "The stuff": {
+    "weight": 0.001
+  },
+  "Brewin' guide": {
     "weight": 0.001
   },
   "Blue navy slacks": {
@@ -19455,8 +20571,7 @@
     "weight": 3.628
   },
   "Emerald lantern": {
-    "quest": true,
-    "weight": 1.3
+    "quest": true
   },
   "Emerald lens": {
     "quest": true,
@@ -19482,7 +20597,7 @@
   },
   "Moonclan hat": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 0.907,
     "equipment": {
       "slot": 0,
       "amagic": 3,
@@ -19562,6 +20677,10 @@
       "dmagic": 2,
       "drange": -2
     }
+  },
+  "Lunar ore": {
+    "quest": true,
+    "weight": 2.267
   },
   "Lunar bar": {
     "quest": true,
@@ -19683,7 +20802,7 @@
   "Lunar helm": {
     "quest": true,
     "equipable": true,
-    "weight": 0.9,
+    "weight": 0.907,
     "equipment": {
       "slot": 0,
       "amagic": 3,
@@ -19720,6 +20839,20 @@
       "dslash": 19,
       "dcrush": 23,
       "dmagic": 9
+    }
+  },
+  "Lunar gloves": {
+    "quest": true,
+    "equipable": true,
+    "weight": 0.907,
+    "equipment": {
+      "slot": 9,
+      "amagic": 4,
+      "arange": -1,
+      "dstab": 2,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 2
     }
   },
   "Lunar boots": {
@@ -20160,6 +21293,7 @@
   },
   "Grapple": {
     "equipable": true,
+    "weight": 0.001,
     "equipment": {
       "slot": 13
     }
@@ -20169,6 +21303,7 @@
   },
   "Mith grapple": {
     "equipable": true,
+    "weight": 0.001,
     "equipment": {
       "slot": 13
     }
@@ -20196,6 +21331,9 @@
   },
   "Bolt pouch": {
     "weight": 1.0
+  },
+  "Bolt mould": {
+    "weight": 0.4
   },
   "Sinew": {
     "weight": 0.002
@@ -20287,7 +21425,8 @@
     "weight": 0.15
   },
   "Dossier": {
-    "quest": true
+    "quest": true,
+    "weight": 0.003
   },
   "Magic glue": {
     "quest": true,
@@ -20526,7 +21665,7 @@
   "Proselyte hauberk": {
     "quest": true,
     "equipable": true,
-    "weight": 8.6,
+    "weight": 8.618,
     "equipment": {
       "slot": 4,
       "amagic": -30,
@@ -20537,6 +21676,38 @@
       "dmagic": -6,
       "drange": 63,
       "prayer": 8
+    }
+  },
+  "Proselyte cuisse": {
+    "quest": true,
+    "equipable": true,
+    "weight": 7.711,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 31,
+      "dcrush": 29,
+      "dmagic": -4,
+      "drange": 31,
+      "prayer": 6
+    }
+  },
+  "Proselyte tasset": {
+    "quest": true,
+    "equipable": true,
+    "weight": 8.164,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 31,
+      "dcrush": 29,
+      "dmagic": -4,
+      "drange": 31,
+      "prayer": 6
     }
   },
   "Sea slug glue": {
@@ -20715,7 +21886,7 @@
   },
   "Attack cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20728,7 +21899,7 @@
   },
   "Attack cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20748,7 +21919,7 @@
   },
   "Strength cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20761,7 +21932,7 @@
   },
   "Strength cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20781,7 +21952,7 @@
   },
   "Defence cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20794,7 +21965,7 @@
   },
   "Defence cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20814,7 +21985,6 @@
   },
   "Ranging cape": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20827,7 +21997,6 @@
   },
   "Ranging cape(t)": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20847,7 +22016,7 @@
   },
   "Prayer cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20860,7 +22029,7 @@
   },
   "Prayer cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20880,7 +22049,7 @@
   },
   "Magic cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20893,7 +22062,7 @@
   },
   "Magic cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20913,7 +22082,7 @@
   },
   "Runecraft cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20926,7 +22095,7 @@
   },
   "Runecraft cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20946,7 +22115,7 @@
   },
   "Hitpoints cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -20959,7 +22128,7 @@
   },
   "Hitpoints cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21010,7 +22179,6 @@
   },
   "Herblore cape": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21023,7 +22191,6 @@
   },
   "Herblore cape(t)": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21043,7 +22210,7 @@
   },
   "Thieving cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21056,7 +22223,7 @@
   },
   "Thieving cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21076,7 +22243,7 @@
   },
   "Crafting cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21089,7 +22256,7 @@
   },
   "Crafting cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21109,7 +22276,7 @@
   },
   "Fletching cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21122,7 +22289,7 @@
   },
   "Fletching cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21142,7 +22309,7 @@
   },
   "Slayer cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21155,7 +22322,7 @@
   },
   "Slayer cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21175,7 +22342,7 @@
   },
   "Construct. cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21188,7 +22355,7 @@
   },
   "Construct. cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21208,7 +22375,7 @@
   },
   "Mining cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21221,7 +22388,7 @@
   },
   "Mining cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21241,7 +22408,7 @@
   },
   "Smithing cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21254,7 +22421,7 @@
   },
   "Smithing cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21274,7 +22441,7 @@
   },
   "Fishing cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21287,7 +22454,7 @@
   },
   "Fishing cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21307,7 +22474,7 @@
   },
   "Cooking cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21320,7 +22487,7 @@
   },
   "Cooking cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21340,7 +22507,7 @@
   },
   "Firemaking cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21353,7 +22520,7 @@
   },
   "Firemaking cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21373,7 +22540,6 @@
   },
   "Woodcutting cape": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21386,7 +22552,6 @@
   },
   "Woodcut. cape(t)": {
     "equipable": true,
-    "weight": 0.4,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21406,7 +22571,7 @@
   },
   "Farming cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21419,7 +22584,7 @@
   },
   "Farming cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21480,41 +22645,42 @@
   },
   "Jack lantern mask": {
     "equipable": true,
+    "weight": 0.003,
     "equipment": {
       "slot": 0
     }
   },
   "Skeleton boots": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 10
     }
   },
   "Skeleton gloves": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 9
     }
   },
   "Skeleton leggings": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 7
     }
   },
   "Skeleton shirt": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 4
     }
   },
   "Skeleton mask": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipment": {
       "slot": 0
     }
@@ -21528,31 +22694,40 @@
     "weight": 0.001
   },
   "Origami balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Yellow balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Blue balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Red balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Orange balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Green balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Purple balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Pink balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Black balloon": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Sandbag": {
     "quest": true,
@@ -21587,7 +22762,7 @@
   },
   "Hunter cape": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21600,7 +22775,7 @@
   },
   "Hunter cape(t)": {
     "equipable": true,
-    "weight": 0.4,
+    "weight": 0.453,
     "equipment": {
       "slot": 1,
       "dstab": 9,
@@ -21675,7 +22850,7 @@
   },
   "Falconer's glove": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 0.907,
     "equipment": {
       "slot": 3,
       "dslash": 1,
@@ -21707,7 +22882,7 @@
   },
   "Kyatt top": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 4,
       "dstab": 10,
@@ -21742,7 +22917,7 @@
   },
   "Larupia top": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 4,
       "dstab": 10,
@@ -21777,7 +22952,7 @@
   },
   "Graahk top": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 4,
       "dstab": 10,
@@ -21800,7 +22975,7 @@
   },
   "Wood camo top": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 4,
       "dstab": 10,
@@ -21823,7 +22998,7 @@
   },
   "Jungle camo top": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 4,
       "dstab": 10,
@@ -21846,7 +23021,7 @@
   },
   "Desert camo top": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 4,
       "dstab": 10,
@@ -21869,7 +23044,7 @@
   },
   "Polar camo top": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipment": {
       "slot": 4,
       "dstab": 10,
@@ -22003,6 +23178,9 @@
   "Kyatt fur": {
     "weight": 2.0
   },
+  "Kebbit spike": {
+    "weight": 0.02
+  },
   "Long kebbit spike": {
     "weight": 0.04
   },
@@ -22058,6 +23236,9 @@
   "Rabbit foot": {
     "weight": 0.03
   },
+  "Rainbow fish": {
+    "weight": 0.4
+  },
   "Raw rainbow fish": {
     "weight": 0.45
   },
@@ -22069,10 +23250,18 @@
     }
   },
   "Tarromin tar": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 31
+    }
   },
   "Harralander tar": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 49
+    }
   },
   "Orange salamander": {
     "equipable": true,
@@ -22216,7 +23405,7 @@
   },
   "Rune helm (h1)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22230,7 +23419,7 @@
   },
   "Rune helm (h2)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22244,7 +23433,7 @@
   },
   "Rune helm (h3)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22258,7 +23447,7 @@
   },
   "Rune helm (h4)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22272,7 +23461,7 @@
   },
   "Rune helm (h5)": {
     "equipable": true,
-    "weight": 2.7,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22286,7 +23475,7 @@
   },
   "Adamant helm (h1)": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22300,7 +23489,7 @@
   },
   "Adamant helm (h2)": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22314,7 +23503,7 @@
   },
   "Adamant helm (h3)": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22328,7 +23517,7 @@
   },
   "Adamant helm (h4)": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22342,7 +23531,7 @@
   },
   "Adamant helm (h5)": {
     "equipable": true,
-    "weight": 3.0,
+    "weight": 3.175,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22356,7 +23545,7 @@
   },
   "Black helm (h1)": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22370,7 +23559,7 @@
   },
   "Black helm (h2)": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22384,7 +23573,7 @@
   },
   "Black helm (h3)": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22398,7 +23587,7 @@
   },
   "Black helm (h4)": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22412,7 +23601,7 @@
   },
   "Black helm (h5)": {
     "equipable": true,
-    "weight": 1.8,
+    "weight": 2.721,
     "equipment": {
       "slot": 0,
       "amagic": -6,
@@ -22426,7 +23615,7 @@
   },
   "Bob's red shirt": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 1.0,
     "equipment": {
       "slot": 4
     }
@@ -22440,21 +23629,21 @@
   },
   "Bob's green shirt": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 1.0,
     "equipment": {
       "slot": 4
     }
   },
   "Bob's black shirt": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 1.0,
     "equipment": {
       "slot": 4
     }
   },
   "Bob's purple shirt": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 1.0,
     "equipment": {
       "slot": 4
     }
@@ -22522,7 +23711,7 @@
   },
   "3rd age robe top": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 2.7,
     "equipment": {
       "slot": 4,
       "amagic": 24,
@@ -22703,6 +23892,7 @@
   },
   "Strength amulet (t)": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 2,
       "str": 10
@@ -22710,6 +23900,7 @@
   },
   "Amulet of magic (t)": {
     "equipable": true,
+    "weight": 0.01,
     "equipment": {
       "slot": 2,
       "amagic": 10
@@ -22894,7 +24085,7 @@
   },
   "A powdered wig": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 0.4,
     "equipment": {
       "slot": 0
     }
@@ -22915,7 +24106,7 @@
   },
   "Sleeping cap": {
     "equipable": true,
-    "weight": 2.0,
+    "weight": 0.4,
     "equipment": {
       "slot": 0
     }
@@ -23187,7 +24378,7 @@
   },
   "Saradomin robe top": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.8,
     "equipment": {
       "slot": 4,
       "amagic": 4,
@@ -23197,7 +24388,7 @@
   },
   "Zamorak robe top": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.8,
     "equipment": {
       "slot": 4,
       "amagic": 4,
@@ -23207,7 +24398,7 @@
   },
   "Guthix robe top": {
     "equipable": true,
-    "weight": 1.0,
+    "weight": 1.8,
     "equipment": {
       "slot": 4,
       "amagic": 4,
@@ -23387,6 +24578,36 @@
   "Defender horn": {
     "weight": 0.001
   },
+  "Healing vial(4)": {
+    "weight": 0.001
+  },
+  "Healing vial(3)": {
+    "weight": 0.001
+  },
+  "Healing vial": {
+    "weight": 0.001
+  },
+  "Healer hat": {
+    "weight": 2.0
+  },
+  "Fighter hat": {
+    "weight": 2.0
+  },
+  "Runner hat": {
+    "equipable": true,
+    "weight": 1.0,
+    "equipment": {
+      "slot": 0,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 1,
+      "drange": 30
+    }
+  },
+  "Ranger hat": {
+    "weight": 2.0
+  },
   "Fighter torso": {
     "weight": 4.0
   },
@@ -23447,10 +24668,24 @@
   "Queen help book": {
     "weight": 0.02
   },
+  "Granite body": {
+    "equipable": true,
+    "weight": 22.679,
+    "equipment": {
+      "slot": 4,
+      "amagic": -22,
+      "arange": -5,
+      "dstab": 87,
+      "dslash": 84,
+      "dcrush": 79,
+      "dmagic": -6,
+      "drange": 97
+    }
+  },
   "Keris": {
     "quest": true,
     "equipable": true,
-    "weight": 0.45,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -23466,7 +24701,7 @@
   "Keris(p)": {
     "quest": true,
     "equipable": true,
-    "weight": 0.45,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -23482,7 +24717,7 @@
   "Keris(p+)": {
     "quest": true,
     "equipable": true,
-    "weight": 0.45,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -23498,7 +24733,7 @@
   "Keris(p++)": {
     "quest": true,
     "equipable": true,
-    "weight": 0.45,
+    "weight": 0.453,
     "equipment": {
       "slot": 3,
       "astab": 40,
@@ -23819,6 +25054,13 @@
       "slot": 5
     }
   },
+  "Gold satchel": {
+    "equipable": true,
+    "weight": 0.15,
+    "equipment": {
+      "slot": 5
+    }
+  },
   "Rune satchel": {
     "equipable": true,
     "weight": 0.15,
@@ -23831,7 +25073,7 @@
     "weight": 12.0
   },
   "Prayer book": {
-    "weight": 1.0
+    "weight": 0.05
   },
   "Barrelchest anchor": {
     "quest": true,
@@ -23882,7 +25124,7 @@
   },
   "Lumberjack top": {
     "equipable": true,
-    "weight": 1.3,
+    "weight": 1.36,
     "equipment": {
       "slot": 4
     }
@@ -23954,6 +25196,9 @@
   "Frogburger": {
     "weight": 0.001
   },
+  "Coated frogs' legs": {
+    "weight": 0.001
+  },
   "Bat shish": {
     "weight": 0.001
   },
@@ -23961,7 +25206,7 @@
     "weight": 0.001
   },
   "Grubs à la mode": {
-    "weight": 1.0
+    "weight": 0.001
   },
   "Roast frog": {
     "weight": 0.001
@@ -24003,6 +25248,9 @@
     "weight": 3.0
   },
   "Meter": {
+    "weight": 1.0
+  },
+  "Capacitor": {
     "weight": 1.0
   },
   "Powerbox": {
@@ -24069,28 +25317,28 @@
   },
   "Chicken head": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.25,
     "equipment": {
       "slot": 0
     }
   },
   "Chicken feet": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.25,
     "equipment": {
       "slot": 10
     }
   },
   "Chicken wings": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.25,
     "equipment": {
       "slot": 4
     }
   },
   "Chicken legs": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.25,
     "equipment": {
       "slot": 7
     }
@@ -24133,7 +25381,8 @@
     }
   },
   "Rotten barrel": {
-    "quest": true
+    "quest": true,
+    "weight": 0.001
   },
   "Armour shard": {
     "quest": true,
@@ -24180,7 +25429,7 @@
   },
   "Gold bracelet": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.25,
     "equipment": {
       "slot": 9
     }
@@ -24201,7 +25450,7 @@
   },
   "Emerald bracelet": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.25,
     "equipment": {
       "slot": 9
     }
@@ -24215,7 +25464,7 @@
   },
   "Ruby bracelet": {
     "equipable": true,
-    "weight": 0.2,
+    "weight": 0.25,
     "equipment": {
       "slot": 9
     }
@@ -24234,8 +25483,16 @@
       "slot": 2
     }
   },
+  "Diamond bracelet": {
+    "equipable": true,
+    "weight": 0.25,
+    "equipment": {
+      "slot": 9
+    }
+  },
   "Abyssal bracelet(5)": {
     "equipable": true,
+    "weight": 0.25,
     "equipment": {
       "slot": 9
     }
@@ -24456,16 +25713,13 @@
     }
   },
   "Dream vial (empty)": {
-    "quest": true,
-    "weight": 1.0
+    "quest": true
   },
   "Dream vial (water)": {
-    "quest": true,
-    "weight": 1.0
+    "quest": true
   },
   "Dream vial (herb)": {
-    "quest": true,
-    "weight": 1.0
+    "quest": true
   },
   "Dream potion": {
     "quest": true,
@@ -24490,6 +25744,9 @@
   "Hunter kit": {
     "weight": 0.4
   },
+  "Newspaper": {
+    "weight": 0.02
+  },
   "Half certificate": {
     "quest": true
   },
@@ -24508,6 +25765,9 @@
   "Ancient symbol": {
     "weight": 0.001
   },
+  "Old symbol": {
+    "weight": 0.001
+  },
   "Old chipped vase": {
     "weight": 0.001
   },
@@ -24516,35 +25776,35 @@
   },
   "Digsite pendant (1)": {
     "equipable": true,
-    "weight": 0.5,
+    "weight": 0.01,
     "equipment": {
       "slot": 2
     }
   },
   "Digsite pendant (2)": {
     "equipable": true,
-    "weight": 0.5,
+    "weight": 0.01,
     "equipment": {
       "slot": 2
     }
   },
   "Digsite pendant (3)": {
     "equipable": true,
-    "weight": 0.5,
+    "weight": 0.01,
     "equipment": {
       "slot": 2
     }
   },
   "Digsite pendant (4)": {
     "equipable": true,
-    "weight": 0.5,
+    "weight": 0.01,
     "equipment": {
       "slot": 2
     }
   },
   "Digsite pendant (5)": {
     "equipable": true,
-    "weight": 0.5,
+    "weight": 0.01,
     "equipment": {
       "slot": 2
     }
@@ -24561,6 +25821,10 @@
     "weight": 0.001
   },
   "Miazrqa's pendant": {
+    "quest": true,
+    "weight": 0.01
+  },
+  "Music sheet": {
     "quest": true,
     "weight": 0.01
   },
@@ -24591,8 +25855,20 @@
     "quest": true,
     "weight": 0.01
   },
+  "Shrink-me-quick": {
+    "quest": true,
+    "weight": 0.035
+  },
   "Shrunk ogleroot": {
     "quest": true
+  },
+  "Golden goblin": {
+    "quest": true,
+    "weight": 30.0
+  },
+  "Magic beans": {
+    "quest": true,
+    "weight": 0.01
   },
   "Dragon arrow": {
     "equipable": true,
@@ -24667,7 +25943,6 @@
   },
   "Dark bow": {
     "equipable": true,
-    "weight": 1.9,
     "equipment": {
       "slot": 3,
       "arange": 95,
@@ -24747,7 +26022,7 @@
   },
   "Dragonfire shield": {
     "equipable": true,
-    "weight": 9.0,
+    "weight": 7.257,
     "equipment": {
       "slot": 5,
       "amagic": -10,
@@ -24767,6 +26042,9 @@
     "weight": 1.36
   },
   "Roe": {
+    "weight": 0.05
+  },
+  "Caviar": {
     "weight": 0.05
   },
   "Leaping trout": {
@@ -24796,129 +26074,118 @@
   },
   "Bronze hasta": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Iron hasta": {
-    "equipable": true,
-    "weight": 2.0
+    "equipable": true
   },
   "Steel hasta": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Mithril hasta": {
     "equipable": true,
-    "weight": 1.0
+    "weight": 1.814
   },
   "Adamant hasta": {
     "equipable": true,
-    "weight": 2.0
+    "weight": 2.721
   },
   "Rune hasta": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Bronze hasta(p)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Bronze hasta(kp)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Bronze hasta(p+)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Bronze hasta(p++)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Iron hasta(p)": {
-    "equipable": true,
-    "weight": 2.0
+    "equipable": true
   },
   "Iron hasta(kp)": {
-    "equipable": true,
-    "weight": 2.0
+    "equipable": true
   },
   "Iron hasta(p+)": {
-    "equipable": true,
-    "weight": 2.0
+    "equipable": true
   },
   "Iron hasta(p++)": {
-    "equipable": true,
-    "weight": 2.0
+    "equipable": true
   },
   "Steel hasta(p)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Steel hasta(kp)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Steel hasta(p+)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Steel hasta(p++)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Mithril hasta(p)": {
     "equipable": true,
-    "weight": 1.0
+    "weight": 1.814
   },
   "Mithril hasta(kp)": {
     "equipable": true,
-    "weight": 1.0
+    "weight": 1.814
   },
   "Mithril hasta(p+)": {
     "equipable": true,
-    "weight": 1.0
+    "weight": 1.814
   },
   "Mithril hasta(p++)": {
     "equipable": true,
-    "weight": 1.0
+    "weight": 1.814
   },
   "Adamant hasta(p)": {
     "equipable": true,
-    "weight": 2.0
+    "weight": 2.721
   },
   "Adamant hasta(kp)": {
     "equipable": true,
-    "weight": 2.0
+    "weight": 2.721
   },
   "Adamant hasta(p+)": {
     "equipable": true,
-    "weight": 2.0
+    "weight": 2.721
   },
   "Adamant hasta(p++)": {
     "equipable": true,
-    "weight": 2.0
+    "weight": 2.721
   },
   "Rune hasta(p)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Rune hasta(kp)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Rune hasta(p+)": {
     "equipable": true,
-    "weight": 2.2
+    "weight": 2.267
   },
   "Rune hasta(p++)": {
     "equipable": true,
-    "weight": 2.2
-  },
-  "Attack mix(2)": {
-    "weight": 0.1
-  },
-  "Attack mix(1)": {
-    "weight": 0.1
+    "weight": 2.267
   },
   "Book of knowledge": {
     "weight": 1.0
@@ -24928,6 +26195,7 @@
   },
   "Void seal(8)": {
     "equipable": true,
+    "weight": 0.005,
     "equipment": {
       "slot": 2,
       "dstab": 1,
@@ -24939,6 +26207,7 @@
   },
   "Void seal(5)": {
     "equipable": true,
+    "weight": 0.005,
     "equipment": {
       "slot": 2,
       "dstab": 1,
@@ -24950,6 +26219,7 @@
   },
   "Void seal(4)": {
     "equipable": true,
+    "weight": 0.005,
     "equipment": {
       "slot": 2,
       "dstab": 1,
@@ -24990,7 +26260,11 @@
   },
   "Cursed goblin hammer": {
     "equipable": true,
-    "weight": 2.0
+    "weight": 2.0,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "Cursed goblin bow": {
     "equipable": true,
@@ -25007,7 +26281,7 @@
   "Anti-dragon shield (nz)": {
     "quest": true,
     "equipable": true,
-    "weight": 5.4,
+    "weight": 5.443,
     "equipment": {
       "slot": 5,
       "dstab": 7,
@@ -26338,11 +27612,35 @@
   },
   "Ancient cloak": {
     "equipable": true,
-    "weight": 1.0
+    "weight": 1.0,
+    "equipment": {
+      "slot": 1,
+      "amagic": 1,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 3,
+      "drange": 3,
+      "prayer": 3
+    }
   },
   "Ancient crozier": {
     "equipable": true,
-    "weight": 2.0
+    "weight": 2.0,
+    "equipment": {
+      "slot": 3,
+      "astab": 7,
+      "aslash": -1,
+      "acrush": 25,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 32,
+      "prayer": 6,
+      "aspeed": 5
+    }
   },
   "Ancient stole": {
     "equipable": true,
@@ -26776,7 +28074,17 @@
   },
   "Bandos cloak": {
     "equipable": true,
-    "weight": 1.0
+    "weight": 1.0,
+    "equipment": {
+      "slot": 1,
+      "amagic": 1,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 3,
+      "drange": 3,
+      "prayer": 3
+    }
   },
   "Bandos crozier": {
     "equipable": true,
@@ -28995,7 +30303,6 @@
   "Enchanted lyre(5)": {
     "quest": true,
     "equipable": true,
-    "weight": 1.8,
     "equipment": {
       "slot": 3,
       "aspeed": 4
@@ -29650,7 +30957,11 @@
     }
   },
   "Explorer's ring 2": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "prayer": 1
+    }
   },
   "Explorer's ring 3": {
     "equipable": true,
@@ -30707,9 +32018,6 @@
     "weight": 0.4
   },
   "Ensouled imp head": {
-    "weight": 0.4
-  },
-  "Ensouled scorpion head": {
     "weight": 0.4
   },
   "Ensouled unicorn head": {
@@ -32582,31 +33890,7 @@
       "slot": 7
     }
   },
-  "Fire cape (broken)": {
-    "weight": 1.8
-  },
   "Fire max cape (broken)": {
-    "weight": 0.4
-  },
-  "Bronze defender (broken)": {
-    "weight": 0.4
-  },
-  "Iron defender (broken)": {
-    "weight": 0.4
-  },
-  "Steel defender (broken)": {
-    "weight": 0.4
-  },
-  "Black defender (broken)": {
-    "weight": 0.4
-  },
-  "Mithril defender (broken)": {
-    "weight": 0.4
-  },
-  "Adamant defender (broken)": {
-    "weight": 0.4
-  },
-  "Rune defender (broken)": {
     "weight": 0.4
   },
   "Dragon defender (broken)": {
@@ -32618,14 +33902,17 @@
   "Elite void top (broken)": {
     "weight": 6.0
   },
-  "Void knight robe (broken)": {
-    "weight": 8.0
-  },
   "Elite void robe (broken)": {
     "weight": 6.0
   },
-  "Void knight mace (broken)": {
-    "weight": 1.0
+  "Fighter hat (broken)": {
+    "weight": 2.0
+  },
+  "Ranger hat (broken)": {
+    "weight": 2.0
+  },
+  "Healer hat (broken)": {
+    "weight": 2.0
   },
   "Fighter torso (broken)": {
     "weight": 4.0
@@ -33555,6 +34842,20 @@
   "Copper's crimson collar": {
     "quest": true
   },
+  "Purple slayer helmet": {
+    "equipable": true,
+    "weight": 2.2,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
+  },
   "Purple slayer helmet (i)": {
     "equipable": true,
     "weight": 2.2,
@@ -33770,12 +35071,6 @@
     "equipment": {
       "slot": 1
     }
-  },
-  "Teak seedling": {
-    "weight": 0.9
-  },
-  "Mahogany seedling": {
-    "weight": 0.9
   },
   "Teak sapling": {
     "weight": 0.9
@@ -34661,10 +35956,6 @@
   },
   "Malumac's journal": {
     "quest": true
-  },
-  "Old notes": {
-    "quest": true,
-    "weight": 0.1
   },
   "Inert locator orb": {
     "quest": true
@@ -35964,9 +37255,21 @@
   "Lovakengj favour certificate": {
     "quest": true
   },
+  "Dinh's hammer": {
+    "quest": true,
+    "weight": 0.9
+  },
   "Generator crank": {
     "quest": true,
     "weight": 1.0
+  },
+  "8-gallon jug": {
+    "quest": true,
+    "weight": 0.5
+  },
+  "5-gallon jug": {
+    "quest": true,
+    "weight": 0.5
   },
   "Energy disk (level 4)": {
     "quest": true
@@ -36005,6 +37308,9 @@
     "weight": 1.8
   },
   "Drake bones": {
+    "weight": 1.8
+  },
+  "Hydra bones": {
     "weight": 1.8
   },
   "Uncooked dragonfruit pie": {
@@ -36046,6 +37352,16 @@
       "aspeed": 3
     }
   },
+  "Cormorant's glove": {
+    "equipable": true,
+    "weight": 1.8,
+    "equipment": {
+      "slot": 3,
+      "dslash": 1,
+      "dcrush": 1,
+      "aspeed": 4
+    }
+  },
   "Bluegill": {
     "weight": 0.5
   },
@@ -36058,33 +37374,50 @@
   "Greater siren": {
     "weight": 0.5
   },
+  "Fish sack": {
+    "equipable": true,
+    "weight": 2.0,
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
+  },
   "Golden tench": {
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
       "aspeed": 3
     }
   },
-  "Celastrus seedling": {
-    "weight": 0.66
+  "Pearl barbarian rod": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3
+    }
   },
-  "Redwood seedling": {
-    "weight": 0.66
+  "Pearl fly fishing rod": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3
+    }
   },
-  "Celastrus seedling (w)": {
-    "weight": 0.907
+  "Pearl fishing rod": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3
+    }
   },
-  "Redwood seedling (w)": {
-    "weight": 0.907
+  "Celastrus sapling": {
+    "weight": 0.9
   },
   "Redwood sapling": {
     "weight": 0.9
-  },
-  "Dragonfruit seedling": {
-    "weight": 0.66
-  },
-  "Dragonfruit seedling (w)": {
-    "weight": 0.907
   },
   "Dragonfruit sapling": {
     "weight": 0.9
@@ -36145,6 +37478,9 @@
   "Broken dragon hasta": {
     "weight": 2.2
   },
+  "Brimstone ring": {
+    "equipable": true
+  },
   "Dragon hunter lance": {
     "equipable": true,
     "equipment": {
@@ -36167,6 +37503,9 @@
       "arange": -16,
       "str": 14
     }
+  },
+  "Hydra leather": {
+    "weight": 0.2
   },
   "Bonecrusher necklace": {
     "equipable": true,
@@ -36219,6 +37558,15 @@
       "slot": 0,
       "amagic": 4,
       "dmagic": 4
+    }
+  },
+  "Mystic robe top (dusk)": {
+    "equipable": true,
+    "weight": 2.721,
+    "equipment": {
+      "slot": 4,
+      "amagic": 20,
+      "dmagic": 20
     }
   },
   "Mystic robe bottom (dusk)": {
