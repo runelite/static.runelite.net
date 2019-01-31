@@ -162,6 +162,7 @@ net.runelite.client.rs
 net.runelite.client.task
 net.runelite.client.ui
 net.runelite.client.ui.components
+net.runelite.client.ui.components.colorpicker
 net.runelite.client.ui.components.materialtabs
 net.runelite.client.ui.components.shadowlabel
 net.runelite.client.ui.overlay
