@@ -10489,6 +10489,7 @@
   "22737": "Dragon hasta(p+)",
   "22740": "Dragon hasta(p++)",
   "22743": "Dragon hasta(kp)",
+  "22744": "Fake dragon hasta(kp)",
   "22746": "Ikkle hydra",
   "22748": "Ikkle hydra",
   "22750": "Ikkle hydra",
@@ -10617,5 +10618,19 @@
   "23053": "Mystic robe bottom (dusk)",
   "23056": "Mystic gloves (dusk)",
   "23059": "Mystic boots (dusk)",
-  "23062": "Nest box (seeds)"
+  "23062": "Nest box (seeds)",
+  "23064": "Jar of chemicals",
+  "23067": "Treasure scroll",
+  "23068": "Treasure scroll",
+  "23069": "Mysterious orb",
+  "23070": "Treasure scroll",
+  "23071": "Ancient casket",
+  "23072": "Antique lamp",
+  "23073": "Hydra slayer helmet",
+  "23075": "Hydra slayer helmet (i)",
+  "23077": "Alchemical hydra heads",
+  "23079": "Stuffed hydra heads",
+  "23081": "Alchemical hydra head.",
+  "23082": "Antique lamp",
+  "23083": "Brimstone key"
 }
