@@ -104,6 +104,9 @@ net.runelite.client.plugins.notes
 net.runelite.client.plugins.npchighlight
 net.runelite.client.plugins.objectindicators
 net.runelite.client.plugins.opponentinfo
+net.runelite.client.plugins.party
+net.runelite.client.plugins.party.data
+net.runelite.client.plugins.party.messages
 net.runelite.client.plugins.pestcontrol
 net.runelite.client.plugins.playerindicators
 net.runelite.client.plugins.poh
@@ -172,3 +175,4 @@ net.runelite.client.ui.overlay.tooltip
 net.runelite.client.ui.overlay.worldmap
 net.runelite.client.ui.skin
 net.runelite.client.util
+net.runelite.client.ws
