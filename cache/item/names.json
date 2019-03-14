@@ -9066,8 +9066,8 @@
   "10375": "Zamorak coif",
   "10376": "Guthix bracers",
   "10377": "Guthix bracers",
-  "10378": "Guthix dragonhide",
-  "10379": "Guthix dragonhide",
+  "10378": "Guthix d'hide",
+  "10379": "Guthix d'hide",
   "10380": "Guthix chaps",
   "10381": "Guthix chaps",
   "10382": "Guthix coif",
@@ -14354,5 +14354,13 @@
   "23097": "Ornate top",
   "23099": "Ornate cape",
   "23101": "Ornate helm",
-  "23108": "Birthday cake"
+  "23108": "Birthday cake",
+  "23110": "Mystic set (light)",
+  "23111": "Mystic set (light)",
+  "23113": "Mystic set (blue)",
+  "23114": "Mystic set (blue)",
+  "23116": "Mystic set (dark)",
+  "23117": "Mystic set (dark)",
+  "23119": "Mystic set (dusk)",
+  "23120": "Mystic set (dusk)"
 }
