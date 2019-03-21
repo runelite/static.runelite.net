@@ -32,6 +32,7 @@ net.runelite.client.plugins.cannon
 net.runelite.client.plugins.cerberus
 net.runelite.client.plugins.chatboxperformance
 net.runelite.client.plugins.chatcommands
+net.runelite.client.plugins.chatfilter
 net.runelite.client.plugins.chathistory
 net.runelite.client.plugins.chatnotifications
 net.runelite.client.plugins.clanchat
@@ -103,6 +104,7 @@ net.runelite.client.plugins.musicindicator
 net.runelite.client.plugins.nightmarezone
 net.runelite.client.plugins.notes
 net.runelite.client.plugins.npchighlight
+net.runelite.client.plugins.npcunaggroarea
 net.runelite.client.plugins.objectindicators
 net.runelite.client.plugins.opponentinfo
 net.runelite.client.plugins.party
