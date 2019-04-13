@@ -27,7 +27,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 15
+    "rangeDef": 15,
+    "undead": true
   },
   "3": {
     "name": "Aberrant spectre",
@@ -42,7 +43,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 15
+    "rangeDef": 15,
+    "undead": true
   },
   "4": {
     "name": "Aberrant spectre",
@@ -57,7 +59,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 15
+    "rangeDef": 15,
+    "undead": true
   },
   "5": {
     "name": "Aberrant spectre",
@@ -72,7 +75,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 15
+    "rangeDef": 15,
+    "undead": true
   },
   "6": {
     "name": "Aberrant spectre",
@@ -87,7 +91,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 15
+    "rangeDef": 15,
+    "undead": true
   },
   "7": {
     "name": "Aberrant spectre",
@@ -102,7 +107,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 15
+    "rangeDef": 15,
+    "undead": true
   },
   "8": {
     "name": "Nechryael",
@@ -117,7 +123,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 20
+    "rangeDef": 20,
+    "demon": true
   },
   "10": {
     "name": "Death spawn",
@@ -131,7 +138,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 20
+    "rangeDef": 20,
+    "demon": true
   },
   "11": {
     "name": "Nechryael",
@@ -146,7 +154,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 20
+    "rangeDef": 20,
+    "demon": true
   },
   "26": {
     "name": "Zombie",
@@ -157,7 +166,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "27": {
     "name": "Zombie",
@@ -168,7 +178,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "28": {
     "name": "Zombie",
@@ -179,7 +190,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "29": {
     "name": "Zombie",
@@ -190,7 +202,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "30": {
     "name": "Zombie",
@@ -201,7 +214,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "31": {
     "name": "Zombie",
@@ -212,7 +226,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "32": {
     "name": "Zombie",
@@ -223,7 +238,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "33": {
     "name": "Zombie",
@@ -234,7 +250,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "34": {
     "name": "Zombie",
@@ -245,7 +262,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "35": {
     "name": "Zombie",
@@ -256,7 +274,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "36": {
     "name": "Zombie",
@@ -267,7 +286,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "37": {
     "name": "Zombie",
@@ -278,7 +298,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "38": {
     "name": "Zombie",
@@ -289,7 +310,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "39": {
     "name": "Zombie",
@@ -300,7 +322,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "40": {
     "name": "Zombie",
@@ -311,7 +334,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "41": {
     "name": "Zombie",
@@ -322,7 +346,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "42": {
     "name": "Zombie",
@@ -333,7 +358,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "43": {
     "name": "Zombie",
@@ -344,7 +370,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "44": {
     "name": "Zombie",
@@ -355,7 +382,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "45": {
     "name": "Zombie",
@@ -366,7 +394,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "46": {
     "name": "Zombie",
@@ -377,7 +406,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "47": {
     "name": "Zombie",
@@ -388,7 +418,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "48": {
     "name": "Zombie",
@@ -399,7 +430,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "49": {
     "name": "Zombie",
@@ -410,7 +442,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "50": {
     "name": "Zombie",
@@ -421,7 +454,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "51": {
     "name": "Zombie",
@@ -432,7 +466,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "52": {
     "name": "Zombie",
@@ -443,7 +478,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "53": {
     "name": "Zombie",
@@ -454,7 +490,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "54": {
     "name": "Zombie",
@@ -465,7 +502,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "55": {
     "name": "Zombie",
@@ -476,7 +514,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "56": {
     "name": "Zombie",
@@ -487,7 +526,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "57": {
     "name": "Zombie",
@@ -498,7 +538,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "58": {
     "name": "Zombie",
@@ -509,7 +550,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "59": {
     "name": "Zombie",
@@ -520,7 +562,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "60": {
     "name": "Zombie",
@@ -531,7 +574,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "61": {
     "name": "Zombie",
@@ -542,7 +586,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "62": {
     "name": "Zombie",
@@ -553,7 +598,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "63": {
     "name": "Zombie",
@@ -564,7 +610,8 @@
     "strengthLevel": 21,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "64": {
     "name": "Zombie",
@@ -582,7 +629,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "65": {
     "name": "Zombie",
@@ -600,7 +648,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "66": {
     "name": "Zombie",
@@ -618,7 +667,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "67": {
     "name": "Zombie",
@@ -636,7 +686,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "68": {
     "name": "Zombie",
@@ -654,7 +705,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "69": {
     "name": "Summoned Zombie",
@@ -665,7 +717,8 @@
     "strengthLevel": 9,
     "defenceLevel": 10,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "70": {
     "name": "Skeleton",
@@ -679,7 +732,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "71": {
     "name": "Skeleton",
@@ -693,7 +747,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "72": {
     "name": "Skeleton",
@@ -707,7 +762,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "73": {
     "name": "Skeleton",
@@ -721,7 +777,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "74": {
     "name": "Skeleton",
@@ -735,7 +792,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "75": {
     "name": "Skeleton",
@@ -749,7 +807,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "76": {
     "name": "Skeleton",
@@ -763,7 +822,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "77": {
     "name": "Skeleton",
@@ -780,7 +840,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "78": {
     "name": "Skeleton",
@@ -797,7 +858,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "79": {
     "name": "Skeleton",
@@ -814,7 +876,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "80": {
     "name": "Skeleton",
@@ -831,7 +894,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "81": {
     "name": "Skeleton",
@@ -848,7 +912,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "82": {
     "name": "Skeleton",
@@ -865,7 +930,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "83": {
     "name": "Skeleton",
@@ -882,7 +948,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "84": {
     "name": "Skeleton Mage",
@@ -893,7 +960,8 @@
     "strengthLevel": 14,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 18
+    "magicLevel": 18,
+    "undead": true
   },
   "85": {
     "name": "Ghost",
@@ -908,7 +976,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "86": {
     "name": "Ghost",
@@ -923,7 +992,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "87": {
     "name": "Ghost",
@@ -938,7 +1008,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "88": {
     "name": "Ghost",
@@ -953,7 +1024,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "89": {
     "name": "Ghost",
@@ -968,7 +1040,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "90": {
     "name": "Ghost",
@@ -983,7 +1056,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "91": {
     "name": "Ghost",
@@ -998,7 +1072,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "92": {
     "name": "Ghost",
@@ -1013,7 +1088,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "93": {
     "name": "Ghost",
@@ -1028,7 +1104,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "94": {
     "name": "Ghost",
@@ -1043,7 +1120,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "95": {
     "name": "Ghost",
@@ -1058,7 +1136,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "96": {
     "name": "Ghost",
@@ -1073,7 +1152,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "97": {
     "name": "Ghost",
@@ -1088,7 +1168,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "98": {
     "name": "Soulless",
@@ -1508,7 +1589,8 @@
     "slashDef": 90,
     "crushDef": 90,
     "rangeDef": 70,
-    "magicDef": 80
+    "magicDef": 80,
+    "dragon": true
   },
   "240": {
     "name": "Black demon",
@@ -1519,7 +1601,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "241": {
     "name": "Baby dragon",
@@ -1535,7 +1618,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "242": {
     "name": "Baby dragon",
@@ -1551,7 +1635,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "243": {
     "name": "Baby dragon",
@@ -1567,7 +1652,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "244": {
     "name": "Baby dragon",
@@ -1583,7 +1669,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "245": {
     "name": "Baby dragon",
@@ -1599,7 +1686,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "246": {
     "name": "Baby dragon",
@@ -1615,7 +1703,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "247": {
     "name": "Red dragon",
@@ -1631,7 +1720,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "248": {
     "name": "Red dragon",
@@ -1647,7 +1737,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "249": {
     "name": "Red dragon",
@@ -1663,7 +1754,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "250": {
     "name": "Red dragon",
@@ -1679,7 +1771,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "251": {
     "name": "Red dragon",
@@ -1695,7 +1788,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "252": {
     "name": "Black dragon",
@@ -1711,7 +1805,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "253": {
     "name": "Black dragon",
@@ -1727,7 +1822,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "254": {
     "name": "Black dragon",
@@ -1743,7 +1839,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "255": {
     "name": "Black dragon",
@@ -1759,7 +1856,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "256": {
     "name": "Black dragon",
@@ -1775,7 +1873,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "257": {
     "name": "Black dragon",
@@ -1791,7 +1890,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "258": {
     "name": "Black dragon",
@@ -1807,7 +1907,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "259": {
     "name": "Black dragon",
@@ -1823,7 +1924,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "260": {
     "name": "Green dragon",
@@ -1839,7 +1941,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "261": {
     "name": "Green dragon",
@@ -1855,7 +1958,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "262": {
     "name": "Green dragon",
@@ -1871,7 +1975,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "263": {
     "name": "Green dragon",
@@ -1887,7 +1992,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "264": {
     "name": "Green dragon",
@@ -1903,7 +2009,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "265": {
     "name": "Blue dragon",
@@ -1919,7 +2026,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "266": {
     "name": "Blue dragon",
@@ -1935,7 +2043,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "267": {
     "name": "Blue dragon",
@@ -1951,7 +2060,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "268": {
     "name": "Blue dragon",
@@ -1967,7 +2077,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "269": {
     "name": "Blue dragon",
@@ -1983,7 +2094,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "270": {
     "name": "Bronze dragon",
@@ -1999,7 +2111,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "271": {
     "name": "Bronze dragon",
@@ -2015,7 +2128,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "272": {
     "name": "Iron dragon",
@@ -2031,7 +2145,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "273": {
     "name": "Iron dragon",
@@ -2047,7 +2162,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "274": {
     "name": "Steel dragon",
@@ -2063,7 +2179,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "275": {
     "name": "Steel dragon",
@@ -2079,7 +2196,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "289": {
     "name": "Ghoul",
@@ -2420,7 +2538,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "415": {
     "name": "Abyssal demon",
@@ -2435,7 +2554,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 20
+    "rangeDef": 20,
+    "demon": true
   },
   "416": {
     "name": "Abyssal demon",
@@ -2450,7 +2570,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 20
+    "rangeDef": 20,
+    "demon": true
   },
   "417": {
     "name": "Basilisk",
@@ -2788,7 +2909,8 @@
     "strengthLevel": 4,
     "defenceLevel": 4,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "453": {
     "name": "Crawling Hand",
@@ -2799,7 +2921,8 @@
     "strengthLevel": 7,
     "defenceLevel": 7,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "454": {
     "name": "Crawling Hand",
@@ -2810,7 +2933,8 @@
     "strengthLevel": 7,
     "defenceLevel": 7,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "458": {
     "name": "Lizard",
@@ -2924,7 +3048,8 @@
     "slashDef": 90,
     "crushDef": 90,
     "rangeDef": 140,
-    "magicDef": 80
+    "magicDef": 80,
+    "dragon": true
   },
   "466": {
     "name": "Skeletal Wyvern",
@@ -2940,7 +3065,8 @@
     "slashDef": 90,
     "crushDef": 90,
     "rangeDef": 140,
-    "magicDef": 80
+    "magicDef": 80,
+    "dragon": true
   },
   "467": {
     "name": "Skeletal Wyvern",
@@ -2956,7 +3082,8 @@
     "slashDef": 90,
     "crushDef": 90,
     "rangeDef": 140,
-    "magicDef": 80
+    "magicDef": 80,
+    "dragon": true
   },
   "468": {
     "name": "Skeletal Wyvern",
@@ -2972,7 +3099,8 @@
     "slashDef": 90,
     "crushDef": 90,
     "rangeDef": 140,
-    "magicDef": 80
+    "magicDef": 80,
+    "dragon": true
   },
   "469": {
     "name": "Killerwatt",
@@ -3228,7 +3356,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "562": {
     "name": "Sorebones",
@@ -3239,7 +3368,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "563": {
     "name": "Zombie pirate",
@@ -3250,7 +3380,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "564": {
     "name": "Zombie pirate",
@@ -3261,7 +3392,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "565": {
     "name": "Zombie pirate",
@@ -3272,7 +3404,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "566": {
     "name": "Zombie pirate",
@@ -3283,7 +3416,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "567": {
     "name": "Zombie pirate",
@@ -3294,7 +3428,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "568": {
     "name": "Zombie pirate",
@@ -3305,7 +3440,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "569": {
     "name": "Zombie pirate",
@@ -3316,7 +3452,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "570": {
     "name": "Zombie pirate",
@@ -3327,7 +3464,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "571": {
     "name": "Zombie pirate",
@@ -3338,7 +3476,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "572": {
     "name": "Zombie pirate",
@@ -3349,7 +3488,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "573": {
     "name": "Zombie pirate",
@@ -3360,7 +3500,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "574": {
     "name": "Zombie pirate",
@@ -3371,7 +3512,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "575": {
     "name": "Zombie pirate",
@@ -3382,7 +3524,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "576": {
     "name": "Zombie pirate",
@@ -3393,7 +3536,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "577": {
     "name": "Zombie pirate",
@@ -3404,7 +3548,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "578": {
     "name": "Zombie pirate",
@@ -3415,7 +3560,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "579": {
     "name": "Zombie pirate",
@@ -3426,7 +3572,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "580": {
     "name": "Zombie pirate",
@@ -3437,7 +3584,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "581": {
     "name": "Zombie pirate",
@@ -3448,7 +3596,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "582": {
     "name": "Zombie pirate",
@@ -3459,7 +3608,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "583": {
     "name": "Zombie pirate",
@@ -3470,7 +3620,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "584": {
     "name": "Zombie pirate",
@@ -3481,7 +3632,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "585": {
     "name": "Zombie pirate",
@@ -3492,7 +3644,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "586": {
     "name": "Zombie pirate",
@@ -3503,7 +3656,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "587": {
     "name": "Zombie pirate",
@@ -3514,7 +3668,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "588": {
     "name": "Zombie pirate",
@@ -3525,7 +3680,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "589": {
     "name": "Zombie pirate",
@@ -3536,7 +3692,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "590": {
     "name": "Zombie pirate",
@@ -3547,7 +3704,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "591": {
     "name": "Zombie pirate",
@@ -3558,7 +3716,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "592": {
     "name": "Zombie pirate",
@@ -3569,7 +3728,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "593": {
     "name": "Zombie pirate",
@@ -3580,7 +3740,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "594": {
     "name": "Zombie pirate",
@@ -3591,7 +3752,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "595": {
     "name": "Zombie pirate",
@@ -3602,7 +3764,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "596": {
     "name": "Zombie pirate",
@@ -3613,7 +3776,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "597": {
     "name": "Zombie pirate",
@@ -3624,7 +3788,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "598": {
     "name": "Zombie pirate",
@@ -3635,7 +3800,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "599": {
     "name": "Zombie pirate",
@@ -3646,7 +3812,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "600": {
     "name": "Barrelchest",
@@ -3669,7 +3836,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "614": {
     "name": "Zombie pirate",
@@ -3680,7 +3848,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "615": {
     "name": "Zombie pirate",
@@ -3691,7 +3860,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "616": {
     "name": "Zombie pirate",
@@ -3702,7 +3872,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "617": {
     "name": "Zombie pirate",
@@ -3713,7 +3884,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "618": {
     "name": "Zombie pirate",
@@ -3724,7 +3896,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "619": {
     "name": "Zombie swab",
@@ -3735,7 +3908,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "620": {
     "name": "Zombie swab",
@@ -3746,7 +3920,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "621": {
     "name": "Zombie swab",
@@ -3757,7 +3932,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "622": {
     "name": "Zombie swab",
@@ -3768,7 +3944,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "623": {
     "name": "Zombie swab",
@@ -3779,7 +3956,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "624": {
     "name": "Zombie swab",
@@ -3790,7 +3968,8 @@
     "strengthLevel": 50,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "625": {
     "name": "Evil spirit",
@@ -4501,43 +4680,53 @@
   },
   "717": {
     "name": "Mummy",
-    "hitpoints": 10
+    "hitpoints": 10,
+    "undead": true
   },
   "720": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "721": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "722": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "723": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "724": {
     "name": "Mummy",
-    "hitpoints": 10
+    "hitpoints": 10,
+    "undead": true
   },
   "725": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "726": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "727": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "728": {
     "name": "Mummy",
-    "combatLevel": 103
+    "combatLevel": 103,
+    "undead": true
   },
   "729": {
     "name": "Scarabs",
@@ -5156,7 +5345,8 @@
     "strengthLevel": 30,
     "defenceLevel": 30,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "882": {
     "name": "Slash Bash",
@@ -5170,7 +5360,8 @@
     "stabDef": 30,
     "slashDef": 30,
     "crushDef": 30,
-    "bonusAttack": 22
+    "bonusAttack": 22,
+    "undead": true
   },
   "891": {
     "name": "Moss giant",
@@ -5197,13 +5388,15 @@
     "strengthLevel": 90,
     "defenceLevel": 82,
     "rangeLevel": 100,
-    "magicLevel": 100
+    "magicLevel": 100,
+    "demon": true
   },
   "924": {
     "name": "Skeleton",
     "hitpoints": 18,
     "combatLevel": 13,
-    "slayerLevel": 1
+    "slayerLevel": 1,
+    "undead": true
   },
   "925": {
     "name": "Rock",
@@ -5424,27 +5617,32 @@
   "949": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "950": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "951": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "952": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "953": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "955": {
     "name": "Kalphite Worker",
@@ -6643,7 +6841,8 @@
     "slayerLevel": 1,
     "attackLevel": 45,
     "strengthLevel": 30,
-    "defenceLevel": 26
+    "defenceLevel": 26,
+    "undead": true
   },
   "1280": {
     "name": "Phrin Shade",
@@ -6679,7 +6878,8 @@
     "slayerLevel": 1,
     "attackLevel": 120,
     "strengthLevel": 100,
-    "defenceLevel": 85
+    "defenceLevel": 85,
+    "undead": true
   },
   "1293": {
     "name": "Afflicted",
@@ -7104,7 +7304,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "1443": {
     "name": "Jungle Demon",
@@ -7118,7 +7319,8 @@
     "slashDef": 50,
     "magicDef": 50,
     "bonusAttack": 50,
-    "bonusStrength": 50
+    "bonusStrength": 50,
+    "demon": true
   },
   "1447": {
     "name": "Pirate",
@@ -7189,7 +7391,8 @@
     "crushDef": 2,
     "rangeDef": 2,
     "bonusAttack": 9,
-    "bonusStrength": 15
+    "bonusStrength": 15,
+    "undead": true
   },
   "1538": {
     "name": "Skeleton brute",
@@ -7205,7 +7408,8 @@
     "crushDef": 2,
     "rangeDef": 2,
     "bonusAttack": 9,
-    "bonusStrength": 15
+    "bonusStrength": 15,
+    "undead": true
   },
   "1539": {
     "name": "Skeleton warlord",
@@ -7253,7 +7457,8 @@
     "crushDef": 2,
     "rangeDef": 2,
     "bonusAttack": 9,
-    "bonusStrength": 15
+    "bonusStrength": 15,
+    "undead": true
   },
   "1543": {
     "name": "Gargoyle",
@@ -7689,7 +7894,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "1686": {
     "name": "Skeleton",
@@ -7703,7 +7909,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "1687": {
     "name": "Skeleton",
@@ -7717,7 +7924,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "1688": {
     "name": "Skeleton",
@@ -7731,7 +7939,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "1689": {
     "name": "Splatter",
@@ -8295,7 +8504,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "1872": {
     "name": "Baby dragon",
@@ -8311,7 +8521,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "1874": {
     "name": "Ice troll runt",
@@ -8397,7 +8608,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2006": {
     "name": "Lesser demon",
@@ -8408,7 +8620,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2007": {
     "name": "Lesser demon",
@@ -8419,7 +8632,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2008": {
     "name": "Lesser demon",
@@ -8430,7 +8644,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2018": {
     "name": "Lesser demon",
@@ -8441,7 +8656,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2025": {
     "name": "Greater demon",
@@ -8452,7 +8668,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2026": {
     "name": "Greater demon",
@@ -8463,7 +8680,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2027": {
     "name": "Greater demon",
@@ -8474,7 +8692,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2028": {
     "name": "Greater demon",
@@ -8485,7 +8704,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2029": {
     "name": "Greater demon",
@@ -8496,7 +8716,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2030": {
     "name": "Greater demon",
@@ -8507,7 +8728,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2031": {
     "name": "Greater demon",
@@ -8518,7 +8740,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2032": {
     "name": "Greater demon",
@@ -8529,7 +8752,8 @@
     "strengthLevel": 78,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2042": {
     "name": "Zulrah",
@@ -8610,7 +8834,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2049": {
     "name": "Black demon",
@@ -8621,7 +8846,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2050": {
     "name": "Black demon",
@@ -8632,7 +8858,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2051": {
     "name": "Black demon",
@@ -8643,7 +8870,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2052": {
     "name": "Black demon",
@@ -8654,7 +8882,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "2054": {
     "name": "Chaos Elemental",
@@ -10787,7 +11016,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2502": {
     "name": "Zombie",
@@ -10805,7 +11035,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2503": {
     "name": "Zombie",
@@ -10823,7 +11054,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2504": {
     "name": "Zombie",
@@ -10841,7 +11073,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2505": {
     "name": "Zombie",
@@ -10859,7 +11092,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2506": {
     "name": "Zombie",
@@ -10877,7 +11111,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2507": {
     "name": "Zombie",
@@ -10894,7 +11129,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2508": {
     "name": "Zombie",
@@ -10911,7 +11147,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2509": {
     "name": "Zombie",
@@ -10928,7 +11165,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "2510": {
     "name": "Giant rat",
@@ -10979,7 +11217,8 @@
     "strengthLevel": 70,
     "defenceLevel": 60,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2515": {
     "name": "Ankou",
@@ -10990,7 +11229,8 @@
     "strengthLevel": 70,
     "defenceLevel": 70,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2516": {
     "name": "Ankou",
@@ -11001,7 +11241,8 @@
     "strengthLevel": 75,
     "defenceLevel": 80,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2517": {
     "name": "Ankou",
@@ -11012,7 +11253,8 @@
     "strengthLevel": 70,
     "defenceLevel": 60,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2518": {
     "name": "Ankou",
@@ -11023,7 +11265,8 @@
     "strengthLevel": 70,
     "defenceLevel": 70,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2519": {
     "name": "Ankou",
@@ -11034,7 +11277,8 @@
     "strengthLevel": 75,
     "defenceLevel": 80,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2520": {
     "name": "Skeleton",
@@ -11048,7 +11292,8 @@
     "magicLevel": 1,
     "stabDef": 35,
     "slashDef": 35,
-    "rangeDef": 35
+    "rangeDef": 35,
+    "undead": true
   },
   "2521": {
     "name": "Skeleton",
@@ -11062,7 +11307,8 @@
     "magicLevel": 1,
     "stabDef": 35,
     "slashDef": 35,
-    "rangeDef": 35
+    "rangeDef": 35,
+    "undead": true
   },
   "2522": {
     "name": "Skeleton",
@@ -11076,7 +11322,8 @@
     "magicLevel": 1,
     "stabDef": 35,
     "slashDef": 35,
-    "rangeDef": 35
+    "rangeDef": 35,
+    "undead": true
   },
   "2523": {
     "name": "Skeleton",
@@ -11090,7 +11337,8 @@
     "magicLevel": 1,
     "stabDef": 35,
     "slashDef": 35,
-    "rangeDef": 35
+    "rangeDef": 35,
+    "undead": true
   },
   "2524": {
     "name": "Skeleton",
@@ -11108,7 +11356,8 @@
     "rangeDef": 70,
     "magicDef": 5,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "2525": {
     "name": "Skeleton",
@@ -11126,7 +11375,8 @@
     "rangeDef": 70,
     "magicDef": 5,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "2526": {
     "name": "Skeleton",
@@ -11144,7 +11394,8 @@
     "rangeDef": 70,
     "magicDef": 5,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "2527": {
     "name": "Ghost",
@@ -11160,7 +11411,8 @@
     "slashDef": 55,
     "crushDef": 5,
     "rangeDef": 55,
-    "magicDef": 55
+    "magicDef": 55,
+    "undead": true
   },
   "2528": {
     "name": "Ghost",
@@ -11176,7 +11428,8 @@
     "slashDef": 55,
     "crushDef": 5,
     "rangeDef": 55,
-    "magicDef": 55
+    "magicDef": 55,
+    "undead": true
   },
   "2529": {
     "name": "Ghost",
@@ -11192,7 +11445,8 @@
     "slashDef": 55,
     "crushDef": 5,
     "rangeDef": 55,
-    "magicDef": 55
+    "magicDef": 55,
+    "undead": true
   },
   "2530": {
     "name": "Ghost",
@@ -11208,7 +11462,8 @@
     "slashDef": 55,
     "crushDef": 5,
     "rangeDef": 55,
-    "magicDef": 55
+    "magicDef": 55,
+    "undead": true
   },
   "2531": {
     "name": "Ghost",
@@ -11223,7 +11478,8 @@
     "stabDef": 45,
     "slashDef": 45,
     "crushDef": 5,
-    "rangeDef": 45
+    "rangeDef": 45,
+    "undead": true
   },
   "2532": {
     "name": "Ghost",
@@ -11238,7 +11494,8 @@
     "stabDef": 45,
     "slashDef": 45,
     "crushDef": 5,
-    "rangeDef": 45
+    "rangeDef": 45,
+    "undead": true
   },
   "2533": {
     "name": "Ghost",
@@ -11253,7 +11510,8 @@
     "stabDef": 45,
     "slashDef": 45,
     "crushDef": 5,
-    "rangeDef": 45
+    "rangeDef": 45,
+    "undead": true
   },
   "2534": {
     "name": "Ghost",
@@ -11268,7 +11526,8 @@
     "stabDef": 45,
     "slashDef": 45,
     "crushDef": 5,
-    "rangeDef": 45
+    "rangeDef": 45,
+    "undead": true
   },
   "2536": {
     "name": "H.A.M. Guard",
@@ -12804,7 +13063,8 @@
     "rangeDef": 50,
     "magicDef": 60,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "2919": {
     "name": "Mithril dragon",
@@ -12821,7 +13081,8 @@
     "crushDef": 70,
     "rangeDef": 90,
     "magicDef": 30,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "2920": {
     "name": "Confused barbarian",
@@ -12923,7 +13184,8 @@
     "strengthLevel": 1,
     "defenceLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2993": {
     "name": "Undead chicken",
@@ -12934,7 +13196,8 @@
     "strengthLevel": 1,
     "defenceLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "2994": {
     "name": "Giant lobster",
@@ -12960,7 +13223,8 @@
     "strengthLevel": 62,
     "defenceLevel": 38,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "3010": {
     "name": "Guard",
@@ -14323,7 +14587,8 @@
     "rangeDef": 80,
     "magicDef": 130,
     "bonusAttack": 160,
-    "bonusStrength": 31
+    "bonusStrength": 31,
+    "demon": true
   },
   "3130": {
     "name": "Tstanon Karlak",
@@ -14335,7 +14600,8 @@
     "defenceLevel": 125,
     "rangeLevel": 50,
     "magicLevel": 50,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "demon": true
   },
   "3131": {
     "name": "Zakl'n Gritch",
@@ -14348,7 +14614,8 @@
     "rangeLevel": 150,
     "magicLevel": 50,
     "range": 20,
-    "bonusRangeStrength": 20
+    "bonusRangeStrength": 20,
+    "demon": true
   },
   "3132": {
     "name": "Balfrug Kreeyath",
@@ -14360,7 +14627,8 @@
     "defenceLevel": 153,
     "rangeLevel": 1,
     "magicLevel": 150,
-    "magicDef": 10
+    "magicDef": 10,
+    "demon": true
   },
   "3133": {
     "name": "Hellhound",
@@ -16028,7 +16296,8 @@
   "3565": {
     "name": "Skeleton",
     "combatLevel": 22,
-    "slayerLevel": 1
+    "slayerLevel": 1,
+    "undead": true
   },
   "3600": {
     "name": "Frogeel",
@@ -16153,7 +16422,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "3616": {
     "name": "Treus Dayth",
@@ -17147,7 +17417,8 @@
     "rangeDef": 500,
     "magicDef": 500,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "undead": true
   },
   "3938": {
     "name": "Freidir",
@@ -17288,7 +17559,8 @@
     "strengthLevel": 168,
     "defenceLevel": 167,
     "rangeLevel": 160,
-    "magicLevel": 160
+    "magicLevel": 160,
+    "demon": true
   },
   "3963": {
     "name": "Viyeldi",
@@ -17390,7 +17662,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "3973": {
     "name": "Skeleton",
@@ -17407,7 +17680,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "3974": {
     "name": "Skeleton",
@@ -17424,7 +17698,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 15,
-    "bonusStrength": 14
+    "bonusStrength": 14,
+    "undead": true
   },
   "3975": {
     "name": "Ghost",
@@ -17439,7 +17714,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "3976": {
     "name": "Ghost",
@@ -17454,7 +17730,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "3977": {
     "name": "Ghost",
@@ -17469,7 +17746,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "3978": {
     "name": "Ghost",
@@ -17484,7 +17762,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "3979": {
     "name": "Ghost",
@@ -17499,7 +17778,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "3980": {
     "name": "Zombie",
@@ -17517,7 +17797,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "3981": {
     "name": "Zombie",
@@ -17535,7 +17816,8 @@
     "rangeDef": 11,
     "magicDef": 10,
     "bonusAttack": 5,
-    "bonusStrength": 7
+    "bonusStrength": 7,
+    "undead": true
   },
   "3982": {
     "name": "Lesser demon",
@@ -17546,7 +17828,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "3996": {
     "name": "Witch's experiment",
@@ -18522,7 +18805,8 @@
     "defenceLevel": 60,
     "rangeLevel": 1,
     "magicLevel": 100,
-    "magicDef": 15
+    "magicDef": 15,
+    "undead": true
   },
   "4321": {
     "name": "Renegade Knight",
@@ -18923,7 +19207,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "4387": {
     "name": "Ogre shaman",
@@ -19014,7 +19299,8 @@
     "strengthLevel": 1,
     "defenceLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "4427": {
     "name": "Vampyre Juvinate",
@@ -20713,7 +20999,8 @@
     "strengthLevel": 172,
     "defenceLevel": 173,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "5007": {
     "name": "Imp",
@@ -20755,7 +21042,8 @@
   "5079": {
     "name": "Delrith",
     "hitpoints": 7,
-    "combatLevel": 27
+    "combatLevel": 27,
+    "demon": true
   },
   "5086": {
     "name": "Dark wizard",
@@ -21057,7 +21345,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "5195": {
     "name": "Goblin",
@@ -21302,7 +21591,8 @@
     "defenceLevel": 110,
     "rangeLevel": 1,
     "magicLevel": 110,
-    "bonusAttack": 50
+    "bonusAttack": 50,
+    "undead": true
   },
   "5238": {
     "name": "Spider",
@@ -21475,7 +21765,8 @@
     "defenceLevel": 60,
     "rangeLevel": 1,
     "magicLevel": 60,
-    "bonusAttack": 35
+    "bonusAttack": 35,
+    "undead": true
   },
   "5282": {
     "name": "Monkey Zombie",
@@ -21487,7 +21778,8 @@
     "defenceLevel": 90,
     "rangeLevel": 1,
     "magicLevel": 90,
-    "bonusAttack": 35
+    "bonusAttack": 35,
+    "undead": true
   },
   "5283": {
     "name": "Monkey Zombie",
@@ -21499,7 +21791,8 @@
     "defenceLevel": 60,
     "rangeLevel": 1,
     "magicLevel": 60,
-    "bonusAttack": 15
+    "bonusAttack": 15,
+    "undead": true
   },
   "5285": {
     "name": "Mourner",
@@ -21774,7 +22067,8 @@
     "slayerLevel": 1,
     "attackLevel": 63,
     "strengthLevel": 63,
-    "defenceLevel": 63
+    "defenceLevel": 63,
+    "undead": true
   },
   "5343": {
     "name": "Undead one",
@@ -21783,7 +22077,8 @@
     "slayerLevel": 1,
     "attackLevel": 63,
     "strengthLevel": 63,
-    "defenceLevel": 63
+    "defenceLevel": 63,
+    "undead": true
   },
   "5344": {
     "name": "Undead one",
@@ -21799,7 +22094,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 7,
-    "bonusStrength": 5
+    "bonusStrength": 5,
+    "undead": true
   },
   "5345": {
     "name": "Undead one",
@@ -21815,7 +22111,8 @@
     "rangeDef": 4,
     "magicDef": 1,
     "bonusAttack": 7,
-    "bonusStrength": 5
+    "bonusStrength": 5,
+    "undead": true
   },
   "5346": {
     "name": "Undead one",
@@ -21824,7 +22121,8 @@
     "slayerLevel": 1,
     "attackLevel": 63,
     "strengthLevel": 63,
-    "defenceLevel": 63
+    "defenceLevel": 63,
+    "undead": true
   },
   "5347": {
     "name": "Undead one",
@@ -21833,7 +22131,8 @@
     "slayerLevel": 1,
     "attackLevel": 63,
     "strengthLevel": 63,
-    "defenceLevel": 63
+    "defenceLevel": 63,
+    "undead": true
   },
   "5348": {
     "name": "Undead one",
@@ -21842,7 +22141,8 @@
     "slayerLevel": 1,
     "attackLevel": 63,
     "strengthLevel": 63,
-    "defenceLevel": 63
+    "defenceLevel": 63,
+    "undead": true
   },
   "5349": {
     "name": "Undead one",
@@ -21853,7 +22153,8 @@
     "strengthLevel": 65,
     "defenceLevel": 65,
     "bonusAttack": 4,
-    "bonusStrength": 5
+    "bonusStrength": 5,
+    "undead": true
   },
   "5350": {
     "name": "Undead one",
@@ -21864,7 +22165,8 @@
     "strengthLevel": 65,
     "defenceLevel": 65,
     "bonusAttack": 4,
-    "bonusStrength": 5
+    "bonusStrength": 5,
+    "undead": true
   },
   "5351": {
     "name": "Undead one",
@@ -21875,7 +22177,8 @@
     "strengthLevel": 65,
     "defenceLevel": 65,
     "bonusAttack": 4,
-    "bonusStrength": 5
+    "bonusStrength": 5,
+    "undead": true
   },
   "5353": {
     "name": "Nazastarool",
@@ -21939,7 +22242,8 @@
     "strengthLevel": 23,
     "defenceLevel": 20,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5372": {
     "name": "Grave scorpion",
@@ -22094,7 +22398,8 @@
     "strengthLevel": 30,
     "defenceLevel": 60,
     "rangeLevel": 30,
-    "magicLevel": 30
+    "magicLevel": 30,
+    "undead": true
   },
   "5626": {
     "name": "Ghast",
@@ -22104,7 +22409,8 @@
     "strengthLevel": 70,
     "defenceLevel": 70,
     "rangeLevel": 30,
-    "magicLevel": 30
+    "magicLevel": 30,
+    "undead": true
   },
   "5627": {
     "name": "Ghast",
@@ -22114,7 +22420,8 @@
     "strengthLevel": 110,
     "defenceLevel": 80,
     "rangeLevel": 30,
-    "magicLevel": 30
+    "magicLevel": 30,
+    "undead": true
   },
   "5628": {
     "name": "Giant snail",
@@ -22155,7 +22462,8 @@
     "strengthLevel": 136,
     "defenceLevel": 100,
     "rangeLevel": 50,
-    "magicLevel": 50
+    "magicLevel": 50,
+    "undead": true
   },
   "5634": {
     "name": "Vampyre Juvinate",
@@ -22293,119 +22601,136 @@
     "strengthLevel": 20,
     "defenceLevel": 20,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5648": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5649": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5650": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5651": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5652": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5653": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5654": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5655": {
     "name": "Undead Lumberjack",
     "combatLevel": 30,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5656": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5657": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5658": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5659": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5660": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5661": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5662": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5663": {
     "name": "Undead Lumberjack",
     "combatLevel": 35,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5665": {
     "name": "Undead Lumberjack",
@@ -22416,7 +22741,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5666": {
     "name": "Undead Lumberjack",
@@ -22427,7 +22753,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5667": {
     "name": "Undead Lumberjack",
@@ -22438,7 +22765,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5668": {
     "name": "Undead Lumberjack",
@@ -22449,7 +22777,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5669": {
     "name": "Undead Lumberjack",
@@ -22460,7 +22789,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5670": {
     "name": "Undead Lumberjack",
@@ -22471,7 +22801,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5671": {
     "name": "Undead Lumberjack",
@@ -22482,7 +22813,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5672": {
     "name": "Undead Lumberjack",
@@ -22493,7 +22825,8 @@
     "strengthLevel": 6,
     "defenceLevel": 12,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5673": {
     "name": "Undead Lumberjack",
@@ -22504,7 +22837,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5674": {
     "name": "Undead Lumberjack",
@@ -22515,7 +22849,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5675": {
     "name": "Undead Lumberjack",
@@ -22526,7 +22861,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5676": {
     "name": "Undead Lumberjack",
@@ -22537,7 +22873,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5677": {
     "name": "Undead Lumberjack",
@@ -22548,7 +22885,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5678": {
     "name": "Undead Lumberjack",
@@ -22559,7 +22897,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5679": {
     "name": "Undead Lumberjack",
@@ -22570,7 +22909,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5680": {
     "name": "Undead Lumberjack",
@@ -22581,7 +22921,8 @@
     "strengthLevel": 16,
     "defenceLevel": 13,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5681": {
     "name": "Undead Lumberjack",
@@ -22592,7 +22933,8 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5682": {
     "name": "Undead Lumberjack",
@@ -22603,7 +22945,8 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5683": {
     "name": "Undead Lumberjack",
@@ -22614,7 +22957,8 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5684": {
     "name": "Undead Lumberjack",
@@ -22625,7 +22969,8 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5685": {
     "name": "Undead Lumberjack",
@@ -22636,7 +22981,8 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5686": {
     "name": "Undead Lumberjack",
@@ -22647,7 +22993,8 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5687": {
     "name": "Undead Lumberjack",
@@ -22658,7 +23005,8 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5688": {
     "name": "Undead Lumberjack",
@@ -22669,63 +23017,72 @@
     "strengthLevel": 16,
     "defenceLevel": 14,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5689": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5690": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5691": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5692": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5693": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5694": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5695": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5696": {
     "name": "Undead Lumberjack",
     "combatLevel": 55,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5697": {
     "name": "Undead Lumberjack",
@@ -22736,7 +23093,8 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5698": {
     "name": "Undead Lumberjack",
@@ -22747,7 +23105,8 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5699": {
     "name": "Undead Lumberjack",
@@ -22758,7 +23117,8 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5700": {
     "name": "Undead Lumberjack",
@@ -22769,7 +23129,8 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5701": {
     "name": "Undead Lumberjack",
@@ -22780,7 +23141,8 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5702": {
     "name": "Undead Lumberjack",
@@ -22791,7 +23153,8 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5703": {
     "name": "Undead Lumberjack",
@@ -22802,7 +23165,8 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5704": {
     "name": "Undead Lumberjack",
@@ -22813,119 +23177,136 @@
     "strengthLevel": 26,
     "defenceLevel": 16,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5705": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5706": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5707": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5708": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5709": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5710": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5711": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5712": {
     "name": "Undead Lumberjack",
     "combatLevel": 64,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5713": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5714": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5715": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5716": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5717": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5718": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5719": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5720": {
     "name": "Undead Lumberjack",
     "combatLevel": 70,
     "slayerLevel": 1,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "5739": {
     "name": "Penance Fighter",
@@ -23316,7 +23697,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "5873": {
     "name": "Baby dragon",
@@ -23332,7 +23714,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "5874": {
     "name": "Black demon",
@@ -23343,7 +23726,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "5875": {
     "name": "Black demon",
@@ -23354,7 +23738,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "5876": {
     "name": "Black demon",
@@ -23365,7 +23750,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "5877": {
     "name": "Black demon",
@@ -23376,7 +23762,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "5878": {
     "name": "Blue dragon",
@@ -23392,7 +23779,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "5879": {
     "name": "Blue dragon",
@@ -23408,7 +23796,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "5880": {
     "name": "Blue dragon",
@@ -23424,7 +23813,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "5881": {
     "name": "Blue dragon",
@@ -23440,7 +23830,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "5882": {
     "name": "Blue dragon",
@@ -23456,7 +23847,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "5886": {
     "name": "Abyssal Sire",
@@ -23475,7 +23867,8 @@
     "magicDef": 20,
     "bonusAttack": 65,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "5887": {
     "name": "Abyssal Sire",
@@ -23494,7 +23887,8 @@
     "magicDef": 20,
     "bonusAttack": 65,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "5888": {
     "name": "Abyssal Sire",
@@ -23513,7 +23907,8 @@
     "magicDef": 20,
     "bonusAttack": 65,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "5889": {
     "name": "Abyssal Sire",
@@ -23532,7 +23927,8 @@
     "magicDef": 20,
     "bonusAttack": 65,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "5890": {
     "name": "Abyssal Sire",
@@ -23551,7 +23947,8 @@
     "magicDef": 20,
     "bonusAttack": 65,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "5891": {
     "name": "Abyssal Sire",
@@ -23570,7 +23967,8 @@
     "magicDef": 20,
     "bonusAttack": 65,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "5908": {
     "name": "Abyssal Sire",
@@ -23589,7 +23987,8 @@
     "magicDef": 20,
     "bonusAttack": 65,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "5916": {
     "name": "Spawn",
@@ -24411,7 +24810,8 @@
     "strengthLevel": 344,
     "defenceLevel": 173,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "6293": {
     "name": "Bouncer (hard)",
@@ -24450,7 +24850,8 @@
     "strengthLevel": 296,
     "defenceLevel": 152,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "6297": {
     "name": "Glod (hard)",
@@ -24672,7 +25073,8 @@
     "strengthLevel": 336,
     "defenceLevel": 167,
     "rangeLevel": 320,
-    "magicLevel": 320
+    "magicLevel": 320,
+    "demon": true
   },
   "6319": {
     "name": "Tree spirit (hard)",
@@ -24707,7 +25109,8 @@
     "slashDef": 50,
     "magicDef": 50,
     "bonusAttack": 50,
-    "bonusStrength": 50
+    "bonusStrength": 50,
+    "demon": true
   },
   "6322": {
     "name": "The Kendal (hard)",
@@ -24785,7 +25188,8 @@
     "strengthLevel": 198,
     "defenceLevel": 82,
     "rangeLevel": 220,
-    "magicLevel": 220
+    "magicLevel": 220,
+    "demon": true
   },
   "6328": {
     "name": "King Roald (hard)",
@@ -25112,7 +25516,8 @@
     "strengthLevel": 172,
     "defenceLevel": 173,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "6355": {
     "name": "Bouncer",
@@ -25152,7 +25557,8 @@
     "strengthLevel": 152,
     "defenceLevel": 148,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "6358": {
     "name": "Glod",
@@ -25472,7 +25878,8 @@
     "strengthLevel": 168,
     "defenceLevel": 167,
     "rangeLevel": 160,
-    "magicLevel": 160
+    "magicLevel": 160,
+    "demon": true
   },
   "6380": {
     "name": "Tree spirit",
@@ -25507,7 +25914,8 @@
     "slashDef": 50,
     "magicDef": 50,
     "bonusAttack": 50,
-    "bonusStrength": 50
+    "bonusStrength": 50,
+    "demon": true
   },
   "6383": {
     "name": "The Kendal",
@@ -25586,7 +25994,8 @@
     "strengthLevel": 90,
     "defenceLevel": 82,
     "rangeLevel": 100,
-    "magicLevel": 100
+    "magicLevel": 100,
+    "demon": true
   },
   "6389": {
     "name": "King Roald",
@@ -25931,7 +26340,8 @@
     "strengthLevel": 70,
     "defenceLevel": 70,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "6441": {
     "name": "Skeleton",
@@ -25946,7 +26356,8 @@
     "stabDef": 50,
     "slashDef": 40,
     "rangeDef": 40,
-    "bonusStrength": 5
+    "bonusStrength": 5,
+    "undead": true
   },
   "6442": {
     "name": "Skeleton",
@@ -25961,7 +26372,8 @@
     "stabDef": 50,
     "slashDef": 40,
     "rangeDef": 40,
-    "bonusStrength": 5
+    "bonusStrength": 5,
+    "undead": true
   },
   "6443": {
     "name": "Skeleton",
@@ -25975,7 +26387,8 @@
     "magicLevel": 1,
     "stabDef": 50,
     "slashDef": 50,
-    "rangeDef": 40
+    "rangeDef": 40,
+    "undead": true
   },
   "6444": {
     "name": "Skeleton",
@@ -25989,7 +26402,8 @@
     "magicLevel": 1,
     "stabDef": 50,
     "slashDef": 40,
-    "rangeDef": 40
+    "rangeDef": 40,
+    "undead": true
   },
   "6445": {
     "name": "Skeleton",
@@ -26003,7 +26417,8 @@
     "magicLevel": 1,
     "stabDef": 50,
     "slashDef": 40,
-    "rangeDef": 40
+    "rangeDef": 40,
+    "undead": true
   },
   "6446": {
     "name": "Skeleton",
@@ -26017,7 +26432,8 @@
     "magicLevel": 1,
     "stabDef": 50,
     "slashDef": 40,
-    "rangeDef": 40
+    "rangeDef": 40,
+    "undead": true
   },
   "6447": {
     "name": "Skeleton",
@@ -26031,7 +26447,8 @@
     "magicLevel": 1,
     "stabDef": 50,
     "slashDef": 40,
-    "rangeDef": 40
+    "rangeDef": 40,
+    "undead": true
   },
   "6448": {
     "name": "Skeleton",
@@ -26045,7 +26462,8 @@
     "magicLevel": 1,
     "stabDef": 50,
     "slashDef": 40,
-    "rangeDef": 40
+    "rangeDef": 40,
+    "undead": true
   },
   "6449": {
     "name": "Zombie",
@@ -26060,7 +26478,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6450": {
     "name": "Zombie",
@@ -26075,7 +26494,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6451": {
     "name": "Zombie",
@@ -26090,7 +26510,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6452": {
     "name": "Zombie",
@@ -26105,7 +26526,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6453": {
     "name": "Zombie",
@@ -26120,7 +26542,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6454": {
     "name": "Zombie",
@@ -26135,7 +26558,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6455": {
     "name": "Zombie",
@@ -26150,7 +26574,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6456": {
     "name": "Zombie",
@@ -26165,7 +26590,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6457": {
     "name": "Zombie",
@@ -26180,7 +26606,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6458": {
     "name": "Zombie",
@@ -26195,7 +26622,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6459": {
     "name": "Zombie",
@@ -26210,7 +26638,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6460": {
     "name": "Zombie",
@@ -26225,7 +26654,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6461": {
     "name": "Zombie",
@@ -26240,7 +26670,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6462": {
     "name": "Zombie",
@@ -26255,7 +26686,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6463": {
     "name": "Zombie",
@@ -26270,7 +26702,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6464": {
     "name": "Zombie",
@@ -26285,7 +26718,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6465": {
     "name": "Zombie",
@@ -26300,7 +26734,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6466": {
     "name": "Zombie",
@@ -26315,7 +26750,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "6467": {
     "name": "Skeleton",
@@ -26330,7 +26766,8 @@
     "stabDef": 50,
     "slashDef": 40,
     "rangeDef": 40,
-    "bonusStrength": 15
+    "bonusStrength": 15,
+    "undead": true
   },
   "6468": {
     "name": "Skeleton",
@@ -26345,7 +26782,8 @@
     "stabDef": 50,
     "slashDef": 40,
     "rangeDef": 40,
-    "bonusStrength": 15
+    "bonusStrength": 15,
+    "undead": true
   },
   "6469": {
     "name": "Possessed pickaxe",
@@ -26512,7 +26950,8 @@
     "rangeDef": 80,
     "magicDef": 130,
     "bonusAttack": 160,
-    "bonusStrength": 31
+    "bonusStrength": 31,
+    "demon": true
   },
   "6496": {
     "name": "Dagannoth Supreme",
@@ -26854,7 +27293,8 @@
     "slashDef": 90,
     "crushDef": 90,
     "rangeDef": 70,
-    "magicDef": 80
+    "magicDef": 80,
+    "dragon": true
   },
   "6594": {
     "name": "Ent",
@@ -26881,7 +27321,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "6597": {
     "name": "Zombie",
@@ -26892,7 +27333,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "6598": {
     "name": "Zombie",
@@ -26903,7 +27345,8 @@
     "strengthLevel": 13,
     "defenceLevel": 18,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "6600": {
     "name": "Runite Golem",
@@ -26986,7 +27429,8 @@
     "strengthLevel": 75,
     "defenceLevel": 80,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "6609": {
     "name": "Callisto",
@@ -27037,7 +27481,8 @@
     "stabDef": 201,
     "slashDef": 200,
     "rangeDef": 270,
-    "magicDef": 250
+    "magicDef": 250,
+    "undead": true
   },
   "6612": {
     "name": "Vet'ion Reborn",
@@ -27052,7 +27497,8 @@
     "stabDef": 201,
     "slashDef": 200,
     "rangeDef": 270,
-    "magicDef": 250
+    "magicDef": 250,
+    "undead": true
   },
   "6613": {
     "name": "Skeleton Hellhound",
@@ -27068,7 +27514,8 @@
     "slashDef": 103,
     "crushDef": 10,
     "rangeDef": 266,
-    "magicDef": 180
+    "magicDef": 180,
+    "undead": true
   },
   "6614": {
     "name": "Greater Skeleton Hellhound",
@@ -27084,7 +27531,8 @@
     "slashDef": 163,
     "crushDef": 20,
     "rangeDef": 275,
-    "magicDef": 210
+    "magicDef": 210,
+    "undead": true
   },
   "6615": {
     "name": "Scorpia",
@@ -27254,7 +27702,8 @@
     "strengthLevel": 1,
     "defenceLevel": 70,
     "rangeLevel": 380,
-    "magicLevel": 380
+    "magicLevel": 380,
+    "demon": true
   },
   "6723": {
     "name": "Chaotic death spawn",
@@ -27264,7 +27713,8 @@
     "strengthLevel": 1,
     "defenceLevel": 70,
     "rangeLevel": 380,
-    "magicLevel": 380
+    "magicLevel": 380,
+    "demon": true
   },
   "6725": {
     "name": "Rock Golem",
@@ -27381,7 +27831,8 @@
     "strengthLevel": 130,
     "defenceLevel": 130,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "6741": {
     "name": "Zombie",
@@ -27392,7 +27843,8 @@
     "strengthLevel": 130,
     "defenceLevel": 130,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "6766": {
     "name": "Lizardman shaman",
@@ -27484,7 +27936,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6816": {
     "name": "Ghost",
@@ -27499,7 +27952,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6817": {
     "name": "Ghost",
@@ -27514,7 +27968,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6818": {
     "name": "Ghost",
@@ -27529,7 +27984,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6819": {
     "name": "Ghost",
@@ -27544,7 +28000,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6820": {
     "name": "Ghost",
@@ -27559,7 +28016,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6821": {
     "name": "Ghost",
@@ -27574,7 +28032,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6822": {
     "name": "Ghost",
@@ -27589,7 +28048,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "6824": {
     "name": "Giant bat",
@@ -28162,7 +28622,8 @@
   },
   "7039": {
     "name": "Reanimated dragon",
-    "hitpoints": 35
+    "hitpoints": 35,
+    "dragon": true
   },
   "7095": {
     "name": "Tortured gorilla",
@@ -28350,7 +28811,8 @@
     "magicDef": 50,
     "bonusAttack": 43,
     "bonusStrength": 29,
-    "bonusRangeStrength": 29
+    "bonusRangeStrength": 29,
+    "demon": true
   },
   "7145": {
     "name": "Demonic gorilla",
@@ -28367,7 +28829,8 @@
     "magicDef": 50,
     "bonusAttack": 43,
     "bonusStrength": 29,
-    "bonusRangeStrength": 29
+    "bonusRangeStrength": 29,
+    "demon": true
   },
   "7146": {
     "name": "Demonic gorilla",
@@ -28384,7 +28847,8 @@
     "magicDef": 50,
     "bonusAttack": 43,
     "bonusStrength": 29,
-    "bonusRangeStrength": 29
+    "bonusRangeStrength": 29,
+    "demon": true
   },
   "7147": {
     "name": "Demonic gorilla",
@@ -28401,7 +28865,8 @@
     "magicDef": 50,
     "bonusAttack": 43,
     "bonusStrength": 29,
-    "bonusRangeStrength": 29
+    "bonusRangeStrength": 29,
+    "demon": true
   },
   "7148": {
     "name": "Demonic gorilla",
@@ -28418,7 +28883,8 @@
     "magicDef": 50,
     "bonusAttack": 43,
     "bonusStrength": 29,
-    "bonusRangeStrength": 29
+    "bonusRangeStrength": 29,
+    "demon": true
   },
   "7149": {
     "name": "Demonic gorilla",
@@ -28435,7 +28901,8 @@
     "magicDef": 50,
     "bonusAttack": 43,
     "bonusStrength": 29,
-    "bonusRangeStrength": 29
+    "bonusRangeStrength": 29,
+    "demon": true
   },
   "7150": {
     "name": "Tortured gorilla",
@@ -28488,7 +28955,8 @@
     "magicDef": 50,
     "bonusAttack": 43,
     "bonusStrength": 29,
-    "bonusRangeStrength": 29
+    "bonusRangeStrength": 29,
+    "demon": true
   },
   "7153": {
     "name": "Tortured gorilla",
@@ -28582,7 +29050,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "crushDef": 20,
-    "rangeDef": 20
+    "rangeDef": 20,
+    "demon": true
   },
   "7242": {
     "name": "Black demon",
@@ -28593,7 +29062,8 @@
     "strengthLevel": 158,
     "defenceLevel": 162,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7243": {
     "name": "Black demon",
@@ -28604,7 +29074,8 @@
     "strengthLevel": 148,
     "defenceLevel": 175,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7244": {
     "name": "Greater demon",
@@ -28615,7 +29086,8 @@
     "strengthLevel": 90,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7245": {
     "name": "Greater demon",
@@ -28626,7 +29098,8 @@
     "strengthLevel": 70,
     "defenceLevel": 80,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7246": {
     "name": "Greater demon",
@@ -28637,7 +29110,8 @@
     "strengthLevel": 90,
     "defenceLevel": 50,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7247": {
     "name": "Lesser demon",
@@ -28648,7 +29122,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7248": {
     "name": "Lesser demon",
@@ -28659,7 +29134,8 @@
     "strengthLevel": 70,
     "defenceLevel": 85,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7249": {
     "name": "Dust devil",
@@ -28734,7 +29210,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "7254": {
     "name": "Iron dragon",
@@ -28750,7 +29227,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "7255": {
     "name": "Steel dragon",
@@ -28766,7 +29244,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "7256": {
     "name": "Hellhound",
@@ -28788,7 +29267,8 @@
     "strengthLevel": 70,
     "defenceLevel": 100,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "7258": {
     "name": "Shade",
@@ -28799,7 +29279,8 @@
     "strengthLevel": 136,
     "defenceLevel": 100,
     "rangeLevel": 50,
-    "magicLevel": 50
+    "magicLevel": 50,
+    "undead": true
   },
   "7259": {
     "name": "Dagannoth",
@@ -28864,7 +29345,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "7264": {
     "name": "Ghost",
@@ -28879,7 +29361,8 @@
     "stabDef": 5,
     "slashDef": 5,
     "crushDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "7265": {
     "name": "Skeleton",
@@ -28893,7 +29376,8 @@
     "magicLevel": 1,
     "stabDef": 5,
     "slashDef": 5,
-    "rangeDef": 5
+    "rangeDef": 5,
+    "undead": true
   },
   "7266": {
     "name": "King Sand Crab",
@@ -28981,7 +29465,8 @@
     "stabDef": 15,
     "slashDef": 15,
     "crushDef": 15,
-    "rangeDef": 15
+    "rangeDef": 15,
+    "undead": true
   },
   "7273": {
     "name": "Brutal blue dragon",
@@ -28998,7 +29483,8 @@
     "rangeDef": 50,
     "magicDef": 60,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "7274": {
     "name": "Brutal red dragon",
@@ -29015,7 +29501,8 @@
     "rangeDef": 50,
     "magicDef": 60,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "7275": {
     "name": "Brutal black dragon",
@@ -29033,7 +29520,8 @@
     "magicDef": 60,
     "bonusStrength": 20,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "7276": {
     "name": "Mutated Bloodveld",
@@ -29070,7 +29558,8 @@
     "stabDef": 50,
     "slashDef": 50,
     "crushDef": 50,
-    "rangeDef": 50
+    "rangeDef": 50,
+    "demon": true
   },
   "7279": {
     "name": "Deviant spectre",
@@ -29085,7 +29574,8 @@
     "stabDef": 80,
     "slashDef": 80,
     "crushDef": 80,
-    "rangeDef": 85
+    "rangeDef": 85,
+    "undead": true
   },
   "7286": {
     "name": "Skotizo",
@@ -29105,7 +29595,8 @@
     "bonusAttack": 160,
     "bonusStrength": 31,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "7287": {
     "name": "Reanimated demon spawn",
@@ -29116,7 +29607,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7296": {
     "name": "Dark Ankou",
@@ -29208,7 +29700,8 @@
     "defenceLevel": 14,
     "rangeLevel": 1,
     "magicLevel": 1,
-    "poisonImmune": true
+    "poisonImmune": true,
+    "undead": true
   },
   "7389": {
     "name": "Chasm Crawler",
@@ -29241,7 +29734,8 @@
     "crushDef": 25,
     "rangeDef": 25,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "undead": true
   },
   "7392": {
     "name": "Giant rockslug",
@@ -29387,7 +29881,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 30,
-    "venomImmune": true
+    "venomImmune": true,
+    "undead": true
   },
   "7403": {
     "name": "Repugnant spectre",
@@ -29403,7 +29898,8 @@
     "slashDef": 120,
     "crushDef": 120,
     "rangeDef": 115,
-    "venomImmune": true
+    "venomImmune": true,
+    "undead": true
   },
   "7404": {
     "name": "Choke devil",
@@ -29511,7 +30007,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 50,
-    "venomImmune": true
+    "venomImmune": true,
+    "demon": true
   },
   "7411": {
     "name": "Nechryarch",
@@ -29526,7 +30023,8 @@
     "stabDef": 30,
     "slashDef": 30,
     "crushDef": 30,
-    "rangeDef": 30
+    "rangeDef": 30,
+    "demon": true
   },
   "7416": {
     "name": "Obor",
@@ -29655,7 +30153,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "7486": {
     "name": "Zombie",
@@ -29670,7 +30169,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "7487": {
     "name": "Zombie",
@@ -29685,7 +30185,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "7488": {
     "name": "Zombie",
@@ -29700,7 +30201,8 @@
     "stabDef": 20,
     "slashDef": 20,
     "rangeDef": 10,
-    "bonusStrength": 10
+    "bonusStrength": 10,
+    "undead": true
   },
   "7513": {
     "name": "Derwen",
@@ -30104,7 +30606,8 @@
     "slashDef": 70,
     "crushDef": 110,
     "rangeDef": 140,
-    "magicDef": 60
+    "magicDef": 60,
+    "demon": true
   },
   "7585": {
     "name": "Ice demon",
@@ -30118,7 +30621,8 @@
     "slashDef": 70,
     "crushDef": 110,
     "rangeDef": 140,
-    "magicDef": 60
+    "magicDef": 60,
+    "demon": true
   },
   "7604": {
     "name": "Skeletal Mystic",
@@ -30201,7 +30705,8 @@
     "strengthLevel": 1,
     "defenceLevel": 70,
     "rangeLevel": 380,
-    "magicLevel": 380
+    "magicLevel": 380,
+    "demon": true
   },
   "7656": {
     "name": "Lesser demon",
@@ -30212,7 +30717,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7657": {
     "name": "Lesser demon",
@@ -30223,32 +30729,38 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7658": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "7659": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "7660": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "7661": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "7662": {
     "name": "Mummy",
     "hitpoints": 68,
-    "combatLevel": 84
+    "combatLevel": 84,
+    "undead": true
   },
   "7664": {
     "name": "Lesser demon",
@@ -30259,7 +30771,8 @@
     "strengthLevel": 70,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7679": {
     "name": "TzHaar-Ket",
@@ -30645,7 +31158,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 120,
-    "magicDef": 140
+    "magicDef": 140,
+    "dragon": true
   },
   "7793": {
     "name": "Taloned Wyvern",
@@ -30661,7 +31175,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 120,
-    "magicDef": 140
+    "magicDef": 140,
+    "dragon": true
   },
   "7794": {
     "name": "Spitting Wyvern",
@@ -30677,7 +31192,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 120,
-    "magicDef": 140
+    "magicDef": 140,
+    "dragon": true
   },
   "7795": {
     "name": "Ancient Wyvern",
@@ -30693,7 +31209,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 120,
-    "magicDef": 170
+    "magicDef": 170,
+    "dragon": true
   },
   "7796": {
     "name": "Lobstrosity",
@@ -30924,7 +31441,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "7862": {
     "name": "Black dragon",
@@ -30940,7 +31458,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "7863": {
     "name": "Black dragon",
@@ -30956,7 +31475,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "7864": {
     "name": "Ankou",
@@ -30967,7 +31487,8 @@
     "strengthLevel": 90,
     "defenceLevel": 100,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "undead": true
   },
   "7865": {
     "name": "Lesser demon",
@@ -30978,7 +31499,8 @@
     "strengthLevel": 85,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7866": {
     "name": "Lesser demon",
@@ -30989,7 +31511,8 @@
     "strengthLevel": 85,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7867": {
     "name": "Lesser demon",
@@ -31000,7 +31523,8 @@
     "strengthLevel": 85,
     "defenceLevel": 71,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7868": {
     "name": "Green dragon",
@@ -31016,7 +31540,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "7869": {
     "name": "Green dragon",
@@ -31032,7 +31557,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "7870": {
     "name": "Green dragon",
@@ -31048,7 +31574,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "7871": {
     "name": "Greater demon",
@@ -31059,7 +31586,8 @@
     "strengthLevel": 90,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7872": {
     "name": "Greater demon",
@@ -31070,7 +31598,8 @@
     "strengthLevel": 90,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7873": {
     "name": "Greater demon",
@@ -31081,7 +31610,8 @@
     "strengthLevel": 90,
     "defenceLevel": 81,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7874": {
     "name": "Black demon",
@@ -31092,7 +31622,8 @@
     "strengthLevel": 165,
     "defenceLevel": 152,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7875": {
     "name": "Black demon",
@@ -31103,7 +31634,8 @@
     "strengthLevel": 165,
     "defenceLevel": 152,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7876": {
     "name": "Black demon",
@@ -31114,7 +31646,8 @@
     "strengthLevel": 165,
     "defenceLevel": 152,
     "rangeLevel": 1,
-    "magicLevel": 1
+    "magicLevel": 1,
+    "demon": true
   },
   "7877": {
     "name": "Hellhound",
@@ -31183,7 +31716,8 @@
     "rangeLevel": 5,
     "magicLevel": 9,
     "magic": 5,
-    "magicDef": 5
+    "magicDef": 5,
+    "undead": true
   },
   "7882": {
     "name": "Dusk",
@@ -31359,7 +31893,8 @@
     "bonusAttack": 6,
     "bonusStrength": 8,
     "bonusRangeStrength": 12,
-    "bonusMagicDamage": 12
+    "bonusMagicDamage": 12,
+    "undead": true
   },
   "7932": {
     "name": "Revenant pyrefiend",
@@ -31375,7 +31910,8 @@
     "slashDef": 40,
     "crushDef": 50,
     "rangeDef": 10,
-    "magicDef": 15
+    "magicDef": 15,
+    "undead": true
   },
   "7933": {
     "name": "Revenant hobgoblin",
@@ -31395,7 +31931,8 @@
     "rangeDef": 50,
     "magicDef": 30,
     "bonusAttack": 20,
-    "bonusStrength": 24
+    "bonusStrength": 24,
+    "undead": true
   },
   "7934": {
     "name": "Revenant cyclops",
@@ -31413,7 +31950,8 @@
     "rangeDef": 135,
     "magicDef": 10,
     "bonusAttack": 53,
-    "bonusStrength": 64
+    "bonusStrength": 64,
+    "undead": true
   },
   "7935": {
     "name": "Revenant hellhound",
@@ -31432,7 +31970,8 @@
     "rangeDef": 140,
     "magicDef": 62,
     "bonusAttack": 38,
-    "bonusStrength": 40
+    "bonusStrength": 40,
+    "undead": true
   },
   "7936": {
     "name": "Revenant demon",
@@ -31454,7 +31993,8 @@
     "bonusAttack": 30,
     "bonusStrength": 50,
     "bonusRangeStrength": 30,
-    "bonusMagicDamage": 24
+    "bonusMagicDamage": 24,
+    "undead": true
   },
   "7937": {
     "name": "Revenant ork",
@@ -31473,7 +32013,8 @@
     "rangeDef": 148,
     "magicDef": 50,
     "bonusAttack": 60,
-    "bonusStrength": 55
+    "bonusStrength": 55,
+    "undead": true
   },
   "7938": {
     "name": "Revenant dark beast",
@@ -31492,7 +32033,8 @@
     "rangeDef": 158,
     "magicDef": 70,
     "bonusAttack": 65,
-    "bonusStrength": 60
+    "bonusStrength": 60,
+    "undead": true
   },
   "7939": {
     "name": "Revenant knight",
@@ -31514,7 +32056,8 @@
     "bonusAttack": 69,
     "bonusStrength": 71,
     "bonusRangeStrength": 45,
-    "bonusMagicDamage": 50
+    "bonusMagicDamage": 50,
+    "undead": true
   },
   "7940": {
     "name": "Revenant dragon",
@@ -31536,7 +32079,8 @@
     "bonusAttack": 72,
     "bonusStrength": 78,
     "bonusRangeStrength": 51,
-    "bonusMagicDamage": 35
+    "bonusMagicDamage": 35,
+    "undead": true
   },
   "7948": {
     "name": "Corsair Traitor (hard)",
@@ -31572,7 +32116,8 @@
     "slashDef": 50,
     "crushDef": 50,
     "rangeDef": 30,
-    "magicDef": 40
+    "magicDef": 40,
+    "dragon": true
   },
   "7964": {
     "name": "Ithoi the Navigator",
@@ -31728,7 +32273,8 @@
     "slashDef": 110,
     "crushDef": 85,
     "rangeDef": 95,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "8031": {
     "name": "Rune dragon",
@@ -31745,7 +32291,8 @@
     "crushDef": 90,
     "rangeDef": 95,
     "magicDef": 30,
-    "bonusRangeStrength": 14
+    "bonusRangeStrength": 14,
+    "dragon": true
   },
   "8033": {
     "name": "Elvarg",
@@ -31815,7 +32362,9 @@
     "crushDef": 126,
     "rangeDef": 80,
     "magicDef": 204,
-    "bonusAttack": 14
+    "bonusAttack": 14,
+    "dragon": true,
+    "undead": true
   },
   "8059": {
     "name": "Vorkath",
@@ -31834,7 +32383,9 @@
     "crushDef": 108,
     "rangeDef": 26,
     "magicDef": 240,
-    "bonusAttack": 16
+    "bonusAttack": 16,
+    "dragon": true,
+    "undead": true
   },
   "8060": {
     "name": "Vorkath",
@@ -31853,7 +32404,9 @@
     "crushDef": 126,
     "rangeDef": 80,
     "magicDef": 204,
-    "bonusAttack": 14
+    "bonusAttack": 14,
+    "dragon": true,
+    "undead": true
   },
   "8061": {
     "name": "Vorkath",
@@ -31872,7 +32425,9 @@
     "crushDef": 108,
     "rangeDef": 26,
     "magicDef": 240,
-    "bonusAttack": 16
+    "bonusAttack": 16,
+    "dragon": true,
+    "undead": true
   },
   "8062": {
     "name": "Zombified Spawn",
@@ -31891,7 +32446,8 @@
     "stabDef": 3,
     "slashDef": 3,
     "crushDef": 3,
-    "rangeDef": 3
+    "rangeDef": 3,
+    "undead": true
   },
   "8063": {
     "name": "Zombified Spawn",
@@ -31910,7 +32466,8 @@
     "stabDef": 3,
     "slashDef": 3,
     "crushDef": 3,
-    "rangeDef": 3
+    "rangeDef": 3,
+    "undead": true
   },
   "8064": {
     "name": "Stone Guardian",
@@ -31957,7 +32514,8 @@
     "crushDef": 25,
     "rangeDef": 30,
     "magicDef": 10,
-    "bonusAttack": 30
+    "bonusAttack": 30,
+    "undead": true
   },
   "8071": {
     "name": "Skeleton",
@@ -31974,7 +32532,8 @@
     "slashDef": 10,
     "crushDef": 15,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "undead": true
   },
   "8072": {
     "name": "Skeleton",
@@ -31991,7 +32550,8 @@
     "slashDef": 30,
     "crushDef": 35,
     "rangeDef": 10,
-    "magicDef": 20
+    "magicDef": 20,
+    "undead": true
   },
   "8073": {
     "name": "Green dragon",
@@ -32007,7 +32567,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "8074": {
     "name": "Blue dragon",
@@ -32023,7 +32584,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8075": {
     "name": "Red dragon",
@@ -32039,7 +32601,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8076": {
     "name": "Green dragon",
@@ -32055,7 +32618,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "8077": {
     "name": "Blue dragon",
@@ -32071,7 +32635,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8078": {
     "name": "Red dragon",
@@ -32087,7 +32652,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8079": {
     "name": "Red dragon",
@@ -32103,7 +32669,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8080": {
     "name": "Iron dragon",
@@ -32119,7 +32686,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "8081": {
     "name": "Brutal green dragon",
@@ -32136,7 +32704,8 @@
     "rangeDef": 50,
     "magicDef": 60,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8082": {
     "name": "Green dragon",
@@ -32152,7 +32721,8 @@
     "slashDef": 40,
     "crushDef": 40,
     "rangeDef": 20,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "8083": {
     "name": "Blue dragon",
@@ -32168,7 +32738,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8084": {
     "name": "Black dragon",
@@ -32184,7 +32755,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8085": {
     "name": "Black dragon",
@@ -32200,7 +32772,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 50,
-    "magicDef": 60
+    "magicDef": 60,
+    "dragon": true
   },
   "8086": {
     "name": "Steel dragon",
@@ -32216,7 +32789,8 @@
     "slashDef": 70,
     "crushDef": 70,
     "rangeDef": 90,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "8087": {
     "name": "Brutal red dragon",
@@ -32233,7 +32807,8 @@
     "rangeDef": 50,
     "magicDef": 60,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8088": {
     "name": "Mithril dragon",
@@ -32250,7 +32825,8 @@
     "crushDef": 70,
     "rangeDef": 90,
     "magicDef": 30,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8089": {
     "name": "Mithril dragon",
@@ -32267,7 +32843,8 @@
     "crushDef": 70,
     "rangeDef": 90,
     "magicDef": 30,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8090": {
     "name": "Adamant dragon",
@@ -32283,7 +32860,8 @@
     "slashDef": 110,
     "crushDef": 85,
     "rangeDef": 95,
-    "magicDef": 30
+    "magicDef": 30,
+    "dragon": true
   },
   "8091": {
     "name": "Rune dragon",
@@ -32300,7 +32878,8 @@
     "crushDef": 90,
     "rangeDef": 95,
     "magicDef": 30,
-    "bonusRangeStrength": 14
+    "bonusRangeStrength": 14,
+    "dragon": true
   },
   "8092": {
     "name": "Brutal black dragon",
@@ -32318,7 +32897,8 @@
     "magicDef": 60,
     "bonusStrength": 20,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8093": {
     "name": "Brutal black dragon",
@@ -32336,7 +32916,8 @@
     "magicDef": 60,
     "bonusStrength": 20,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8094": {
     "name": "Galvek",
@@ -32358,7 +32939,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8095": {
     "name": "Galvek",
@@ -32380,7 +32962,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8096": {
     "name": "Galvek",
@@ -32402,7 +32985,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8097": {
     "name": "Galvek",
@@ -32424,7 +33008,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8098": {
     "name": "Galvek",
@@ -32446,7 +33031,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8137": {
     "name": "Spider",
@@ -32542,7 +33128,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8178": {
     "name": "Galvek",
@@ -32564,7 +33151,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8179": {
     "name": "Galvek",
@@ -32586,7 +33174,8 @@
     "bonusRangeStrength": 6,
     "bonusMagicDamage": 42,
     "poisonImmune": true,
-    "venomImmune": true
+    "venomImmune": true,
+    "dragon": true
   },
   "8194": {
     "name": "Growthling",
@@ -33298,7 +33887,8 @@
     "magicDef": 600,
     "bonusAttack": 150,
     "bonusStrength": 82,
-    "bonusRangeStrength": 4
+    "bonusRangeStrength": 4,
+    "undead": true
   },
   "8360": {
     "name": "The Maiden of Sugadinti",
@@ -33812,7 +34402,8 @@
     "stabDef": 160,
     "slashDef": 160,
     "crushDef": 160,
-    "magicDef": 160
+    "magicDef": 160,
+    "dragon": true
   },
   "8610": {
     "name": "Wyrm",
@@ -33830,7 +34421,8 @@
     "rangeDef": 20,
     "magicDef": 50,
     "bonusStrength": 30,
-    "bonusMagicDamage": 30
+    "bonusMagicDamage": 30,
+    "dragon": true
   },
   "8611": {
     "name": "Wyrm",
@@ -33848,7 +34440,8 @@
     "rangeDef": 20,
     "magicDef": 50,
     "bonusStrength": 30,
-    "bonusMagicDamage": 30
+    "bonusMagicDamage": 30,
+    "dragon": true
   },
   "8612": {
     "name": "Drake",
@@ -33868,7 +34461,8 @@
     "magicDef": 20,
     "bonusAttack": 40,
     "bonusStrength": 12,
-    "bonusRangeStrength": 40
+    "bonusRangeStrength": 40,
+    "dragon": true
   },
   "8613": {
     "name": "Drake",
@@ -33888,7 +34482,8 @@
     "magicDef": 20,
     "bonusAttack": 40,
     "bonusStrength": 12,
-    "bonusRangeStrength": 40
+    "bonusRangeStrength": 40,
+    "dragon": true
   },
   "8614": {
     "name": "Sulphur Lizard",
@@ -33923,7 +34518,8 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   },
   "8616": {
     "name": "Alchemical Hydra",
@@ -33943,7 +34539,8 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   },
   "8617": {
     "name": "Alchemical Hydra",
@@ -33963,7 +34560,8 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   },
   "8618": {
     "name": "Alchemical Hydra",
@@ -33983,7 +34581,8 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   },
   "8619": {
     "name": "Alchemical Hydra",
@@ -34003,7 +34602,8 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   },
   "8620": {
     "name": "Alchemical Hydra",
@@ -34023,7 +34623,8 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   },
   "8621": {
     "name": "Alchemical Hydra",
@@ -34043,7 +34644,8 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   },
   "8622": {
     "name": "Alchemical Hydra",
@@ -34063,6 +34665,7 @@
     "rangeDef": 45,
     "magicDef": 150,
     "bonusRangeStrength": 20,
-    "bonusMagicDamage": 20
+    "bonusMagicDamage": 20,
+    "dragon": true
   }
 }
