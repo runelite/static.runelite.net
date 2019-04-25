@@ -7,6 +7,5 @@ net.runelite.api.hooks
 net.runelite.api.kit
 net.runelite.api.model
 net.runelite.api.overlay
-net.runelite.api.queries
 net.runelite.api.vars
 net.runelite.api.widgets

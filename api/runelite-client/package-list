@@ -16,6 +16,7 @@ net.runelite.client.plugins.account
 net.runelite.client.plugins.achievementdiary
 net.runelite.client.plugins.achievementdiary.diaries
 net.runelite.client.plugins.agility
+net.runelite.client.plugins.ammo
 net.runelite.client.plugins.animsmoothing
 net.runelite.client.plugins.antidrag
 net.runelite.client.plugins.attackstyles
