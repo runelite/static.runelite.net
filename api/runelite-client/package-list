@@ -46,6 +46,7 @@ net.runelite.client.plugins.config
 net.runelite.client.plugins.cooking
 net.runelite.client.plugins.corp
 net.runelite.client.plugins.crystalmathlabs
+net.runelite.client.plugins.customcursor
 net.runelite.client.plugins.dailytaskindicators
 net.runelite.client.plugins.deathindicator
 net.runelite.client.plugins.defaultworld
@@ -79,6 +80,7 @@ net.runelite.client.plugins.interfacestyles
 net.runelite.client.plugins.inventorytags
 net.runelite.client.plugins.inventoryviewer
 net.runelite.client.plugins.itemcharges
+net.runelite.client.plugins.itemidentification
 net.runelite.client.plugins.itemprices
 net.runelite.client.plugins.itemstats
 net.runelite.client.plugins.itemstats.delta
