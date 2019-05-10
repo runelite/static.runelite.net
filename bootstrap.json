@@ -250,12 +250,14 @@
         "version": "1.5.22.1"
     }, 
     "clientJvm9Arguments": [
+        "-XX:+DisableAttachMechanism",
         "-Xmx512m", 
         "-Xss2m", 
         "-XX:CompileThreshold=1500", 
         "-Djna.nosys=true"
     ], 
     "clientJvmArguments": [
+        "-XX:+DisableAttachMechanism",
         "-Xmx512m", 
         "-Xss2m", 
         "-XX:CompileThreshold=1500", 
@@ -307,6 +309,7 @@
         "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
     }, 
     "launcherArguments": [
+        "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true", 
         "-Xmx512m", 
         "-Xss2m", 
