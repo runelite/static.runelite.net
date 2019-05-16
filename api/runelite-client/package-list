@@ -53,6 +53,7 @@ net.runelite.client.plugins.defaultworld
 net.runelite.client.plugins.demonicgorilla
 net.runelite.client.plugins.devtools
 net.runelite.client.plugins.discord
+net.runelite.client.plugins.emojis
 net.runelite.client.plugins.entityhider
 net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
@@ -142,6 +143,7 @@ net.runelite.client.plugins.skillcalculator
 net.runelite.client.plugins.skillcalculator.beans
 net.runelite.client.plugins.skybox
 net.runelite.client.plugins.slayer
+net.runelite.client.plugins.smelting
 net.runelite.client.plugins.specialcounter
 net.runelite.client.plugins.statusbars
 net.runelite.client.plugins.stretchedmode
