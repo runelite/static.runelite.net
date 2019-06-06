@@ -78,6 +78,7 @@ net.runelite.client.plugins.implings
 net.runelite.client.plugins.info
 net.runelite.client.plugins.instancemap
 net.runelite.client.plugins.interfacestyles
+net.runelite.client.plugins.inventorygrid
 net.runelite.client.plugins.inventorytags
 net.runelite.client.plugins.inventoryviewer
 net.runelite.client.plugins.itemcharges
@@ -89,6 +90,7 @@ net.runelite.client.plugins.itemstats.food
 net.runelite.client.plugins.itemstats.potions
 net.runelite.client.plugins.itemstats.special
 net.runelite.client.plugins.itemstats.stats
+net.runelite.client.plugins.keyremapping
 net.runelite.client.plugins.kingdomofmiscellania
 net.runelite.client.plugins.kourendlibrary
 net.runelite.client.plugins.loginscreen
@@ -97,6 +99,7 @@ net.runelite.client.plugins.lowmemory
 net.runelite.client.plugins.menuentryswapper
 net.runelite.client.plugins.metronome
 net.runelite.client.plugins.minimap
+net.runelite.client.plugins.mining
 net.runelite.client.plugins.motherlode
 net.runelite.client.plugins.mousehighlight
 net.runelite.client.plugins.mta
@@ -161,7 +164,6 @@ net.runelite.client.plugins.tithefarm
 net.runelite.client.plugins.twitch
 net.runelite.client.plugins.twitch.irc
 net.runelite.client.plugins.virtuallevels
-net.runelite.client.plugins.wasdcamera
 net.runelite.client.plugins.wiki
 net.runelite.client.plugins.wintertodt
 net.runelite.client.plugins.wintertodt.config
