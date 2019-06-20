@@ -84,6 +84,7 @@ net.runelite.client.plugins.inventoryviewer
 net.runelite.client.plugins.itemcharges
 net.runelite.client.plugins.itemidentification
 net.runelite.client.plugins.itemprices
+net.runelite.client.plugins.itemskeptondeath
 net.runelite.client.plugins.itemstats
 net.runelite.client.plugins.itemstats.delta
 net.runelite.client.plugins.itemstats.food
