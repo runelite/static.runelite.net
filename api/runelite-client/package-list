@@ -41,6 +41,7 @@ net.runelite.client.plugins.cluescrolls
 net.runelite.client.plugins.cluescrolls.clues
 net.runelite.client.plugins.cluescrolls.clues.emote
 net.runelite.client.plugins.cluescrolls.clues.hotcold
+net.runelite.client.plugins.cluescrolls.clues.item
 net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
 net.runelite.client.plugins.cooking
