@@ -8480,7 +8480,7 @@
   "9764": "Magic hood",
   "9765": "Runecraft cape",
   "9766": "Runecraft cape(t)",
-  "9767": "Runecrafting hood",
+  "9767": "Runecraft hood",
   "9768": "Hitpoints cape",
   "9769": "Hitpoints cape(t)",
   "9770": "Hitpoints hood",
@@ -15151,5 +15151,9 @@
   "24220": "Swift blade",
   "24222": "Ava's assembler (l)",
   "24223": "Fire cape (l)",
-  "24224": "Infernal cape (l)"
+  "24224": "Infernal cape (l)",
+  "24225": "Granite maul",
+  "24227": "Granite maul",
+  "24229": "Ornate maul handle",
+  "24230": "Ornate maul handle"
 }
