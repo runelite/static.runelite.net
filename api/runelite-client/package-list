@@ -109,8 +109,8 @@ net.runelite.client.plugins.mta.alchemy
 net.runelite.client.plugins.mta.enchantment
 net.runelite.client.plugins.mta.graveyard
 net.runelite.client.plugins.mta.telekinetic
+net.runelite.client.plugins.music
 net.runelite.client.plugins.musicindicator
-net.runelite.client.plugins.musiclist
 net.runelite.client.plugins.nightmarezone
 net.runelite.client.plugins.notes
 net.runelite.client.plugins.npchighlight
