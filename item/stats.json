@@ -51321,5 +51321,74 @@
   },
   "24246": {
     "weight": 0.453
+  },
+  "24254": {
+    "quest": true
+  },
+  "24255": {
+    "quest": true
+  },
+  "24256": {
+    "quest": true
+  },
+  "24257": {
+    "quest": true
+  },
+  "24258": {
+    "quest": true
+  },
+  "24259": {
+    "quest": true
+  },
+  "24260": {
+    "weight": 0.3
+  },
+  "24261": {
+    "quest": true
+  },
+  "24265": {
+    "quest": true,
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -8,
+      "arange": -2,
+      "dstab": 27,
+      "dslash": 31,
+      "dcrush": 29,
+      "dmagic": -1,
+      "drange": 29
+    }
+  },
+  "24266": {
+    "quest": true,
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -8,
+      "arange": -2,
+      "dstab": 27,
+      "dslash": 31,
+      "dcrush": 29,
+      "dmagic": -1,
+      "drange": 29
+    }
+  },
+  "24271": {
+    "quest": true,
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 36,
+      "dslash": 34,
+      "dcrush": 38,
+      "dmagic": 3,
+      "drange": 34,
+      "str": 6,
+      "prayer": 3
+    }
   }
 }
