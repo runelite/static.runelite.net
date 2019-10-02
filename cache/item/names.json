@@ -9487,8 +9487,8 @@
   "10823": "Yak-hide armour",
   "10824": "Yak-hide armour",
   "10825": "Yak-hide armour",
-  "10826": "Fremennik shield",
-  "10827": "Fremennik shield",
+  "10826": "Neitiznot shield",
+  "10827": "Neitiznot shield",
   "10828": "Helm of neitiznot",
   "10829": "Documents",
   "10830": "Royal decree",
@@ -15185,5 +15185,6 @@
   "24266": "V's shield",
   "24268": "Basilisk jaw",
   "24269": "Basilisk jaw",
-  "24271": "Neitiznot faceguard"
+  "24271": "Neitiznot faceguard",
+  "24276": "Basilisk knight"
 }
