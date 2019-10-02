@@ -51,7 +51,6 @@ net.runelite.client.plugins.customcursor
 net.runelite.client.plugins.dailytaskindicators
 net.runelite.client.plugins.deathindicator
 net.runelite.client.plugins.defaultworld
-net.runelite.client.plugins.demonicgorilla
 net.runelite.client.plugins.devtools
 net.runelite.client.plugins.discord
 net.runelite.client.plugins.emojis
