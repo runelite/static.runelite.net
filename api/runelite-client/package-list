@@ -132,6 +132,7 @@ net.runelite.client.plugins.puzzlesolver.solver.pathfinding
 net.runelite.client.plugins.questlist
 net.runelite.client.plugins.raids
 net.runelite.client.plugins.raids.solver
+net.runelite.client.plugins.randomevents
 net.runelite.client.plugins.regenmeter
 net.runelite.client.plugins.reorderprayers
 net.runelite.client.plugins.reportbutton
