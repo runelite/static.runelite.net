@@ -933,74 +933,6 @@
   "464": {
     "weight": 0.085
   },
-  "466": {
-    "weight": 0.1,
-    "equipable": true,
-    "equipment": {
-      "slot": 3
-    }
-  },
-  "468": {
-    "weight": 1.814
-  },
-  "470": {
-    "weight": 1.814
-  },
-  "472": {
-    "weight": 1.814
-  },
-  "474": {
-    "weight": 1.814
-  },
-  "476": {
-    "weight": 1.814
-  },
-  "478": {
-    "weight": 1.814
-  },
-  "480": {
-    "weight": 1.814
-  },
-  "482": {
-    "weight": 1.814
-  },
-  "484": {
-    "weight": 1.814
-  },
-  "486": {
-    "weight": 1.814
-  },
-  "488": {
-    "weight": 1.814
-  },
-  "490": {
-    "weight": 1.814
-  },
-  "492": {
-    "weight": 0.1,
-    "equipable": true
-  },
-  "494": {
-    "weight": 0.907
-  },
-  "496": {
-    "weight": 0.907
-  },
-  "498": {
-    "weight": 0.907
-  },
-  "500": {
-    "weight": 0.907
-  },
-  "502": {
-    "weight": 0.907
-  },
-  "504": {
-    "weight": 0.907
-  },
-  "506": {
-    "weight": 0.907
-  },
   "522": {
     "quest": true,
     "weight": 0.5
@@ -7997,7 +7929,8 @@
   },
   "2570": {
     "weight": 0.006,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "2572": {
     "weight": 0.006,
@@ -10649,7 +10582,6 @@
     }
   },
   "3678": {
-    "quest": true,
     "weight": 1.36
   },
   "3688": {
@@ -10697,8 +10629,9 @@
   },
   "3695": {
     "quest": true,
-    "weight": 1.0,
-    "equipable": true
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {}
   },
   "3696": {
     "quest": true
@@ -12115,7 +12048,8 @@
   "4202": {
     "quest": true,
     "weight": 0.005,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "4203": {
     "quest": true,
@@ -16705,20 +16639,6 @@
       "slot": 0
     }
   },
-  "5549": {
-    "weight": 1.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 0
-    }
-  },
-  "5551": {
-    "weight": 1.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 0
-    }
-  },
   "5553": {
     "weight": 0.453,
     "equipable": true,
@@ -18606,12 +18526,14 @@
   "6122": {
     "quest": true,
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "6123": {
     "quest": true,
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "6125": {
     "quest": true,
@@ -19914,7 +19836,8 @@
   "6465": {
     "quest": true,
     "weight": 0.005,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "6466": {
     "quest": true,
@@ -20861,9 +20784,6 @@
       "aspeed": 5
     }
   },
-  "6741": {
-    "weight": 0.907
-  },
   "6745": {
     "quest": true,
     "weight": 1.814,
@@ -21252,102 +21172,6 @@
     "quest": true,
     "weight": 1.0
   },
-  "6822": {
-    "weight": 0.2
-  },
-  "6823": {
-    "weight": 0.2
-  },
-  "6824": {
-    "weight": 0.2
-  },
-  "6825": {
-    "weight": 0.2
-  },
-  "6826": {
-    "weight": 0.2
-  },
-  "6827": {
-    "weight": 0.2
-  },
-  "6828": {
-    "weight": 0.2
-  },
-  "6829": {
-    "weight": 0.2
-  },
-  "6830": {
-    "weight": 0.2
-  },
-  "6831": {
-    "weight": 0.2
-  },
-  "6832": {
-    "weight": 0.2
-  },
-  "6834": {
-    "weight": 0.2
-  },
-  "6835": {
-    "weight": 0.2
-  },
-  "6836": {
-    "weight": 0.2
-  },
-  "6837": {
-    "weight": 0.2
-  },
-  "6838": {
-    "weight": 0.2
-  },
-  "6839": {
-    "weight": 0.2
-  },
-  "6840": {
-    "weight": 0.2
-  },
-  "6841": {
-    "weight": 0.2
-  },
-  "6842": {
-    "weight": 0.2
-  },
-  "6843": {
-    "weight": 0.2
-  },
-  "6844": {
-    "weight": 0.2
-  },
-  "6845": {
-    "weight": 0.2
-  },
-  "6846": {
-    "weight": 0.2
-  },
-  "6847": {
-    "weight": 0.2
-  },
-  "6848": {
-    "weight": 0.2
-  },
-  "6849": {
-    "weight": 0.2
-  },
-  "6851": {
-    "weight": 0.2
-  },
-  "6852": {
-    "weight": 0.907
-  },
-  "6853": {
-    "weight": 1.0
-  },
-  "6854": {
-    "weight": 6.35
-  },
-  "6855": {
-    "weight": 2.0
-  },
   "6856": {
     "weight": 0.25,
     "equipable": true,
@@ -21403,9 +21227,6 @@
     "equipment": {
       "slot": 2
     }
-  },
-  "6864": {
-    "weight": 0.2
   },
   "6883": {
     "weight": 0.01
@@ -22670,7 +22491,8 @@
   },
   "7414": {
     "weight": 0.02,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "7416": {
     "weight": 0.001
@@ -24445,24 +24267,6 @@
   },
   "7927": {
     "weight": 0.001
-  },
-  "7928": {
-    "weight": 0.15
-  },
-  "7929": {
-    "weight": 0.15
-  },
-  "7930": {
-    "weight": 0.15
-  },
-  "7931": {
-    "weight": 0.15
-  },
-  "7932": {
-    "weight": 0.15
-  },
-  "7933": {
-    "weight": 0.15
   },
   "7934": {
     "weight": 0.001
@@ -29332,36 +29136,6 @@
     "quest": true,
     "weight": 0.001
   },
-  "9906": {
-    "weight": 0.003,
-    "equipable": true
-  },
-  "9907": {
-    "weight": 0.003,
-    "equipable": true
-  },
-  "9908": {
-    "weight": 0.003,
-    "equipable": true
-  },
-  "9909": {
-    "weight": 0.003,
-    "equipable": true
-  },
-  "9910": {
-    "equipable": true
-  },
-  "9911": {
-    "weight": 0.003,
-    "equipable": true
-  },
-  "9912": {
-    "weight": 0.003,
-    "equipable": true
-  },
-  "9919": {
-    "weight": 0.003
-  },
   "9920": {
     "weight": 0.003,
     "equipable": true,
@@ -30044,7 +29818,8 @@
       "slot": 3,
       "aslash": 19,
       "arange": 29,
-      "str": 31
+      "str": 31,
+      "aspeed": 5
     }
   },
   "10147": {
@@ -30054,7 +29829,8 @@
       "slot": 3,
       "aslash": 37,
       "arange": 47,
-      "str": 49
+      "str": 49,
+      "aspeed": 5
     }
   },
   "10148": {
@@ -30064,7 +29840,8 @@
       "slot": 3,
       "aslash": 59,
       "arange": 69,
-      "str": 71
+      "str": 71,
+      "aspeed": 5
     }
   },
   "10149": {
@@ -30074,7 +29851,8 @@
       "slot": 3,
       "aslash": 10,
       "arange": 20,
-      "str": 22
+      "str": 22,
+      "aspeed": 5
     }
   },
   "10150": {
@@ -31339,9 +31117,6 @@
       "aspeed": 4
     }
   },
-  "10506": {
-    "weight": 9.071
-  },
   "10507": {
     "weight": 2.0,
     "equipable": true,
@@ -31526,19 +31301,23 @@
     }
   },
   "10556": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "10557": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "10558": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "10559": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "10560": {
     "weight": 0.001
@@ -31565,7 +31344,8 @@
   },
   "10567": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "10581": {
     "quest": true,
@@ -31683,12 +31463,14 @@
   "10595": {
     "quest": true,
     "weight": 2.0,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "10596": {
     "quest": true,
     "weight": 2.0,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "10597": {
     "quest": true,
@@ -32364,24 +32146,6 @@
     "equipment": {
       "slot": 7
     }
-  },
-  "11023": {
-    "weight": 0.01
-  },
-  "11024": {
-    "weight": 0.1
-  },
-  "11027": {
-    "weight": 0.15
-  },
-  "11028": {
-    "weight": 0.15
-  },
-  "11029": {
-    "weight": 0.15
-  },
-  "11030": {
-    "weight": 0.15
   },
   "11031": {
     "quest": true,
@@ -35279,9 +35043,6 @@
   "11922": {
     "weight": 1.0
   },
-  "11923": {
-    "weight": 1.814
-  },
   "11924": {
     "weight": 3.0,
     "equipable": true,
@@ -37461,9 +37222,6 @@
       "slot": 0
     }
   },
-  "12594": {
-    "weight": 1.814
-  },
   "12596": {
     "weight": 3.0,
     "equipable": true,
@@ -38000,21 +37758,6 @@
   "12833": {
     "weight": 2.0
   },
-  "12837": {
-    "weight": 1.0
-  },
-  "12839": {
-    "weight": 1.0
-  },
-  "12840": {
-    "weight": 1.0
-  },
-  "12841": {
-    "weight": 1.0
-  },
-  "12842": {
-    "weight": 1.0
-  },
   "12845": {
     "equipable": true,
     "equipment": {
@@ -38081,12 +37824,6 @@
     "equipment": {
       "slot": 0
     }
-  },
-  "12861": {
-    "weight": 0.2
-  },
-  "12862": {
-    "weight": 0.2
   },
   "12887": {
     "equipable": true,
@@ -39288,28 +39025,6 @@
       "slot": 10
     }
   },
-  "13183": {
-    "equipable": true,
-    "equipment": {
-      "slot": 3
-    }
-  },
-  "13184": {
-    "equipable": true,
-    "equipment": {
-      "slot": 3
-    }
-  },
-  "13185": {
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 5
-    }
-  },
-  "13186": {
-    "equipable": true
-  },
   "13195": {
     "equipable": true,
     "equipment": {
@@ -39847,12 +39562,6 @@
     "equipment": {
       "slot": 0
     }
-  },
-  "13345": {
-    "weight": 1.0
-  },
-  "13346": {
-    "weight": 1.0
   },
   "13353": {
     "weight": 1.0
@@ -42791,21 +42500,6 @@
   "20396": {
     "weight": 0.02
   },
-  "20397": {
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 22,
-      "aslash": 18,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 2,
-      "dcrush": 4,
-      "str": 20,
-      "aspeed": 7
-    }
-  },
   "20401": {
     "weight": 1.36,
     "equipable": true,
@@ -43738,29 +43432,6 @@
       "rstr": 49
     }
   },
-  "20601": {
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "acrush": 135,
-      "amagic": -4,
-      "str": 147,
-      "aspeed": 6
-    }
-  },
-  "20604": {
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 28,
-      "dslash": 3,
-      "dcrush": 3,
-      "dmagic": 20,
-      "mdmg": 5,
-      "aspeed": 4
-    }
-  },
   "20655": {
     "equipable": true,
     "equipment": {
@@ -44120,7 +43791,8 @@
   },
   "20802": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "20834": {
     "equipable": true,
@@ -45204,9 +44876,6 @@
       "slot": 9
     }
   },
-  "21394": {
-    "weight": 0.12
-  },
   "21439": {
     "equipable": true,
     "equipment": {
@@ -45498,30 +45167,10 @@
   "21707": {
     "weight": 4.5
   },
-  "21710": {
-    "quest": true
-  },
-  "21718": {
-    "quest": true
-  },
   "21720": {
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
-  },
-  "21722": {
-    "weight": 5.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 0
-    }
-  },
-  "21723": {
-    "weight": 10.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 1
     }
   },
   "21730": {
@@ -45828,23 +45477,6 @@
     "equipment": {
       "slot": 0
     }
-  },
-  "21865": {
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
-      "aspeed": 4
-    }
-  },
-  "21869": {
-    "weight": 2.0
-  },
-  "21875": {
-    "weight": 0.25
   },
   "21882": {
     "weight": 6.0
@@ -46967,6 +46599,18 @@
       "drange": 5
     }
   },
+  "22254": {
+    "weight": 3.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "dstab": 6,
+      "dslash": 7,
+      "dcrush": 5,
+      "dmagic": 2,
+      "drange": 6
+    }
+  },
   "22257": {
     "weight": 3.1,
     "equipable": true,
@@ -47187,35 +46831,43 @@
   },
   "22308": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22309": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22310": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22311": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22312": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22313": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22314": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22315": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22316": {
     "equipable": true,
@@ -47376,51 +47028,64 @@
   },
   "22337": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22338": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22339": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22340": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22341": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22342": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22343": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22344": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22345": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22346": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22347": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22348": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22349": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22351": {
     "equipable": true,
@@ -48086,15 +47751,6 @@
       "slot": 1
     }
   },
-  "22680": {
-    "weight": 3.3
-  },
-  "22681": {
-    "weight": 3.7
-  },
-  "22682": {
-    "weight": 4.0
-  },
   "22684": {
     "equipable": true,
     "equipment": {
@@ -48181,39 +47837,49 @@
     }
   },
   "22721": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22722": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22723": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22724": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22725": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22726": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22727": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22728": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22729": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22730": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "22731": {
     "weight": 2.2,
@@ -48884,15 +48550,6 @@
       "dmagic": -1,
       "drange": 6
     }
-  },
-  "23105": {
-    "weight": 0.5
-  },
-  "23106": {
-    "weight": 0.8
-  },
-  "23107": {
-    "weight": 0.5
   },
   "23108": {
     "weight": 0.4,
@@ -49793,24 +49450,6 @@
       "slot": 0
     }
   },
-  "23450": {
-    "weight": 0.1
-  },
-  "23451": {
-    "weight": 2.2
-  },
-  "23452": {
-    "weight": 0.1
-  },
-  "23453": {
-    "weight": 2.0
-  },
-  "23454": {
-    "weight": 1.0
-  },
-  "23455": {
-    "weight": 1.0
-  },
   "23458": {
     "weight": 1.814,
     "equipable": true,
@@ -49820,106 +49459,133 @@
     }
   },
   "23460": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23461": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23462": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23463": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23464": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23465": {
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23466": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23467": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23468": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23469": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23470": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23471": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23472": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23473": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23474": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23475": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23476": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23477": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23478": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23479": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23480": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23481": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23482": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23483": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23484": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23485": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23486": {
     "weight": 0.001,
-    "equipable": true
+    "equipable": true,
+    "equipment": {}
   },
   "23497": {
     "quest": true
@@ -49980,6 +49646,9 @@
   },
   "23659": {
     "weight": 0.9
+  },
+  "23670": {
+    "weight": 0.015
   },
   "23673": {
     "weight": 0.9,
@@ -50215,6 +49884,9 @@
     "quest": true
   },
   "23817": {
+    "quest": true
+  },
+  "23818": {
     "quest": true
   },
   "23820": {
@@ -50468,7 +50140,7 @@
       "arange": 72,
       "rstr": 42,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23856": {
@@ -50479,7 +50151,7 @@
       "arange": 118,
       "rstr": 88,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23857": {
@@ -50490,7 +50162,7 @@
       "arange": 172,
       "rstr": 138,
       "prayer": 3,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23859": {
@@ -50549,6 +50221,9 @@
   },
   "23865": {
     "weight": 0.056
+  },
+  "23871": {
+    "weight": 1.0
   },
   "23877": {
     "weight": 2.5
@@ -50722,6 +50397,16 @@
       "aspeed": 4
     }
   },
+  "23899": {
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 128,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
   "23900": {
     "weight": 1.5,
     "equipable": true,
@@ -50740,7 +50425,7 @@
       "arange": 72,
       "rstr": 42,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23902": {
@@ -50751,7 +50436,7 @@
       "arange": 118,
       "rstr": 88,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23903": {
@@ -50762,7 +50447,7 @@
       "arange": 172,
       "rstr": 138,
       "prayer": 3,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23905": {
@@ -50857,15 +50542,7 @@
     "weight": 2.0,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -10,
-      "arange": 8,
-      "dstab": 12,
-      "dslash": 8,
-      "dcrush": 14,
-      "dmagic": 26,
-      "drange": 18,
-      "prayer": 2
+      "slot": 0
     }
   },
   "23975": {
@@ -50887,15 +50564,7 @@
     "weight": 9.0,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -18,
-      "arange": 30,
-      "dstab": 34,
-      "dslash": 24,
-      "dcrush": 32,
-      "dmagic": 44,
-      "drange": 53,
-      "prayer": 3
+      "slot": 4
     }
   },
   "23979": {
@@ -50917,15 +50586,7 @@
     "weight": 9.0,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -12,
-      "arange": 17,
-      "dstab": 20,
-      "dslash": 16,
-      "dcrush": 24,
-      "dmagic": 34,
-      "drange": 29,
-      "prayer": 2
+      "slot": 7
     }
   },
   "23983": {
@@ -51178,6 +50839,12 @@
       "slot": 7
     }
   },
+  "24191": {
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
   "24192": {
     "weight": 0.3,
     "equipable": true,
@@ -51341,14 +51008,21 @@
     "quest": true
   },
   "24260": {
-    "weight": 0.3
+    "quest": true
   },
   "24261": {
     "quest": true
   },
+  "24262": {
+    "quest": true,
+    "weight": 1.36
+  },
+  "24263": {
+    "weight": 0.3
+  },
   "24265": {
     "quest": true,
-    "weight": 2.0,
+    "weight": 2.2,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -51363,7 +51037,7 @@
   },
   "24266": {
     "quest": true,
-    "weight": 2.0,
+    "weight": 2.2,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -51377,8 +51051,7 @@
     }
   },
   "24271": {
-    "quest": true,
-    "weight": 2.0,
+    "weight": 2.7,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -51389,6 +51062,158 @@
       "drange": 34,
       "str": 6,
       "prayer": 3
+    }
+  },
+  "24288": {
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 5,
+      "dmagic": 5,
+      "prayer": 2
+    }
+  },
+  "24291": {
+    "weight": 2.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 25,
+      "dmagic": 21,
+      "prayer": 2
+    }
+  },
+  "24294": {
+    "weight": 1.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 18,
+      "dmagic": 14,
+      "prayer": 2
+    }
+  },
+  "24300": {
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24301": {
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24302": {
+    "weight": 0.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24303": {
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "24304": {
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "24305": {
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24307": {
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24309": {
+    "weight": 0.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24311": {
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "24313": {
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "24315": {
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24317": {
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24319": {
+    "weight": 0.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24321": {
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "24323": {
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "24326": {
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "24327": {
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
     }
   }
 }
