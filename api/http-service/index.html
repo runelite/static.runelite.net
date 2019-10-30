@@ -41,18 +41,18 @@
         })
     </script>
 
-    <title>RuneLite HTTP API 1.5.36</title>
+    <title>RuneLite HTTP API 1.5.37</title>
 </head>
 <body class="markdown-body">
 	<noscript>
 # RuneLite HTTP API
-HTTPS://api.runelite.net/runelite-1.5.36
+HTTPS://api.runelite.net/runelite-1.5.37
 
 Open source RuneScape client
 
 
 
-**Version** 1.5.36
+**Version** 1.5.37
 
 
 
@@ -6455,32 +6455,6 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>recolorToFind</td>
-            <td>
-                
-                
-                array[integer]
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>rotation</td>
-            <td>
-                
-                    
-                    integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
             <td>name</td>
             <td>
                 
@@ -6494,11 +6468,11 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>recolorToReplace</td>
+            <td>size</td>
             <td>
                 
-                
-                array[integer]
+                    
+                    integer (int32)
                 
             </td>
             <td>optional</td>
@@ -6520,7 +6494,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>models_2</td>
+            <td>chatheadModels</td>
             <td>
                 
                 
@@ -6533,7 +6507,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>stanceAnimation</td>
+            <td>standingAnimation</td>
             <td>
                 
                     
@@ -6546,7 +6520,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>anInt2165</td>
+            <td>rotateLeftAnimation</td>
             <td>
                 
                     
@@ -6559,7 +6533,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>tileSpacesOccupied</td>
+            <td>rotateRightAnimation</td>
             <td>
                 
                     
@@ -6572,72 +6546,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>walkAnimation</td>
-            <td>
-                
-                    
-                    integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>retextureToReplace</td>
-            <td>
-                
-                
-                array[integer]
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>rotate90RightAnimation</td>
-            <td>
-                
-                    
-                    integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>aBool2170</td>
-            <td>
-                
-                    
-                    boolean
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>resizeX</td>
-            <td>
-                
-                    
-                    integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>contrast</td>
+            <td>walkingAnimation</td>
             <td>
                 
                     
@@ -6663,46 +6572,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>varbitIndex</td>
-            <td>
-                
-                    
-                    integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>options</td>
-            <td>
-                
-                
-                array[string]
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>renderOnMinimap</td>
-            <td>
-                
-                    
-                    boolean
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>combatLevel</td>
+            <td>rotate90RightAnimation</td>
             <td>
                 
                     
@@ -6728,7 +6598,111 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>resizeY</td>
+            <td>recolorToFind</td>
+            <td>
+                
+                
+                array[integer]
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>recolorToReplace</td>
+            <td>
+                
+                
+                array[integer]
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>retextureToFind</td>
+            <td>
+                
+                
+                array[integer]
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>retextureToReplace</td>
+            <td>
+                
+                
+                array[integer]
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>actions</td>
+            <td>
+                
+                
+                array[string]
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>isMinimapVisible</td>
+            <td>
+                
+                    
+                    boolean
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>combatLevel</td>
+            <td>
+                
+                    
+                    integer (int32)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>widthScale</td>
+            <td>
+                
+                    
+                    integer (int32)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>heightScale</td>
             <td>
                 
                     
@@ -6767,7 +6741,33 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
+            <td>contrast</td>
+            <td>
+                
+                    
+                    integer (int32)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>headIcon</td>
+            <td>
+                
+                    
+                    integer (int32)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>rotationSpeed</td>
             <td>
                 
                     
@@ -6793,11 +6793,11 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>retextureToFind</td>
+            <td>varbitId</td>
             <td>
                 
-                
-                array[integer]
+                    
+                    integer (int32)
                 
             </td>
             <td>optional</td>
@@ -6819,7 +6819,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>isClickable</td>
+            <td>isInteractable</td>
             <td>
                 
                     
@@ -6832,11 +6832,11 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>anInt2189</td>
+            <td>rotationFlag</td>
             <td>
                 
                     
-                    integer (int32)
+                    boolean
                 
             </td>
             <td>optional</td>
@@ -6845,7 +6845,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>aBool2190</td>
+            <td>isPet</td>
             <td>
                 
                     
@@ -6871,7 +6871,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>clickable</td>
+            <td>minimapVisible</td>
             <td>
                 
                     
@@ -6884,7 +6884,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>abool2170</td>
+            <td>interactable</td>
             <td>
                 
                     
@@ -6897,7 +6897,7 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>abool2190</td>
+            <td>pet</td>
             <td>
                 
                     

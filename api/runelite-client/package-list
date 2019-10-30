@@ -30,7 +30,6 @@ net.runelite.client.plugins.blastmine
 net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
 net.runelite.client.plugins.cannon
-net.runelite.client.plugins.cerberus
 net.runelite.client.plugins.chatboxperformance
 net.runelite.client.plugins.chatcommands
 net.runelite.client.plugins.chatfilter
@@ -134,7 +133,6 @@ net.runelite.client.plugins.raids
 net.runelite.client.plugins.raids.solver
 net.runelite.client.plugins.randomevents
 net.runelite.client.plugins.regenmeter
-net.runelite.client.plugins.reorderprayers
 net.runelite.client.plugins.reportbutton
 net.runelite.client.plugins.roguesden
 net.runelite.client.plugins.runecraft
