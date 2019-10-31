@@ -12542,8 +12542,8 @@
   "20099": "Ankou top",
   "20101": "Ankou gloves",
   "20102": "Ankou gloves",
-  "20104": "Ankou's leggings",
-  "20105": "Ankou's leggings",
+  "20104": "Ankou leggings",
+  "20105": "Ankou leggings",
   "20107": "Ankou socks",
   "20108": "Ankou socks",
   "20110": "Bowl wig",
@@ -15218,5 +15218,8 @@
   "24321": "Spookier gloves",
   "24323": "Spookier boots",
   "24325": "Pumpkin lantern",
-  "24327": "Skeleton lantern"
+  "24327": "Skeleton lantern",
+  "24329": "Bounty crate",
+  "24331": "Birthday cake",
+  "24332": "Birthday cake"
 }
