@@ -41,18 +41,18 @@
         })
     </script>
 
-    <title>RuneLite HTTP API 1.5.39</title>
+    <title>RuneLite HTTP API 1.5.40</title>
 </head>
 <body class="markdown-body">
 	<noscript>
 # RuneLite HTTP API
-HTTPS://api.runelite.net/runelite-1.5.39
+HTTPS://api.runelite.net/runelite-1.5.40
 
 Open source RuneScape client
 
 
 
-**Version** 1.5.39
+**Version** 1.5.40
 
 
 
@@ -1597,6 +1597,156 @@ __Content-Type:__ image/png
     
             <td>integer (int32)</td>
     
+
+</tr>
+
+
+</table>
+
+
+
+#### Response
+
+
+
+| Status Code | Reason      | Response Model |
+|-------------|-------------|----------------|
+| default    | successful operation |  - |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## /chat/layout
+
+
+### GET
+
+<a id="getLayout"></a>
+
+
+
+
+
+
+
+
+
+#### Request
+
+
+
+##### Parameters
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Located in</th>
+        <th>Required</th>
+        <th>Description</th>
+        <th>Default</th>
+        <th>Schema</th>
+    </tr>
+
+
+
+<tr>
+    <th>name</th>
+    <td>query</td>
+    <td>yes</td>
+    <td></td>
+    <td> - </td>
+
+    
+            <td>string </td>
+    
+
+</tr>
+
+
+</table>
+
+
+
+#### Response
+
+
+
+| Status Code | Reason      | Response Model |
+|-------------|-------------|----------------|
+| 200    | successful operation | Array[<a href=""></a>]|
+
+
+
+
+
+
+
+### POST
+
+
+<a id="submitLayout"></a>
+
+
+
+
+
+
+
+
+
+#### Request
+
+
+
+##### Parameters
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Located in</th>
+        <th>Required</th>
+        <th>Description</th>
+        <th>Default</th>
+        <th>Schema</th>
+    </tr>
+
+
+
+<tr>
+    <th>name</th>
+    <td>query</td>
+    <td>yes</td>
+    <td></td>
+    <td> - </td>
+
+    
+            <td>string </td>
+    
+
+</tr>
+
+<tr>
+    <th>body</th>
+    <td>body</td>
+    <td>no</td>
+    <td></td>
+    <td> - </td>
+
+    <td>
+    Array[<a href=""></a>]
+    
+    </td>
 
 </tr>
 
@@ -6258,6 +6408,19 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
+            <td>tradeable</td>
+            <td>
+                
+                    
+                    boolean
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>xoffset2d</td>
             <td>
                 
@@ -6276,19 +6439,6 @@ __Content-Type:__ image/png
                 
                     
                     integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>tradeable</td>
-            <td>
-                
-                    
-                    boolean
                 
             </td>
             <td>optional</td>
@@ -6871,6 +7021,19 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
+            <td>minimapVisible</td>
+            <td>
+                
+                    
+                    boolean
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>interactable</td>
             <td>
                 
@@ -6885,19 +7048,6 @@ __Content-Type:__ image/png
     
         <tr>
             <td>pet</td>
-            <td>
-                
-                    
-                    boolean
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>minimapVisible</td>
             <td>
                 
                     
