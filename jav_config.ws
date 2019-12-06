@@ -64,3 +64,4 @@ param=15=0
 param=13=.runescape.com
 param=12=362
 runelite.gamepack=http://repo.runelite.net/net/runelite/rs/vanilla/186/vanilla-186.jar
+runelite.worldparam=12
