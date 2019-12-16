@@ -29,6 +29,7 @@ net.runelite.client.plugins.blastfurnace
 net.runelite.client.plugins.blastmine
 net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
+net.runelite.client.plugins.camera
 net.runelite.client.plugins.cannon
 net.runelite.client.plugins.chatboxperformance
 net.runelite.client.plugins.chatcommands
@@ -175,7 +176,6 @@ net.runelite.client.plugins.worldmap
 net.runelite.client.plugins.xpglobes
 net.runelite.client.plugins.xptracker
 net.runelite.client.plugins.xtea
-net.runelite.client.plugins.zoom
 net.runelite.client.rs
 net.runelite.client.task
 net.runelite.client.ui
