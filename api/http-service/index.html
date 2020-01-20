@@ -41,18 +41,18 @@
         })
     </script>
 
-    <title>RuneLite HTTP API 1.6.2</title>
+    <title>RuneLite HTTP API 1.6.3</title>
 </head>
 <body class="markdown-body">
 	<noscript>
 # RuneLite HTTP API
-HTTPS://api.runelite.net/runelite-1.6.2
+HTTPS://api.runelite.net/runelite-1.6.3
 
 Open source RuneScape client
 
 
 
-**Version** 1.6.2
+**Version** 1.6.3
 
 
 
@@ -3888,7 +3888,7 @@ __Content-Type:__ image/gif
 
 ### GET
 
-<a id="getLootRecords"></a>
+<a id="getLootAggregate"></a>
 
 
 
@@ -3953,7 +3953,7 @@ __Content-Type:__ image/gif
 
 | Status Code | Reason      | Response Model |
 |-------------|-------------|----------------|
-| 200    | successful operation | Array[<a href="#/definitions/LootRecord">LootRecord</a>]|
+| 200    | successful operation | Array[<a href="#/definitions/LootAggregate">LootAggregate</a>]|
 
 
 
@@ -7076,6 +7076,99 @@ __Content-Type:__ image/png
                 
                     
                     integer (int64)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+</table>
+
+## <a name="/definitions/LootAggregate">LootAggregate</a>
+
+<table>
+    <tr>
+        <th>name</th>
+        <th>type</th>
+        <th>required</th>
+        <th>description</th>
+        <th>example</th>
+    </tr>
+    
+        <tr>
+            <td>eventId</td>
+            <td>
+                
+                    
+                    string
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>type</td>
+            <td>
+                
+                    
+                    string
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>drops</td>
+            <td>
+                
+                
+                    array[<a href="#/definitions/GameItem">GameItem</a>]
+                
+                
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>first_time</td>
+            <td>
+                
+                    
+                    integer (int64)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>last_time</td>
+            <td>
+                
+                    
+                    integer (int64)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>amount</td>
+            <td>
+                
+                    
+                    integer (int32)
                 
             </td>
             <td>optional</td>
