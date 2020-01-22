@@ -5844,6 +5844,9 @@
   "1595": {
     "weight": 0.453
   },
+  "1597": {
+    "weight": 0.453
+  },
   "1599": {
     "weight": 0.453
   },
@@ -11508,8 +11511,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 9,
-      "aslash": 14,
+      "astab": 13,
+      "aslash": 18,
       "acrush": -2,
       "dslash": 3,
       "dcrush": 2,
@@ -49845,6 +49848,10 @@
     "weight": 0.015
   },
   "23783": {
+    "quest": true,
+    "weight": 0.015
+  },
+  "23784": {
     "quest": true,
     "weight": 0.015
   },
