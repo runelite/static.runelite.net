@@ -810,6 +810,12 @@
     "quest": true,
     "weight": 0.02
   },
+  "421": {
+    "quest": true,
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {}
+  },
   "422": {
     "quest": true,
     "weight": 0.05
@@ -932,6 +938,27 @@
   },
   "464": {
     "weight": 0.085
+  },
+  "508": {
+    "weight": 0.1
+  },
+  "510": {
+    "weight": 0.1
+  },
+  "512": {
+    "weight": 0.1
+  },
+  "514": {
+    "weight": 0.1
+  },
+  "516": {
+    "weight": 0.1
+  },
+  "518": {
+    "weight": 0.1
+  },
+  "520": {
+    "weight": 0.1
   },
   "522": {
     "quest": true,
@@ -1444,6 +1471,9 @@
   "677": {
     "quest": true,
     "weight": 0.085
+  },
+  "678": {
+    "quest": true
   },
   "679": {
     "quest": true,
@@ -2553,6 +2583,9 @@
       "slot": 13,
       "rstr": 7
     }
+  },
+  "943": {
+    "weight": 0.003
   },
   "946": {
     "weight": 0.453
@@ -20822,6 +20855,9 @@
       "aspeed": 5
     }
   },
+  "6743": {
+    "weight": 0.1
+  },
   "6745": {
     "quest": true,
     "weight": 1.814,
@@ -26418,6 +26454,9 @@
     "weight": 0.003
   },
   "8940": {
+    "weight": 0.003
+  },
+  "8941": {
     "weight": 0.003
   },
   "8942": {
@@ -48562,7 +48601,7 @@
     }
   },
   "23093": {
-    "weight": 0.5,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -51553,6 +51592,99 @@
       "aspeed": 4
     }
   },
+  "24417": {
+    "weight": 1.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 52,
+      "aslash": -4,
+      "acrush": 95,
+      "str": 89,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "24419": {
+    "weight": 2.7,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -2,
+      "aslash": -2,
+      "acrush": 8,
+      "amagic": -5,
+      "arange": -5,
+      "dstab": 19,
+      "dslash": 10,
+      "dcrush": 21,
+      "drange": 12,
+      "str": 4,
+      "prayer": 1
+    }
+  },
+  "24420": {
+    "weight": 9.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": -3,
+      "aslash": -3,
+      "acrush": 12,
+      "amagic": -11,
+      "arange": -10,
+      "dstab": 67,
+      "dslash": 55,
+      "dcrush": 71,
+      "drange": 35,
+      "str": 4,
+      "prayer": 2
+    }
+  },
+  "24422": {
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 14,
+      "mdmg": 15,
+      "aspeed": 5
+    }
+  },
+  "24423": {
+    "weight": 1.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 14,
+      "mdmg": 15,
+      "aspeed": 4
+    }
+  },
+  "24424": {
+    "weight": 1.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 14,
+      "mdmg": 15,
+      "aspeed": 5
+    }
+  },
+  "24425": {
+    "weight": 1.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 14,
+      "mdmg": 15,
+      "aspeed": 5
+    }
+  },
   "24428": {
     "weight": 3.1,
     "equipable": true,
@@ -51596,5 +51728,22 @@
   },
   "24466": {
     "weight": 0.5
+  },
+  "24478": {
+    "weight": 1.0
+  },
+  "24480": {
+    "weight": 10.0
+  },
+  "24482": {
+    "weight": 1.0
+  },
+  "24488": {
+    "weight": 2.7,
+    "equipable": true,
+    "equipment": {}
+  },
+  "24495": {
+    "weight": 1.0
   }
 }

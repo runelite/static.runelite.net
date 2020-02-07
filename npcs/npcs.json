@@ -595,32 +595,32 @@
     "combat": 172
   },
   "241": {
-    "name": "Baby dragon",
+    "name": "Baby blue dragon",
     "hitpoints": 50,
     "combat": 48
   },
   "242": {
-    "name": "Baby dragon",
+    "name": "Baby blue dragon",
     "hitpoints": 50,
     "combat": 48
   },
   "243": {
-    "name": "Baby dragon",
+    "name": "Baby blue dragon",
     "hitpoints": 50,
     "combat": 48
   },
   "244": {
-    "name": "Baby dragon",
+    "name": "Baby red dragon",
     "hitpoints": 50,
     "combat": 48
   },
   "245": {
-    "name": "Baby dragon",
+    "name": "Baby red dragon",
     "hitpoints": 50,
     "combat": 48
   },
   "246": {
-    "name": "Baby dragon",
+    "name": "Baby red dragon",
     "hitpoints": 50,
     "combat": 48
   },
@@ -776,7 +776,7 @@
   },
   "290": {
     "name": "Dwarf",
-    "hitpoints": 12,
+    "hitpoints": 16,
     "combat": 10
   },
   "291": {
@@ -786,6 +786,7 @@
   },
   "292": {
     "name": "Dwarf",
+    "hitpoints": 26,
     "combat": 10
   },
   "293": {
@@ -804,7 +805,7 @@
   },
   "296": {
     "name": "Dwarf",
-    "hitpoints": 12,
+    "hitpoints": 16,
     "combat": 10
   },
   "299": {
@@ -3064,7 +3065,7 @@
   },
   "1405": {
     "name": "Dwarf",
-    "hitpoints": 12,
+    "hitpoints": 16,
     "combat": 10
   },
   "1406": {
@@ -3721,12 +3722,12 @@
     "combat": 159
   },
   "1871": {
-    "name": "Baby dragon",
+    "name": "Baby black dragon",
     "hitpoints": 80,
     "combat": 83
   },
   "1872": {
-    "name": "Baby dragon",
+    "name": "Baby black dragon",
     "hitpoints": 80,
     "combat": 83
   },
@@ -7189,7 +7190,7 @@
   "3982": {
     "name": "Lesser demon",
     "hitpoints": 81,
-    "combat": 82
+    "combat": 22
   },
   "3996": {
     "name": "Witch's experiment",
@@ -8609,7 +8610,7 @@
     "combat": 2
   },
   "5194": {
-    "name": "Baby dragon",
+    "name": "Baby green dragon",
     "hitpoints": 50,
     "combat": 48
   },
@@ -9762,12 +9763,12 @@
     "combat": 318
   },
   "5872": {
-    "name": "Baby dragon",
+    "name": "Baby green dragon",
     "hitpoints": 50,
     "combat": 48
   },
   "5873": {
-    "name": "Baby dragon",
+    "name": "Baby green dragon",
     "hitpoints": 50,
     "combat": 48
   },
@@ -10231,6 +10232,11 @@
     "name": "Dagannoth mother (hard)",
     "hitpoints": 240,
     "combat": 201
+  },
+  "6306": {
+    "name": "Evil Chicken (hard)",
+    "hitpoints": 240,
+    "combat": 286
   },
   "6307": {
     "name": "Culinaromancer (hard)",
@@ -11280,6 +11286,11 @@
     "hitpoints": 170,
     "combat": 159
   },
+  "6762": {
+    "name": "Pyrelord",
+    "hitpoints": 80,
+    "combat": 60
+  },
   "6766": {
     "name": "Lizardman shaman",
     "hitpoints": 150,
@@ -11294,6 +11305,11 @@
     "name": "Monkey Archer",
     "hitpoints": 50,
     "combat": 86
+  },
+  "6795": {
+    "name": "Pyrelord",
+    "hitpoints": 80,
+    "combat": 60
   },
   "6805": {
     "name": "Kruk",
@@ -12567,7 +12583,7 @@
     "combat": 35
   },
   "7955": {
-    "name": "Baby dragon",
+    "name": "Baby black dragon",
     "hitpoints": 80,
     "combat": 83
   },
@@ -13736,12 +13752,12 @@
     "combat": 57
   },
   "9287": {
-    "name": "Monstrous Basilisk (Quest monster)",
+    "name": "Monstrous Basilisk",
     "hitpoints": 170,
     "combat": 135
   },
   "9288": {
-    "name": "Monstrous Basilisk (Quest monster)",
+    "name": "Monstrous Basilisk",
     "hitpoints": 170,
     "combat": 135
   },
@@ -13779,5 +13795,23 @@
     "name": "Typhor",
     "hitpoints": 280,
     "combat": 194
+  },
+  "9452": {
+    "name": "Parasite",
+    "combat": 86
+  },
+  "9453": {
+    "name": "Parasite",
+    "combat": 57
+  },
+  "9454": {
+    "name": "Husk",
+    "hitpoints": 20,
+    "combat": 48
+  },
+  "9455": {
+    "name": "Husk",
+    "hitpoints": 20,
+    "combat": 48
   }
 }
