@@ -47,7 +47,6 @@ net.runelite.client.plugins.combatlevel
 net.runelite.client.plugins.config
 net.runelite.client.plugins.cooking
 net.runelite.client.plugins.corp
-net.runelite.client.plugins.crystalmathlabs
 net.runelite.client.plugins.customcursor
 net.runelite.client.plugins.dailytaskindicators
 net.runelite.client.plugins.deathindicator
@@ -144,7 +143,6 @@ net.runelite.client.plugins.runepouch.config
 net.runelite.client.plugins.screenmarkers
 net.runelite.client.plugins.screenmarkers.ui
 net.runelite.client.plugins.screenshot
-net.runelite.client.plugins.screenshot.imgur
 net.runelite.client.plugins.skillcalculator
 net.runelite.client.plugins.skillcalculator.beans
 net.runelite.client.plugins.skybox
@@ -175,6 +173,7 @@ net.runelite.client.plugins.worldhopper.ping
 net.runelite.client.plugins.worldmap
 net.runelite.client.plugins.xpglobes
 net.runelite.client.plugins.xptracker
+net.runelite.client.plugins.xpupdater
 net.runelite.client.plugins.xtea
 net.runelite.client.rs
 net.runelite.client.task
