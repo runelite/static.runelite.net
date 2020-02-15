@@ -2489,6 +2489,11 @@
     "hitpoints": 25,
     "combat": 35
   },
+  "1038": {
+    "name": "Monkey",
+    "hitpoints": 6,
+    "combat": 3
+  },
   "1039": {
     "name": "Albino bat",
     "hitpoints": 33,
@@ -2777,6 +2782,11 @@
     "name": "Chicken",
     "hitpoints": 3,
     "combat": 1
+  },
+  "1175": {
+    "name": "Rooster",
+    "hitpoints": 7,
+    "combat": 3
   },
   "1204": {
     "name": "Alomone",
@@ -3621,11 +3631,6 @@
     "name": "Billy Goat",
     "hitpoints": 28,
     "combat": 33
-  },
-  "1795": {
-    "name": "Goat",
-    "hitpoints": 21,
-    "combat": 23
   },
   "1796": {
     "name": "Goat",
@@ -5089,11 +5094,6 @@
     "hitpoints": 15,
     "combat": 20
   },
-  "2694": {
-    "name": "Rooster",
-    "hitpoints": 7,
-    "combat": 3
-  },
   "2790": {
     "name": "Cow",
     "hitpoints": 8,
@@ -5985,11 +5985,6 @@
     "name": "Dagannoth",
     "hitpoints": 95,
     "combat": 90
-  },
-  "3200": {
-    "name": "Monkey",
-    "hitpoints": 6,
-    "combat": 3
   },
   "3233": {
     "name": "Leech",
@@ -7190,7 +7185,7 @@
   "3982": {
     "name": "Lesser demon",
     "hitpoints": 81,
-    "combat": 22
+    "combat": 82
   },
   "3996": {
     "name": "Witch's experiment",
@@ -9706,6 +9701,11 @@
     "name": "Ice troll female",
     "hitpoints": 80,
     "combat": 82
+  },
+  "5826": {
+    "name": "Ice troll grunt",
+    "hitpoints": 80,
+    "combat": 102
   },
   "5828": {
     "name": "Ice troll runt",
@@ -12507,11 +12507,6 @@
     "hitpoints": 60,
     "combat": 36
   },
-  "7916": {
-    "name": "Thief",
-    "hitpoints": 22,
-    "combat": 21
-  },
   "7921": {
     "name": "Woman",
     "hitpoints": 7,
@@ -13796,12 +13791,109 @@
     "hitpoints": 280,
     "combat": 194
   },
+  "9415": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9416": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9417": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9418": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9419": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9420": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9421": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9422": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9423": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9424": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9425": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9426": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9427": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9428": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9429": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9430": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9431": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9432": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
+  "9433": {
+    "name": "The Nightmare",
+    "hitpoints": 2400,
+    "combat": 814
+  },
   "9452": {
     "name": "Parasite",
+    "hitpoints": 40,
     "combat": 86
   },
   "9453": {
     "name": "Parasite",
+    "hitpoints": 40,
     "combat": 57
   },
   "9454": {
