@@ -42886,7 +42886,7 @@
     }
   },
   "20445": {
-    "weight": 1.8
+    "weight": 1.814
   },
   "20447": {
     "weight": 0.453
@@ -42922,13 +42922,25 @@
     "weight": 6.0
   },
   "20469": {
-    "weight": 8.0
+    "weight": 8.164
   },
   "20471": {
     "weight": 6.0
   },
   "20473": {
-    "weight": 1.0
+    "weight": 1.814
+  },
+  "20475": {
+    "weight": 0.453
+  },
+  "20477": {
+    "weight": 0.453
+  },
+  "20479": {
+    "weight": 0.453
+  },
+  "20481": {
+    "weight": 0.453
   },
   "20483": {
     "weight": 1.588
@@ -50943,6 +50955,200 @@
   "24130": {
     "weight": 10.0
   },
+  "24133": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 1,
+      "arange": 1,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 12,
+      "drange": 12,
+      "str": 8,
+      "prayer": 2
+    }
+  },
+  "24134": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 1,
+      "aslash": 1,
+      "acrush": 1,
+      "amagic": 1,
+      "arange": 1,
+      "dstab": 11,
+      "dslash": 11,
+      "dcrush": 11,
+      "dmagic": 11,
+      "drange": 11,
+      "str": 4,
+      "prayer": 2
+    }
+  },
+  "24135": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 8,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 8,
+      "drange": 2,
+      "rstr": 2
+    }
+  },
+  "24136": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 3,
+      "aslash": 2,
+      "acrush": 1,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 3,
+      "dslash": 2,
+      "dcrush": 1,
+      "dmagic": -3,
+      "drange": -2
+    }
+  },
+  "24137": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 5,
+      "aslash": 4,
+      "acrush": 3,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 5,
+      "dslash": 4,
+      "dcrush": 3,
+      "dmagic": -3,
+      "drange": -2
+    }
+  },
+  "24138": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 7,
+      "aslash": 6,
+      "acrush": 5,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 7,
+      "dslash": 6,
+      "dcrush": 5,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 1
+    }
+  },
+  "24139": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 9,
+      "aslash": 8,
+      "acrush": 7,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 9,
+      "dslash": 8,
+      "dcrush": 7,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 2
+    }
+  },
+  "24140": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 10,
+      "aslash": 9,
+      "acrush": 8,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 10,
+      "dslash": 9,
+      "dcrush": 8,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 3
+    }
+  },
+  "24141": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 13,
+      "aslash": 12,
+      "acrush": 11,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 13,
+      "dslash": 12,
+      "dcrush": 11,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 4
+    }
+  },
+  "24142": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 20,
+      "aslash": 19,
+      "acrush": 18,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 20,
+      "dslash": 19,
+      "dcrush": 18,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 5
+    }
+  },
+  "24143": {
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 25,
+      "aslash": 24,
+      "acrush": 23,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 25,
+      "dslash": 24,
+      "dcrush": 23,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 6
+    }
+  },
   "24144": {
     "weight": 1.5,
     "equipable": true,
@@ -50973,6 +51179,413 @@
   },
   "24155": {
     "weight": 0.3
+  },
+  "24157": {
+    "weight": 1.587,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": 29,
+      "acrush": -2,
+      "dslash": 3,
+      "dcrush": 2,
+      "str": 31,
+      "aspeed": 5
+    }
+  },
+  "24158": {
+    "weight": 8.618,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 65,
+      "dslash": 63,
+      "dcrush": 55,
+      "dmagic": -6,
+      "drange": 63
+    }
+  },
+  "24159": {
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 31,
+      "dcrush": 29,
+      "dmagic": -4,
+      "drange": 31
+    }
+  },
+  "24160": {
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 14,
+      "dslash": 15,
+      "dcrush": 13,
+      "dmagic": -1,
+      "drange": 14
+    }
+  },
+  "24161": {
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -8,
+      "arange": -2,
+      "dstab": 27,
+      "dslash": 31,
+      "dcrush": 29,
+      "dmagic": -1,
+      "drange": 29
+    }
+  },
+  "24162": {
+    "weight": 9.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 31,
+      "dcrush": 29,
+      "dmagic": -4,
+      "drange": 31
+    }
+  },
+  "24163": {
+    "weight": 6.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 20,
+      "dslash": 20,
+      "dcrush": 20,
+      "dmagic": 20,
+      "drange": 20
+    }
+  },
+  "24164": {
+    "weight": 8.155,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 15,
+      "dslash": 15,
+      "dcrush": 15,
+      "dmagic": 15,
+      "drange": 15
+    }
+  },
+  "24165": {
+    "weight": 8.155,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 4,
+      "dmagic": 4,
+      "drange": 4
+    }
+  },
+  "24166": {
+    "weight": 6.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 20,
+      "dslash": 20,
+      "dcrush": 20,
+      "dmagic": 20,
+      "drange": 20
+    }
+  },
+  "24167": {
+    "weight": 8.155,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 15,
+      "dslash": 15,
+      "dcrush": 15,
+      "dmagic": 15,
+      "drange": 15
+    }
+  },
+  "24168": {
+    "weight": 8.155,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 4,
+      "dmagic": 4,
+      "drange": 4
+    }
+  },
+  "24169": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
+  "24170": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
+  "24171": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
+  "24172": {
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -5,
+      "aslash": -5,
+      "acrush": -5,
+      "amagic": 6,
+      "arange": -5,
+      "dstab": 6,
+      "dslash": 8,
+      "dcrush": 10,
+      "dmagic": 7
+    }
+  },
+  "24173": {
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": -7,
+      "arange": -7,
+      "dstab": 27,
+      "dslash": 29,
+      "dcrush": 26,
+      "dmagic": -3,
+      "drange": 28
+    }
+  },
+  "24174": {
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -5,
+      "aslash": -5,
+      "acrush": -5,
+      "amagic": -5,
+      "arange": 6,
+      "dstab": 7,
+      "dslash": 10,
+      "dcrush": 11,
+      "dmagic": 5,
+      "drange": 8
+    }
+  },
+  "24175": {
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -40,
+      "dstab": 62,
+      "dslash": 85,
+      "dcrush": 62,
+      "dmagic": -10,
+      "drange": 67,
+      "str": 4
+    }
+  },
+  "24176": {
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -10,
+      "arange": 15,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 28,
+      "dmagic": 19,
+      "drange": 26
+    }
+  },
+  "24177": {
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45
+    }
+  },
+  "24178": {
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45,
+      "prayer": 3
+    }
+  },
+  "24179": {
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30
+    }
+  },
+  "24180": {
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "prayer": 3
+    }
+  },
+  "24181": {
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 22,
+      "acrush": 41,
+      "amagic": 8,
+      "dstab": 2,
+      "dslash": 2,
+      "dcrush": 2,
+      "dmagic": 2,
+      "drange": 2,
+      "str": 38,
+      "prayer": 6,
+      "aspeed": 5
+    }
+  },
+  "24182": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 6
+    }
+  },
+  "24183": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "24184": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "24185": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "24186": {
+    "weight": 0.45,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 30,
+      "aslash": 29,
+      "acrush": 28,
+      "amagic": -5,
+      "arange": -4,
+      "dstab": 30,
+      "dslash": 29,
+      "dcrush": 28,
+      "dmagic": -5,
+      "drange": -4,
+      "str": 8
+    }
   },
   "24189": {
     "weight": 9.5,
@@ -51007,7 +51620,33 @@
       "prayer": 3
     }
   },
+  "24194": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
   "24195": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
+  "24197": {
     "weight": 0.3,
     "equipable": true,
     "equipment": {
@@ -51033,6 +51672,19 @@
       "prayer": 3
     }
   },
+  "24200": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
   "24201": {
     "weight": 0.3,
     "equipable": true,
@@ -51046,7 +51698,33 @@
       "prayer": 3
     }
   },
+  "24203": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
   "24204": {
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 11,
+      "dslash": 12,
+      "dcrush": 10,
+      "dmagic": 11,
+      "drange": -1,
+      "prayer": 3
+    }
+  },
+  "24206": {
     "weight": 0.3,
     "equipable": true,
     "equipment": {
@@ -51115,6 +51793,58 @@
       "prayer": 2
     }
   },
+  "24222": {
+    "weight": 5.896,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 8,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 8,
+      "drange": 2,
+      "rstr": 2
+    }
+  },
+  "24223": {
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 1,
+      "aslash": 1,
+      "acrush": 1,
+      "amagic": 1,
+      "arange": 1,
+      "dstab": 11,
+      "dslash": 11,
+      "dcrush": 11,
+      "dmagic": 11,
+      "drange": 11,
+      "str": 4,
+      "prayer": 2
+    }
+  },
+  "24224": {
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 1,
+      "arange": 1,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 12,
+      "drange": 12,
+      "str": 8,
+      "prayer": 2
+    }
+  },
   "24225": {
     "weight": 4.535,
     "equipable": true,
@@ -51138,6 +51868,45 @@
   "24229": {
     "weight": 0.5
   },
+  "24232": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
+  "24233": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
+  "24234": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
   "24236": {
     "weight": 0.453
   },
@@ -51155,6 +51924,45 @@
   },
   "24246": {
     "weight": 0.453
+  },
+  "24248": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
+  "24249": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
+  "24250": {
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
   },
   "24254": {
     "quest": true
@@ -51592,6 +52400,9 @@
       "aspeed": 4
     }
   },
+  "24416": {
+    "weight": 1.0
+  },
   "24417": {
     "weight": 1.8,
     "equipable": true,
@@ -51660,7 +52471,7 @@
       "amagic": 16,
       "dmagic": 14,
       "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "24424": {
@@ -51745,5 +52556,11 @@
   },
   "24495": {
     "weight": 1.0
+  },
+  "24520": {
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
   }
 }
