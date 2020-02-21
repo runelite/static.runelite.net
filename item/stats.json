@@ -52562,5 +52562,23 @@
     "equipment": {
       "slot": 1
     }
+  },
+  "24522": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24525": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24527": {
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   }
 }
