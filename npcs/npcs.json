@@ -787,21 +787,17 @@
   "292": {
     "name": "Dwarf",
     "hitpoints": 26,
-    "combat": 10
-  },
-  "293": {
-    "name": "Dwarf",
-    "combat": 10
+    "combat": 20
   },
   "294": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "295": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "296": {
     "name": "Dwarf",
@@ -1876,47 +1872,52 @@
   },
   "717": {
     "name": "Mummy",
-    "hitpoints": 86,
+    "hitpoints": 1,
     "combat": 96
   },
   "720": {
     "name": "Mummy",
-    "hitpoints": 91,
+    "hitpoints": 90,
     "combat": 103
   },
   "721": {
     "name": "Mummy",
-    "hitpoints": 91,
+    "hitpoints": 90,
     "combat": 103
   },
   "722": {
     "name": "Mummy",
-    "hitpoints": 91,
+    "hitpoints": 90,
     "combat": 103
   },
   "723": {
     "name": "Mummy",
-    "hitpoints": 91,
+    "hitpoints": 90,
     "combat": 103
   },
   "724": {
     "name": "Mummy",
+    "hitpoints": 10,
     "combat": 98
   },
   "725": {
     "name": "Mummy",
+    "hitpoints": 10,
     "combat": 98
   },
   "726": {
     "name": "Mummy",
+    "hitpoints": 10,
     "combat": 98
   },
   "727": {
     "name": "Mummy",
+    "hitpoints": 10,
     "combat": 98
   },
   "728": {
     "name": "Mummy",
+    "hitpoints": 10,
     "combat": 98
   },
   "729": {
@@ -2276,27 +2277,27 @@
   },
   "949": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "950": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "951": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "952": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "953": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "955": {
@@ -3056,22 +3057,22 @@
   "1401": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "1402": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "1403": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "1404": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "1405": {
     "name": "Dwarf",
@@ -3081,17 +3082,17 @@
   "1406": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "1407": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "1408": {
     "name": "Dwarf",
     "hitpoints": 10,
-    "combat": 10
+    "combat": 7
   },
   "1409": {
     "name": "Black Guard",
@@ -12104,27 +12105,27 @@
   },
   "7658": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "7659": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "7660": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "7661": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "7662": {
     "name": "Mummy",
-    "hitpoints": 68,
+    "hitpoints": 90,
     "combat": 84
   },
   "7664": {
@@ -13290,7 +13291,7 @@
   "8496": {
     "name": "Dwarf",
     "hitpoints": 18,
-    "combat": 10
+    "combat": 11
   },
   "8512": {
     "name": "Tormented Soul",
@@ -13905,5 +13906,10 @@
     "name": "Husk",
     "hitpoints": 20,
     "combat": 48
+  },
+  "9465": {
+    "name": "Infernal pyrelord",
+    "hitpoints": 184,
+    "combat": 134
   }
 }
