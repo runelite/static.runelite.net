@@ -10177,7 +10177,7 @@
   "11736": "Absorption (2)",
   "11737": "Absorption (1)",
   "11738": "Herb box",
-  "11739": "Opened herb box",
+  "11739": "Open herb box",
   "11740": "Scroll of redirection",
   "11741": "Rimmington teleport",
   "11742": "Taverley teleport",
@@ -15315,8 +15315,8 @@
   "24476": "Twisted relichunter (t3) armour set",
   "24478": "Open herb sack",
   "24479": "Spice rack",
-  "24480": "Opened coal bag",
-  "24481": "Opened gem bag",
+  "24480": "Open coal bag",
+  "24481": "Open gem bag",
   "24482": "Open seed box",
   "24483": "Phoenix",
   "24484": "Phoenix",
@@ -15341,10 +15341,8 @@
   "24517": "Eldritch orb",
   "24518": "Eldritch orb",
   "24520": "Victor's cape (1000)",
-  "24522": "Cat ears",
-  "24523": "Loose cat hair",
-  "24524": "Gertrude's comb",
   "24525": "Cat ears",
   "24527": "Hell cat ears",
-  "24528": "Lamp of the gatherer"
+  "24528": "Lamp of the gatherer",
+  "24529": "Harmony"
 }
