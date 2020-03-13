@@ -3596,6 +3596,7 @@
   },
   "1738": {
     "name": "Brawler",
+    "hitpoints": 173,
     "combat": 158
   },
   "1777": {
@@ -7303,6 +7304,11 @@
     "hitpoints": 40,
     "combat": 37
   },
+  "4104": {
+    "name": "Servant",
+    "hitpoints": 10,
+    "combat": 5
+  },
   "4107": {
     "name": "Breoca",
     "hitpoints": 10,
@@ -7524,6 +7530,7 @@
   },
   "4195": {
     "name": "Het",
+    "hitpoints": 75,
     "combat": 81
   },
   "4196": {
@@ -9008,7 +9015,7 @@
   },
   "5373": {
     "name": "Poison spider",
-    "hitpoints": 64,
+    "hitpoints": 25,
     "combat": 31
   },
   "5418": {
@@ -13570,22 +13577,27 @@
   },
   "9026": {
     "name": "Crystalline Rat",
+    "hitpoints": 14,
     "combat": 24
   },
   "9029": {
     "name": "Crystalline Unicorn",
+    "hitpoints": 44,
     "combat": 48
   },
   "9030": {
     "name": "Crystalline Scorpion",
+    "hitpoints": 38,
     "combat": 64
   },
   "9031": {
     "name": "Crystalline Wolf",
+    "hitpoints": 52,
     "combat": 74
   },
   "9033": {
     "name": "Crystalline Dragon",
+    "hitpoints": 100,
     "combat": 172
   },
   "9035": {
@@ -13610,6 +13622,7 @@
   },
   "9040": {
     "name": "Corrupted Rat",
+    "hitpoints": 14,
     "combat": 34
   },
   "9041": {
@@ -13623,14 +13636,17 @@
   },
   "9043": {
     "name": "Corrupted Unicorn",
+    "hitpoints": 44,
     "combat": 64
   },
   "9044": {
     "name": "Corrupted Scorpion",
+    "hitpoints": 38,
     "combat": 89
   },
   "9045": {
     "name": "Corrupted Wolf",
+    "hitpoints": 52,
     "combat": 102
   },
   "9046": {
@@ -13640,6 +13656,7 @@
   },
   "9047": {
     "name": "Corrupted Dragon",
+    "hitpoints": 100,
     "combat": 258
   },
   "9048": {
@@ -13791,101 +13808,6 @@
     "name": "Typhor",
     "hitpoints": 280,
     "combat": 194
-  },
-  "9415": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9416": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9417": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9418": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9419": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9420": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9421": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9422": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9423": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9424": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9425": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9426": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9427": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9428": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9429": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9430": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9431": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9432": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
-  },
-  "9433": {
-    "name": "The Nightmare",
-    "hitpoints": 2400,
-    "combat": 814
   },
   "9452": {
     "name": "Parasite",
