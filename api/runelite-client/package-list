@@ -53,6 +53,8 @@ net.runelite.client.plugins.deathindicator
 net.runelite.client.plugins.defaultworld
 net.runelite.client.plugins.devtools
 net.runelite.client.plugins.discord
+net.runelite.client.plugins.dpscounter
+net.runelite.client.plugins.driftnet
 net.runelite.client.plugins.emojis
 net.runelite.client.plugins.entityhider
 net.runelite.client.plugins.examine
