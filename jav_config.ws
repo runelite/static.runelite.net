@@ -63,5 +63,5 @@ param=1=1
 param=5=1
 param=14=0
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
-runelite.gamepack=http://repo.runelite.net/net/runelite/rs/vanilla/188/vanilla-188.jar
+runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/188/vanilla-188.jar
 runelite.worldparam=12
