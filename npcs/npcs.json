@@ -1207,16 +1207,6 @@
     "hitpoints": 125,
     "combat": 127
   },
-  "493": {
-    "combat": 127
-  },
-  "494": {
-    "hitpoints": 255,
-    "combat": 291
-  },
-  "496": {
-    "combat": 127
-  },
   "498": {
     "hitpoints": 185,
     "combat": 160
@@ -9053,9 +9043,6 @@
     "hitpoints": 7,
     "combat": 4
   },
-  "5534": {
-    "combat": 127
-  },
   "5535": {
     "hitpoints": 120,
     "combat": 112
@@ -13809,6 +13796,36 @@
     "hitpoints": 280,
     "combat": 194
   },
+  "9446": {
+    "name": "Sleepwalker",
+    "hitpoints": 10,
+    "combat": 3
+  },
+  "9447": {
+    "name": "Sleepwalker",
+    "hitpoints": 10,
+    "combat": 3
+  },
+  "9448": {
+    "name": "Sleepwalker",
+    "hitpoints": 10,
+    "combat": 3
+  },
+  "9449": {
+    "name": "Sleepwalker",
+    "hitpoints": 10,
+    "combat": 3
+  },
+  "9450": {
+    "name": "Sleepwalker",
+    "hitpoints": 10,
+    "combat": 3
+  },
+  "9451": {
+    "name": "Sleepwalker",
+    "hitpoints": 10,
+    "combat": 3
+  },
   "9452": {
     "name": "Parasite",
     "hitpoints": 40,
@@ -13833,5 +13850,30 @@
     "name": "Infernal pyrelord",
     "hitpoints": 184,
     "combat": 134
+  },
+  "9466": {
+    "name": "Husk",
+    "hitpoints": 20,
+    "combat": 104
+  },
+  "9467": {
+    "name": "Husk",
+    "hitpoints": 20,
+    "combat": 104
+  },
+  "9468": {
+    "name": "Parasite",
+    "hitpoints": 80,
+    "combat": 129
+  },
+  "9469": {
+    "name": "Parasite",
+    "hitpoints": 40,
+    "combat": 91
+  },
+  "9470": {
+    "name": "Sleepwalker",
+    "hitpoints": 10,
+    "combat": 3
   }
 }
