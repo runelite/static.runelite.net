@@ -1207,6 +1207,10 @@
     "hitpoints": 125,
     "combat": 127
   },
+  "494": {
+    "hitpoints": 255,
+    "combat": 291
+  },
   "498": {
     "hitpoints": 185,
     "combat": 160
@@ -2829,6 +2833,36 @@
     "hitpoints": 40,
     "combat": 44
   },
+  "1228": {
+    "name": "Arzinian Avatar of Strength",
+    "hitpoints": 100,
+    "combat": 125
+  },
+  "1229": {
+    "name": "Arzinian Avatar of Strength",
+    "hitpoints": 70,
+    "combat": 75
+  },
+  "1231": {
+    "name": "Arzinian Avatar of Ranging",
+    "hitpoints": 100,
+    "combat": 125
+  },
+  "1232": {
+    "name": "Arzinian Avatar of Ranging",
+    "hitpoints": 70,
+    "combat": 75
+  },
+  "1234": {
+    "name": "Arzinian Avatar of Magic",
+    "hitpoints": 100,
+    "combat": 125
+  },
+  "1235": {
+    "name": "Arzinian Avatar of Magic",
+    "hitpoints": 70,
+    "combat": 75
+  },
   "1261": {
     "name": "Ram",
     "hitpoints": 8,
@@ -3228,6 +3262,10 @@
     "name": "Air Wizard",
     "hitpoints": 25,
     "combat": 13
+  },
+  "1609": {
+    "hitpoints": 107,
+    "combat": 112
   },
   "1610": {
     "name": "Battle mage",
@@ -8486,6 +8524,9 @@
     "name": "Skeleton Hellhound",
     "hitpoints": 55,
     "combat": 97
+  },
+  "5079": {
+    "combat": 27
   },
   "5086": {
     "name": "Dark wizard",
