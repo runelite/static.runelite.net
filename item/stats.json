@@ -15090,6 +15090,9 @@
     "weight": 0.55,
     "ge_limit": 2000
   },
+  "4653": {
+    "weight": 0.028
+  },
   "4654": {
     "quest": true,
     "weight": 0.51
@@ -34180,7 +34183,11 @@
   },
   "10500": {
     "quest": true,
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
   },
   "10501": {
     "equipable": true,
@@ -34673,6 +34680,9 @@
   "10834": {
     "quest": true,
     "weight": 5.443
+  },
+  "10835": {
+    "weight": 7.257
   },
   "10836": {
     "quest": true,
@@ -51925,6 +51935,7 @@
   },
   "22400": {
     "quest": true,
+    "weight": 0.08,
     "equipable": true,
     "equipment": {
       "slot": 2
