@@ -18284,13 +18284,7 @@
     "weight": 0.907,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": 6,
-      "arange": -2,
-      "dstab": 15,
-      "dslash": 13,
-      "dcrush": 16,
-      "dmagic": 6
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -18376,16 +18370,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 12,
-      "aslash": -1,
-      "acrush": 65,
-      "amagic": 15,
-      "dstab": 3,
-      "dslash": 5,
-      "dcrush": 2,
-      "dmagic": 15,
-      "str": 68,
-      "mdmg": 5,
       "aspeed": 6
     },
     "ge_limit": 15
@@ -18451,13 +18435,7 @@
     "weight": 4.535,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": 30,
-      "arange": -10,
-      "dstab": 52,
-      "dslash": 37,
-      "dcrush": 63,
-      "dmagic": 30
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -18522,13 +18500,7 @@
     "weight": 11.3,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": 22,
-      "arange": -7,
-      "dstab": 33,
-      "dslash": 30,
-      "dcrush": 36,
-      "dmagic": 22
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -18597,14 +18569,7 @@
     "weight": 1.814,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -3,
-      "arange": -1,
-      "dstab": 45,
-      "dslash": 48,
-      "dcrush": 44,
-      "dmagic": -1,
-      "drange": 51
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -18674,12 +18639,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": -4,
-      "aslash": 103,
-      "acrush": 95,
-      "amagic": -4,
-      "drange": -1,
-      "str": 105,
       "aspeed": 7
     },
     "ge_limit": 15
@@ -18749,14 +18708,7 @@
     "weight": 9.979,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -30,
-      "arange": -10,
-      "dstab": 122,
-      "dslash": 120,
-      "dcrush": 107,
-      "dmagic": -6,
-      "drange": 132
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -18825,14 +18777,7 @@
     "weight": 9.071,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -7,
-      "dstab": 85,
-      "dslash": 82,
-      "dcrush": 83,
-      "dmagic": -4,
-      "drange": 92
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -18901,14 +18846,7 @@
     "weight": 2.721,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 55,
-      "dslash": 58,
-      "dcrush": 54,
-      "dmagic": -1,
-      "drange": 62
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -18982,13 +18920,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 75,
-      "aslash": 75,
-      "acrush": 75,
-      "dstab": 7,
-      "dslash": 7,
-      "dcrush": 7,
-      "str": 75,
       "aspeed": 5
     },
     "ge_limit": 15
@@ -19058,14 +18989,7 @@
     "weight": 9.979,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -30,
-      "arange": -10,
-      "dstab": 122,
-      "dslash": 120,
-      "dcrush": 107,
-      "dmagic": -6,
-      "drange": 132
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -19134,14 +19058,7 @@
     "weight": 8.164,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -14,
-      "arange": -7,
-      "dstab": 75,
-      "dslash": 72,
-      "dcrush": 73,
-      "dmagic": -4,
-      "drange": 82
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -19210,14 +19127,7 @@
     "weight": 0.907,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -1,
-      "arange": 7,
-      "dstab": 6,
-      "dslash": 9,
-      "dcrush": 12,
-      "dmagic": 6,
-      "drange": 10
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -19267,7 +19177,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 84,
       "aspeed": 4
     },
     "ge_limit": 15
@@ -19337,14 +19246,7 @@
     "weight": 6.803,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "arange": 30,
-      "dstab": 47,
-      "dslash": 42,
-      "dcrush": 50,
-      "dmagic": 65,
-      "drange": 57
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -19413,14 +19315,7 @@
     "weight": 5.443,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -10,
-      "arange": 17,
-      "dstab": 26,
-      "dslash": 20,
-      "dcrush": 28,
-      "dmagic": 35,
-      "drange": 33
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -19489,14 +19384,7 @@
     "weight": 2.721,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 55,
-      "dslash": 58,
-      "dcrush": 54,
-      "dmagic": -1,
-      "drange": 62
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -19562,11 +19450,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": -4,
-      "aslash": -4,
-      "acrush": 85,
-      "amagic": -4,
-      "str": 72,
       "aspeed": 5
     },
     "ge_limit": 15
@@ -19636,14 +19519,7 @@
     "weight": 9.979,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -30,
-      "arange": -10,
-      "dstab": 122,
-      "dslash": 120,
-      "dcrush": 107,
-      "dmagic": -6,
-      "drange": 132
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -19712,14 +19588,7 @@
     "weight": 9.071,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -7,
-      "dstab": 85,
-      "dslash": 82,
-      "dcrush": 83,
-      "dmagic": -4,
-      "drange": 92
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -19788,14 +19657,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 55,
-      "dslash": 58,
-      "dcrush": 54,
-      "drange": 56,
-      "prayer": 3
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -19861,11 +19723,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 68,
-      "aslash": -2,
-      "acrush": 82,
-      "str": 72,
-      "prayer": 6,
       "aspeed": 5
     },
     "ge_limit": 15
@@ -19935,14 +19792,7 @@
     "weight": 4.989,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 81,
-      "dslash": 95,
-      "dcrush": 85,
-      "drange": 81,
-      "prayer": 5
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -20011,14 +19861,7 @@
     "weight": 4.535,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -7,
-      "dstab": 85,
-      "dslash": 82,
-      "dcrush": 83,
-      "drange": 84,
-      "prayer": 4
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -35338,6 +35181,10 @@
       "drange": 9
     },
     "ge_limit": 150
+  },
+  "9632": {
+    "name": "Daeyalt ore",
+    "weight": 2.267
   },
   "9633": {
     "name": "Message",
@@ -64799,7 +64646,8 @@
   },
   "24229": {
     "name": "Ornate maul handle",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 50
   },
   "24232": {
     "name": "Imbued saradomin max cape (l)",
@@ -65635,7 +65483,7 @@
     }
   },
   "24551": {
-    "name": "Blade of saeldor (i)",
+    "name": "Blade of saeldor (c)",
     "weight": 1.8,
     "equipable": true,
     "equipment": {

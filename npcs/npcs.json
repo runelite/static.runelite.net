@@ -3355,10 +3355,6 @@
     "name": "Cyclops",
     "hitpoints": 150
   },
-  "2143": {
-    "name": "Giant frog",
-    "hitpoints": 23
-  },
   "2145": {
     "name": "Undead Druid",
     "hitpoints": 140
@@ -10827,6 +10823,10 @@
     "name": "Monk of Zamorak",
     "hitpoints": 16
   },
+  "8700": {
+    "name": "Giant frog",
+    "hitpoints": 23
+  },
   "8701": {
     "name": "Big frog",
     "hitpoints": 18
@@ -11105,11 +11105,11 @@
   },
   "9295": {
     "name": "Typhor",
-    "hitpoints": 280
+    "hitpoints": 360
   },
   "9296": {
     "name": "Typhor",
-    "hitpoints": 280
+    "hitpoints": 360
   },
   "9446": {
     "name": "Sleepwalker",
@@ -11174,5 +11174,13 @@
   "9470": {
     "name": "Sleepwalker",
     "hitpoints": 10
+  },
+  "9502": {
+    "name": "Iorwerth Warrior",
+    "hitpoints": 105
+  },
+  "9503": {
+    "name": "Iorwerth Warrior",
+    "hitpoints": 105
   }
 }
