@@ -47262,6 +47262,7 @@
   },
   "12845": {
     "name": "Grim reaper hood",
+    "weight": 0.003,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -47394,6 +47395,7 @@
   },
   "12887": {
     "name": "Santa mask",
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -47401,6 +47403,7 @@
   },
   "12888": {
     "name": "Santa jacket",
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -47408,6 +47411,7 @@
   },
   "12889": {
     "name": "Santa pantaloons",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -47415,6 +47419,7 @@
   },
   "12890": {
     "name": "Santa gloves",
+    "weight": 0.1,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -47422,6 +47427,7 @@
   },
   "12891": {
     "name": "Santa boots",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -47429,6 +47435,7 @@
   },
   "12892": {
     "name": "Antisanta mask",
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -47436,6 +47443,7 @@
   },
   "12893": {
     "name": "Antisanta jacket",
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -47443,6 +47451,7 @@
   },
   "12894": {
     "name": "Antisanta pantaloons",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -47450,6 +47459,7 @@
   },
   "12895": {
     "name": "Antisanta gloves",
+    "weight": 0.1,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -47457,6 +47467,7 @@
   },
   "12896": {
     "name": "Antisanta boots",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -49552,6 +49563,7 @@
   },
   "13343": {
     "name": "Black santa hat",
+    "weight": 0.113,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -49559,6 +49571,7 @@
   },
   "13344": {
     "name": "Inverted santa hat",
+    "weight": 0.113,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -50278,6 +50291,10 @@
   "13511": {
     "name": "Ensouled dragon head",
     "ge_limit": 7500
+  },
+  "13513": {
+    "name": "Book of arcane knowledge",
+    "weight": 0.2
   },
   "13540": {
     "name": "Shayzien supply helm (1)",
@@ -59210,8 +59227,29 @@
     "name": "Tome of experience",
     "quest": true
   },
+  "22416": {
+    "name": "The turncloak",
+    "weight": 0.51
+  },
+  "22418": {
+    "name": "Explosive discovery",
+    "weight": 0.51
+  },
+  "22420": {
+    "name": "Bloody grimoire",
+    "weight": 0.51
+  },
+  "22424": {
+    "name": "Buried alive",
+    "weight": 0.028
+  },
+  "22426": {
+    "name": "Deed",
+    "weight": 0.028
+  },
   "22430": {
     "name": "Bloody bracer",
+    "weight": 0.55,
     "ge_limit": 2000
   },
   "22433": {
@@ -62687,6 +62725,11 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
+      "astab": 2,
+      "aslash": 2,
+      "acrush": 1,
+      "amagic": 2,
+      "arange": 2,
       "dstab": 28,
       "dslash": 28,
       "dcrush": 28,
@@ -62701,6 +62744,11 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 2,
+      "amagic": 6,
+      "arange": 6,
       "dstab": 48,
       "dslash": 48,
       "dcrush": 48,
@@ -62715,6 +62763,11 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 3,
+      "amagic": 10,
+      "arange": 10,
       "dstab": 68,
       "dslash": 68,
       "dcrush": 68,
@@ -62729,6 +62782,11 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
+      "astab": 8,
+      "aslash": 8,
+      "acrush": 3,
+      "amagic": 8,
+      "arange": 8,
       "dstab": 86,
       "dslash": 86,
       "dcrush": 86,
@@ -62743,6 +62801,11 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 4,
+      "amagic": 12,
+      "arange": 12,
       "dstab": 102,
       "dslash": 102,
       "dcrush": 102,
@@ -62757,6 +62820,11 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
+      "astab": 15,
+      "aslash": 16,
+      "acrush": 5,
+      "amagic": 16,
+      "arange": 16,
       "dstab": 124,
       "dslash": 124,
       "dcrush": 124,
@@ -62771,6 +62839,11 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 2,
+      "amagic": 6,
+      "arange": 6,
       "dstab": 52,
       "dslash": 52,
       "dcrush": 52,
@@ -62785,6 +62858,11 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 3,
+      "amagic": 10,
+      "arange": 10,
       "dstab": 74,
       "dslash": 74,
       "dcrush": 74,
@@ -62799,6 +62877,11 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
+      "astab": 14,
+      "aslash": 14,
+      "acrush": 4,
+      "amagic": 14,
+      "arange": 14,
       "dstab": 92,
       "dslash": 92,
       "dcrush": 92,
@@ -63004,6 +63087,11 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
+      "astab": 2,
+      "aslash": 2,
+      "acrush": 1,
+      "amagic": 2,
+      "arange": 2,
       "dstab": 28,
       "dslash": 28,
       "dcrush": 28,
@@ -63018,6 +63106,11 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 2,
+      "amagic": 6,
+      "arange": 6,
       "dstab": 48,
       "dslash": 48,
       "dcrush": 48,
@@ -63032,6 +63125,11 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 3,
+      "amagic": 10,
+      "arange": 10,
       "dstab": 68,
       "dslash": 68,
       "dcrush": 68,
@@ -63046,6 +63144,11 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
+      "astab": 8,
+      "aslash": 8,
+      "acrush": 3,
+      "amagic": 8,
+      "arange": 8,
       "dstab": 86,
       "dslash": 86,
       "dcrush": 86,
@@ -63060,6 +63163,11 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 4,
+      "amagic": 12,
+      "arange": 12,
       "dstab": 102,
       "dslash": 102,
       "dcrush": 102,
@@ -63074,6 +63182,11 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
+      "astab": 15,
+      "aslash": 16,
+      "acrush": 5,
+      "amagic": 16,
+      "arange": 16,
       "dstab": 124,
       "dslash": 124,
       "dcrush": 124,
@@ -63088,6 +63201,11 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 2,
+      "amagic": 6,
+      "arange": 6,
       "dstab": 52,
       "dslash": 52,
       "dcrush": 52,
@@ -63102,6 +63220,11 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 3,
+      "amagic": 10,
+      "arange": 10,
       "dstab": 74,
       "dslash": 74,
       "dcrush": 74,
@@ -63116,6 +63239,11 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
+      "astab": 14,
+      "aslash": 14,
+      "acrush": 4,
+      "amagic": 14,
+      "arange": 14,
       "dstab": 92,
       "dslash": 92,
       "dcrush": 92,
@@ -64978,10 +65106,6 @@
       "aspeed": 4
     }
   },
-  "24329": {
-    "name": "Bounty crate",
-    "weight": 0.2
-  },
   "24338": {
     "name": "Bounty hunter hat (tier 1)",
     "weight": 0.4,
@@ -65492,6 +65616,66 @@
       "aslash": 94,
       "str": 89,
       "aspeed": 4
+    }
+  },
+  "24589": {
+    "name": "Blighted manta ray",
+    "weight": 0.4
+  },
+  "24592": {
+    "name": "Blighted anglerfish",
+    "weight": 0.33
+  },
+  "24595": {
+    "name": "Blighted karambwan",
+    "weight": 0.5
+  },
+  "24598": {
+    "name": "Blighted super restore(4)",
+    "weight": 0.035
+  },
+  "24601": {
+    "name": "Blighted super restore(3)",
+    "weight": 0.03
+  },
+  "24603": {
+    "name": "Blighted super restore(2)",
+    "weight": 0.025
+  },
+  "24605": {
+    "name": "Blighted super restore(1)",
+    "weight": 0.02
+  },
+  "24617": {
+    "name": "Vesta's blighted longsword",
+    "weight": 1.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 106,
+      "aslash": 121,
+      "acrush": -2,
+      "dstab": 1,
+      "dslash": 4,
+      "dcrush": 3,
+      "str": 118,
+      "aspeed": 5
+    }
+  },
+  "24619": {
+    "name": "Vesta's longsword (inactive)",
+    "weight": 1.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 106,
+      "aslash": 121,
+      "acrush": -2,
+      "dstab": 1,
+      "dslash": 4,
+      "dcrush": 3,
+      "str": 118,
+      "aspeed": 5
     }
   }
 }
