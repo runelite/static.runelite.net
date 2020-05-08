@@ -6297,7 +6297,7 @@
   },
   "1359": {
     "name": "Rune axe",
-    "weight": 1.0,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -6922,6 +6922,7 @@
   },
   "1444": {
     "name": "Water talisman",
+    "weight": 0.015,
     "ge_limit": 11000
   },
   "1446": {
@@ -7010,6 +7011,7 @@
   "1478": {
     "name": "Amulet of accuracy",
     "quest": true,
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -8162,7 +8164,8 @@
   },
   "1801": {
     "name": "Silver bottle",
-    "quest": true
+    "quest": true,
+    "weight": 0.09
   },
   "1802": {
     "name": "Silver book",
@@ -9846,7 +9849,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9860,7 +9863,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9873,7 +9876,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9887,7 +9890,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9901,7 +9904,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9915,7 +9918,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9929,7 +9932,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9943,7 +9946,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -9957,7 +9960,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 150
   },
@@ -15593,71 +15596,71 @@
   },
   "4255": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4256": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4257": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4258": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4259": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4260": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4261": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4262": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4263": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4264": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4265": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4266": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4267": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4268": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4269": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4270": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4271": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4272": {
     "name": "Bone key",
@@ -17365,6 +17368,7 @@
   "4657": {
     "name": "Ring of visibility",
     "quest": true,
+    "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -18209,19 +18213,19 @@
   },
   "4852": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4853": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4854": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4855": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "4856": {
     "name": "Ahrim's hood 100",
@@ -21443,7 +21447,7 @@
   },
   "5615": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "5616": {
     "name": "Bronze arrow(p+)",
@@ -25300,7 +25304,7 @@
   "6544": {
     "name": "Catspeak amulet(e)",
     "quest": true,
-    "weight": 1.3,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -26194,7 +26198,7 @@
   },
   "6728": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.5
   },
   "6729": {
     "name": "Dagannoth bones",
@@ -26203,6 +26207,7 @@
   },
   "6731": {
     "name": "Seers ring",
+    "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -26683,7 +26688,7 @@
   },
   "6810": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 0.5
   },
   "6812": {
     "name": "Wyvern bones",
@@ -39972,6 +39977,10 @@
     "name": "Mixture - step 1(3)",
     "weight": 0.03
   },
+  "10913": {
+    "name": "Mixture - step 1(2)",
+    "weight": 0.025
+  },
   "10915": {
     "name": "Mixture - step 1(1)",
     "weight": 0.02
@@ -41443,7 +41452,7 @@
     "weight": 0.01
   },
   "11340": {
-    "name": "Barbarian skills",
+    "name": "Barbarian skills book",
     "weight": 0.01
   },
   "11367": {
@@ -42526,6 +42535,22 @@
     },
     "ge_limit": 40
   },
+  "11734": {
+    "name": "Absorption (4)",
+    "weight": 0.035
+  },
+  "11735": {
+    "name": "Absorption (3)",
+    "weight": 0.03
+  },
+  "11736": {
+    "name": "Absorption (2)",
+    "weight": 0.025
+  },
+  "11737": {
+    "name": "Absorption (1)",
+    "weight": 0.02
+  },
   "11738": {
     "name": "Herb box",
     "weight": 0.2
@@ -42849,6 +42874,7 @@
   },
   "11773": {
     "name": "Berserker ring (i)",
+    "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -43494,6 +43520,7 @@
   },
   "11866": {
     "name": "Slayer ring (8)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43501,6 +43528,7 @@
   },
   "11867": {
     "name": "Slayer ring (7)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43508,6 +43536,7 @@
   },
   "11868": {
     "name": "Slayer ring (6)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43515,6 +43544,7 @@
   },
   "11869": {
     "name": "Slayer ring (5)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43522,6 +43552,7 @@
   },
   "11870": {
     "name": "Slayer ring (4)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43529,6 +43560,7 @@
   },
   "11871": {
     "name": "Slayer ring (3)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43536,6 +43568,7 @@
   },
   "11872": {
     "name": "Slayer ring (2)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43543,6 +43576,7 @@
   },
   "11873": {
     "name": "Slayer ring (1)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -43564,6 +43598,30 @@
   "11876": {
     "name": "Unfinished broad bolts",
     "ge_limit": 7000
+  },
+  "11877": {
+    "name": "Empty vial pack",
+    "weight": 1.6
+  },
+  "11879": {
+    "name": "Water-filled vial pack",
+    "weight": 2.1
+  },
+  "11881": {
+    "name": "Feather pack",
+    "weight": 0.3
+  },
+  "11883": {
+    "name": "Bait pack",
+    "weight": 0.3
+  },
+  "11885": {
+    "name": "Broad arrowhead pack",
+    "weight": 1.8
+  },
+  "11887": {
+    "name": "Unfinished broad bolt pack",
+    "weight": 1.8
   },
   "11889": {
     "name": "Zamorakian hasta",
@@ -43788,7 +43846,7 @@
   },
   "11922": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.6
   },
   "11924": {
     "name": "Malediction ward",
@@ -44148,10 +44206,12 @@
   },
   "12004": {
     "name": "Kraken tentacle",
+    "weight": 0.005,
     "ge_limit": 70
   },
   "12006": {
     "name": "Abyssal tentacle",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -44166,11 +44226,11 @@
   },
   "12009": {
     "name": "Soft clay pack",
-    "weight": 4.0
+    "weight": 4.535
   },
   "12010": {
     "name": "Soft clay pack",
-    "weight": 4.0
+    "weight": 4.535
   },
   "12011": {
     "name": "Pay-dirt",
@@ -44223,7 +44283,7 @@
   },
   "12018": {
     "name": "Salve amulet(ei)",
-    "weight": 0.6,
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -45300,6 +45360,7 @@
   },
   "12359": {
     "name": "Leprechaun hat",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -45773,6 +45834,7 @@
   },
   "12436": {
     "name": "Amulet of fury (or)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -46432,10 +46494,12 @@
   },
   "12526": {
     "name": "Fury ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "12528": {
     "name": "Dark infinity colour kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "12530": {
@@ -46444,18 +46508,22 @@
   },
   "12532": {
     "name": "Dragon sq shield ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "12534": {
     "name": "Dragon chainbody ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "12536": {
     "name": "Dragon legs/skirt ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "12538": {
     "name": "Dragon full helm ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "12540": {
@@ -46501,6 +46569,7 @@
   },
   "12601": {
     "name": "Ring of the gods",
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -46526,6 +46595,7 @@
   },
   "12605": {
     "name": "Treasonous ring",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -46712,6 +46782,10 @@
     "name": "Amylase crystal",
     "ge_limit": 11000
   },
+  "12641": {
+    "name": "Amylase pack",
+    "weight": 0.5
+  },
   "12642": {
     "name": "Lumberyard teleport",
     "ge_limit": 10000
@@ -46778,6 +46852,42 @@
       "slot": 3,
       "aspeed": 3
     }
+  },
+  "12728": {
+    "name": "Air rune pack",
+    "weight": 4.535
+  },
+  "12730": {
+    "name": "Water rune pack",
+    "weight": 4.535
+  },
+  "12732": {
+    "name": "Earth rune pack",
+    "weight": 4.535
+  },
+  "12734": {
+    "name": "Fire rune pack",
+    "weight": 4.535
+  },
+  "12736": {
+    "name": "Mind rune pack",
+    "weight": 4.535
+  },
+  "12738": {
+    "name": "Chaos rune pack",
+    "weight": 4.535
+  },
+  "12740": {
+    "name": "Bird snare pack",
+    "weight": 5.443
+  },
+  "12742": {
+    "name": "Box trap pack",
+    "weight": 4.989
+  },
+  "12744": {
+    "name": "Magic imp box pack",
+    "weight": 5.896
   },
   "12757": {
     "name": "Blue dark bow paint",
@@ -47290,6 +47400,7 @@
   },
   "12851": {
     "name": "Amulet of the damned (full)",
+    "weight": 0.1,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -47310,6 +47421,7 @@
   },
   "12853": {
     "name": "Amulet of the damned",
+    "weight": 0.1,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -47345,6 +47457,10 @@
       "slot": 0
     }
   },
+  "12859": {
+    "name": "Eye of newt pack",
+    "weight": 0.07
+  },
   "12863": {
     "name": "Dwarf cannon set",
     "ge_limit": 40
@@ -47367,26 +47483,32 @@
   },
   "12873": {
     "name": "Guthan's armour set",
+    "weight": 0.05,
     "ge_limit": 8
   },
   "12875": {
     "name": "Verac's armour set",
+    "weight": 0.05,
     "ge_limit": 8
   },
   "12877": {
     "name": "Dharok's armour set",
+    "weight": 0.05,
     "ge_limit": 8
   },
   "12879": {
     "name": "Torag's armour set",
+    "weight": 0.05,
     "ge_limit": 8
   },
   "12881": {
     "name": "Ahrim's armour set",
+    "weight": 0.05,
     "ge_limit": 8
   },
   "12883": {
     "name": "Karil's armour set",
+    "weight": 0.05,
     "ge_limit": 8
   },
   "12885": {
@@ -47640,7 +47762,7 @@
   },
   "12954": {
     "name": "Dragon defender",
-    "weight": 0.4,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -48626,6 +48748,7 @@
   },
   "13126": {
     "name": "Explorer's ring 2",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -48924,6 +49047,10 @@
     "name": "Old school bond",
     "ge_limit": 100
   },
+  "13193": {
+    "name": "Bone bolt pack",
+    "weight": 0.453
+  },
   "13195": {
     "name": "Oddskull",
     "equipable": true,
@@ -48998,6 +49125,10 @@
       "slot": 0
     }
   },
+  "13217": {
+    "name": "Snow leopard toy",
+    "weight": 0.05
+  },
   "13221": {
     "name": "Music cape",
     "weight": 0.4,
@@ -49038,18 +49169,22 @@
   },
   "13227": {
     "name": "Eternal crystal",
+    "weight": 0.05,
     "ge_limit": 15
   },
   "13229": {
     "name": "Pegasian crystal",
+    "weight": 0.05,
     "ge_limit": 15
   },
   "13231": {
     "name": "Primordial crystal",
+    "weight": 0.05,
     "ge_limit": 15
   },
   "13233": {
     "name": "Smouldering stone",
+    "weight": 0.01,
     "ge_limit": 5
   },
   "13235": {
@@ -49160,6 +49295,18 @@
   "13245": {
     "name": "Jar of souls",
     "ge_limit": 4
+  },
+  "13250": {
+    "name": "Plant pot pack",
+    "weight": 0.453
+  },
+  "13252": {
+    "name": "Sack pack",
+    "weight": 0.453
+  },
+  "13254": {
+    "name": "Basket pack",
+    "weight": 0.453
   },
   "13256": {
     "name": "Saradomin's light",
@@ -49979,7 +50126,7 @@
   },
   "13392": {
     "name": "Xeric's talisman (inert)",
-    "weight": 0.05,
+    "weight": 0.06,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -49988,7 +50135,7 @@
   },
   "13393": {
     "name": "Xeric's talisman",
-    "weight": 0.05,
+    "weight": 0.06,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -50067,6 +50214,10 @@
   "13431": {
     "name": "Sandworms",
     "ge_limit": 8000
+  },
+  "13432": {
+    "name": "Sandworms pack",
+    "weight": 0.3
   },
   "13439": {
     "name": "Raw anglerfish",
@@ -50391,7 +50542,7 @@
   },
   "13575": {
     "name": "Blasted ore",
-    "weight": 2.0
+    "weight": 2.267
   },
   "13576": {
     "name": "Dragon warhammer",
@@ -51351,6 +51502,7 @@
   },
   "19544": {
     "name": "Tormented bracelet",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -51362,6 +51514,7 @@
   },
   "19547": {
     "name": "Necklace of anguish",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -51387,6 +51540,7 @@
   },
   "19553": {
     "name": "Amulet of torture",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -51780,6 +51934,10 @@
     "name": "Jar of darkness",
     "ge_limit": 4
   },
+  "19704": {
+    "name": "Compost pack",
+    "weight": 0.453
+  },
   "19707": {
     "name": "Amulet of eternal glory",
     "weight": 0.01,
@@ -51827,7 +51985,7 @@
   },
   "19722": {
     "name": "Dragon defender (t)",
-    "weight": 0.4,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -52140,6 +52298,7 @@
   },
   "19985": {
     "name": "Light bow tie",
+    "weight": 0.1,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -52210,10 +52369,12 @@
   },
   "20002": {
     "name": "Dragon scimitar ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "20005": {
     "name": "Ring of nature",
+    "weight": 0.004,
     "ge_limit": 4
   },
   "20008": {
@@ -52256,10 +52417,12 @@
   },
   "20017": {
     "name": "Ring of coins",
+    "weight": 0.004,
     "ge_limit": 4
   },
   "20020": {
     "name": "Lesser demon mask",
+    "weight": 0.8,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -52396,6 +52559,7 @@
   },
   "20056": {
     "name": "Ale of the gods",
+    "weight": 0.06,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -52422,18 +52586,22 @@
   },
   "20068": {
     "name": "Armadyl godsword ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "20071": {
     "name": "Bandos godsword ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "20074": {
     "name": "Saradomin godsword ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "20077": {
     "name": "Zamorak godsword ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "20080": {
@@ -52621,6 +52789,7 @@
   },
   "20143": {
     "name": "Dragon defender ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "20146": {
@@ -53056,7 +53225,7 @@
   },
   "20246": {
     "name": "Black leprechaun hat",
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -53692,7 +53861,7 @@
   },
   "20463": {
     "name": "Dragon defender (broken)",
-    "weight": 0.4
+    "weight": 0.453
   },
   "20465": {
     "name": "Void knight top (broken)",
@@ -54319,6 +54488,7 @@
   "20584": {
     "name": "Amulet of accuracy",
     "quest": true,
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -54663,6 +54833,10 @@
     },
     "ge_limit": 8
   },
+  "20742": {
+    "name": "Empty jug pack",
+    "weight": 0.453
+  },
   "20749": {
     "name": "Zamorak's grapes",
     "weight": 0.25,
@@ -54820,7 +54994,7 @@
     "weight": 4.0
   },
   "20792": {
-    "name": "Hardcore ironman helm",
+    "name": "Hardcore Ironman helm",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -55248,7 +55422,7 @@
   },
   "21028": {
     "name": "Dragon harpoon",
-    "weight": 3.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -55471,6 +55645,7 @@
   },
   "21087": {
     "name": "Topaz ring",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -55495,6 +55670,7 @@
   },
   "21096": {
     "name": "Topaz necklace",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55511,6 +55687,7 @@
   },
   "21105": {
     "name": "Topaz amulet (u)",
+    "weight": 0.004,
     "ge_limit": 10000
   },
   "21108": {
@@ -55531,6 +55708,7 @@
   },
   "21114": {
     "name": "Topaz amulet",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55555,6 +55733,7 @@
   },
   "21123": {
     "name": "Topaz bracelet",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -55563,6 +55742,7 @@
   },
   "21126": {
     "name": "Ring of pursuit",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -55571,6 +55751,7 @@
   },
   "21129": {
     "name": "Ring of returning(5)",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -55579,6 +55760,7 @@
   },
   "21132": {
     "name": "Ring of returning(4)",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -55586,6 +55768,7 @@
   },
   "21134": {
     "name": "Ring of returning(3)",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -55593,6 +55776,7 @@
   },
   "21136": {
     "name": "Ring of returning(2)",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -55600,6 +55784,7 @@
   },
   "21138": {
     "name": "Ring of returning(1)",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -55667,6 +55852,7 @@
   },
   "21160": {
     "name": "Amulet of bounty",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55675,6 +55861,7 @@
   },
   "21163": {
     "name": "Amulet of chemistry",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55935,7 +56122,7 @@
   },
   "21276": {
     "name": "Skull sceptre (i)",
-    "weight": 1.8,
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -56627,19 +56814,19 @@
   },
   "21698": {
     "name": "Tzhaar air rune pack",
-    "weight": 4.5
+    "weight": 4.535
   },
   "21701": {
     "name": "Tzhaar water rune pack",
-    "weight": 4.5
+    "weight": 4.535
   },
   "21704": {
     "name": "Tzhaar earth rune pack",
-    "weight": 4.5
+    "weight": 4.535
   },
   "21707": {
     "name": "Tzhaar fire rune pack",
-    "weight": 4.5
+    "weight": 4.535
   },
   "21720": {
     "name": "Jonas mask",
@@ -57561,7 +57748,8 @@
   },
   "22033": {
     "name": "Aivas' diary",
-    "quest": true
+    "quest": true,
+    "weight": 0.51
   },
   "22035": {
     "name": "Varrock census records",
@@ -57570,6 +57758,30 @@
   "22037": {
     "name": "Malumac's journal",
     "quest": true
+  },
+  "22039": {
+    "name": "Ablenkian's escape",
+    "weight": 0.51
+  },
+  "22041": {
+    "name": "Imcandoria's fall",
+    "weight": 0.51
+  },
+  "22043": {
+    "name": "Imafore's betrayal",
+    "weight": 0.51
+  },
+  "22045": {
+    "name": "Lutwidge and the moonfly",
+    "weight": 0.056
+  },
+  "22047": {
+    "name": "Serafina",
+    "weight": 0.51
+  },
+  "22049": {
+    "name": "The weeping",
+    "weight": 0.51
   },
   "22051": {
     "name": "Old notes",
@@ -57748,7 +57960,7 @@
   },
   "22114": {
     "name": "Mythical cape",
-    "weight": 1.0,
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -57764,10 +57976,11 @@
   },
   "22116": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.8
   },
   "22118": {
     "name": "Wrath talisman",
+    "weight": 0.015,
     "ge_limit": 11000
   },
   "22121": {
@@ -58367,6 +58580,7 @@
   },
   "22231": {
     "name": "Dragon boots ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "22234": {
@@ -58385,10 +58599,12 @@
   },
   "22236": {
     "name": "Dragon platebody ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "22239": {
     "name": "Dragon kiteshield ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "22242": {
@@ -58787,7 +59003,7 @@
   },
   "22322": {
     "name": "Avernic defender",
-    "weight": 0.45,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -59290,7 +59506,7 @@
   },
   "22441": {
     "name": "Avernic defender (broken)",
-    "weight": 0.45
+    "weight": 0.453
   },
   "22443": {
     "name": "Cadantine blood potion (unf)",
@@ -59298,38 +59514,47 @@
   },
   "22446": {
     "name": "Vial of blood",
+    "weight": 0.1,
     "ge_limit": 13000
   },
   "22449": {
     "name": "Battlemage potion(4)",
+    "weight": 0.135,
     "ge_limit": 2000
   },
   "22452": {
     "name": "Battlemage potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "22455": {
     "name": "Battlemage potion(2)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "22458": {
     "name": "Battlemage potion(1)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "22461": {
     "name": "Bastion potion(4)",
+    "weight": 0.135,
     "ge_limit": 2000
   },
   "22464": {
     "name": "Bastion potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "22467": {
     "name": "Bastion potion(2)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "22470": {
     "name": "Bastion potion(1)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "22477": {
@@ -59532,6 +59757,7 @@
   },
   "22557": {
     "name": "Amulet of avarice",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -59863,6 +60089,10 @@
       "dmagic": 25
     }
   },
+  "22660": {
+    "name": "Empty bucket pack",
+    "weight": 0.453
+  },
   "22671": {
     "name": "Kq head (tattered)",
     "weight": 10.0
@@ -60138,15 +60368,15 @@
   },
   "22754": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.8
   },
   "22756": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.8
   },
   "22758": {
     "name": "Bonemeal",
-    "weight": 1.0
+    "weight": 1.8
   },
   "22760": {
     "name": "Lovakengj favour certificate",
@@ -60969,6 +61199,7 @@
   },
   "23185": {
     "name": "Ring of 3rd age",
+    "weight": 0.005,
     "ge_limit": 4
   },
   "23188": {
@@ -61201,7 +61432,7 @@
   },
   "23230": {
     "name": "Rune defender (t)",
-    "weight": 0.4,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -62591,6 +62822,10 @@
     "quest": true,
     "weight": 0.02
   },
+  "23796": {
+    "name": "Ode to eternity",
+    "weight": 0.51
+  },
   "23798": {
     "name": "Elder cadantine",
     "quest": true,
@@ -63784,6 +64019,62 @@
       "str": 4
     }
   },
+  "24049": {
+    "name": "Crazed scribbles",
+    "weight": 0.226
+  },
+  "24051": {
+    "name": "A dear friend",
+    "weight": 0.226
+  },
+  "24053": {
+    "name": "On leprechauns",
+    "weight": 0.226
+  },
+  "24055": {
+    "name": "Bloody diary",
+    "weight": 0.226
+  },
+  "24057": {
+    "name": "The eight clans",
+    "weight": 0.226
+  },
+  "24059": {
+    "name": "Gollwyn's final statement",
+    "weight": 0.226
+  },
+  "24061": {
+    "name": "Niff & harry",
+    "weight": 0.226
+  },
+  "24063": {
+    "name": "Soggy journal",
+    "weight": 0.226
+  },
+  "24065": {
+    "name": "Ebrill's journal",
+    "weight": 0.226
+  },
+  "24067": {
+    "name": "Stained journal",
+    "weight": 0.226
+  },
+  "24069": {
+    "name": "The truth behind the myth (excerpt)",
+    "weight": 0.226
+  },
+  "24071": {
+    "name": "The living statues",
+    "weight": 0.226
+  },
+  "24073": {
+    "name": "The spurned demon",
+    "weight": 0.226
+  },
+  "24075": {
+    "name": "Legends of the mountain",
+    "weight": 0.226
+  },
   "24130": {
     "name": "Combat path starter kit",
     "weight": 10.0
@@ -63976,7 +64267,7 @@
   },
   "24143": {
     "name": "Dragon defender (l)",
-    "weight": 0.4,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -64450,7 +64741,7 @@
   },
   "24186": {
     "name": "Avernic defender (l)",
-    "weight": 0.45,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -65587,7 +65878,7 @@
   },
   "24529": {
     "name": "Harmony",
-    "weight": 0.3
+    "weight": 0.226
   },
   "24531": {
     "name": "Runner hat (broken)",
@@ -65632,7 +65923,8 @@
   },
   "24598": {
     "name": "Blighted super restore(4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "24601": {
     "name": "Blighted super restore(3)",
