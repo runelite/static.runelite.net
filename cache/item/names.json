@@ -15397,7 +15397,7 @@
   "24609": "Blighted bind sack",
   "24611": "Blighted snare sack",
   "24613": "Blighted entangle sack",
-  "24615": "Blighted teleblock sack",
+  "24615": "Blighted teleport spell sack",
   "24617": "Vesta's blighted longsword",
   "24619": "Vesta's longsword (inactive)",
   "24621": "Blighted vengeance sack",
@@ -15416,5 +15416,9 @@
   "24641": "Divine bastion potion(2)",
   "24642": "Divine bastion potion(2)",
   "24644": "Divine bastion potion(1)",
-  "24645": "Divine bastion potion(1)"
+  "24645": "Divine bastion potion(1)",
+  "24650": "Logs",
+  "24652": "Raw shrimps",
+  "24653": "Raw shrimps",
+  "24655": "Bones"
 }
