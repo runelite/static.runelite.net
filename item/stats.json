@@ -1665,6 +1665,7 @@
   },
   "577": {
     "name": "Blue wizard robe",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -38164,7 +38165,7 @@
   },
   "10352": {
     "name": "3rd age kiteshield",
-    "weight": 2.0,
+    "weight": 2.721,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -45915,7 +45916,7 @@
   },
   "12449": {
     "name": "Black wizard robe (g)",
-    "weight": 1.0,
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -45926,7 +45927,7 @@
   },
   "12451": {
     "name": "Black wizard robe (t)",
-    "weight": 1.0,
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -49045,7 +49046,12 @@
   },
   "13190": {
     "name": "Old school bond",
+    "weight": 0.003,
     "ge_limit": 100
+  },
+  "13192": {
+    "name": "Old school bond (untradeable)",
+    "weight": 0.003
   },
   "13193": {
     "name": "Bone bolt pack",
@@ -51555,6 +51561,7 @@
   "19556": {
     "name": "Monkey",
     "quest": true,
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -54995,7 +55002,6 @@
   },
   "20792": {
     "name": "Hardcore Ironman helm",
-    "weight": 2.0,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -55025,7 +55031,7 @@
   },
   "20796": {
     "name": "Hardcore ironman platelegs",
-    "weight": 9.0,
+    "weight": 4.0,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -65504,11 +65510,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "slot": 5,
       "aspeed": 4
     }
   },
@@ -65517,11 +65519,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "slot": 5,
       "aspeed": 4
     }
   },
@@ -65530,11 +65528,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "slot": 5,
       "aspeed": 4
     }
   },
@@ -65543,11 +65537,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "slot": 5,
       "aspeed": 4
     }
   },
@@ -65821,6 +65811,10 @@
     "weight": 0.5,
     "ge_limit": 5
   },
+  "24469": {
+    "name": "Twisted relichunter (t1) armour set",
+    "ge_limit": 5
+  },
   "24478": {
     "name": "Open herb sack",
     "weight": 1.0
@@ -65908,6 +65902,10 @@
       "str": 89,
       "aspeed": 4
     }
+  },
+  "24585": {
+    "name": "Looting bag note",
+    "ge_limit": 40
   },
   "24589": {
     "name": "Blighted manta ray",

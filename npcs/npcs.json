@@ -5703,10 +5703,6 @@
     "name": "Lanzig",
     "hitpoints": 50
   },
-  "3942": {
-    "name": "Freygerd",
-    "hitpoints": 50
-  },
   "3943": {
     "name": "Lensa",
     "hitpoints": 50
@@ -10943,8 +10939,16 @@
     "name": "Crystalline Wolf",
     "hitpoints": 52
   },
+  "9032": {
+    "name": "Crystalline Bear",
+    "hitpoints": 100
+  },
   "9033": {
     "name": "Crystalline Dragon",
+    "hitpoints": 100
+  },
+  "9034": {
+    "name": "Crystalline Dark Beast",
     "hitpoints": 100
   },
   "9035": {
