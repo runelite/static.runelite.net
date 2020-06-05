@@ -23543,8 +23543,7 @@
     "weight": 0.001,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "aspeed": 4
+      "slot": 3
     }
   },
   "6125": {
@@ -26183,8 +26182,7 @@
   },
   "6722": {
     "name": "Zombie head",
-    "weight": 2.721,
-    "ge_limit": 4
+    "weight": 2.721
   },
   "6724": {
     "name": "Seercull",
@@ -28041,7 +28039,7 @@
   },
   "7360": {
     "name": "Rune shield (h5)",
-    "weight": 5.4,
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -29323,17 +29321,17 @@
     "quest": true
   },
   "7633": {
-    "name": "Ancient book",
+    "name": "The sleeping seven",
     "quest": true,
     "weight": 0.01
   },
   "7634": {
-    "name": "Battered tome",
+    "name": "Histories of the hallowland",
     "quest": true,
     "weight": 0.51
   },
   "7635": {
-    "name": "Leather book",
+    "name": "Modern day morytania",
     "quest": true,
     "weight": 0.51
   },
@@ -35297,7 +35295,7 @@
     "weight": 2.0
   },
   "9652": {
-    "name": "Haemalchemy",
+    "name": "Haemalchemy volume 1",
     "quest": true,
     "weight": 2.0
   },
@@ -46005,7 +46003,7 @@
   },
   "12462": {
     "name": "Ancient platelegs",
-    "weight": 9.5,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -46022,7 +46020,7 @@
   },
   "12464": {
     "name": "Ancient plateskirt",
-    "weight": 9.0,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -46090,7 +46088,7 @@
   },
   "12472": {
     "name": "Armadyl platelegs",
-    "weight": 9.0,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -46107,7 +46105,7 @@
   },
   "12474": {
     "name": "Armadyl plateskirt",
-    "weight": 9.0,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -46175,7 +46173,7 @@
   },
   "12482": {
     "name": "Bandos platelegs",
-    "weight": 9.5,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -46192,7 +46190,7 @@
   },
   "12484": {
     "name": "Bandos plateskirt",
-    "weight": 9.0,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -47161,7 +47159,7 @@
     "ge_limit": 8
   },
   "12808": {
-    "name": "Sara's blessed sword (full)",
+    "name": "Saradomin's blessed sword",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -51297,7 +51295,7 @@
     }
   },
   "18359": {
-    "name": "Sara's blessed sword (full)",
+    "name": "Saradomin's blessed sword",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -65909,7 +65907,8 @@
   },
   "24589": {
     "name": "Blighted manta ray",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 12000
   },
   "24592": {
     "name": "Blighted anglerfish",
@@ -65966,6 +65965,142 @@
       "dcrush": 3,
       "str": 118,
       "aspeed": 5
+    }
+  },
+  "24664": {
+    "name": "Twisted ancestral hat",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 8,
+      "arange": -2,
+      "dstab": 12,
+      "dslash": 11,
+      "dcrush": 13,
+      "dmagic": 5,
+      "mdmg": 2
+    }
+  },
+  "24670": {
+    "name": "Twisted ancestral colour kit",
+    "weight": 0.5
+  },
+  "24672": {
+    "name": "Haemalchemy volume 2",
+    "quest": true,
+    "weight": 2.0
+  },
+  "24673": {
+    "name": "Vyre noble top (unscented)",
+    "quest": true,
+    "weight": 0.907
+  },
+  "24674": {
+    "name": "Vyre noble legs (unscented)",
+    "quest": true,
+    "weight": 0.907
+  },
+  "24675": {
+    "name": "Vyre noble shoes (unscented)",
+    "quest": true,
+    "weight": 0.907
+  },
+  "24680": {
+    "name": "Vyre noble shoes",
+    "quest": true,
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "24686": {
+    "name": "Journal page",
+    "quest": true
+  },
+  "24688": {
+    "name": "Ancient armour",
+    "quest": true
+  },
+  "24691": {
+    "name": "Blisterwood logs",
+    "quest": true,
+    "weight": 2.0
+  },
+  "24693": {
+    "name": "Ruby sickle (b)",
+    "quest": true,
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1,
+      "str": 4,
+      "prayer": 5,
+      "aspeed": 4
+    }
+  },
+  "24695": {
+    "name": "Enchanted ruby sickle (b)",
+    "quest": true,
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1,
+      "str": 6,
+      "prayer": 5,
+      "aspeed": 4
+    }
+  },
+  "24697": {
+    "name": "Blisterwood sickle",
+    "quest": true,
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "dstab": 1,
+      "dslash": 2,
+      "dcrush": 2,
+      "dmagic": 2,
+      "drange": 2,
+      "str": 32,
+      "prayer": 5,
+      "aspeed": 4
+    }
+  },
+  "24735": {
+    "name": "Ring of endurance (uncharged)",
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
+  },
+  "24780": {
+    "name": "Amulet of blood fury",
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": 10,
+      "arange": 10,
+      "dstab": 15,
+      "dslash": 15,
+      "dcrush": 15,
+      "dmagic": 15,
+      "drange": 15,
+      "str": 8,
+      "prayer": 5
     }
   }
 }
