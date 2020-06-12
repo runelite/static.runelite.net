@@ -35,7 +35,7 @@
   "8": {
     "name": "Cannon stand",
     "quest": true,
-    "weight": 7.0,
+    "weight": 0.907,
     "ge_limit": 70
   },
   "10": {
@@ -23425,6 +23425,10 @@
     "name": "Teleport crystal (2)",
     "weight": 0.001
   },
+  "6102": {
+    "name": "Teleport crystal (1)",
+    "weight": 0.001
+  },
   "6103": {
     "name": "Crystal teleport seed",
     "weight": 0.001
@@ -23543,7 +23547,8 @@
     "weight": 0.001,
     "equipable": true,
     "equipment": {
-      "slot": 3
+      "slot": 3,
+      "aspeed": 4
     }
   },
   "6125": {
@@ -26794,6 +26799,7 @@
   },
   "6885": {
     "name": "Progress hat",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -26801,6 +26807,7 @@
   },
   "6886": {
     "name": "Progress hat",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -26808,6 +26815,7 @@
   },
   "6887": {
     "name": "Progress hat",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -28784,7 +28792,7 @@
   },
   "7462": {
     "name": "Barrows gloves",
-    "weight": 0.2,
+    "weight": 0.226,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -34251,7 +34259,7 @@
   },
   "9176": {
     "name": "Blurite crossbow",
-    "weight": 2.0,
+    "weight": 4.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -35351,7 +35359,7 @@
   "9672": {
     "name": "Proselyte sallet",
     "quest": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -39597,7 +39605,7 @@
   },
   "10828": {
     "name": "Helm of neitiznot",
-    "weight": 2.2,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -42846,6 +42854,7 @@
   },
   "11770": {
     "name": "Seers ring (i)",
+    "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -43504,7 +43513,7 @@
   },
   "11865": {
     "name": "Slayer helmet (i)",
-    "weight": 2.2,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -43918,7 +43927,7 @@
   },
   "11936": {
     "name": "Dark crab",
-    "weight": 0.3,
+    "weight": 0.35,
     "ge_limit": 10000
   },
   "11940": {
@@ -44221,6 +44230,7 @@
   },
   "12007": {
     "name": "Jar of dirt",
+    "weight": 0.02,
     "ge_limit": 4
   },
   "12009": {
@@ -47027,7 +47037,7 @@
   },
   "12788": {
     "name": "Magic shortbow (i)",
-    "weight": 1.0,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -47157,19 +47167,6 @@
       "drange": 52
     },
     "ge_limit": 8
-  },
-  "12808": {
-    "name": "Saradomin's blessed sword",
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aslash": 100,
-      "acrush": 60,
-      "str": 88,
-      "prayer": 2,
-      "aspeed": 4
-    }
   },
   "12809": {
     "name": "Saradomin's blessed sword",
@@ -48427,6 +48424,10 @@
       "aspeed": 7
     }
   },
+  "13102": {
+    "name": "Teleport crystal (5)",
+    "weight": 0.001
+  },
   "13103": {
     "name": "Karamja gloves 4",
     "equipable": true,
@@ -48935,7 +48936,7 @@
   },
   "13143": {
     "name": "Western banner 3",
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -51294,32 +51295,6 @@
       "slot": 5
     }
   },
-  "18359": {
-    "name": "Saradomin's blessed sword",
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aslash": 100,
-      "acrush": 60,
-      "str": 88,
-      "prayer": 2,
-      "aspeed": 4
-    }
-  },
-  "18360": {
-    "name": "Saradomin's blessed sword",
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aslash": 100,
-      "acrush": 60,
-      "str": 88,
-      "prayer": 2,
-      "aspeed": 4
-    }
-  },
   "19473": {
     "name": "Bag full of gems",
     "weight": 1.0
@@ -51584,7 +51559,8 @@
   },
   "19564": {
     "name": "Royal seed pod",
-    "quest": true
+    "quest": true,
+    "weight": 0.005
   },
   "19566": {
     "name": "Bronze key",
@@ -54199,7 +54175,7 @@
   "20563": {
     "name": "Proselyte sallet",
     "quest": true,
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -59367,6 +59343,7 @@
   "22398": {
     "name": "Ivandis flail",
     "quest": true,
+    "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -59441,7 +59418,7 @@
   "22414": {
     "name": "Chain",
     "quest": true,
-    "weight": 3.0
+    "weight": 3.628
   },
   "22415": {
     "name": "Tome of experience",
@@ -59459,6 +59436,10 @@
     "name": "Bloody grimoire",
     "weight": 0.51
   },
+  "22422": {
+    "name": "Elixir of everlasting",
+    "weight": 0.028
+  },
   "22424": {
     "name": "Buried alive",
     "weight": 0.028
@@ -59466,6 +59447,10 @@
   "22426": {
     "name": "Deed",
     "weight": 0.028
+  },
+  "22428": {
+    "name": "Old key",
+    "weight": 0.01
   },
   "22430": {
     "name": "Bloody bracer",
@@ -59475,7 +59460,7 @@
   "22433": {
     "name": "Emerald sickle (b)",
     "quest": true,
-    "weight": 1.5,
+    "weight": 1.587,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -59485,13 +59470,13 @@
       "drange": 1,
       "str": 2,
       "prayer": 5,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "22435": {
     "name": "Enchanted emerald sickle (b)",
     "quest": true,
-    "weight": 1.5,
+    "weight": 1.587,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -59501,7 +59486,7 @@
       "drange": 1,
       "str": 3,
       "prayer": 5,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "22438": {
@@ -65224,7 +65209,7 @@
   "24265": {
     "name": "V's shield",
     "quest": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -65240,7 +65225,7 @@
   "24266": {
     "name": "V's shield",
     "quest": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -66015,13 +66000,28 @@
       "slot": 10
     }
   },
+  "24682": {
+    "name": "Old note",
+    "quest": true
+  },
+  "24684": {
+    "name": "Tatty note",
+    "quest": true
+  },
   "24686": {
     "name": "Journal page",
-    "quest": true
+    "quest": true,
+    "weight": 0.003
   },
   "24688": {
     "name": "Ancient armour",
-    "quest": true
+    "quest": true,
+    "weight": 7.711
+  },
+  "24690": {
+    "name": "Tome of experience",
+    "quest": true,
+    "weight": 1.0
   },
   "24691": {
     "name": "Blisterwood logs",
@@ -66031,7 +66031,7 @@
   "24693": {
     "name": "Ruby sickle (b)",
     "quest": true,
-    "weight": 1.5,
+    "weight": 1.587,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -66041,13 +66041,13 @@
       "drange": 1,
       "str": 4,
       "prayer": 5,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "24695": {
     "name": "Enchanted ruby sickle (b)",
     "quest": true,
-    "weight": 1.5,
+    "weight": 1.587,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -66057,16 +66057,18 @@
       "drange": 1,
       "str": 6,
       "prayer": 5,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "24697": {
     "name": "Blisterwood sickle",
     "quest": true,
-    "weight": 1.5,
+    "weight": 1.587,
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "astab": 30,
+      "aslash": 38,
       "dstab": 1,
       "dslash": 2,
       "dcrush": 2,
@@ -66074,8 +66076,67 @@
       "drange": 2,
       "str": 32,
       "prayer": 5,
+      "aspeed": 5
+    }
+  },
+  "24699": {
+    "name": "Blisterwood flail",
+    "quest": true,
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 30,
+      "aslash": 44,
+      "acrush": 68,
+      "amagic": 8,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 2,
+      "dmagic": 8,
+      "str": 46,
+      "prayer": 5,
+      "aspeed": 5
+    }
+  },
+  "24704": {
+    "name": "Daeyalt essence",
+    "weight": 0.04
+  },
+  "24721": {
+    "name": "Hallowed grapple",
+    "weight": 0.001
+  },
+  "24723": {
+    "name": "Hallowed focus",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "24725": {
+    "name": "Hallowed symbol",
+    "weight": 0.007,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "24727": {
+    "name": "Hallowed hammer",
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
       "aspeed": 4
     }
+  },
+  "24731": {
+    "name": "Hallowed ring",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {}
   },
   "24735": {
     "name": "Ring of endurance (uncharged)",
@@ -66084,8 +66145,128 @@
       "slot": 12
     }
   },
+  "24736": {
+    "name": "Ring of endurance",
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
+  },
+  "24738": {
+    "name": "Strange old lockpick",
+    "weight": 0.002
+  },
+  "24740": {
+    "name": "Strange old lockpick (full)",
+    "weight": 0.002
+  },
+  "24743": {
+    "name": "Graceful hood",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24745": {
+    "name": "Graceful hood",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24746": {
+    "name": "Graceful cape",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "24748": {
+    "name": "Graceful cape",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "24749": {
+    "name": "Graceful top",
+    "weight": -5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24751": {
+    "name": "Graceful top",
+    "weight": -5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24752": {
+    "name": "Graceful legs",
+    "weight": -6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24754": {
+    "name": "Graceful legs",
+    "weight": -6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24755": {
+    "name": "Graceful gloves",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "24757": {
+    "name": "Graceful gloves",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "24758": {
+    "name": "Graceful boots",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "24760": {
+    "name": "Graceful boots",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "24761": {
+    "name": "Strange hallowed tome",
+    "weight": 0.227
+  },
+  "24774": {
+    "name": "Blood pint",
+    "weight": 0.55
+  },
   "24780": {
     "name": "Amulet of blood fury",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -66102,5 +66283,227 @@
       "str": 8,
       "prayer": 5
     }
+  },
+  "24782": {
+    "name": "Raw mystery meat",
+    "weight": 0.34
+  },
+  "24785": {
+    "name": "Cooked mystery meat",
+    "weight": 0.34
+  },
+  "24788": {
+    "name": "Pat of not garlic butter",
+    "weight": 0.2
+  },
+  "24790": {
+    "name": "Long rope",
+    "weight": 1.36
+  },
+  "24792": {
+    "name": "Severed leg",
+    "weight": 1.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 3
+    }
+  },
+  "24794": {
+    "name": "Vyre noble blazer (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24796": {
+    "name": "Vyre noble coat tails (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24798": {
+    "name": "Vyre noble vest (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24800": {
+    "name": "Vyre noble pants (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24802": {
+    "name": "Vyre noble corset (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24804": {
+    "name": "Vyre noble skirt (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24806": {
+    "name": "Vyre noble dress top (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24808": {
+    "name": "Vyre noble dress bottom (red)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24810": {
+    "name": "Vyre noble blazer (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24812": {
+    "name": "Vyre noble coat tails (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24814": {
+    "name": "Vyre noble vest (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24816": {
+    "name": "Vyre noble pants (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24818": {
+    "name": "Vyre noble corset (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24820": {
+    "name": "Vyre noble skirt (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24822": {
+    "name": "Vyre noble dress top (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24824": {
+    "name": "Vyre noble dress bottom (purple)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24826": {
+    "name": "Vyre noble blazer (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24828": {
+    "name": "Vyre noble coat tails (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24830": {
+    "name": "Vyre noble vest (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24832": {
+    "name": "Vyre noble pants (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24834": {
+    "name": "Vyre noble corset (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24836": {
+    "name": "Vyre noble skirt (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24838": {
+    "name": "Vyre noble dress top (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24840": {
+    "name": "Vyre noble dress bottom (grey)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24842": {
+    "name": "A taste of hope",
+    "quest": true,
+    "weight": 0.51
   }
 }

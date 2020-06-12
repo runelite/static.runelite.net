@@ -889,19 +889,19 @@
   },
   "465": {
     "name": "Skeletal Wyvern",
-    "hitpoints": 210
+    "hitpoints": 200
   },
   "466": {
     "name": "Skeletal Wyvern",
-    "hitpoints": 210
+    "hitpoints": 200
   },
   "467": {
     "name": "Skeletal Wyvern",
-    "hitpoints": 210
+    "hitpoints": 200
   },
   "468": {
     "name": "Skeletal Wyvern",
-    "hitpoints": 210
+    "hitpoints": 200
   },
   "469": {
     "name": "Killerwatt",
@@ -1593,31 +1593,31 @@
   },
   "787": {
     "name": "Suqah",
-    "hitpoints": 106
+    "hitpoints": 105
   },
   "788": {
     "name": "Suqah",
-    "hitpoints": 106
+    "hitpoints": 105
   },
   "789": {
     "name": "Suqah",
-    "hitpoints": 106
+    "hitpoints": 105
   },
   "790": {
     "name": "Suqah",
-    "hitpoints": 106
+    "hitpoints": 105
   },
   "791": {
     "name": "Suqah",
-    "hitpoints": 106
+    "hitpoints": 105
   },
   "792": {
     "name": "Suqah",
-    "hitpoints": 106
+    "hitpoints": 105
   },
   "793": {
     "name": "Suqah",
-    "hitpoints": 106
+    "hitpoints": 105
   },
   "794": {
     "name": "Scarab mage",
@@ -1861,11 +1861,11 @@
   },
   "959": {
     "name": "Kalphite Guardian",
-    "hitpoints": 171
+    "hitpoints": 170
   },
   "960": {
     "name": "Kalphite Guardian",
-    "hitpoints": 171
+    "hitpoints": 170
   },
   "961": {
     "name": "Kalphite Worker",
@@ -1873,7 +1873,7 @@
   },
   "962": {
     "name": "Kalphite Guardian",
-    "hitpoints": 171
+    "hitpoints": 170
   },
   "963": {
     "name": "Kalphite Queen",
@@ -4213,7 +4213,7 @@
   },
   "2844": {
     "name": "Magic axe",
-    "hitpoints": 45
+    "hitpoints": 44
   },
   "2845": {
     "name": "Snake",
@@ -4293,11 +4293,11 @@
   },
   "2916": {
     "name": "Waterfiend",
-    "hitpoints": 130
+    "hitpoints": 128
   },
   "2917": {
     "name": "Waterfiend",
-    "hitpoints": 130
+    "hitpoints": 128
   },
   "2918": {
     "name": "Brutal green dragon",
@@ -9609,7 +9609,7 @@
   },
   "7269": {
     "name": "Magic axe",
-    "hitpoints": 45
+    "hitpoints": 44
   },
   "7270": {
     "name": "Cyclops",
@@ -9621,7 +9621,7 @@
   },
   "7272": {
     "name": "Twisted Banshee",
-    "hitpoints": 109
+    "hitpoints": 100
   },
   "7273": {
     "name": "Brutal blue dragon",
@@ -11186,5 +11186,9 @@
   "9503": {
     "name": "Iorwerth Warrior",
     "hitpoints": 105
+  },
+  "9573": {
+    "name": "Acidic Bloodveld",
+    "hitpoints": 5
   }
 }
