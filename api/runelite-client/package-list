@@ -37,7 +37,6 @@ net.runelite.client.plugins.chatcommands
 net.runelite.client.plugins.chatfilter
 net.runelite.client.plugins.chathistory
 net.runelite.client.plugins.chatnotifications
-net.runelite.client.plugins.clanchat
 net.runelite.client.plugins.cluescrolls
 net.runelite.client.plugins.cluescrolls.clues
 net.runelite.client.plugins.cluescrolls.clues.emote
@@ -65,6 +64,7 @@ net.runelite.client.plugins.fishing
 net.runelite.client.plugins.fps
 net.runelite.client.plugins.friendlist
 net.runelite.client.plugins.friendnotes
+net.runelite.client.plugins.friendschat
 net.runelite.client.plugins.gpu
 net.runelite.client.plugins.gpu.config
 net.runelite.client.plugins.gpu.template
