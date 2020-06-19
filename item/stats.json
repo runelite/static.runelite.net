@@ -29,7 +29,7 @@
   "6": {
     "name": "Cannon base",
     "quest": true,
-    "weight": 7.0,
+    "weight": 10.0,
     "ge_limit": 70
   },
   "8": {
@@ -41,13 +41,13 @@
   "10": {
     "name": "Cannon barrels",
     "quest": true,
-    "weight": 7.0,
+    "weight": 15.0,
     "ge_limit": 70
   },
   "12": {
     "name": "Cannon furnace",
     "quest": true,
-    "weight": 7.0,
+    "weight": 5.0,
     "ge_limit": 70
   },
   "14": {
@@ -132,6 +132,10 @@
   "32": {
     "name": "Lit black candle",
     "quest": true,
+    "weight": 0.028
+  },
+  "33": {
+    "name": "Lit candle",
     "weight": 0.028
   },
   "35": {
@@ -1257,7 +1261,7 @@
   "421": {
     "name": "Lathas' amulet",
     "quest": true,
-    "weight": 0.1,
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -2387,7 +2391,7 @@
   "730": {
     "name": "Binding book",
     "quest": true,
-    "weight": 0.5
+    "weight": 0.51
   },
   "731": {
     "name": "Enchanted vial",
@@ -2479,6 +2483,7 @@
   "747": {
     "name": "Glowing dagger",
     "quest": true,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -2960,6 +2965,7 @@
   },
   "818": {
     "name": "Poisoned dart(p)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -3933,6 +3939,7 @@
   },
   "1053": {
     "name": "Green halloween mask",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -6578,7 +6585,7 @@
   },
   "1393": {
     "name": "Fire battlestaff",
-    "weight": 2.25,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -7102,7 +7109,7 @@
   "1495": {
     "name": "Klank's gauntlets",
     "quest": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -7397,7 +7404,7 @@
   "1580": {
     "name": "Ice gloves",
     "quest": true,
-    "weight": 0.2,
+    "weight": 0.226,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -8668,6 +8675,7 @@
   },
   "1961": {
     "name": "Easter egg",
+    "weight": 0.085,
     "ge_limit": 50
   },
   "1963": {
@@ -9211,6 +9219,7 @@
   },
   "2277": {
     "name": "Fruit batta",
+    "weight": 0.25,
     "ge_limit": 6000
   },
   "2279": {
@@ -11118,6 +11127,186 @@
     },
     "ge_limit": 8
   },
+  "2677": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2678": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2679": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2680": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2681": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2682": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2683": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2684": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2685": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2686": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2687": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2688": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2689": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2690": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2691": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2692": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2693": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2694": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2695": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2696": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2697": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2698": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2699": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2700": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2701": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2702": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2703": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2704": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2705": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2706": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2707": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2708": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2709": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2710": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2711": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2712": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2713": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2716": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2719": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2842": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2844": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2846": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2850": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2852": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2854": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
   "2859": {
     "name": "Wolf bones",
     "weight": 0.5,
@@ -12359,9 +12548,9 @@
     "name": "Poison karambwan",
     "weight": 0.65
   },
-  "3150": {
-    "name": "Raw karambwanji",
-    "weight": 0.14
+  "3148": {
+    "name": "Burnt karambwan",
+    "weight": 0.6
   },
   "3152": {
     "name": "Karambwan paste",
@@ -13219,6 +13408,7 @@
   },
   "3402": {
     "name": "Asyn remains",
+    "weight": 1.36,
     "ge_limit": 7500
   },
   "3404": {
@@ -13651,6 +13841,114 @@
       "drange": 46
     },
     "ge_limit": 8
+  },
+  "3490": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3491": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3492": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3493": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3494": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3495": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3496": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3497": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3498": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3499": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3500": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3501": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3502": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3503": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3504": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3505": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3506": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3507": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3508": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3509": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3510": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3512": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3513": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3514": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3515": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3516": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3518": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
   },
   "3678": {
     "name": "Flamtaer hammer",
@@ -14611,11 +14909,11 @@
   },
   "4008": {
     "name": "Eye of gnome",
-    "weight": 1.0
+    "weight": 0.007
   },
   "4009": {
     "name": "Eye of gnome",
-    "weight": 1.0
+    "weight": 0.007
   },
   "4012": {
     "name": "Monkey nuts",
@@ -19257,7 +19555,7 @@
   },
   "4946": {
     "name": "Karil's leatherskirt 100",
-    "weight": 4.0,
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -20532,7 +20830,7 @@
   },
   "5354": {
     "name": "Filled plant pot",
-    "weight": 0.9,
+    "weight": 0.907,
     "ge_limit": 600
   },
   "5358": {
@@ -26148,7 +26446,8 @@
   },
   "6714": {
     "name": "Holy wrench",
-    "quest": true
+    "quest": true,
+    "weight": 0.005
   },
   "6715": {
     "name": "Sluglings",
@@ -27551,7 +27850,7 @@
   "7144": {
     "name": "Book o' piracy",
     "quest": true,
-    "weight": 0.5
+    "weight": 0.001
   },
   "7145": {
     "name": "Cannon barrel",
@@ -27763,6 +28062,50 @@
   "7230": {
     "name": "Skewered chompy",
     "weight": 2.5
+  },
+  "7236": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "7238": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "7269": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "7271": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "7273": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "7275": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7277": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7279": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7281": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7283": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7285": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
   },
   "7319": {
     "name": "Red boater",
@@ -28812,6 +29155,7 @@
   "7463": {
     "name": "Cornflour",
     "quest": true,
+    "weight": 0.5,
     "ge_limit": 15
   },
   "7464": {
@@ -28826,6 +29170,7 @@
   "7466": {
     "name": "Cornflour",
     "quest": true,
+    "weight": 0.003,
     "ge_limit": 15
   },
   "7468": {
@@ -30315,7 +30660,7 @@
   "7870": {
     "name": "Bone in vinegar",
     "quest": true,
-    "weight": 1.36
+    "weight": 0.907
   },
   "7871": {
     "name": "Moss giant bone",
@@ -36761,7 +37106,7 @@
   "9944": {
     "name": "Bomber jacket",
     "quest": true,
-    "weight": 1.0,
+    "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -36925,17 +37270,6 @@
     "name": "Ruby harvest",
     "weight": 0.02,
     "ge_limit": 125
-  },
-  "10023": {
-    "name": "Falconer's glove",
-    "weight": 0.907,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "dslash": 1,
-      "dcrush": 1,
-      "aspeed": 4
-    }
   },
   "10025": {
     "name": "Magic box",
@@ -37680,6 +38014,114 @@
     "name": "Feathered journal",
     "quest": true,
     "weight": 0.01
+  },
+  "10180": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10182": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10184": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10186": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10188": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10190": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10192": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10194": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10196": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10198": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10200": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10202": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10204": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10206": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10208": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10210": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10212": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10214": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10216": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10218": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10220": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10222": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10224": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10226": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10228": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10230": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10232": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
   },
   "10280": {
     "name": "Willow comp bow",
@@ -42419,6 +42861,7 @@
   },
   "11705": {
     "name": "Beach boxing gloves",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -42430,6 +42873,7 @@
   },
   "11706": {
     "name": "Beach boxing gloves",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -42441,7 +42885,7 @@
   },
   "11707": {
     "name": "Cursed goblin hammer",
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -42450,7 +42894,7 @@
   },
   "11708": {
     "name": "Cursed goblin bow",
-    "weight": 2.0,
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -42459,7 +42903,7 @@
   },
   "11709": {
     "name": "Cursed goblin staff",
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -42864,6 +43308,7 @@
   },
   "11771": {
     "name": "Archers ring (i)",
+    "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -44202,7 +44647,7 @@
   },
   "12002": {
     "name": "Occult necklace",
-    "weight": 1.0,
+    "weight": 0.005,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -44255,7 +44700,7 @@
   },
   "12014": {
     "name": "Prospector jacket",
-    "weight": 1.5,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -44306,6 +44751,482 @@
     "name": "Coal bag",
     "weight": 10.0
   },
+  "12056": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12058": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12060": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12062": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12064": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12066": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12068": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12070": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12072": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12073": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12074": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12075": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12076": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12077": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12078": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12079": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12080": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12081": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12082": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12083": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12085": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12086": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12087": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12088": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12089": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12090": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12091": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12092": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12093": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12094": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12095": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12096": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12097": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12098": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12099": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12100": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12101": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12102": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12103": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12104": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12105": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12106": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12107": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12108": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12109": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12110": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12111": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12113": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12114": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12115": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12116": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12117": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12118": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12119": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12120": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12121": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12122": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12123": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12124": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12125": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12126": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12127": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12128": {
+    "name": "Challenge scroll (elite)",
+    "weight": 0.02
+  },
+  "12130": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12132": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12133": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12134": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12135": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12136": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12137": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12138": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12139": {
+    "name": "Challenge scroll (elite)",
+    "weight": 0.02
+  },
+  "12140": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12141": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12142": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12143": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12144": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12145": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12146": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12147": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12148": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12149": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12150": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12151": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12152": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12153": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12154": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12155": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12156": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12157": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12158": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12159": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12162": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12164": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12166": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12167": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12168": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12169": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12170": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12172": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12173": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12174": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12175": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12176": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12177": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12178": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12179": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12181": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12182": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12183": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12184": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12185": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12186": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12187": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12188": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12189": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12190": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12191": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12192": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
   "12193": {
     "name": "Ancient robe top",
     "weight": 0.005,
@@ -44332,7 +45253,7 @@
   },
   "12197": {
     "name": "Ancient cloak",
-    "weight": 1.0,
+    "weight": 0.003,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -44368,6 +45289,7 @@
   },
   "12201": {
     "name": "Ancient stole",
+    "weight": 0.002,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -44766,6 +45688,7 @@
   },
   "12257": {
     "name": "Armadyl stole",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -45066,6 +45989,7 @@
   },
   "12297": {
     "name": "Black pickaxe",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -46251,6 +47175,7 @@
   },
   "12490": {
     "name": "Ancient bracers",
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -46300,6 +47225,7 @@
   },
   "12496": {
     "name": "Ancient coif",
+    "weight": 0.9,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -46349,7 +47275,7 @@
   },
   "12502": {
     "name": "Bandos chaps",
-    "weight": 4.5,
+    "weight": 5.0,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -46543,6 +47469,30 @@
     },
     "ge_limit": 4
   },
+  "12567": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12569": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12571": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12573": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12575": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12577": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
   "12596": {
     "name": "Rangers' tunic",
     "weight": 3.0,
@@ -46723,18 +47673,22 @@
   },
   "12625": {
     "name": "Stamina potion(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "12627": {
     "name": "Stamina potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "12629": {
     "name": "Stamina potion(2)",
+    "weight": 0.025,
     "ge_limit": 2000
   },
   "12631": {
     "name": "Stamina potion(1)",
+    "weight": 0.02,
     "ge_limit": 2000
   },
   "12633": {
@@ -46802,7 +47756,7 @@
   "12658": {
     "name": "Iban's staff (u)",
     "quest": true,
-    "weight": 2.2,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -46839,18 +47793,22 @@
   },
   "12695": {
     "name": "Super combat potion(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "12697": {
     "name": "Super combat potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "12699": {
     "name": "Super combat potion(2)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "12701": {
     "name": "Super combat potion(1)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "12727": {
@@ -47047,6 +48005,7 @@
   },
   "12789": {
     "name": "Clue box",
+    "weight": 0.005,
     "ge_limit": 50
   },
   "12791": {
@@ -47673,18 +48632,22 @@
   },
   "12913": {
     "name": "Anti-venom+(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "12915": {
     "name": "Anti-venom+(3)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "12917": {
     "name": "Anti-venom+(2)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "12919": {
     "name": "Anti-venom+(1)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "12922": {
@@ -48125,7 +49088,7 @@
   },
   "13073": {
     "name": "Elite void robe",
-    "weight": 6.0,
+    "weight": 8.164,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -48624,6 +49587,10 @@
       "drange": 31
     }
   },
+  "13116": {
+    "name": "Bonecrusher",
+    "weight": 0.025
+  },
   "13117": {
     "name": "Falador shield 1",
     "weight": 5.0,
@@ -48642,7 +49609,7 @@
   },
   "13118": {
     "name": "Falador shield 2",
-    "weight": 5.0,
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -48658,7 +49625,7 @@
   },
   "13119": {
     "name": "Falador shield 3",
-    "weight": 5.0,
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -48703,7 +49670,7 @@
   },
   "13122": {
     "name": "Ardougne cloak 2",
-    "weight": 1.0,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -48829,6 +49796,7 @@
   },
   "13134": {
     "name": "Desert amulet 2",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -48836,6 +49804,7 @@
   },
   "13135": {
     "name": "Desert amulet 3",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -48864,6 +49833,7 @@
   },
   "13138": {
     "name": "Kandarin headgear 2",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -48878,6 +49848,7 @@
   },
   "13139": {
     "name": "Kandarin headgear 3",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -49043,6 +50014,10 @@
       "slot": 10
     }
   },
+  "13188": {
+    "name": "Diango's claws",
+    "weight": 2.0
+  },
   "13190": {
     "name": "Old school bond",
     "weight": 0.003,
@@ -49130,8 +50105,20 @@
       "slot": 0
     }
   },
+  "13215": {
+    "name": "Tiger toy",
+    "weight": 0.05
+  },
+  "13216": {
+    "name": "Lion toy",
+    "weight": 0.05
+  },
   "13217": {
     "name": "Snow leopard toy",
+    "weight": 0.05
+  },
+  "13218": {
+    "name": "Amur leopard toy",
     "weight": 0.05
   },
   "13221": {
@@ -49343,7 +50330,7 @@
   },
   "13261": {
     "name": "Angler boots",
-    "weight": 1.0,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -49555,7 +50542,7 @@
   },
   "13328": {
     "name": "Green banner",
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -49731,7 +50718,7 @@
   },
   "13353": {
     "name": "Gricoller's can",
-    "weight": 1.0
+    "weight": 0.98
   },
   "13354": {
     "name": "Lovakite bar",
@@ -50260,12 +51247,12 @@
   },
   "13453": {
     "name": "Ensouled imp head",
-    "weight": 0.4,
+    "weight": 0.453,
     "ge_limit": 3000
   },
   "13454": {
     "name": "Ensouled imp head",
-    "weight": 0.4,
+    "weight": 0.453,
     "ge_limit": 3000
   },
   "13456": {
@@ -50278,10 +51265,12 @@
   },
   "13459": {
     "name": "Ensouled scorpion head",
+    "weight": 0.453,
     "ge_limit": 3000
   },
   "13460": {
     "name": "Ensouled scorpion head",
+    "weight": 0.453,
     "ge_limit": 3000
   },
   "13462": {
@@ -50412,12 +51401,12 @@
   },
   "13501": {
     "name": "Ensouled demon head",
-    "weight": 0.4,
+    "weight": 0.453,
     "ge_limit": 7500
   },
   "13502": {
     "name": "Ensouled demon head",
-    "weight": 0.4,
+    "weight": 0.453,
     "ge_limit": 7500
   },
   "13504": {
@@ -51148,6 +52137,10 @@
     "name": "Grape seed",
     "ge_limit": 200
   },
+  "13658": {
+    "name": "Teleport card",
+    "weight": 0.02
+  },
   "13660": {
     "name": "Chronicle",
     "weight": 1.0,
@@ -51166,7 +52159,7 @@
   },
   "13664": {
     "name": "Bunny legs",
-    "weight": 0.9,
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -51278,7 +52271,7 @@
   },
   "13679": {
     "name": "Cabbage cape",
-    "weight": 0.4,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -51430,6 +52423,7 @@
   "19525": {
     "name": "Kruk monkey greegree",
     "quest": true,
+    "weight": 0.085,
     "equipable": true,
     "equipment": {
       "slot": 3
@@ -51793,7 +52787,7 @@
   },
   "19659": {
     "name": "Half a botanical pie",
-    "weight": 0.2
+    "weight": 0.225
   },
   "19662": {
     "name": "Botanical pie",
@@ -51817,7 +52811,7 @@
   },
   "19675": {
     "name": "Arclight",
-    "weight": 1.3,
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -51829,6 +52823,10 @@
       "str": 8,
       "aspeed": 4
     }
+  },
+  "19685": {
+    "name": "Dark totem",
+    "weight": 0.009
   },
   "19687": {
     "name": "Helm of raedwald",
@@ -51993,6 +52991,7 @@
   },
   "19727": {
     "name": "Double eye patch",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -52003,9 +53002,305 @@
     "name": "Lucky impling jar",
     "weight": 2.267
   },
-  "19836": {
-    "name": "Reward casket (master)",
-    "weight": 5.0
+  "19735": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19737": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19739": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19741": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19743": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19745": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19747": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19749": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19751": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19753": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19755": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19757": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19759": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19763": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19765": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19767": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19769": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19771": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19773": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19782": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19783": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19784": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19785": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19786": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19787": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19788": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19789": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19790": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19791": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19792": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19793": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19794": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19795": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19796": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19797": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19798": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19799": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19800": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19801": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19802": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19803": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19804": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19805": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19806": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19807": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19808": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19809": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19810": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19811": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19813": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19814": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19816": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19817": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19818": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19819": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19820": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19821": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19822": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19823": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19824": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19825": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19826": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19828": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19829": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19830": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19831": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19833": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19835": {
+    "name": "Clue scroll (master)",
+    "weight": 0.02
+  },
+  "19847": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19855": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19859": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19885": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19893": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19899": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19907": {
+    "name": "Challenge scroll (hard)",
+    "weight": 0.02
   },
   "19912": {
     "name": "Zombie head",
@@ -52047,7 +53342,7 @@
   },
   "19921": {
     "name": "Ancient d'hide boots",
-    "weight": 1.0,
+    "weight": 1.4,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -52064,7 +53359,7 @@
   },
   "19924": {
     "name": "Bandos d'hide boots",
-    "weight": 1.0,
+    "weight": 1.4,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -52081,7 +53376,7 @@
   },
   "19927": {
     "name": "Guthix d'hide boots",
-    "weight": 1.0,
+    "weight": 1.4,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -52098,7 +53393,7 @@
   },
   "19930": {
     "name": "Armadyl d'hide boots",
-    "weight": 1.0,
+    "weight": 1.4,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -52115,7 +53410,7 @@
   },
   "19933": {
     "name": "Saradomin d'hide boots",
-    "weight": 1.0,
+    "weight": 1.4,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -52132,7 +53427,7 @@
   },
   "19936": {
     "name": "Zamorak d'hide boots",
-    "weight": 1.0,
+    "weight": 1.4,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -52327,6 +53622,7 @@
   },
   "19997": {
     "name": "Holy wraps",
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -52559,6 +53855,7 @@
   },
   "20062": {
     "name": "Torture ornament kit",
+    "weight": 0.5,
     "ge_limit": 4
   },
   "20065": {
@@ -52627,6 +53924,7 @@
   },
   "20095": {
     "name": "Ankou mask",
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -52635,6 +53933,7 @@
   },
   "20098": {
     "name": "Ankou top",
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -52643,6 +53942,7 @@
   },
   "20101": {
     "name": "Ankou gloves",
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -52651,6 +53951,7 @@
   },
   "20104": {
     "name": "Ankou leggings",
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -52659,6 +53960,7 @@
   },
   "20107": {
     "name": "Ankou socks",
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -53172,6 +54474,7 @@
   },
   "20235": {
     "name": "Ancient blessing",
+    "weight": 0.51,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -53276,7 +54579,7 @@
   },
   "20260": {
     "name": "Piscarilius banner",
-    "weight": 2.0,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -53349,8 +54652,13 @@
     "name": "Light box",
     "weight": 0.1
   },
+  "20358": {
+    "name": "Clue geode (easy)",
+    "weight": 1.0
+  },
   "20366": {
     "name": "Amulet of torture (or)",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -53858,7 +55166,7 @@
   },
   "20471": {
     "name": "Elite void robe (broken)",
-    "weight": 6.0
+    "weight": 8.164
   },
   "20473": {
     "name": "Void knight mace (broken)",
@@ -53984,18 +55292,6 @@
   },
   "20543": {
     "name": "Reward casket (elite)",
-    "weight": 5.0
-  },
-  "20544": {
-    "name": "Reward casket (hard)",
-    "weight": 5.0
-  },
-  "20545": {
-    "name": "Reward casket (medium)",
-    "weight": 5.0
-  },
-  "20546": {
-    "name": "Reward casket (easy)",
     "weight": 5.0
   },
   "20547": {
@@ -54673,7 +55969,7 @@
   },
   "20712": {
     "name": "Warm gloves",
-    "weight": 0.45,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -54778,7 +56074,7 @@
   },
   "20736": {
     "name": "Dust battlestaff",
-    "weight": 2.2,
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -54888,6 +56184,7 @@
   },
   "20779": {
     "name": "Hunting knife",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -55780,6 +57077,7 @@
   },
   "21143": {
     "name": "Dodgy necklace",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55850,6 +57148,7 @@
   },
   "21166": {
     "name": "Burning amulet(5)",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55858,6 +57157,7 @@
   },
   "21169": {
     "name": "Burning amulet(4)",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55865,6 +57165,7 @@
   },
   "21171": {
     "name": "Burning amulet(3)",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55872,6 +57173,7 @@
   },
   "21173": {
     "name": "Burning amulet(2)",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55879,6 +57181,7 @@
   },
   "21175": {
     "name": "Burning amulet(1)",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -55886,6 +57189,7 @@
   },
   "21177": {
     "name": "Expeditious bracelet",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -55902,6 +57206,7 @@
   },
   "21183": {
     "name": "Bracelet of slaughter",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -56018,7 +57323,7 @@
   },
   "21255": {
     "name": "Slayer's staff (e)",
-    "weight": 1.0,
+    "weight": 1.95,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -56227,6 +57532,7 @@
   },
   "21314": {
     "name": "Rainbow scarf",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -56364,6 +57670,7 @@
   },
   "21354": {
     "name": "Hand fan",
+    "weight": 0.02,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -56465,6 +57772,14 @@
     "name": "Teak bird house",
     "weight": 0.4,
     "ge_limit": 250
+  },
+  "21524": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "21525": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
   },
   "21528": {
     "name": "Sawmill proposal",
@@ -56646,7 +57961,7 @@
   },
   "21624": {
     "name": "Hoop snake",
-    "weight": 0.4
+    "weight": 0.453
   },
   "21626": {
     "name": "Sulliuscep cap",
@@ -56944,7 +58259,8 @@
   },
   "21768": {
     "name": "Jewellery of jubilation",
-    "quest": true
+    "quest": true,
+    "weight": 0.01
   },
   "21770": {
     "name": "A dark disposition",
@@ -57083,7 +58399,8 @@
   },
   "21800": {
     "name": "Enchanted symbol",
-    "quest": true
+    "quest": true,
+    "weight": 0.004
   },
   "21802": {
     "name": "Revenant cave teleport",
@@ -57091,7 +58408,7 @@
   },
   "21804": {
     "name": "Ancient crystal",
-    "weight": 13.0,
+    "weight": 13.607,
     "ge_limit": 11000
   },
   "21807": {
@@ -57108,7 +58425,7 @@
   },
   "21816": {
     "name": "Bracelet of ethereum",
-    "weight": 0.2,
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -57116,7 +58433,7 @@
   },
   "21817": {
     "name": "Bracelet of ethereum (uncharged)",
-    "weight": 0.2,
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -57584,6 +58901,14 @@
   "21997": {
     "name": "Super antifire mix(1)",
     "ge_limit": 2000
+  },
+  "22000": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "22001": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
   },
   "22002": {
     "name": "Dragonfire ward",
@@ -58500,18 +59825,22 @@
   },
   "22209": {
     "name": "Extended super antifire(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "22212": {
     "name": "Extended super antifire(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "22215": {
     "name": "Extended super antifire(2)",
+    "weight": 0.025,
     "ge_limit": 2000
   },
   "22218": {
     "name": "Extended super antifire(1)",
+    "weight": 0.02,
     "ge_limit": 2000
   },
   "22221": {
@@ -59229,6 +60558,7 @@
   },
   "22355": {
     "name": "Holy handegg",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -59237,7 +60567,7 @@
   },
   "22358": {
     "name": "Peaceful handegg",
-    "weight": 1.0,
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -59246,6 +60576,7 @@
   },
   "22361": {
     "name": "Chaotic handegg",
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -59363,7 +60694,7 @@
   "22400": {
     "name": "Drakan's medallion",
     "quest": true,
-    "weight": 0.08,
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2
@@ -60155,7 +61486,7 @@
   },
   "22711": {
     "name": "Collection log",
-    "weight": 0.5
+    "weight": 0.51
   },
   "22713": {
     "name": "Star-face",
@@ -60708,6 +62039,7 @@
   },
   "22945": {
     "name": "Rada's blessing 3",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -60728,7 +62060,7 @@
   },
   "22951": {
     "name": "Boots of brimstone",
-    "weight": 3.1,
+    "weight": 3.175,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -60810,6 +62142,7 @@
   },
   "22981": {
     "name": "Ferocious gloves",
+    "weight": 0.226,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -61177,6 +62510,114 @@
   "23124": {
     "name": "Gilded dragonhide set",
     "ge_limit": 8
+  },
+  "23127": {
+    "name": "Clue nest (beginner)",
+    "weight": 1.0
+  },
+  "23132": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "23134": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "23144": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "23145": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "23146": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "23147": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "23148": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "23149": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23150": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23151": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23152": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23153": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23154": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23155": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23156": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23157": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23158": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23159": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23160": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23161": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23162": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23163": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23164": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23165": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23166": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23182": {
+    "name": "Clue scroll (beginner)",
+    "weight": 0.02
   },
   "23183": {
     "name": "Strange device",
@@ -62576,50 +64017,62 @@
   },
   "23697": {
     "name": "Divine super attack potion(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "23700": {
     "name": "Divine super attack potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23703": {
     "name": "Divine super attack potion(2)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23706": {
     "name": "Divine super attack potion(1)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23709": {
     "name": "Divine super strength potion(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "23712": {
     "name": "Divine super strength potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23715": {
     "name": "Divine super strength potion(2)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23718": {
     "name": "Divine super strength potion(1)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23721": {
     "name": "Divine super defence potion(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "23724": {
     "name": "Divine super defence potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23727": {
     "name": "Divine super defence potion(2)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23730": {
     "name": "Divine super defence potion(1)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "23733": {
@@ -62690,8 +64143,7 @@
   },
   "23775": {
     "name": "Hand mirror",
-    "quest": true,
-    "weight": 0.01
+    "quest": true
   },
   "23776": {
     "name": "Red crystal",
@@ -64645,7 +66097,7 @@
   },
   "24180": {
     "name": "Elite void robe (l)",
-    "weight": 6.0,
+    "weight": 8.164,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -66103,6 +67555,10 @@
     "name": "Daeyalt essence",
     "weight": 0.04
   },
+  "24719": {
+    "name": "Hallowed token",
+    "weight": 0.005
+  },
   "24721": {
     "name": "Hallowed grapple",
     "weight": 0.001
@@ -66132,21 +67588,19 @@
       "aspeed": 4
     }
   },
+  "24729": {
+    "name": "Dark dye",
+    "weight": 0.02
+  },
   "24731": {
     "name": "Hallowed ring",
     "weight": 0.004,
     "equipable": true,
     "equipment": {}
   },
-  "24735": {
-    "name": "Ring of endurance (uncharged)",
-    "equipable": true,
-    "equipment": {
-      "slot": 12
-    }
-  },
   "24736": {
     "name": "Ring of endurance",
+    "weight": 0.006,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -66260,9 +67714,34 @@
     "name": "Strange hallowed tome",
     "weight": 0.227
   },
+  "24763": {
+    "name": "Mysterious page",
+    "weight": 0.005
+  },
+  "24765": {
+    "name": "Mysterious page",
+    "weight": 0.005
+  },
+  "24767": {
+    "name": "Mysterious page",
+    "weight": 0.005
+  },
+  "24769": {
+    "name": "Mysterious page",
+    "weight": 0.005
+  },
+  "24771": {
+    "name": "Mysterious page",
+    "weight": 0.005
+  },
   "24774": {
     "name": "Blood pint",
-    "weight": 0.55
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
+  "24777": {
+    "name": "Blood shard",
+    "weight": 0.01
   },
   "24780": {
     "name": "Amulet of blood fury",
@@ -66306,7 +67785,11 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 3
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
     }
   },
   "24794": {
@@ -66505,5 +67988,13 @@
     "name": "A taste of hope",
     "quest": true,
     "weight": 0.51
+  },
+  "24844": {
+    "name": "Ring of endurance (uncharged)",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
   }
 }
