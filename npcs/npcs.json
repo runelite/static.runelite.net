@@ -403,6 +403,10 @@
     "name": "Wolf",
     "hitpoints": 34
   },
+  "120": {
+    "name": "Crawling Hand",
+    "hitpoints": 15
+  },
   "130": {
     "name": "Skeleton",
     "hitpoints": 29
@@ -6769,11 +6773,11 @@
   },
   "4930": {
     "name": "Solus Dellagar",
-    "hitpoints": 4000100
+    "hitpoints": 40
   },
   "4933": {
     "name": "Solus Dellagar",
-    "hitpoints": 4000100
+    "hitpoints": 40
   },
   "4934": {
     "name": "Black Knight",
@@ -6793,7 +6797,7 @@
   },
   "4962": {
     "name": "Solus Dellagar",
-    "hitpoints": 4000100
+    "hitpoints": 40
   },
   "4969": {
     "name": "Khazard trooper",
@@ -11190,5 +11194,13 @@
   "9573": {
     "name": "Acidic Bloodveld",
     "hitpoints": 5
+  },
+  "9773": {
+    "name": "Kroy",
+    "hitpoints": 237
+  },
+  "9774": {
+    "name": "Damien Leucurte",
+    "hitpoints": 217
   }
 }
