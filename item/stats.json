@@ -72044,5 +72044,29 @@
   "24853": {
     "name": "Bag full of gems",
     "weight": 1.0
+  },
+  "24855": {
+    "name": "Mythical max cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "acrush": 6,
+      "dstab": 8,
+      "dslash": 8,
+      "dcrush": 8,
+      "dmagic": 8,
+      "drange": 8,
+      "str": 1,
+      "prayer": 1
+    }
+  },
+  "24857": {
+    "name": "Mythical max hood",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   }
 }
