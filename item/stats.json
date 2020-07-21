@@ -3169,6 +3169,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 8,
       "aspeed": 6
     },
@@ -3180,6 +3181,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 8,
       "aspeed": 4
     },
@@ -3191,6 +3193,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 14,
       "aspeed": 4
     },
@@ -3202,6 +3205,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 14,
       "aspeed": 6
     },
@@ -3213,6 +3217,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 20,
       "aspeed": 6
     },
@@ -3224,6 +3229,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 20,
       "aspeed": 4
     },
@@ -3235,6 +3241,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 29,
       "aspeed": 6
     },
@@ -3246,6 +3253,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 29,
       "aspeed": 4
     },
@@ -3257,6 +3265,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 47,
       "aspeed": 6
     },
@@ -3268,6 +3277,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 47,
       "aspeed": 4
     },
@@ -3279,6 +3289,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 69,
       "aspeed": 6
     },
@@ -3290,6 +3301,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 69,
       "aspeed": 4
     },
@@ -5406,6 +5418,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 5,
       "aslash": 5,
       "acrush": 5,
@@ -5422,6 +5435,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 8,
       "aslash": 8,
       "acrush": 8,
@@ -5438,6 +5452,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 12,
       "aslash": 12,
       "acrush": 12,
@@ -5454,6 +5469,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 17,
       "aslash": 17,
       "acrush": 17,
@@ -5470,6 +5486,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 24,
       "aslash": 24,
       "acrush": 24,
@@ -5486,6 +5503,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 36,
       "aslash": 36,
       "acrush": 36,
@@ -5502,6 +5520,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 55,
       "aslash": 55,
       "acrush": 55,
@@ -5521,6 +5540,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 5,
       "aslash": 5,
       "acrush": 5,
@@ -5537,6 +5557,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 8,
       "aslash": 8,
       "acrush": 8,
@@ -5553,6 +5574,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 12,
       "aslash": 12,
       "acrush": 12,
@@ -5569,6 +5591,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 17,
       "aslash": 17,
       "acrush": 17,
@@ -5585,6 +5608,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 24,
       "aslash": 24,
       "acrush": 24,
@@ -5601,6 +5625,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 36,
       "aslash": 36,
       "acrush": 36,
@@ -5617,6 +5642,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 55,
       "aslash": 55,
       "acrush": 55,
@@ -5966,6 +5992,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 9,
       "acrush": 8,
@@ -5982,6 +6009,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 13,
       "acrush": 10,
@@ -5998,6 +6026,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 21,
       "acrush": 16,
@@ -6014,6 +6043,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 27,
       "acrush": 21,
@@ -6030,6 +6060,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 30,
       "acrush": 24,
@@ -6046,6 +6077,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 43,
       "acrush": 30,
@@ -6062,6 +6094,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 69,
       "acrush": 50,
@@ -6849,6 +6882,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 3,
       "aslash": 8,
       "acrush": 3,
@@ -7155,11 +7189,6 @@
     "name": "Paladin's badge",
     "quest": true,
     "weight": 0.012
-  },
-  "1491": {
-    "name": "Witch's cat",
-    "quest": true,
-    "weight": 1.2
   },
   "1492": {
     "name": "Doll of iban",
@@ -11826,6 +11855,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 38,
       "aspeed": 8
     }
@@ -12699,6 +12729,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 3,
       "aslash": 4,
       "acrush": -4,
@@ -12716,6 +12747,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 4,
       "aslash": 6,
       "acrush": -4,
@@ -12733,6 +12765,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 8,
       "aslash": 11,
       "acrush": -4,
@@ -12750,6 +12783,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 10,
       "aslash": 14,
       "acrush": -4,
@@ -12767,6 +12801,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 11,
       "aslash": 16,
       "acrush": -4,
@@ -12784,6 +12819,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 18,
       "aslash": 23,
       "acrush": -4,
@@ -12801,6 +12837,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 26,
       "aslash": 38,
       "acrush": -4,
@@ -13077,6 +13114,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 5,
       "aslash": 5,
       "acrush": 5,
@@ -13092,6 +13130,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 8,
       "aslash": 8,
       "acrush": 8,
@@ -13107,6 +13146,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 12,
       "aslash": 12,
       "acrush": 12,
@@ -13122,6 +13162,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 17,
       "aslash": 17,
       "acrush": 17,
@@ -13137,6 +13178,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 24,
       "aslash": 24,
       "acrush": 24,
@@ -13152,6 +13194,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 36,
       "aslash": 36,
       "acrush": 36,
@@ -13167,6 +13210,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 55,
       "aslash": 55,
       "acrush": 55,
@@ -13237,6 +13281,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": 8,
       "amagic": -4,
@@ -13254,6 +13299,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 9,
       "aslash": 12,
       "amagic": -4,
@@ -13271,6 +13317,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 14,
       "aslash": 19,
       "amagic": -4,
@@ -13288,6 +13335,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 19,
       "aslash": 25,
       "amagic": -4,
@@ -13305,6 +13353,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 22,
       "aslash": 28,
       "amagic": -4,
@@ -13322,6 +13371,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 28,
       "aslash": 41,
       "amagic": -4,
@@ -13339,6 +13389,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 48,
       "aslash": 67,
       "amagic": -4,
@@ -13356,6 +13407,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 70,
       "aslash": 95,
       "amagic": -4,
@@ -14762,6 +14814,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 4
     }
   },
@@ -15984,6 +16037,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 4
     }
   },
@@ -15994,6 +16048,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 4
     }
   },
@@ -16315,6 +16370,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 81,
       "str": 79,
       "aspeed": 7
@@ -16345,6 +16401,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 47,
       "aslash": 42,
       "acrush": 36,
@@ -16562,6 +16619,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 14,
       "aspeed": 6
     }
@@ -18183,6 +18241,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 15,
       "aslash": 15,
       "acrush": 15,
@@ -18199,6 +18258,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 15,
       "aslash": 15,
       "acrush": 15,
@@ -18215,6 +18275,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 15,
       "aslash": 15,
       "acrush": 15,
@@ -18770,6 +18831,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 103,
       "acrush": 95,
@@ -18834,6 +18896,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 75,
       "aslash": 75,
       "acrush": 75,
@@ -18899,6 +18962,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 84,
       "aspeed": 4
     },
@@ -18967,6 +19031,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 85,
@@ -19030,6 +19095,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 68,
       "aslash": -2,
       "acrush": 82,
@@ -19219,6 +19285,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 38,
       "aspeed": 5
     },
@@ -19667,6 +19734,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 103,
       "acrush": 95,
@@ -19682,6 +19750,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 103,
       "acrush": 95,
@@ -19697,6 +19766,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 103,
       "acrush": 95,
@@ -19712,6 +19782,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 103,
       "acrush": 95,
@@ -19727,6 +19798,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 7
     },
     "ge_limit": 15
@@ -19944,6 +20016,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 75,
       "aslash": 75,
       "acrush": 75,
@@ -19960,6 +20033,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 75,
       "aslash": 75,
       "acrush": 75,
@@ -19976,6 +20050,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 75,
       "aslash": 75,
       "acrush": 75,
@@ -19992,6 +20067,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 75,
       "aslash": 75,
       "acrush": 75,
@@ -20008,6 +20084,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 5
     },
     "ge_limit": 15
@@ -20225,6 +20302,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 84,
       "aspeed": 4
     }
@@ -20235,6 +20313,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 84,
       "aspeed": 4
     }
@@ -20245,6 +20324,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 84,
       "aspeed": 4
     }
@@ -20255,6 +20335,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 84,
       "aspeed": 4
     }
@@ -20265,6 +20346,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 4
     },
     "ge_limit": 15
@@ -20482,6 +20564,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 85,
@@ -20496,6 +20579,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 85,
@@ -20510,6 +20594,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 85,
@@ -20524,6 +20609,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 85,
@@ -20538,6 +20624,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 5
     },
     "ge_limit": 15
@@ -20755,6 +20842,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 68,
       "aslash": -2,
       "acrush": 82,
@@ -20769,6 +20857,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 68,
       "aslash": -2,
       "acrush": 82,
@@ -20783,6 +20872,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 68,
       "aslash": -2,
       "acrush": 82,
@@ -20797,6 +20887,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 68,
       "aslash": -2,
       "acrush": 82,
@@ -20811,6 +20902,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 5
     },
     "ge_limit": 15
@@ -23324,6 +23416,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 5,
       "aslash": 5,
       "acrush": 5,
@@ -23340,6 +23433,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 8,
       "aslash": 8,
       "acrush": 8,
@@ -23356,6 +23450,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 12,
       "aslash": 12,
       "acrush": 12,
@@ -23372,6 +23467,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 17,
       "aslash": 17,
       "acrush": 17,
@@ -23388,6 +23484,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 24,
       "aslash": 24,
       "acrush": 24,
@@ -23404,6 +23501,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 36,
       "aslash": 36,
       "acrush": 36,
@@ -23420,6 +23518,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 55,
       "aslash": 55,
       "acrush": 55,
@@ -23439,6 +23538,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 5,
       "aslash": 5,
       "acrush": 5,
@@ -23455,6 +23555,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 8,
       "aslash": 8,
       "acrush": 8,
@@ -23471,6 +23572,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 12,
       "aslash": 12,
       "acrush": 12,
@@ -23487,6 +23589,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 17,
       "aslash": 17,
       "acrush": 17,
@@ -23503,6 +23606,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 24,
       "aslash": 24,
       "acrush": 24,
@@ -23519,6 +23623,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 36,
       "aslash": 36,
       "acrush": 36,
@@ -23535,6 +23640,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 55,
       "aslash": 55,
       "acrush": 55,
@@ -23558,6 +23664,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 15,
       "aslash": 15,
       "acrush": 15,
@@ -23574,6 +23681,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 15,
       "aslash": 15,
       "acrush": 15,
@@ -24455,6 +24563,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 4
     }
   },
@@ -26364,6 +26473,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 15,
       "aslash": -1,
       "acrush": 55,
@@ -26398,6 +26508,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 80,
       "amagic": -4,
       "str": 85,
@@ -26616,6 +26727,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 10,
       "aslash": 14,
       "acrush": -4,
@@ -26718,6 +26830,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 19,
       "aslash": 25,
       "amagic": -4,
@@ -26805,6 +26918,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 27,
       "acrush": 21,
@@ -27328,6 +27442,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 69,
       "aspeed": 5
     },
@@ -27510,6 +27625,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 11,
       "str": 14,
       "aspeed": 6
@@ -27522,6 +27638,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 11,
       "str": 14,
       "aspeed": 6
@@ -27534,6 +27651,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 11,
       "str": 14,
       "aspeed": 6
@@ -28580,7 +28698,8 @@
   },
   "7121": {
     "name": "Repair plank",
-    "quest": true
+    "quest": true,
+    "weight": 0.005
   },
   "7122": {
     "name": "Stripy pirate shirt",
@@ -28731,7 +28850,8 @@
   },
   "7148": {
     "name": "Repair plank",
-    "quest": true
+    "quest": true,
+    "weight": 0.005
   },
   "7149": {
     "name": "Canister",
@@ -28752,6 +28872,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 92,
       "acrush": 80,
@@ -29825,7 +29946,8 @@
     "weight": 0.02,
     "equipable": true,
     "equipment": {
-      "slot": 3
+      "slot": 3,
+      "is2h": true
     }
   },
   "7416": {
@@ -29940,6 +30062,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 27,
       "acrush": 21,
@@ -31045,6 +31168,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 35,
@@ -31490,6 +31614,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 2,
       "aslash": 2,
       "acrush": 2,
@@ -34376,7 +34501,8 @@
     "weight": 32.0,
     "equipable": true,
     "equipment": {
-      "slot": 3
+      "slot": 3,
+      "is2h": true
     }
   },
   "8872": {
@@ -34986,14 +35112,6 @@
       "slot": 7
     }
   },
-  "8992": {
-    "name": "Green navy slacks",
-    "weight": 0.003,
-    "equipable": true,
-    "equipment": {
-      "slot": 7
-    }
-  },
   "8993": {
     "name": "Red navy slacks",
     "weight": 0.003,
@@ -35212,6 +35330,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -35231,6 +35350,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -35249,6 +35369,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -35267,6 +35388,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -37130,6 +37252,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 8,
       "aspeed": 4
     }
@@ -39123,6 +39246,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 19,
       "arange": 29,
       "str": 31,
@@ -39136,6 +39260,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 37,
       "arange": 47,
       "str": 49,
@@ -39149,6 +39274,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 59,
       "arange": 69,
       "str": 71,
@@ -39162,6 +39288,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 10,
       "arange": 20,
       "str": 22,
@@ -39470,6 +39597,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 22,
       "aspeed": 5
     },
@@ -39481,6 +39609,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 49,
       "aspeed": 5
     },
@@ -39492,6 +39621,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 71,
       "aspeed": 5
     },
@@ -41620,6 +41750,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 27,
       "acrush": 21,
@@ -41774,6 +41905,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -2,
       "aslash": 10,
       "acrush": 92,
@@ -41788,6 +41920,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -2,
       "aslash": 10,
       "acrush": 92,
@@ -43159,6 +43292,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 95,
       "aspeed": 9
     },
@@ -44483,6 +44617,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 5
     }
   },
@@ -44647,6 +44782,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44659,6 +44795,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44671,6 +44808,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44683,6 +44821,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44695,6 +44834,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44707,6 +44847,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44719,6 +44860,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44731,6 +44873,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44743,6 +44886,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44755,6 +44899,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -44767,6 +44912,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -45200,6 +45346,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -45214,6 +45361,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -45228,6 +45376,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -45242,6 +45391,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -45291,6 +45441,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 65,
       "acrush": 65,
@@ -45422,6 +45573,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 82,
       "acrush": 60,
       "str": 82,
@@ -48089,6 +48241,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": 45,
       "dstab": 3,
@@ -48523,6 +48676,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 80,
       "aspeed": 4
     },
@@ -49752,6 +49906,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 3
     }
   },
@@ -49857,6 +50012,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 95,
       "aspeed": 9
     },
@@ -49868,6 +50024,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 95,
       "aspeed": 9
     },
@@ -49879,6 +50036,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 95,
       "aspeed": 9
     },
@@ -49890,6 +50048,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 95,
       "aspeed": 9
     },
@@ -49983,6 +50142,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 75,
       "aspeed": 4
     }
@@ -50121,6 +50281,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 100,
       "acrush": 60,
       "str": 88,
@@ -50333,6 +50494,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 81,
       "str": 79,
       "aspeed": 7
@@ -50668,6 +50830,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 60,
       "aspeed": 3
     },
@@ -50679,6 +50842,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 60,
       "rstr": 40,
       "aspeed": 3
@@ -51128,6 +51292,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -51146,6 +51311,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -51164,6 +51330,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -51182,6 +51349,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -51200,6 +51368,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -51228,6 +51397,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51245,6 +51415,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51262,6 +51433,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51279,6 +51451,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51296,6 +51469,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51313,6 +51487,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51330,6 +51505,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51347,6 +51523,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51364,6 +51541,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51381,6 +51559,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -51398,6 +51577,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -52093,7 +52273,8 @@
     "weight": 0.001,
     "equipable": true,
     "equipment": {
-      "slot": 3
+      "slot": 3,
+      "is2h": true
     }
   },
   "13196": {
@@ -52420,6 +52601,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 102,
       "str": 85,
       "aspeed": 4
@@ -54476,9 +54658,11 @@
   },
   "13652": {
     "name": "Dragon claws",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 41,
       "aslash": 57,
       "acrush": -4,
@@ -54690,6 +54874,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 110,
       "aspeed": 7
     },
@@ -54702,6 +54887,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 125,
       "rstr": 15,
       "aspeed": 7
@@ -56066,6 +56252,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 11,
@@ -56187,6 +56374,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": -4,
       "acrush": 11,
@@ -56895,6 +57083,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 69,
       "acrush": 50,
@@ -56911,6 +57100,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 36,
       "aslash": 36,
       "acrush": 36,
@@ -56945,6 +57135,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -57483,6 +57674,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -57496,6 +57688,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -57509,6 +57702,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -57522,6 +57716,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -57598,6 +57793,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 47,
       "aspeed": 4
     },
@@ -57624,6 +57820,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 29,
       "aspeed": 4
     },
@@ -57678,6 +57875,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 95,
       "aspeed": 9
     },
@@ -58176,6 +58374,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 69,
       "acrush": 50,
@@ -58204,6 +58403,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 81,
       "str": 79,
       "aspeed": 7
@@ -58216,6 +58416,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 69,
       "aspeed": 4
     },
@@ -58227,6 +58428,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 92,
       "acrush": 80,
@@ -58647,6 +58849,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": 132,
       "acrush": 80,
       "str": 132,
@@ -58987,6 +59190,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -4,
       "aslash": 50,
       "acrush": 65,
@@ -59063,9 +59267,11 @@
   },
   "20784": {
     "name": "Dragon claws",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 41,
       "aslash": 57,
       "acrush": -4,
@@ -59138,6 +59344,7 @@
   },
   "20792": {
     "name": "Hardcore Ironman helm",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -59220,6 +59427,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -59839,6 +60047,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 70,
       "rstr": 20,
       "prayer": 4,
@@ -59871,6 +60080,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 135,
       "amagic": -4,
       "str": 147,
@@ -59926,6 +60136,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 110,
       "dstab": 141,
       "dslash": 145,
@@ -60584,6 +60795,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 135,
       "amagic": -4,
       "str": 147,
@@ -61430,6 +61642,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 8,
       "aslash": 8,
       "acrush": 8,
@@ -63864,6 +64077,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 70,
       "aslash": 110,
       "acrush": 30,
@@ -63950,6 +64164,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 20,
       "rstr": 7,
       "aspeed": 4
@@ -64449,6 +64664,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 50,
       "aslash": 75,
       "acrush": 10,
@@ -64585,6 +64801,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 75,
       "rstr": 60,
       "aspeed": 4
@@ -64597,6 +64814,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 75,
       "rstr": 60,
       "aspeed": 4
@@ -64700,6 +64918,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 133,
       "aslash": 113,
       "acrush": 120,
@@ -66082,6 +66301,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -66350,6 +66570,10 @@
   "23185": {
     "name": "Ring of 3rd age",
     "weight": 0.005,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    },
     "ge_limit": 4
   },
   "23188": {
@@ -66478,6 +66702,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 11,
       "aslash": 8,
       "acrush": -4,
@@ -66611,6 +66836,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 80,
       "amagic": -4,
       "str": 85,
@@ -66819,6 +67045,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -67104,6 +67331,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 8,
       "aspeed": 4
     },
@@ -67399,6 +67627,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -68350,6 +68579,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 68,
       "aslash": 68,
       "acrush": 4,
@@ -68364,6 +68594,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 114,
       "aslash": 114,
       "acrush": 12,
@@ -68378,6 +68609,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 166,
       "aslash": 166,
       "acrush": 28,
@@ -68392,6 +68624,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "amagic": 84,
       "prayer": 1,
       "aspeed": 4
@@ -68403,6 +68636,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "amagic": 128,
       "prayer": 2,
       "aspeed": 4
@@ -68414,6 +68648,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "amagic": 184,
       "prayer": 3,
       "aspeed": 4
@@ -68425,6 +68660,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 72,
       "rstr": 42,
       "prayer": 1,
@@ -68437,6 +68673,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 118,
       "rstr": 88,
       "prayer": 1,
@@ -68449,6 +68686,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 172,
       "rstr": 138,
       "prayer": 3,
@@ -68758,6 +68996,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 68,
       "aslash": 68,
       "acrush": 4,
@@ -68772,6 +69011,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 114,
       "aslash": 114,
       "acrush": 12,
@@ -68786,6 +69026,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 166,
       "aslash": 166,
       "acrush": 28,
@@ -68800,6 +69041,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "amagic": 84,
       "prayer": 1,
       "aspeed": 4
@@ -68811,6 +69053,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "amagic": 128,
       "prayer": 2,
       "aspeed": 4
@@ -68822,6 +69065,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "amagic": 184,
       "prayer": 3,
       "aspeed": 4
@@ -68833,6 +69077,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 72,
       "rstr": 42,
       "prayer": 1,
@@ -68845,6 +69090,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 118,
       "rstr": 88,
       "prayer": 1,
@@ -68857,6 +69103,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 172,
       "rstr": 138,
       "prayer": 3,
@@ -69078,6 +69325,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 100,
       "rstr": 70,
       "aspeed": 5
@@ -69089,6 +69337,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": 85,
       "aslash": 110,
       "acrush": 5,
@@ -70330,6 +70579,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 81,
       "str": 79,
       "aspeed": 7
@@ -70342,6 +70592,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 81,
       "str": 79,
       "aspeed": 7
@@ -70692,6 +70943,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -70772,6 +71024,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -70785,6 +71038,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -70798,6 +71052,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -71172,6 +71427,7 @@
   },
   "24525": {
     "name": "Cat ears",
+    "weight": 0.09,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -72067,6 +72323,54 @@
     "equipable": true,
     "equipment": {
       "slot": 0
+    }
+  },
+  "24862": {
+    "name": "Karamjan monkey",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "24863": {
+    "name": "Zombie monkey",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "24864": {
+    "name": "Maniacal monkey",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "24865": {
+    "name": "Skeleton monkey",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "24866": {
+    "name": "Kruk jr",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "24867": {
+    "name": "Princely monkey",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
     }
   }
 }
