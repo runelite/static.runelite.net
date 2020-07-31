@@ -7190,6 +7190,11 @@
     "quest": true,
     "weight": 0.012
   },
+  "1491": {
+    "name": "Witch's cat",
+    "quest": true,
+    "weight": 1.2
+  },
   "1492": {
     "name": "Doll of iban",
     "quest": true,
@@ -16412,7 +16417,7 @@
     }
   },
   "4160": {
-    "name": "Broad arrows",
+    "name": "Broad Arrows",
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -26698,6 +26703,10 @@
   "6583": {
     "name": "Ring of stone",
     "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    },
     "ge_limit": 70
   },
   "6585": {
@@ -32201,7 +32210,11 @@
   },
   "7927": {
     "name": "Easter ring",
-    "weight": 0.001
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
   },
   "7934": {
     "name": "Field ration",
@@ -35106,6 +35119,14 @@
   },
   "8991": {
     "name": "Blue navy slacks",
+    "weight": 0.003,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "8992": {
+    "name": "Green navy slacks",
     "weight": 0.003,
     "equipable": true,
     "equipment": {
@@ -50475,6 +50496,10 @@
     "weight": 2.0,
     "ge_limit": 5
   },
+  "12835": {
+    "name": "Community pumpkin",
+    "weight": 0.04
+  },
   "12845": {
     "name": "Grim reaper hood",
     "weight": 0.003,
@@ -56590,6 +56615,10 @@
   "20005": {
     "name": "Ring of nature",
     "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    },
     "ge_limit": 4
   },
   "20008": {
@@ -56634,6 +56663,10 @@
   "20017": {
     "name": "Ring of coins",
     "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    },
     "ge_limit": 4
   },
   "20020": {
@@ -65188,6 +65221,21 @@
     "name": "Empty bucket pack",
     "weight": 0.453
   },
+  "22665": {
+    "name": "Armadyl godsword",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 132,
+      "acrush": 80,
+      "str": 132,
+      "prayer": 8,
+      "aspeed": 6
+    },
+    "ge_limit": 8
+  },
   "22671": {
     "name": "Kq head (tattered)",
     "weight": 10.0
@@ -67885,6 +67933,18 @@
       "aspeed": 4
     },
     "ge_limit": 70
+  },
+  "23611": {
+    "name": "Armadyl crossbow",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 100,
+      "prayer": 1,
+      "aspeed": 6
+    },
+    "ge_limit": 8
   },
   "23650": {
     "name": "Rune pouch",
@@ -71888,7 +71948,9 @@
     "name": "Hallowed ring",
     "weight": 0.004,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 12
+    }
   },
   "24733": {
     "name": "Dark acorn",

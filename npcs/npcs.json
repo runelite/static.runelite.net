@@ -1775,26 +1775,6 @@
     "name": "Kraka",
     "hitpoints": 120
   },
-  "931": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "932": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "933": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "934": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "935": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
   "936": {
     "name": "Mountain troll",
     "hitpoints": 90
@@ -5963,26 +5943,6 @@
     "name": "Berry",
     "hitpoints": 90
   },
-  "4135": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "4136": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "4137": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "4138": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
-  "4139": {
-    "name": "Thrower Troll",
-    "hitpoints": 95
-  },
   "4143": {
     "name": "Mountain troll",
     "hitpoints": 90
@@ -9113,7 +9073,7 @@
   },
   "6730": {
     "name": "Rock Golem",
-    "hitpoints": 170
+    "hitpoints": 166
   },
   "6735": {
     "name": "River Troll",
@@ -11017,7 +10977,7 @@
   },
   "9118": {
     "name": "Rabbit",
-    "hitpoints": 5000
+    "hitpoints": 2000
   },
   "9181": {
     "name": "Dire Wolf",
@@ -11262,5 +11222,21 @@
   "9774": {
     "name": "Damien Leucurte",
     "hitpoints": 217
+  },
+  "10397": {
+    "name": "Spiked Turoth",
+    "hitpoints": 195
+  },
+  "10398": {
+    "name": "Shadow Wyrm",
+    "hitpoints": 320
+  },
+  "10400": {
+    "name": "Guardian Drake",
+    "hitpoints": 630
+  },
+  "10402": {
+    "name": "Colossal Hydra",
+    "hitpoints": 750
   }
 }
