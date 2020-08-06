@@ -11280,8 +11280,8 @@
   "12843": "Human eye",
   "12844": "Voice potion",
   "12845": "Grim reaper hood",
-  "12846": "Bounty teleport scroll",
-  "12847": "Bounty teleport scroll",
+  "12846": "Target teleport scroll",
+  "12847": "Target teleport scroll",
   "12848": "Granite maul",
   "12849": "Granite clamp",
   "12850": "Granite clamp",
@@ -15224,7 +15224,7 @@
   "24332": "Birthday cake",
   "24333": "Dagon'hai robes set",
   "24334": "Dagon'hai robes set",
-  "24336": "Bounty target teleport",
+  "24336": "Target teleport",
   "24338": "Bounty hunter hat (tier 1)",
   "24340": "Bounty hunter hat (tier 2)",
   "24342": "Bounty hunter hat (tier 3)",
@@ -15543,5 +15543,9 @@
   "24864": "Maniacal monkey",
   "24865": "Skeleton monkey",
   "24866": "Kruk jr",
-  "24867": "Princely monkey"
+  "24867": "Princely monkey",
+  "24868": "Golden armadyl special attack",
+  "24869": "Golden bandos special attack",
+  "24870": "Golden saradomin special attack",
+  "24871": "Golden zamorak special attack"
 }
