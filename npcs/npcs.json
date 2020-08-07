@@ -5267,6 +5267,10 @@
     "name": "Tough Guy",
     "hitpoints": 75
   },
+  "3565": {
+    "name": "Skeleton",
+    "hitpoints": 29
+  },
   "3600": {
     "name": "Frogeel",
     "hitpoints": 90
@@ -6746,10 +6750,6 @@
   "4934": {
     "name": "Black Knight",
     "hitpoints": 42
-  },
-  "4958": {
-    "name": "Woman",
-    "hitpoints": 7
   },
   "4959": {
     "name": "Black Knight",

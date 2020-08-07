@@ -2571,7 +2571,7 @@
   "753": {
     "name": "Cadava berries",
     "weight": 0.007,
-    "ge_limit": 15
+    "ge_limit": 200
   },
   "755": {
     "name": "Message",
@@ -66756,7 +66756,7 @@
       "acrush": -4,
       "amagic": -4,
       "str": 14,
-      "aspeed": 4
+      "aspeed": 5
     },
     "ge_limit": 8
   },
