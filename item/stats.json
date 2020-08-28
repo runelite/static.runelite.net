@@ -313,6 +313,42 @@
       "rstr": 16
     }
   },
+  "79": {
+    "name": "Ice arrows",
+    "quest": true,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 16
+    }
+  },
+  "80": {
+    "name": "Ice arrows",
+    "quest": true,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 16
+    }
+  },
+  "81": {
+    "name": "Ice arrows",
+    "quest": true,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 16
+    }
+  },
+  "82": {
+    "name": "Ice arrows",
+    "quest": true,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 16
+    }
+  },
   "83": {
     "name": "Lever",
     "quest": true,
@@ -9352,10 +9388,6 @@
     "name": "Raw batta",
     "weight": 0.25
   },
-  "2251": {
-    "name": "Unfinished batta",
-    "weight": 0.25
-  },
   "2253": {
     "name": "Worm batta",
     "weight": 0.25,
@@ -9366,10 +9398,6 @@
     "weight": 0.25,
     "ge_limit": 6000
   },
-  "2257": {
-    "name": "Unfinished batta",
-    "weight": 0.25
-  },
   "2259": {
     "name": "Cheese+tom batta",
     "weight": 0.25,
@@ -9379,10 +9407,6 @@
     "name": "Fruit batta",
     "weight": 0.25,
     "ge_limit": 6000
-  },
-  "2279": {
-    "name": "Unfinished batta",
-    "weight": 0.25
   },
   "2281": {
     "name": "Vegetable batta",
@@ -16727,68 +16751,60 @@
     "name": "Bonemeal",
     "weight": 1.5
   },
-  "4256": {
-    "name": "Bonemeal",
-    "weight": 1.5
-  },
-  "4257": {
-    "name": "Bonemeal",
-    "weight": 1.5
-  },
   "4258": {
-    "name": "Bonemeal",
+    "name": "Burnt bonemeal",
     "weight": 1.5
   },
   "4259": {
-    "name": "Bonemeal",
+    "name": "Burnt jogre bonemeal",
     "weight": 1.5
   },
   "4260": {
-    "name": "Bonemeal",
+    "name": "Baby dragon bonemeal",
     "weight": 1.5
   },
   "4261": {
-    "name": "Bonemeal",
+    "name": "Dragon bonemeal",
     "weight": 1.5
   },
   "4262": {
-    "name": "Bonemeal",
+    "name": "Wolf bonemeal",
     "weight": 1.5
   },
   "4263": {
-    "name": "Bonemeal",
+    "name": "Small ninja bonemeal",
     "weight": 1.5
   },
   "4264": {
-    "name": "Bonemeal",
+    "name": "Medium ninja bonemeal",
     "weight": 1.5
   },
   "4265": {
-    "name": "Bonemeal",
+    "name": "Gorilla bonemeal",
     "weight": 1.5
   },
   "4266": {
-    "name": "Bonemeal",
+    "name": "Bearded gorilla bonemeal",
     "weight": 1.5
   },
   "4267": {
-    "name": "Bonemeal",
+    "name": "Monkey bonemeal",
     "weight": 1.5
   },
   "4268": {
-    "name": "Bonemeal",
+    "name": "Small zombie monkey bonemeal",
     "weight": 1.5
   },
   "4269": {
-    "name": "Bonemeal",
+    "name": "Large zombie monkey bonemeal",
     "weight": 1.5
   },
   "4270": {
-    "name": "Bonemeal",
+    "name": "Skeleton bonemeal",
     "weight": 1.5
   },
   "4271": {
-    "name": "Bonemeal",
+    "name": "Jogre bonemeal",
     "weight": 1.5
   },
   "4272": {
@@ -19368,19 +19384,19 @@
     "ge_limit": 3000
   },
   "4852": {
-    "name": "Bonemeal",
+    "name": "Zogre bonemeal",
     "weight": 1.5
   },
   "4853": {
-    "name": "Bonemeal",
+    "name": "Fayrg bonemeal",
     "weight": 1.5
   },
   "4854": {
-    "name": "Bonemeal",
+    "name": "Raurg bonemeal",
     "weight": 1.5
   },
   "4855": {
-    "name": "Bonemeal",
+    "name": "Ourg bonemeal",
     "weight": 1.5
   },
   "4856": {
@@ -22632,7 +22648,7 @@
     "weight": 0.1
   },
   "5615": {
-    "name": "Bonemeal",
+    "name": "Shaikahan bonemeal",
     "weight": 1.5
   },
   "5616": {
@@ -27458,7 +27474,7 @@
     "ge_limit": 8
   },
   "6728": {
-    "name": "Bonemeal",
+    "name": "Dagannoth-king bonemeal",
     "weight": 1.5
   },
   "6729": {
@@ -27955,7 +27971,7 @@
     "ge_limit": 70
   },
   "6810": {
-    "name": "Bonemeal",
+    "name": "Wyvern bonemeal",
     "weight": 0.5
   },
   "6812": {
@@ -36604,6 +36620,10 @@
     "name": "Half made batta",
     "weight": 0.25
   },
+  "9481": {
+    "name": "Unfinished batta",
+    "weight": 0.25
+  },
   "9482": {
     "name": "Half made batta",
     "weight": 0.25
@@ -36612,8 +36632,16 @@
     "name": "Half made batta",
     "weight": 0.25
   },
+  "9484": {
+    "name": "Unfinished batta",
+    "weight": 0.25
+  },
   "9485": {
     "name": "Half made batta",
+    "weight": 0.25
+  },
+  "9486": {
+    "name": "Unfinished batta",
     "weight": 0.25
   },
   "9558": {
@@ -46112,7 +46140,7 @@
     "ge_limit": 40
   },
   "11922": {
-    "name": "Bonemeal",
+    "name": "Lava dragon bonemeal",
     "weight": 1.6
   },
   "11924": {
@@ -60709,7 +60737,7 @@
     "equipment": {
       "slot": 2
     },
-    "ge_limit": 200
+    "ge_limit": 10000
   },
   "21166": {
     "name": "Burning amulet(5)",
@@ -61282,6 +61310,11 @@
     "equipment": {
       "slot": 9
     }
+  },
+  "21394": {
+    "name": "Karambwanji",
+    "quest": true,
+    "weight": 0.12
   },
   "21439": {
     "name": "Champion's cape",
@@ -63015,7 +63048,7 @@
     }
   },
   "22116": {
-    "name": "Bonemeal",
+    "name": "Superior dragon bonemeal",
     "weight": 1.8
   },
   "22118": {
@@ -65221,21 +65254,6 @@
     "name": "Empty bucket pack",
     "weight": 0.453
   },
-  "22665": {
-    "name": "Armadyl godsword",
-    "weight": 10.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "aslash": 132,
-      "acrush": 80,
-      "str": 132,
-      "prayer": 8,
-      "aspeed": 6
-    },
-    "ge_limit": 8
-  },
   "22671": {
     "name": "Kq head (tattered)",
     "weight": 10.0
@@ -65500,15 +65518,15 @@
     }
   },
   "22754": {
-    "name": "Bonemeal",
+    "name": "Wyrm bonemeal",
     "weight": 1.8
   },
   "22756": {
-    "name": "Bonemeal",
+    "name": "Drake bonemeal",
     "weight": 1.8
   },
   "22758": {
-    "name": "Bonemeal",
+    "name": "Hydra bonemeal",
     "weight": 1.8
   },
   "22760": {
@@ -67934,6 +67952,126 @@
     },
     "ge_limit": 70
   },
+  "23543": {
+    "name": "Super combat potion(4)",
+    "weight": 0.035,
+    "ge_limit": 2000
+  },
+  "23545": {
+    "name": "Super combat potion(3)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "23547": {
+    "name": "Super combat potion(2)",
+    "weight": 0.025,
+    "ge_limit": 2000
+  },
+  "23549": {
+    "name": "Super combat potion(1)",
+    "weight": 0.02,
+    "ge_limit": 2000
+  },
+  "23551": {
+    "name": "Ranging potion(4)",
+    "weight": 0.035,
+    "ge_limit": 2000
+  },
+  "23553": {
+    "name": "Ranging potion(3)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "23555": {
+    "name": "Ranging potion(2)",
+    "weight": 0.025,
+    "ge_limit": 2000
+  },
+  "23557": {
+    "name": "Ranging potion(1)",
+    "weight": 0.02,
+    "ge_limit": 2000
+  },
+  "23559": {
+    "name": "Sanfew serum(4)",
+    "weight": 0.035,
+    "ge_limit": 2000
+  },
+  "23561": {
+    "name": "Sanfew serum(3)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "23563": {
+    "name": "Sanfew serum(2)",
+    "weight": 0.025,
+    "ge_limit": 2000
+  },
+  "23565": {
+    "name": "Sanfew serum(1)",
+    "weight": 0.02,
+    "ge_limit": 2000
+  },
+  "23567": {
+    "name": "Super restore(4)",
+    "weight": 0.035,
+    "ge_limit": 2000
+  },
+  "23569": {
+    "name": "Super restore(3)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "23571": {
+    "name": "Super restore(2)",
+    "weight": 0.025,
+    "ge_limit": 2000
+  },
+  "23573": {
+    "name": "Super restore(1)",
+    "weight": 0.02,
+    "ge_limit": 2000
+  },
+  "23575": {
+    "name": "Saradomin brew(4)",
+    "weight": 0.035,
+    "ge_limit": 2000
+  },
+  "23577": {
+    "name": "Saradomin brew(3)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "23579": {
+    "name": "Saradomin brew(2)",
+    "weight": 0.025,
+    "ge_limit": 2000
+  },
+  "23581": {
+    "name": "Saradomin brew(1)",
+    "weight": 0.02,
+    "ge_limit": 2000
+  },
+  "23583": {
+    "name": "Stamina potion(4)",
+    "weight": 0.035,
+    "ge_limit": 2000
+  },
+  "23585": {
+    "name": "Stamina potion(3)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "23587": {
+    "name": "Stamina potion(2)",
+    "weight": 0.025,
+    "ge_limit": 2000
+  },
+  "23589": {
+    "name": "Stamina potion(1)",
+    "weight": 0.02,
+    "ge_limit": 2000
+  },
   "23611": {
     "name": "Armadyl crossbow",
     "weight": 6.0,
@@ -69402,6 +69540,7 @@
       "aslash": 110,
       "acrush": 5,
       "amagic": -4,
+      "arange": 2,
       "dstab": -1,
       "dslash": 4,
       "dcrush": 5,
@@ -72434,5 +72573,73 @@
     "equipment": {
       "slot": 1
     }
+  },
+  "24872": {
+    "name": "Carpenter's helmet",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24874": {
+    "name": "Carpenter's shirt",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "24876": {
+    "name": "Carpenter's trousers",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "24878": {
+    "name": "Carpenter's boots",
+    "weight": 0.42,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "24880": {
+    "name": "Amy's saw",
+    "weight": 0.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 2,
+      "aslash": 5,
+      "acrush": -2,
+      "dslash": 2,
+      "dcrush": 1,
+      "str": 5,
+      "aspeed": 5
+    }
+  },
+  "24882": {
+    "name": "Plank sack",
+    "weight": 5.25
+  },
+  "24884": {
+    "name": "Supply crate",
+    "equipable": true,
+    "equipment": {}
+  },
+  "24938": {
+    "name": "Waxwood log",
+    "quest": true,
+    "weight": 0.907
+  },
+  "24939": {
+    "name": "Waxwood plank",
+    "quest": true,
+    "weight": 0.85
+  },
+  "24940": {
+    "name": "Marlo's crate",
+    "quest": true,
+    "weight": 5.15
   }
 }
