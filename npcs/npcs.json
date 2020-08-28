@@ -1753,7 +1753,7 @@
   },
   "911": {
     "name": "Agrith-Naar",
-    "hitpoints": 100
+    "hitpoints": 95
   },
   "924": {
     "name": "Skeleton",
@@ -3604,7 +3604,7 @@
     "hitpoints": 85
   },
   "2261": {
-    "name": "Giant rock crab",
+    "name": "Giant Rock Crab",
     "hitpoints": 180
   },
   "2263": {
@@ -7361,35 +7361,35 @@
   },
   "5648": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5649": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5650": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5651": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5652": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5653": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5654": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5655": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 10
   },
   "5656": {
     "name": "Undead Lumberjack",
@@ -7984,7 +7984,7 @@
     "hitpoints": 120
   },
   "5940": {
-    "name": "Giant rock crab",
+    "name": "Giant Rock Crab",
     "hitpoints": 180
   },
   "5942": {
@@ -8229,7 +8229,7 @@
   },
   "6295": {
     "name": "Black demon (hard)",
-    "hitpoints": 157
+    "hitpoints": 255
   },
   "6297": {
     "name": "Glod (hard)",
@@ -8593,7 +8593,7 @@
   },
   "6388": {
     "name": "Agrith-Naar",
-    "hitpoints": 100
+    "hitpoints": 95
   },
   "6389": {
     "name": "King Roald",
@@ -11226,10 +11226,6 @@
   "10397": {
     "name": "Spiked Turoth",
     "hitpoints": 195
-  },
-  "10398": {
-    "name": "Shadow Wyrm",
-    "hitpoints": 320
   },
   "10400": {
     "name": "Guardian Drake",
