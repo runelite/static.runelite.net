@@ -11,7 +11,7 @@
   },
   "2": {
     "name": "Cannonball",
-    "ge_limit": 7000
+    "ge_limit": 11000
   },
   "3": {
     "name": "Nulodion's notes",
@@ -218,7 +218,7 @@
   },
   "53": {
     "name": "Headless arrow",
-    "ge_limit": 7000
+    "ge_limit": 11000
   },
   "54": {
     "name": "Oak shortbow (u)",
@@ -1064,7 +1064,7 @@
   },
   "314": {
     "name": "Feather",
-    "ge_limit": 13000
+    "ge_limit": 30000
   },
   "315": {
     "name": "Shrimps",
@@ -1441,7 +1441,7 @@
   "444": {
     "name": "Gold ore",
     "weight": 2.267,
-    "ge_limit": 13000
+    "ge_limit": 30000
   },
   "446": {
     "name": "'perfect' gold ore",
@@ -1675,19 +1675,19 @@
   },
   "554": {
     "name": "Fire rune",
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "555": {
     "name": "Water rune",
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "556": {
     "name": "Air rune",
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "557": {
     "name": "Earth rune",
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "558": {
     "name": "Mind rune",
@@ -1699,7 +1699,7 @@
   },
   "560": {
     "name": "Death rune",
-    "ge_limit": 10000
+    "ge_limit": 25000
   },
   "561": {
     "name": "Nature rune",
@@ -1719,7 +1719,7 @@
   },
   "565": {
     "name": "Blood rune",
-    "ge_limit": 10000
+    "ge_limit": 25000
   },
   "566": {
     "name": "Soul rune",
@@ -1733,22 +1733,22 @@
   "569": {
     "name": "Fire orb",
     "weight": 0.453,
-    "ge_limit": 10000
+    "ge_limit": 11000
   },
   "571": {
     "name": "Water orb",
     "weight": 0.453,
-    "ge_limit": 10000
+    "ge_limit": 11000
   },
   "573": {
     "name": "Air orb",
     "weight": 0.453,
-    "ge_limit": 10000
+    "ge_limit": 11000
   },
   "575": {
     "name": "Earth orb",
     "weight": 0.453,
-    "ge_limit": 10000
+    "ge_limit": 11000
   },
   "577": {
     "name": "Blue wizard robe",
@@ -2607,7 +2607,7 @@
   "753": {
     "name": "Cadava berries",
     "weight": 0.007,
-    "ge_limit": 200
+    "ge_limit": 600
   },
   "755": {
     "name": "Message",
@@ -2969,7 +2969,7 @@
       "rstr": 10,
       "aspeed": 3
     },
-    "ge_limit": 11000
+    "ge_limit": 20000
   },
   "811": {
     "name": "Rune dart",
@@ -3051,10 +3051,7 @@
   "818": {
     "name": "Poisoned dart(p)",
     "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 3
-    }
+    "equipment": {}
   },
   "819": {
     "name": "Bronze dart tip",
@@ -3070,7 +3067,7 @@
   },
   "822": {
     "name": "Mithril dart tip",
-    "ge_limit": 13000
+    "ge_limit": 20000
   },
   "823": {
     "name": "Adamant dart tip",
@@ -3661,6 +3658,10 @@
   "943": {
     "name": "Worm",
     "weight": 0.003
+  },
+  "945": {
+    "name": "Throwing rope",
+    "weight": 0.907
   },
   "946": {
     "name": "Knife",
@@ -5443,10 +5444,7 @@
     "name": "Poisoned dagger(p)",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 4
-    }
+    "equipment": {}
   },
   "1237": {
     "name": "Bronze spear",
@@ -8910,7 +8908,7 @@
   "1987": {
     "name": "Grapes",
     "weight": 0.25,
-    "ge_limit": 13000
+    "ge_limit": 20000
   },
   "1989": {
     "name": "Half full wine jug",
@@ -12904,7 +12902,7 @@
       "dcrush": 2,
       "str": 2
     },
-    "ge_limit": 15
+    "ge_limit": 200
   },
   "3107": {
     "name": "Spiked boots",
@@ -18453,6 +18451,10 @@
     "name": "Spinning plate",
     "weight": 0.05
   },
+  "4614": {
+    "name": "Broken plate",
+    "weight": 0.05
+  },
   "4615": {
     "name": "Letter",
     "quest": true,
@@ -18705,6 +18707,12 @@
     "name": "Sphinx's token",
     "quest": true,
     "weight": 0.8
+  },
+  "4692": {
+    "name": "Gold leaf",
+    "quest": true,
+    "weight": 0.02,
+    "ge_limit": 11000
   },
   "4693": {
     "name": "Full bucket",
@@ -21565,31 +21573,31 @@
   },
   "5305": {
     "name": "Barley seed",
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "5306": {
     "name": "Jute seed",
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "5307": {
     "name": "Hammerstone seed",
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "5308": {
     "name": "Asgarnian seed",
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "5309": {
     "name": "Yanillian seed",
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "5310": {
     "name": "Krandorian seed",
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "5311": {
     "name": "Wildblood seed",
-    "ge_limit": 200
+    "ge_limit": 2000
   },
   "5312": {
     "name": "Acorn",
@@ -21734,7 +21742,7 @@
   "5354": {
     "name": "Filled plant pot",
     "weight": 0.907,
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "5358": {
     "name": "Oak seedling",
@@ -23675,6 +23683,11 @@
     },
     "ge_limit": 70
   },
+  "5732": {
+    "name": "Stool",
+    "quest": true,
+    "weight": 0.001
+  },
   "5733": {
     "name": "Rotten potato",
     "weight": 1.814
@@ -24384,12 +24397,12 @@
   "6032": {
     "name": "Compost",
     "weight": 3.0,
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "6034": {
     "name": "Supercompost",
     "weight": 3.0,
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "6036": {
     "name": "Plant cure",
@@ -25194,7 +25207,7 @@
     "ge_limit": 11000
   },
   "6213": {
-    "name": "Mahogany pyre log",
+    "name": "Mahogany pyre logs",
     "weight": 1.36,
     "ge_limit": 11000
   },
@@ -29970,10 +29983,7 @@
     "name": "Paddle",
     "weight": 0.02,
     "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true
-    }
+    "equipment": {}
   },
   "7416": {
     "name": "Mole claw",
@@ -31272,14 +31282,17 @@
     "name": "Game book",
     "weight": 1.0
   },
+  "7682": {
+    "name": "Hoop",
+    "weight": 1.36
+  },
+  "7684": {
+    "name": "Dart",
+    "weight": 1.36
+  },
   "7686": {
     "name": "Bow and arrow",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 1,
-      "aspeed": 4
-    }
+    "weight": 1.36
   },
   "7688": {
     "name": "Kettle",
@@ -31411,14 +31424,6 @@
   "7738": {
     "name": "Tea leaves",
     "weight": 0.01
-  },
-  "7756": {
-    "name": "Paintbrush",
-    "equipable": true,
-    "equipment": {
-      "slot": 1,
-      "aspeed": 4
-    }
   },
   "7759": {
     "name": "Toy soldier",
@@ -31584,10 +31589,7 @@
     "name": "Zaros mjolnir",
     "weight": 2.267,
     "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 4
-    }
+    "equipment": {}
   },
   "7806": {
     "name": "Anger sword",
@@ -32239,7 +32241,7 @@
   "7936": {
     "name": "Pure essence",
     "weight": 0.002,
-    "ge_limit": 20000
+    "ge_limit": 30000
   },
   "7938": {
     "name": "Dark essence fragments",
@@ -35053,7 +35055,7 @@
     }
   },
   "8967": {
-    "name": "Guilded smile flag",
+    "name": "Gilded smile flag",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -35876,9 +35878,7 @@
     "name": "Astral tiara",
     "weight": 1.0,
     "equipable": true,
-    "equipment": {
-      "slot": 0
-    }
+    "equipment": {}
   },
   "9139": {
     "name": "Blurite bolts",
@@ -37066,6 +37066,11 @@
     "weight": 3.0,
     "ge_limit": 13000
   },
+  "9660": {
+    "name": "Bucket",
+    "weight": 1.0,
+    "ge_limit": 13000
+  },
   "9666": {
     "name": "Proselyte harness m",
     "weight": 14.514,
@@ -37212,7 +37217,7 @@
     "name": "Water rune",
     "quest": true,
     "weight": 0.01,
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "9692": {
     "name": "Blank air rune",
@@ -37223,7 +37228,7 @@
     "name": "Air rune",
     "quest": true,
     "weight": 0.01,
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "9694": {
     "name": "Blank earth rune",
@@ -37234,7 +37239,7 @@
     "name": "Earth rune",
     "quest": true,
     "weight": 0.01,
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "9696": {
     "name": "Blank mind rune",
@@ -37256,16 +37261,13 @@
     "name": "Fire rune",
     "quest": true,
     "weight": 0.01,
-    "ge_limit": 20000
+    "ge_limit": 50000
   },
   "9702": {
     "name": "Stick",
     "weight": 0.907,
     "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 4
-    }
+    "equipment": {}
   },
   "9703": {
     "name": "Training sword",
@@ -41741,10 +41743,12 @@
     "name": "A jester stick",
     "weight": 2.721,
     "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 4
-    }
+    "equipment": {}
+  },
+  "10841": {
+    "name": "Apricot cream pie",
+    "quest": true,
+    "weight": 0.001
   },
   "10842": {
     "name": "Decapitated head",
@@ -55079,7 +55083,7 @@
     "equipment": {
       "slot": 9
     },
-    "ge_limit": 10000
+    "ge_limit": 8
   },
   "19535": {
     "name": "Zenyte necklace",
@@ -55088,7 +55092,7 @@
     "equipment": {
       "slot": 2
     },
-    "ge_limit": 70
+    "ge_limit": 8
   },
   "19538": {
     "name": "Zenyte ring",
@@ -55097,7 +55101,7 @@
     "equipment": {
       "slot": 12
     },
-    "ge_limit": 10000
+    "ge_limit": 8
   },
   "19541": {
     "name": "Zenyte amulet",
@@ -55118,7 +55122,7 @@
       "mdmg": 5,
       "prayer": 2
     },
-    "ge_limit": 10000
+    "ge_limit": 8
   },
   "19547": {
     "name": "Necklace of anguish",
@@ -55130,7 +55134,7 @@
       "rstr": 5,
       "prayer": 2
     },
-    "ge_limit": 70
+    "ge_limit": 8
   },
   "19550": {
     "name": "Ring of suffering",
@@ -55145,7 +55149,7 @@
       "drange": 10,
       "prayer": 2
     },
-    "ge_limit": 10000
+    "ge_limit": 8
   },
   "19553": {
     "name": "Amulet of torture",
@@ -58332,7 +58336,7 @@
       "amagic": 10,
       "dmagic": 8
     },
-    "ge_limit": 125
+    "ge_limit": 8
   },
   "20520": {
     "name": "Elder chaos robe",
@@ -58343,7 +58347,7 @@
       "amagic": 6,
       "dmagic": 6
     },
-    "ge_limit": 125
+    "ge_limit": 8
   },
   "20526": {
     "name": "Bloody key",
@@ -58748,7 +58752,7 @@
       "dcrush": 2,
       "str": 2
     },
-    "ge_limit": 15
+    "ge_limit": 200
   },
   "20579": {
     "name": "Mystic boots",
@@ -58928,7 +58932,7 @@
       "amagic": 5,
       "dmagic": 4
     },
-    "ge_limit": 125
+    "ge_limit": 8
   },
   "20598": {
     "name": "Ahrim's robetop",
@@ -61353,7 +61357,7 @@
   "21483": {
     "name": "Ultracompost",
     "weight": 3.0,
-    "ge_limit": 600
+    "ge_limit": 2000
   },
   "21486": {
     "name": "Teak seed",
@@ -61722,7 +61726,7 @@
   "21652": {
     "name": "Drift net",
     "weight": 1.0,
-    "ge_limit": 100
+    "ge_limit": 600
   },
   "21655": {
     "name": "Pufferfish",
@@ -62119,22 +62123,22 @@
   "21804": {
     "name": "Ancient crystal",
     "weight": 13.607,
-    "ge_limit": 11000
+    "ge_limit": 250
   },
   "21807": {
     "name": "Ancient emblem",
     "weight": 0.1,
-    "ge_limit": 18000
+    "ge_limit": 250
   },
   "21810": {
     "name": "Ancient totem",
     "weight": 0.1,
-    "ge_limit": 18000
+    "ge_limit": 250
   },
   "21813": {
     "name": "Ancient statuette",
     "weight": 0.1,
-    "ge_limit": 18000
+    "ge_limit": 250
   },
   "21816": {
     "name": "Bracelet of ethereum",
@@ -64013,17 +64017,17 @@
   "22299": {
     "name": "Ancient medallion",
     "weight": 0.1,
-    "ge_limit": 18000
+    "ge_limit": 250
   },
   "22302": {
     "name": "Ancient effigy",
     "weight": 0.1,
-    "ge_limit": 18000
+    "ge_limit": 250
   },
   "22305": {
     "name": "Ancient relic",
     "weight": 0.1,
-    "ge_limit": 18000
+    "ge_limit": 250
   },
   "22308": {
     "name": "Healer icon",
@@ -65253,6 +65257,10 @@
   "22660": {
     "name": "Empty bucket pack",
     "weight": 0.453
+  },
+  "22665": {
+    "name": "Armadyl godsword",
+    "ge_limit": 8
   },
   "22671": {
     "name": "Kq head (tattered)",
@@ -72576,6 +72584,7 @@
   },
   "24872": {
     "name": "Carpenter's helmet",
+    "weight": 1.02,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -72583,6 +72592,7 @@
   },
   "24874": {
     "name": "Carpenter's shirt",
+    "weight": 0.62,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -72590,6 +72600,7 @@
   },
   "24876": {
     "name": "Carpenter's trousers",
+    "weight": 0.71,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -72624,8 +72635,13 @@
   },
   "24884": {
     "name": "Supply crate",
+    "weight": 5.15,
     "equipable": true,
     "equipment": {}
+  },
+  "24885": {
+    "name": "Hosidius blueprints",
+    "weight": 0.1
   },
   "24938": {
     "name": "Waxwood log",
@@ -72641,5 +72657,19 @@
     "name": "Marlo's crate",
     "quest": true,
     "weight": 5.15
+  },
+  "24942": {
+    "name": "Reinforced goggles",
+    "quest": true,
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24944": {
+    "name": "Sourhog foot",
+    "quest": true,
+    "weight": 0.001
   }
 }

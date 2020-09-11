@@ -1805,7 +1805,7 @@
   },
   "946": {
     "name": "Ghast",
-    "hitpoints": 22
+    "hitpoints": 45
   },
   "949": {
     "name": "Mummy",
@@ -2121,7 +2121,7 @@
   },
   "1118": {
     "name": "Man",
-    "hitpoints": 7
+    "hitpoints": 13
   },
   "1119": {
     "name": "Woman",
@@ -3149,7 +3149,7 @@
   },
   "2056": {
     "name": "Dark wizard",
-    "hitpoints": 24
+    "hitpoints": 25
   },
   "2057": {
     "name": "Dark wizard",
