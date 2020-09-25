@@ -2969,7 +2969,7 @@
       "rstr": 10,
       "aspeed": 3
     },
-    "ge_limit": 20000
+    "ge_limit": 11000
   },
   "811": {
     "name": "Rune dart",
@@ -3051,7 +3051,10 @@
   "818": {
     "name": "Poisoned dart(p)",
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "aspeed": 3
+    }
   },
   "819": {
     "name": "Bronze dart tip",
@@ -3071,7 +3074,7 @@
   },
   "823": {
     "name": "Adamant dart tip",
-    "ge_limit": 11000
+    "ge_limit": 20000
   },
   "824": {
     "name": "Rune dart tip",
@@ -3658,10 +3661,6 @@
   "943": {
     "name": "Worm",
     "weight": 0.003
-  },
-  "945": {
-    "name": "Throwing rope",
-    "weight": 0.907
   },
   "946": {
     "name": "Knife",
@@ -5444,7 +5443,10 @@
     "name": "Poisoned dagger(p)",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "1237": {
     "name": "Bronze spear",
@@ -18451,10 +18453,6 @@
     "name": "Spinning plate",
     "weight": 0.05
   },
-  "4614": {
-    "name": "Broken plate",
-    "weight": 0.05
-  },
   "4615": {
     "name": "Letter",
     "quest": true,
@@ -18707,12 +18705,6 @@
     "name": "Sphinx's token",
     "quest": true,
     "weight": 0.8
-  },
-  "4692": {
-    "name": "Gold leaf",
-    "quest": true,
-    "weight": 0.02,
-    "ge_limit": 11000
   },
   "4693": {
     "name": "Full bucket",
@@ -23682,11 +23674,6 @@
       "aspeed": 5
     },
     "ge_limit": 70
-  },
-  "5732": {
-    "name": "Stool",
-    "quest": true,
-    "weight": 0.001
   },
   "5733": {
     "name": "Rotten potato",
@@ -29983,7 +29970,10 @@
     "name": "Paddle",
     "weight": 0.02,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
   },
   "7416": {
     "name": "Mole claw",
@@ -31273,8 +31263,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "dslash": 1,
-      "dcrush": 2,
       "aspeed": 4
     }
   },
@@ -31282,17 +31270,14 @@
     "name": "Game book",
     "weight": 1.0
   },
-  "7682": {
-    "name": "Hoop",
-    "weight": 1.36
-  },
-  "7684": {
-    "name": "Dart",
-    "weight": 1.36
-  },
   "7686": {
     "name": "Bow and arrow",
-    "weight": 1.36
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "aspeed": 4
+    }
   },
   "7688": {
     "name": "Kettle",
@@ -31424,6 +31409,14 @@
   "7738": {
     "name": "Tea leaves",
     "weight": 0.01
+  },
+  "7756": {
+    "name": "Paintbrush",
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "aspeed": 4
+    }
   },
   "7759": {
     "name": "Toy soldier",
@@ -31589,7 +31582,10 @@
     "name": "Zaros mjolnir",
     "weight": 2.267,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "7806": {
     "name": "Anger sword",
@@ -35878,7 +35874,9 @@
     "name": "Astral tiara",
     "weight": 1.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 0
+    }
   },
   "9139": {
     "name": "Blurite bolts",
@@ -37066,11 +37064,6 @@
     "weight": 3.0,
     "ge_limit": 13000
   },
-  "9660": {
-    "name": "Bucket",
-    "weight": 1.0,
-    "ge_limit": 13000
-  },
   "9666": {
     "name": "Proselyte harness m",
     "weight": 14.514,
@@ -37267,7 +37260,10 @@
     "name": "Stick",
     "weight": 0.907,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "9703": {
     "name": "Training sword",
@@ -41743,12 +41739,10 @@
     "name": "A jester stick",
     "weight": 2.721,
     "equipable": true,
-    "equipment": {}
-  },
-  "10841": {
-    "name": "Apricot cream pie",
-    "quest": true,
-    "weight": 0.001
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "10842": {
     "name": "Decapitated head",
@@ -70706,25 +70700,6 @@
       "aspeed": 3
     }
   },
-  "24221": {
-    "name": "Inquisitor's plateskirt",
-    "weight": 9.071,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "astab": -3,
-      "aslash": -3,
-      "acrush": 12,
-      "amagic": -9,
-      "arange": -5,
-      "dstab": 42,
-      "dslash": 30,
-      "dcrush": 49,
-      "drange": 22,
-      "str": 2,
-      "prayer": 2
-    }
-  },
   "24222": {
     "name": "Ava's assembler (l)",
     "weight": 5.896,
@@ -71473,6 +71448,25 @@
       "prayer": 2
     }
   },
+  "24421": {
+    "name": "Inquisitor's plateskirt",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "astab": -3,
+      "aslash": -3,
+      "acrush": 12,
+      "amagic": -9,
+      "arange": -5,
+      "dstab": 42,
+      "dslash": 30,
+      "dcrush": 49,
+      "drange": 22,
+      "str": 2,
+      "prayer": 2
+    }
+  },
   "24422": {
     "name": "Nightmare staff",
     "weight": 1.5,
@@ -71604,9 +71598,7 @@
   },
   "24488": {
     "name": "Inquisitor's armour set",
-    "weight": 0.05,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.05
   },
   "24495": {
     "name": "Jar of dreams",
@@ -72635,9 +72627,7 @@
   },
   "24884": {
     "name": "Supply crate",
-    "weight": 5.15,
-    "equipable": true,
-    "equipment": {}
+    "weight": 5.15
   },
   "24885": {
     "name": "Hosidius blueprints",
@@ -72671,5 +72661,9 @@
     "name": "Sourhog foot",
     "quest": true,
     "weight": 0.001
+  },
+  "24946": {
+    "name": "Hallowed sack",
+    "weight": 1.0
   }
 }
