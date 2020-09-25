@@ -1775,6 +1775,26 @@
     "name": "Kraka",
     "hitpoints": 120
   },
+  "931": {
+    "name": "Thrower Troll",
+    "hitpoints": 95
+  },
+  "932": {
+    "name": "Thrower Troll",
+    "hitpoints": 95
+  },
+  "933": {
+    "name": "Thrower Troll",
+    "hitpoints": 95
+  },
+  "934": {
+    "name": "Thrower Troll",
+    "hitpoints": 95
+  },
+  "935": {
+    "name": "Thrower Troll",
+    "hitpoints": 95
+  },
   "936": {
     "name": "Mountain troll",
     "hitpoints": 90
@@ -2993,11 +3013,11 @@
   },
   "1852": {
     "name": "Rabbit",
-    "hitpoints": 5
+    "hitpoints": 1
   },
   "1853": {
     "name": "Rabbit",
-    "hitpoints": 5
+    "hitpoints": 1
   },
   "1861": {
     "name": "Tree spirit",
@@ -5643,6 +5663,18 @@
     "name": "Palmer",
     "hitpoints": 50
   },
+  "3897": {
+    "name": "Koschei the deathless",
+    "hitpoints": 30
+  },
+  "3898": {
+    "name": "Koschei the deathless",
+    "hitpoints": 50
+  },
+  "3899": {
+    "name": "Koschei the deathless",
+    "hitpoints": 70
+  },
   "3901": {
     "name": "Fox",
     "hitpoints": 30
@@ -5946,6 +5978,26 @@
   "4134": {
     "name": "Berry",
     "hitpoints": 90
+  },
+  "4135": {
+    "name": "Thrower troll",
+    "hitpoints": 95
+  },
+  "4136": {
+    "name": "Thrower troll",
+    "hitpoints": 95
+  },
+  "4137": {
+    "name": "Thrower troll",
+    "hitpoints": 95
+  },
+  "4138": {
+    "name": "Thrower troll",
+    "hitpoints": 95
+  },
+  "4139": {
+    "name": "Thrower troll",
+    "hitpoints": 95
   },
   "4143": {
     "name": "Mountain troll",
@@ -8030,6 +8082,14 @@
   "5965": {
     "name": "Khazard trooper",
     "hitpoints": 22
+  },
+  "5966": {
+    "name": "Gnome troop",
+    "hitpoints": 3
+  },
+  "5967": {
+    "name": "Gnome troop",
+    "hitpoints": 3
   },
   "5968": {
     "name": "Gnome",
