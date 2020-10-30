@@ -403,10 +403,6 @@
     "name": "Wolf",
     "hitpoints": 34
   },
-  "120": {
-    "name": "Crawling Hand",
-    "hitpoints": 15
-  },
   "130": {
     "name": "Skeleton",
     "hitpoints": 29
@@ -855,6 +851,22 @@
     "name": "Crawling Hand",
     "hitpoints": 16
   },
+  "449": {
+    "name": "Crawling Hand",
+    "hitpoints": 15
+  },
+  "450": {
+    "name": "Crawling Hand",
+    "hitpoints": 15
+  },
+  "451": {
+    "name": "Crawling Hand",
+    "hitpoints": 15
+  },
+  "452": {
+    "name": "Crawling Hand",
+    "hitpoints": 15
+  },
   "453": {
     "name": "Crawling Hand",
     "hitpoints": 19
@@ -1059,6 +1071,10 @@
     "name": "Thug",
     "hitpoints": 18
   },
+  "526": {
+    "name": "Rogue",
+    "hitpoints": 17
+  },
   "527": {
     "name": "Monk of Zamorak",
     "hitpoints": 20
@@ -1140,6 +1156,14 @@
     "hitpoints": 52
   },
   "574": {
+    "name": "Zombie pirate",
+    "hitpoints": 52
+  },
+  "575": {
+    "name": "Zombie pirate",
+    "hitpoints": 52
+  },
+  "576": {
     "name": "Zombie pirate",
     "hitpoints": 52
   },
@@ -1417,11 +1441,11 @@
   },
   "680": {
     "name": "Giant skeleton",
-    "hitpoints": 110
+    "hitpoints": 70
   },
   "681": {
     "name": "Giant skeleton",
-    "hitpoints": 110
+    "hitpoints": 70
   },
   "682": {
     "name": "Damis",
@@ -1991,6 +2015,10 @@
     "name": "Necromancer",
     "hitpoints": 40
   },
+  "1026": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
   "1027": {
     "name": "Guard Bandit",
     "hitpoints": 27
@@ -2131,10 +2159,6 @@
     "name": "Giant Sea Snake",
     "hitpoints": 100
   },
-  "1114": {
-    "name": "Mourner",
-    "hitpoints": 19
-  },
   "1115": {
     "name": "Mourner",
     "hitpoints": 25
@@ -2179,10 +2203,6 @@
     "name": "Damis (hard)",
     "hitpoints": 255
   },
-  "1136": {
-    "name": "Mourner",
-    "hitpoints": 13
-  },
   "1139": {
     "name": "Woman",
     "hitpoints": 13
@@ -2206,14 +2226,6 @@
   "1148": {
     "name": "Mourner",
     "hitpoints": 25
-  },
-  "1149": {
-    "name": "Mourner",
-    "hitpoints": 19
-  },
-  "1150": {
-    "name": "Mourner",
-    "hitpoints": 13
   },
   "1153": {
     "name": "Ogre",
@@ -2951,10 +2963,6 @@
     "name": "Double agent",
     "hitpoints": 120
   },
-  "1781": {
-    "name": "Tarik",
-    "hitpoints": 22
-  },
   "1782": {
     "name": "Scarab swarm",
     "hitpoints": 25
@@ -2970,6 +2978,10 @@
   "1794": {
     "name": "Billy Goat",
     "hitpoints": 28
+  },
+  "1795": {
+    "name": "Goat",
+    "hitpoints": 21
   },
   "1796": {
     "name": "Goat",
@@ -3021,7 +3033,11 @@
   },
   "1861": {
     "name": "Tree spirit",
-    "hitpoints": 50
+    "hitpoints": 25
+  },
+  "1862": {
+    "name": "Tree spirit",
+    "hitpoints": 40
   },
   "1863": {
     "name": "Tree spirit",
@@ -3899,21 +3915,37 @@
     "name": "Skeleton",
     "hitpoints": 77
   },
+  "2527": {
+    "name": "Ghost",
+    "hitpoints": 80
+  },
+  "2528": {
+    "name": "Ghost",
+    "hitpoints": 80
+  },
+  "2529": {
+    "name": "Ghost",
+    "hitpoints": 80
+  },
+  "2530": {
+    "name": "Ghost",
+    "hitpoints": 80
+  },
   "2531": {
     "name": "Ghost",
-    "hitpoints": 27
+    "hitpoints": 75
   },
   "2532": {
     "name": "Ghost",
-    "hitpoints": 27
+    "hitpoints": 75
   },
   "2533": {
     "name": "Ghost",
-    "hitpoints": 27
+    "hitpoints": 75
   },
   "2534": {
     "name": "Ghost",
-    "hitpoints": 27
+    "hitpoints": 75
   },
   "2536": {
     "name": "H.A.M. Guard",
@@ -4187,6 +4219,10 @@
     "name": "Bat",
     "hitpoints": 8
   },
+  "2834": {
+    "name": "Giant bat",
+    "hitpoints": 32
+  },
   "2837": {
     "name": "Unicorn",
     "hitpoints": 19
@@ -4366,6 +4402,10 @@
   "3011": {
     "name": "Guard",
     "hitpoints": 22
+  },
+  "3014": {
+    "name": "Man",
+    "hitpoints": 7
   },
   "3015": {
     "name": "Woman",
@@ -4895,6 +4935,10 @@
     "name": "Thief",
     "hitpoints": 17
   },
+  "3253": {
+    "name": "Thief",
+    "hitpoints": 17
+  },
   "3254": {
     "name": "Guard",
     "hitpoints": 22
@@ -4929,14 +4973,6 @@
   },
   "3265": {
     "name": "Man",
-    "hitpoints": 7
-  },
-  "3266": {
-    "name": "Man",
-    "hitpoints": 7
-  },
-  "3267": {
-    "name": "Woman",
     "hitpoints": 7
   },
   "3268": {
@@ -5035,10 +5071,6 @@
     "name": "Hero",
     "hitpoints": 82
   },
-  "3296": {
-    "name": "Forester",
-    "hitpoints": 17
-  },
   "3297": {
     "name": "Knight of Ardougne",
     "hitpoints": 52
@@ -5070,6 +5102,10 @@
   "3315": {
     "name": "Giant rat",
     "hitpoints": 5
+  },
+  "3316": {
+    "name": "Chicken",
+    "hitpoints": 3
   },
   "3328": {
     "name": "Earth Warrior Champion",
@@ -5339,8 +5375,16 @@
     "name": "Treus Dayth",
     "hitpoints": 100
   },
+  "3625": {
+    "name": "Ghost",
+    "hitpoints": 27
+  },
   "3651": {
     "name": "Gardener",
+    "hitpoints": 7
+  },
+  "3652": {
+    "name": "Man",
     "hitpoints": 7
   },
   "3661": {
@@ -5675,6 +5719,10 @@
     "name": "Koschei the deathless",
     "hitpoints": 70
   },
+  "3900": {
+    "name": "Koschei the deathless",
+    "hitpoints": 255
+  },
   "3901": {
     "name": "Fox",
     "hitpoints": 30
@@ -5851,13 +5899,13 @@
     "name": "Dark beast",
     "hitpoints": 220
   },
-  "4006": {
-    "name": "Mourner",
-    "hitpoints": 105
-  },
   "4067": {
     "name": "Black Knight Titan",
     "hitpoints": 142
+  },
+  "4068": {
+    "name": "Monk",
+    "hitpoints": 15
   },
   "4088": {
     "name": "Soldier",
@@ -6403,6 +6451,10 @@
     "name": "Brine rat",
     "hitpoints": 50
   },
+  "4504": {
+    "name": "Giant bat",
+    "hitpoints": 32
+  },
   "4505": {
     "name": "Ulfric",
     "hitpoints": 60
@@ -6431,37 +6483,13 @@
     "name": "Blessed spider",
     "hitpoints": 32
   },
-  "4545": {
-    "name": "Sir Jerro",
-    "hitpoints": 57
+  "4534": {
+    "name": "Blessed giant rat",
+    "hitpoints": 30
   },
-  "4546": {
-    "name": "Sir Carl",
-    "hitpoints": 57
-  },
-  "4547": {
-    "name": "Sir Harry",
-    "hitpoints": 57
-  },
-  "4554": {
-    "name": "Kalrag",
-    "hitpoints": 78
-  },
-  "4555": {
-    "name": "Othainian",
-    "hitpoints": 87
-  },
-  "4556": {
-    "name": "Doomion",
-    "hitpoints": 87
-  },
-  "4557": {
-    "name": "Holthion",
-    "hitpoints": 87
-  },
-  "4559": {
-    "name": "Disciple of Iban",
-    "hitpoints": 20
+  "4535": {
+    "name": "Blessed giant rat",
+    "hitpoints": 30
   },
   "4561": {
     "name": "Spider",
@@ -6614,6 +6642,10 @@
   "4744": {
     "name": "Grey golem",
     "hitpoints": 80
+  },
+  "4757": {
+    "name": "Tarik",
+    "hitpoints": 22
   },
   "4758": {
     "name": "Poltenip",
@@ -6851,6 +6883,10 @@
     "name": "Skeleton Hellhound",
     "hitpoints": 55
   },
+  "5079": {
+    "name": "Delrith",
+    "hitpoints": 10
+  },
   "5086": {
     "name": "Dark wizard",
     "hitpoints": 12
@@ -7063,10 +7099,6 @@
     "name": "Snake",
     "hitpoints": 36
   },
-  "5253": {
-    "name": "Thief",
-    "hitpoints": 17
-  },
   "5263": {
     "name": "Padulah",
     "hitpoints": 130
@@ -7107,18 +7139,6 @@
     "name": "Monkey Zombie",
     "hitpoints": 60
   },
-  "5285": {
-    "name": "Mourner",
-    "hitpoints": 19
-  },
-  "5286": {
-    "name": "Mourner",
-    "hitpoints": 19
-  },
-  "5287": {
-    "name": "Mourner",
-    "hitpoints": 19
-  },
   "5293": {
     "name": "Elf Warrior",
     "hitpoints": 105
@@ -7133,14 +7153,6 @@
   },
   "5296": {
     "name": "Elf Archer",
-    "hitpoints": 105
-  },
-  "5311": {
-    "name": "Mourner",
-    "hitpoints": 105
-  },
-  "5312": {
-    "name": "Mourner",
     "hitpoints": 105
   },
   "5329": {
@@ -8765,7 +8777,7 @@
   },
   "6440": {
     "name": "Giant skeleton",
-    "hitpoints": 70
+    "hitpoints": 110
   },
   "6441": {
     "name": "Skeleton",
@@ -9195,6 +9207,10 @@
     "name": "Man",
     "hitpoints": 7
   },
+  "6824": {
+    "name": "Giant bat",
+    "hitpoints": 32
+  },
   "6896": {
     "name": "Gangster",
     "hitpoints": 40
@@ -9293,7 +9309,7 @@
   },
   "6956": {
     "name": "Monk",
-    "hitpoints": 5
+    "hitpoints": 15
   },
   "6987": {
     "name": "Man",
@@ -9318,6 +9334,18 @@
   "6992": {
     "name": "Woman",
     "hitpoints": 7
+  },
+  "6993": {
+    "name": "Pirate",
+    "hitpoints": 20
+  },
+  "6994": {
+    "name": "Pirate",
+    "hitpoints": 20
+  },
+  "6995": {
+    "name": "Pirate",
+    "hitpoints": 20
   },
   "6996": {
     "name": "Mugger",
@@ -9523,6 +9551,10 @@
     "name": "Ent",
     "hitpoints": 75
   },
+  "7238": {
+    "name": "Forester",
+    "hitpoints": 17
+  },
   "7241": {
     "name": "Abyssal demon",
     "hitpoints": 150
@@ -9678,10 +9710,6 @@
   "7279": {
     "name": "Deviant spectre",
     "hitpoints": 190
-  },
-  "7281": {
-    "name": "Man",
-    "hitpoints": 7
   },
   "7286": {
     "name": "Skotizo",
@@ -10247,13 +10275,17 @@
     "name": "Sand Snake",
     "hitpoints": 60
   },
-  "7921": {
-    "name": "Woman",
-    "hitpoints": 7
+  "7914": {
+    "name": "Thief",
+    "hitpoints": 22
   },
-  "7922": {
-    "name": "Woman",
-    "hitpoints": 7
+  "7915": {
+    "name": "Thief",
+    "hitpoints": 22
+  },
+  "7916": {
+    "name": "Thief",
+    "hitpoints": 22
   },
   "7931": {
     "name": "Revenant goblin",
@@ -10931,9 +10963,57 @@
     "name": "Essyllt",
     "hitpoints": 320
   },
+  "8978": {
+    "name": "Blessed spider",
+    "hitpoints": 32
+  },
+  "8987": {
+    "name": "Sir Jerro",
+    "hitpoints": 57
+  },
+  "8988": {
+    "name": "Sir Carl",
+    "hitpoints": 57
+  },
+  "8989": {
+    "name": "Sir Harry",
+    "hitpoints": 57
+  },
+  "8993": {
+    "name": "Kalrag",
+    "hitpoints": 78
+  },
+  "8994": {
+    "name": "Othainian",
+    "hitpoints": 87
+  },
+  "8995": {
+    "name": "Doomion",
+    "hitpoints": 87
+  },
+  "8996": {
+    "name": "Holthion",
+    "hitpoints": 87
+  },
+  "8997": {
+    "name": "Disciple of Iban",
+    "hitpoints": 20
+  },
+  "9008": {
+    "name": "Mourner",
+    "hitpoints": 19
+  },
+  "9013": {
+    "name": "Mourner",
+    "hitpoints": 19
+  },
   "9016": {
     "name": "Essyllt",
     "hitpoints": 320
+  },
+  "9017": {
+    "name": "Mourner",
+    "hitpoints": 105
   },
   "9021": {
     "name": "Crystalline Hunllef",
@@ -11275,6 +11355,90 @@
     "name": "Acidic Bloodveld",
     "hitpoints": 5
   },
+  "9609": {
+    "name": "Seagull",
+    "hitpoints": 10
+  },
+  "9727": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 85
+  },
+  "9728": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 85
+  },
+  "9731": {
+    "name": "Vampyre Juvenile",
+    "hitpoints": 60
+  },
+  "9732": {
+    "name": "Vampyre Juvenile",
+    "hitpoints": 60
+  },
+  "9735": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9736": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9737": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9738": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9739": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9740": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9741": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9742": {
+    "name": "Vyrewatch",
+    "hitpoints": 90
+  },
+  "9756": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
+  "9757": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
+  "9758": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
+  "9759": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
+  "9760": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
+  "9761": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
+  "9762": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
+  "9763": {
+    "name": "Vyrewatch Sentinel",
+    "hitpoints": 150
+  },
   "9773": {
     "name": "Kroy",
     "hitpoints": 237
@@ -11282,6 +11446,18 @@
   "9774": {
     "name": "Damien Leucurte",
     "hitpoints": 217
+  },
+  "10374": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
+  "10375": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
+  "10376": {
+    "name": "Hill Giant",
+    "hitpoints": 35
   },
   "10397": {
     "name": "Spiked Turoth",

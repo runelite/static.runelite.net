@@ -25782,7 +25782,7 @@
       "dslash": 1,
       "dcrush": 1,
       "str": 4,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 15
   },
@@ -25811,7 +25811,6 @@
       "acrush": -2,
       "dslash": 1,
       "dcrush": 1,
-      "drange": 1,
       "str": 10,
       "aspeed": 4
     },
@@ -35984,7 +35983,7 @@
     "ge_limit": 125
   },
   "9181": {
-    "name": "Mith crossbow",
+    "name": "Mithril crossbow",
     "weight": 5.0,
     "equipable": true,
     "equipment": {
@@ -44665,7 +44664,7 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "aspeed": 5
+      "aspeed": 6
     }
   },
   "11709": {
@@ -65252,9 +65251,21 @@
     "name": "Empty bucket pack",
     "weight": 0.453
   },
+  "22664": {
+    "name": "Scythe of vitur",
+    "equipable": true,
+    "equipment": {}
+  },
   "22665": {
     "name": "Armadyl godsword",
+    "equipable": true,
+    "equipment": {},
     "ge_limit": 8
+  },
+  "22666": {
+    "name": "Rubber chicken",
+    "equipable": true,
+    "equipment": {}
   },
   "22671": {
     "name": "Kq head (tattered)",
@@ -68139,7 +68150,7 @@
     }
   },
   "23677": {
-    "name": "Dragon pickaxe(or)",
+    "name": "Dragon pickaxe (or)",
     "weight": 2.4,
     "equipable": true,
     "equipment": {
@@ -71568,16 +71579,16 @@
     "ge_limit": 5
   },
   "24469": {
-    "name": "Twisted relichunter (t1) armour set",
+    "name": "Twisted relic hunter (t1) armour set",
     "weight": 0.05,
     "ge_limit": 5
   },
   "24472": {
-    "name": "Twisted relichunter (t2) armour set",
+    "name": "Twisted relic hunter (t2) armour set",
     "weight": 0.05
   },
   "24475": {
-    "name": "Twisted relichunter (t3) armour set",
+    "name": "Twisted relic hunter (t3) armour set",
     "weight": 0.05
   },
   "24478": {
@@ -72052,7 +72063,11 @@
   },
   "24721": {
     "name": "Hallowed grapple",
-    "weight": 0.001
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 13
+    }
   },
   "24723": {
     "name": "Hallowed focus",
@@ -72665,5 +72680,441 @@
   "24946": {
     "name": "Hallowed sack",
     "weight": 1.0
+  },
+  "24949": {
+    "name": "Moonclan teleport",
+    "ge_limit": 10000
+  },
+  "24951": {
+    "name": "Ourania teleport",
+    "ge_limit": 10000
+  },
+  "24953": {
+    "name": "Waterbirth teleport",
+    "ge_limit": 10000
+  },
+  "24955": {
+    "name": "Barbarian teleport",
+    "ge_limit": 10000
+  },
+  "24957": {
+    "name": "Khazard teleport",
+    "ge_limit": 10000
+  },
+  "24959": {
+    "name": "Fishing guild teleport",
+    "ge_limit": 10000
+  },
+  "24961": {
+    "name": "Catherby teleport",
+    "ge_limit": 10000
+  },
+  "24963": {
+    "name": "Ice plateau teleport",
+    "ge_limit": 10000
+  },
+  "24975": {
+    "name": "Headless head",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "24977": {
+    "name": "Magical pumpkin",
+    "weight": 10.0
+  },
+  "24980": {
+    "name": "Brown candy",
+    "weight": 0.01
+  },
+  "24981": {
+    "name": "Blue candy",
+    "weight": 0.01
+  },
+  "24982": {
+    "name": "White candy",
+    "weight": 0.01
+  },
+  "24983": {
+    "name": "Purple candy",
+    "weight": 0.01
+  },
+  "24984": {
+    "name": "Red candy",
+    "weight": 0.01
+  },
+  "24985": {
+    "name": "Green candy",
+    "weight": 0.01
+  },
+  "24986": {
+    "name": "Black candy",
+    "weight": 0.01
+  },
+  "24987": {
+    "name": "Orange candy",
+    "weight": 0.01
+  },
+  "24988": {
+    "name": "Pink candy",
+    "weight": 0.01
+  },
+  "24989": {
+    "name": "Rick's box",
+    "weight": 1.0
+  },
+  "24990": {
+    "name": "Rick's head",
+    "weight": 0.5
+  },
+  "24991": {
+    "name": "Witch's brew",
+    "weight": 0.2
+  },
+  "24992": {
+    "name": "Spider snack",
+    "weight": 0.2
+  },
+  "24993": {
+    "name": "Incantation",
+    "weight": 0.01
+  },
+  "25001": {
+    "name": "Trailblazer hood (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25007": {
+    "name": "Trailblazer trousers (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25010": {
+    "name": "Trailblazer boots (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25013": {
+    "name": "Trailblazer cane",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25016": {
+    "name": "Trailblazer hood (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25022": {
+    "name": "Trailblazer trousers (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25025": {
+    "name": "Trailblazer boots (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25028": {
+    "name": "Trailblazer hood (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25031": {
+    "name": "Trailblazer coat (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25034": {
+    "name": "Trailblazer trousers (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25037": {
+    "name": "Trailblazer boots (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25040": {
+    "name": "Trailblazer trophy",
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25042": {
+    "name": "Trailblazer dragon trophy",
+    "weight": 15.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25044": {
+    "name": "Trailblazer rune trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25046": {
+    "name": "Trailblazer adamant trophy",
+    "weight": 15.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25048": {
+    "name": "Trailblazer mithril trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25050": {
+    "name": "Trailblazer steel trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25052": {
+    "name": "Trailblazer iron trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25054": {
+    "name": "Trailblazer bronze trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "aspeed": 4
+    }
+  },
+  "25056": {
+    "name": "Trailblazer banner",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "25059": {
+    "name": "Trailblazer harpoon",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25063": {
+    "name": "Trailblazer pickaxe",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25066": {
+    "name": "Trailblazer axe",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25069": {
+    "name": "Graceful hood",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25071": {
+    "name": "Graceful hood",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25072": {
+    "name": "Graceful cape",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25074": {
+    "name": "Graceful cape",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25075": {
+    "name": "Graceful top",
+    "weight": -5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25077": {
+    "name": "Graceful top",
+    "weight": -5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25078": {
+    "name": "Graceful legs",
+    "weight": -6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25080": {
+    "name": "Graceful legs",
+    "weight": -6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25081": {
+    "name": "Graceful gloves",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "25083": {
+    "name": "Graceful gloves",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "25084": {
+    "name": "Graceful boots",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25086": {
+    "name": "Graceful boots",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25102": {
+    "name": "Fairy mushroom",
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25106": {
+    "name": "Extradimensional bag",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25108": {
+    "name": "Extradimensional bag",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25110": {
+    "name": "Trailblazer axe",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25112": {
+    "name": "Trailblazer pickaxe",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25114": {
+    "name": "Trailblazer harpoon",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
   }
 }
