@@ -103,7 +103,6 @@ net.runelite.client.plugins.itemstats.stats
 net.runelite.client.plugins.keyremapping
 net.runelite.client.plugins.kingdomofmiscellania
 net.runelite.client.plugins.kourendlibrary
-net.runelite.client.plugins.leaguechaticons
 net.runelite.client.plugins.loginscreen
 net.runelite.client.plugins.loottracker
 net.runelite.client.plugins.lowmemory
@@ -161,7 +160,7 @@ net.runelite.client.plugins.slayer
 net.runelite.client.plugins.smelting
 net.runelite.client.plugins.specialcounter
 net.runelite.client.plugins.statusbars
-net.runelite.client.plugins.statusbars.Config
+net.runelite.client.plugins.statusbars.config
 net.runelite.client.plugins.stretchedmode
 net.runelite.client.plugins.teamcapes
 net.runelite.client.plugins.tearsofguthix
