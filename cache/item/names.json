@@ -4867,7 +4867,6 @@
   "5569": "Tiles",
   "5570": "Tiles",
   "5571": "Tiles",
-  "5572": "Dial",
   "5573": "Desert amulet",
   "5574": "Initiate sallet",
   "5575": "Initiate hauberk",
@@ -15489,5 +15488,9 @@
   "25133": "Beekeeper's legs",
   "25135": "Beekeeper's gloves",
   "25137": "Beekeeper's boots",
-  "25139": "Bone fragments"
+  "25139": "Bone fragments",
+  "25145": "Clay head",
+  "25146": "Fur head",
+  "25147": "Bloody head",
+  "25152": "Neilan's journal"
 }
