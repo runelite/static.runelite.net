@@ -3089,23 +3089,23 @@
   },
   "2005": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "2006": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "2007": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "2008": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "2018": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "2025": {
     "name": "Greater demon",
@@ -3430,30 +3430,6 @@
   "2166": {
     "name": "TzHaar-Hur",
     "hitpoints": 80
-  },
-  "2167": {
-    "name": "TzHaar-Xil",
-    "hitpoints": 120
-  },
-  "2168": {
-    "name": "TzHaar-Xil",
-    "hitpoints": 120
-  },
-  "2169": {
-    "name": "TzHaar-Xil",
-    "hitpoints": 120
-  },
-  "2170": {
-    "name": "TzHaar-Xil",
-    "hitpoints": 120
-  },
-  "2171": {
-    "name": "TzHaar-Xil",
-    "hitpoints": 120
-  },
-  "2172": {
-    "name": "TzHaar-Xil",
-    "hitpoints": 120
   },
   "2173": {
     "name": "TzHaar-Ket",
@@ -9941,11 +9917,11 @@
   },
   "7656": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "7657": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "7658": {
     "name": "Mummy",
@@ -9969,7 +9945,7 @@
   },
   "7664": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "7679": {
     "name": "TzHaar-Ket",
@@ -11470,5 +11446,17 @@
   "10402": {
     "name": "Colossal Hydra",
     "hitpoints": 750
+  },
+  "10492": {
+    "name": "Headless Beast (hard)",
+    "hitpoints": 320
+  },
+  "10493": {
+    "name": "Headless Beast",
+    "hitpoints": 100
+  },
+  "10506": {
+    "name": "Headless Beast",
+    "hitpoints": 100
   }
 }
