@@ -1517,34 +1517,6 @@
     "weight": 0.085,
     "ge_limit": 2000
   },
-  "508": {
-    "name": "Bronze axe head",
-    "weight": 0.1
-  },
-  "510": {
-    "name": "Iron axe head",
-    "weight": 0.1
-  },
-  "512": {
-    "name": "Steel axe head",
-    "weight": 0.1
-  },
-  "514": {
-    "name": "Black axe head",
-    "weight": 0.1
-  },
-  "516": {
-    "name": "Mithril axe head",
-    "weight": 0.1
-  },
-  "518": {
-    "name": "Adamant axe head",
-    "weight": 0.1
-  },
-  "520": {
-    "name": "Rune axe head",
-    "weight": 0.1
-  },
   "522": {
     "name": "Enchanted beef",
     "quest": true,
@@ -8532,10 +8504,6 @@
     "name": "Scrumpled paper",
     "weight": 0.01
   },
-  "1848": {
-    "name": "Shantay disclaimer",
-    "weight": 0.01
-  },
   "1849": {
     "name": "Prototype dart",
     "quest": true
@@ -8793,10 +8761,6 @@
     "name": "Egg",
     "weight": 0.02,
     "ge_limit": 13000
-  },
-  "1946": {
-    "name": "Flour",
-    "weight": 0.5
   },
   "1947": {
     "name": "Grain",
@@ -16749,6 +16713,14 @@
   },
   "4255": {
     "name": "Bonemeal",
+    "weight": 1.5
+  },
+  "4256": {
+    "name": "Bat bonemeal",
+    "weight": 1.5
+  },
+  "4257": {
+    "name": "Big bonemeal",
     "weight": 1.5
   },
   "4258": {
@@ -27539,10 +27511,6 @@
       "aspeed": 5
     },
     "ge_limit": 40
-  },
-  "6743": {
-    "name": "Dragon axe head",
-    "weight": 0.1
   },
   "6745": {
     "name": "Silverlight",
@@ -72761,26 +72729,6 @@
     "name": "Pink candy",
     "weight": 0.01
   },
-  "24989": {
-    "name": "Rick's box",
-    "weight": 1.0
-  },
-  "24990": {
-    "name": "Rick's head",
-    "weight": 0.5
-  },
-  "24991": {
-    "name": "Witch's brew",
-    "weight": 0.2
-  },
-  "24992": {
-    "name": "Spider snack",
-    "weight": 0.2
-  },
-  "24993": {
-    "name": "Incantation",
-    "weight": 0.01
-  },
   "25001": {
     "name": "Trailblazer hood (t3)",
     "equipable": true,
@@ -73074,6 +73022,7 @@
   },
   "25102": {
     "name": "Fairy mushroom",
+    "weight": 0.002,
     "equipable": true,
     "equipment": {
       "slot": 5
@@ -73095,26 +73044,106 @@
   },
   "25110": {
     "name": "Trailblazer axe",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
       "aspeed": 5
     }
   },
   "25112": {
     "name": "Trailblazer pickaxe",
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "astab": 38,
+      "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
       "aspeed": 5
     }
   },
   "25114": {
     "name": "Trailblazer harpoon",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
       "aspeed": 5
     }
+  },
+  "25129": {
+    "name": "Beekeeper's hat",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25131": {
+    "name": "Beekeeper's top",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25133": {
+    "name": "Beekeeper's legs",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25135": {
+    "name": "Beekeeper's gloves",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "25137": {
+    "name": "Beekeeper's boots",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25139": {
+    "name": "Bone fragments",
+    "ge_limit": 100
+  },
+  "25145": {
+    "name": "Clay head",
+    "quest": true,
+    "weight": 0.907
+  },
+  "25146": {
+    "name": "Fur head",
+    "quest": true,
+    "weight": 0.907
+  },
+  "25147": {
+    "name": "Bloody head",
+    "quest": true,
+    "weight": 0.907
+  },
+  "25152": {
+    "name": "Neilan's journal",
+    "quest": true,
+    "weight": 0.51
   }
 }
