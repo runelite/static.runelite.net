@@ -73145,5 +73145,153 @@
     "name": "Neilan's journal",
     "quest": true,
     "weight": 0.51
+  },
+  "25155": {
+    "name": "Decorative boots (broken)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 10,
+      "dslash": 11,
+      "dcrush": 12,
+      "str": 1
+    }
+  },
+  "25157": {
+    "name": "Decorative full helm (broken)",
+    "weight": 2.721
+  },
+  "25159": {
+    "name": "Castlewars brew(4)",
+    "weight": 0.035
+  },
+  "25160": {
+    "name": "Castlewars brew(3)",
+    "weight": 0.035
+  },
+  "25161": {
+    "name": "Castlewars brew(2)",
+    "weight": 0.035
+  },
+  "25162": {
+    "name": "Castlewars brew(1)",
+    "weight": 0.035
+  },
+  "25163": {
+    "name": "Decorative boots",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 5,
+      "dslash": 6,
+      "dcrush": 7
+    }
+  },
+  "25165": {
+    "name": "Decorative full helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 7,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25167": {
+    "name": "Decorative boots",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 8,
+      "dslash": 9,
+      "dcrush": 10
+    }
+  },
+  "25169": {
+    "name": "Decorative full helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 13,
+      "dslash": 14,
+      "dcrush": 11,
+      "dmagic": -1,
+      "drange": 13
+    }
+  },
+  "25171": {
+    "name": "Decorative boots",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 10,
+      "dslash": 11,
+      "dcrush": 12,
+      "str": 1
+    }
+  },
+  "25173": {
+    "name": "Decorative boots (l)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 10,
+      "dslash": 11,
+      "dcrush": 12,
+      "str": 1
+    }
+  },
+  "25174": {
+    "name": "Decorative full helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 19,
+      "dslash": 21,
+      "dcrush": 16,
+      "dmagic": -1,
+      "drange": 19
+    }
+  },
+  "25176": {
+    "name": "Decorative full helm (l)",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 19,
+      "dslash": 21,
+      "dcrush": 16,
+      "dmagic": -1,
+      "drange": 19
+    }
   }
 }
