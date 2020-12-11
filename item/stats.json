@@ -73293,5 +73293,249 @@
       "dmagic": -1,
       "drange": 19
     }
+  },
+  "25195": {
+    "name": "Blue cape",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    },
+    "ge_limit": 150
+  },
+  "25207": {
+    "name": "Red cape",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    },
+    "ge_limit": 150
+  },
+  "25208": {
+    "name": "Blue cape",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    },
+    "ge_limit": 150
+  },
+  "25212": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25213": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25214": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25215": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25216": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25217": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25218": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25219": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25220": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25221": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25222": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25223": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25224": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25225": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25226": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25227": {
+    "name": "Blue icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25228": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25229": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25230": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25231": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25232": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25233": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25234": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25235": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25236": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25237": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25238": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25239": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25240": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25241": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25242": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25243": {
+    "name": "Red icon",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25282": {
+    "name": "Sled",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25283": {
+    "name": "Red fireflies",
+    "weight": 0.01
+  },
+  "25284": {
+    "name": "Green fireflies",
+    "weight": 0.01
+  },
+  "25285": {
+    "name": "Stick",
+    "weight": 0.5
+  },
+  "25286": {
+    "name": "Mouldy sawdust",
+    "weight": 0.1
+  },
+  "25287": {
+    "name": "Rotten meat",
+    "weight": 0.3
+  },
+  "25288": {
+    "name": "Stale bread",
+    "weight": 0.3
+  },
+  "25289": {
+    "name": "Goblin stew",
+    "weight": 0.3
+  },
+  "25290": {
+    "name": "Goblin gifts",
+    "weight": 0.3
+  },
+  "25314": {
+    "name": "Giant boulder",
+    "weight": 15.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "25316": {
+    "name": "Goblin decorations",
+    "weight": 1.0
   }
 }
