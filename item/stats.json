@@ -24470,11 +24470,7 @@
   "6066": {
     "name": "Ripped mourner trousers",
     "quest": true,
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 7
-    }
+    "weight": 2.267
   },
   "6067": {
     "name": "Mourner trousers",
@@ -46081,6 +46077,10 @@
     },
     "ge_limit": 8
   },
+  "11916": {
+    "name": "Slice of birthday cake",
+    "weight": 0.1
+  },
   "11919": {
     "name": "Cow mask",
     "weight": 0.09,
@@ -50502,7 +50502,7 @@
     }
   },
   "12846": {
-    "name": "Bounty teleport scroll",
+    "name": "Target teleport scroll",
     "weight": 0.005,
     "ge_limit": 5
   },
@@ -57793,26 +57793,6 @@
     "weight": 0.65,
     "ge_limit": 10000
   },
-  "20393": {
-    "name": "Prayer potion(4)",
-    "weight": 0.035,
-    "ge_limit": 2000
-  },
-  "20394": {
-    "name": "Prayer potion(3)",
-    "weight": 0.03,
-    "ge_limit": 2000
-  },
-  "20395": {
-    "name": "Prayer potion(2)",
-    "weight": 0.025,
-    "ge_limit": 2000
-  },
-  "20396": {
-    "name": "Prayer potion(1)",
-    "weight": 0.02,
-    "ge_limit": 2000
-  },
   "20401": {
     "name": "Yew shortbow",
     "weight": 1.36,
@@ -58330,26 +58310,6 @@
     "name": "Monkfish",
     "weight": 0.4,
     "ge_limit": 13000
-  },
-  "20548": {
-    "name": "Super energy(4)",
-    "weight": 0.035,
-    "ge_limit": 2000
-  },
-  "20549": {
-    "name": "Super energy(3)",
-    "weight": 0.03,
-    "ge_limit": 2000
-  },
-  "20550": {
-    "name": "Super energy(2)",
-    "weight": 0.025,
-    "ge_limit": 2000
-  },
-  "20551": {
-    "name": "Super energy(1)",
-    "weight": 0.02,
-    "ge_limit": 2000
   },
   "20552": {
     "name": "Rune battleaxe",
@@ -68030,26 +67990,6 @@
   },
   "23581": {
     "name": "Saradomin brew(1)",
-    "weight": 0.02,
-    "ge_limit": 2000
-  },
-  "23583": {
-    "name": "Stamina potion(4)",
-    "weight": 0.035,
-    "ge_limit": 2000
-  },
-  "23585": {
-    "name": "Stamina potion(3)",
-    "weight": 0.03,
-    "ge_limit": 2000
-  },
-  "23587": {
-    "name": "Stamina potion(2)",
-    "weight": 0.025,
-    "ge_limit": 2000
-  },
-  "23589": {
-    "name": "Stamina potion(1)",
     "weight": 0.02,
     "ge_limit": 2000
   },
