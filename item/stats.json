@@ -3660,7 +3660,7 @@
     "ge_limit": 250
   },
   "956": {
-    "name": "Flier",
+    "name": "Flyer",
     "weight": 0.015
   },
   "958": {
@@ -16061,7 +16061,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "4087": {
@@ -68026,7 +68026,7 @@
     "weight": 0.05
   },
   "23670": {
-    "name": "Flier",
+    "name": "Flyer",
     "weight": 0.015
   },
   "23673": {
@@ -71203,7 +71203,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 5
   },
   "24389": {
     "name": "Twisted coat (t3)",
@@ -71211,7 +71212,8 @@
     "equipable": true,
     "equipment": {
       "slot": 4
-    }
+    },
+    "ge_limit": 5
   },
   "24391": {
     "name": "Twisted trousers (t3)",
@@ -71219,7 +71221,8 @@
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 5
   },
   "24393": {
     "name": "Twisted boots (t3)",
@@ -71227,7 +71230,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 5
   },
   "24395": {
     "name": "Twisted cane",
@@ -71236,7 +71240,8 @@
     "equipment": {
       "slot": 3,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 5
   },
   "24397": {
     "name": "Twisted hat (t2)",
@@ -71244,7 +71249,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 5
   },
   "24399": {
     "name": "Twisted coat (t2)",
@@ -71252,7 +71258,8 @@
     "equipable": true,
     "equipment": {
       "slot": 4
-    }
+    },
+    "ge_limit": 5
   },
   "24401": {
     "name": "Twisted trousers (t2)",
@@ -71260,7 +71267,8 @@
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 5
   },
   "24403": {
     "name": "Twisted boots (t2)",
@@ -71268,7 +71276,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 5
   },
   "24405": {
     "name": "Twisted hat (t1)",
@@ -71276,7 +71285,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 5
   },
   "24407": {
     "name": "Twisted coat (t1)",
@@ -71284,7 +71294,8 @@
     "equipable": true,
     "equipment": {
       "slot": 4
-    }
+    },
+    "ge_limit": 5
   },
   "24409": {
     "name": "Twisted trousers (t1)",
@@ -71292,7 +71303,8 @@
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 5
   },
   "24411": {
     "name": "Twisted boots (t1)",
@@ -71300,7 +71312,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 5
   },
   "24413": {
     "name": "Twisted banner",
@@ -71309,7 +71322,8 @@
     "equipment": {
       "slot": 3,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 5
   },
   "24416": {
     "name": "Rune pouch (l)",
@@ -71475,11 +71489,13 @@
   },
   "24460": {
     "name": "Twisted teleport scroll",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "24463": {
     "name": "Twisted blueprints",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "24466": {
     "name": "Twisted horns",
@@ -71493,11 +71509,13 @@
   },
   "24472": {
     "name": "Twisted relic hunter (t2) armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 5
   },
   "24475": {
     "name": "Twisted relic hunter (t3) armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 5
   },
   "24478": {
     "name": "Open herb sack",
@@ -72671,89 +72689,103 @@
   },
   "25001": {
     "name": "Trailblazer hood (t3)",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 5
   },
   "25007": {
     "name": "Trailblazer trousers (t3)",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 5
   },
   "25010": {
     "name": "Trailblazer boots (t3)",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 5
   },
   "25013": {
     "name": "Trailblazer cane",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 5
   },
   "25016": {
     "name": "Trailblazer hood (t2)",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 5
   },
   "25022": {
     "name": "Trailblazer trousers (t2)",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 5
   },
   "25025": {
     "name": "Trailblazer boots (t2)",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 5
   },
   "25028": {
     "name": "Trailblazer hood (t1)",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 5
   },
   "25031": {
-    "name": "Trailblazer coat (t1)",
+    "name": "Trailblazer top (t1)",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4
-    }
+    },
+    "ge_limit": 5
   },
   "25034": {
     "name": "Trailblazer trousers (t1)",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 5
   },
   "25037": {
     "name": "Trailblazer boots (t1)",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
-  },
-  "25040": {
-    "name": "Trailblazer trophy",
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "aspeed": 4
-    }
+    },
+    "ge_limit": 5
   },
   "25042": {
     "name": "Trailblazer dragon trophy",
@@ -72820,44 +72852,22 @@
   },
   "25056": {
     "name": "Trailblazer banner",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
       "aspeed": 4
-    }
-  },
-  "25059": {
-    "name": "Trailblazer harpoon",
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 38,
-      "aslash": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
-    }
+    },
+    "ge_limit": 5
   },
   "25063": {
-    "name": "Trailblazer pickaxe",
+    "name": "Infernal pickaxe (or)",
+    "weight": 2.4,
     "equipable": true,
     "equipment": {
       "slot": 3,
       "astab": 38,
       "aslash": -2,
-      "acrush": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
-    }
-  },
-  "25066": {
-    "name": "Trailblazer axe",
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": -2,
-      "aslash": 38,
       "acrush": 32,
       "dslash": 1,
       "str": 42,
@@ -72960,13 +72970,30 @@
       "slot": 10
     }
   },
-  "25102": {
-    "name": "Fairy mushroom",
-    "weight": 0.002,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
+  "25087": {
+    "name": "Trailblazer teleport scroll",
+    "weight": 0.1,
+    "ge_limit": 5
+  },
+  "25090": {
+    "name": "Trailblazer tool ornament kit",
+    "weight": 0.1,
+    "ge_limit": 5
+  },
+  "25093": {
+    "name": "Trailblazer globe",
+    "weight": 0.1,
+    "ge_limit": 5
+  },
+  "25096": {
+    "name": "Trailblazer rug",
+    "weight": 0.1,
+    "ge_limit": 5
+  },
+  "25099": {
+    "name": "Trailblazer graceful ornament kit",
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "25106": {
     "name": "Extradimensional bag",
@@ -72980,47 +73007,6 @@
     "equipable": true,
     "equipment": {
       "slot": 1
-    }
-  },
-  "25110": {
-    "name": "Trailblazer axe",
-    "weight": 0.907,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": -2,
-      "aslash": 38,
-      "acrush": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
-    }
-  },
-  "25112": {
-    "name": "Trailblazer pickaxe",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 38,
-      "aslash": -2,
-      "acrush": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
-    }
-  },
-  "25114": {
-    "name": "Trailblazer harpoon",
-    "weight": 0.907,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 38,
-      "aslash": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
     }
   },
   "25129": {
@@ -73428,38 +73414,6 @@
       "aspeed": 4
     }
   },
-  "25283": {
-    "name": "Red fireflies",
-    "weight": 0.01
-  },
-  "25284": {
-    "name": "Green fireflies",
-    "weight": 0.01
-  },
-  "25285": {
-    "name": "Stick",
-    "weight": 0.5
-  },
-  "25286": {
-    "name": "Mouldy sawdust",
-    "weight": 0.1
-  },
-  "25287": {
-    "name": "Rotten meat",
-    "weight": 0.3
-  },
-  "25288": {
-    "name": "Stale bread",
-    "weight": 0.3
-  },
-  "25289": {
-    "name": "Goblin stew",
-    "weight": 0.3
-  },
-  "25290": {
-    "name": "Goblin gifts",
-    "weight": 0.3
-  },
   "25314": {
     "name": "Giant boulder",
     "weight": 15.0,
@@ -73477,5 +73431,133 @@
   "25316": {
     "name": "Goblin decorations",
     "weight": 1.0
+  },
+  "25322": {
+    "name": "20th anniversary hat",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25324": {
+    "name": "20th anniversary top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25326": {
+    "name": "20th anniversary bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25328": {
+    "name": "20th anniversary boots",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25330": {
+    "name": "20th anniversary gloves",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "25332": {
+    "name": "20th anniversary necklace",
+    "weight": 0.141,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "25334": {
+    "name": "20th anniversary cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25336": {
+    "name": "Gnome child mask",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25338": {
+    "name": "Gnome child icon",
+    "weight": 0.08
+  },
+  "25342": {
+    "name": "Spoils of war",
+    "weight": 1.285
+  },
+  "25344": {
+    "name": "Soul cape",
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "prayer": 8
+    }
+  },
+  "25346": {
+    "name": "Soul cape",
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "prayer": 8
+    }
+  },
+  "25369": {
+    "name": "Infernal pickaxe (uncharged)",
+    "weight": 2.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25378": {
+    "name": "Dragon axe (or)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25380": {
+    "name": "Trailblazer relic hunter (t1) armour set",
+    "weight": 0.05
+  },
+  "25383": {
+    "name": "Trailblazer relic hunter (t2) armour set",
+    "weight": 0.05
+  },
+  "25386": {
+    "name": "Trailblazer relic hunter (t3) armour set",
+    "weight": 0.05
   }
 }
