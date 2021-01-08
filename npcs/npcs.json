@@ -11458,5 +11458,21 @@
   "10506": {
     "name": "Headless Beast",
     "hitpoints": 100
+  },
+  "10520": {
+    "name": "Avatar of Creation",
+    "hitpoints": 907
+  },
+  "10521": {
+    "name": "Avatar of Destruction",
+    "hitpoints": 907
+  },
+  "10531": {
+    "name": "Avatar of Creation",
+    "hitpoints": 907
+  },
+  "10532": {
+    "name": "Avatar of Destruction",
+    "hitpoints": 907
   }
 }
