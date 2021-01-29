@@ -987,6 +987,10 @@
     "name": "Cave kraken",
     "hitpoints": 125
   },
+  "493": {
+    "name": "Whirlpool",
+    "hitpoints": 120
+  },
   "494": {
     "name": "Kraken",
     "hitpoints": 255
@@ -2219,10 +2223,6 @@
     "name": "Woman",
     "hitpoints": 23
   },
-  "1144": {
-    "name": "Paladin",
-    "hitpoints": 66
-  },
   "1148": {
     "name": "Mourner",
     "hitpoints": 25
@@ -3430,6 +3430,30 @@
   "2166": {
     "name": "TzHaar-Hur",
     "hitpoints": 80
+  },
+  "2167": {
+    "name": "TzHaar-Xil",
+    "hitpoints": 120
+  },
+  "2168": {
+    "name": "TzHaar-Xil",
+    "hitpoints": 120
+  },
+  "2169": {
+    "name": "TzHaar-Xil",
+    "hitpoints": 120
+  },
+  "2170": {
+    "name": "TzHaar-Xil",
+    "hitpoints": 120
+  },
+  "2171": {
+    "name": "TzHaar-Xil",
+    "hitpoints": 120
+  },
+  "2172": {
+    "name": "TzHaar-Xil",
+    "hitpoints": 120
   },
   "2173": {
     "name": "TzHaar-Ket",
@@ -7275,6 +7299,10 @@
     "name": "Gardener",
     "hitpoints": 7
   },
+  "5534": {
+    "name": "Whirlpool",
+    "hitpoints": 120
+  },
   "5535": {
     "name": "Enormous Tentacle",
     "hitpoints": 120
@@ -8238,6 +8266,10 @@
   "6121": {
     "name": "The Untouchable (hard)",
     "hitpoints": 180
+  },
+  "6143": {
+    "name": "Urium Shadow",
+    "hitpoints": 130
   },
   "6177": {
     "name": "Scion",
@@ -10847,10 +10879,6 @@
     "name": "Third Age Mage",
     "hitpoints": 40
   },
-  "8678": {
-    "name": "Feral Vampyre",
-    "hitpoints": 50
-  },
   "8698": {
     "name": "Monk of Zamorak",
     "hitpoints": 16
@@ -10899,9 +10927,49 @@
     "name": "Iorwerth Archer",
     "hitpoints": 105
   },
+  "8799": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
+  },
+  "8800": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
+  },
+  "8801": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
+  },
   "8847": {
     "name": "Essyllt",
     "hitpoints": 320
+  },
+  "8849": {
+    "name": "Paladin",
+    "hitpoints": 55
+  },
+  "8850": {
+    "name": "Paladin",
+    "hitpoints": 82
+  },
+  "8851": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 40
+  },
+  "8852": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 54
+  },
+  "8853": {
+    "name": "Paladin",
+    "hitpoints": 66
+  },
+  "8854": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
+  },
+  "8855": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
   },
   "8858": {
     "name": "Man",
@@ -11009,6 +11077,14 @@
   },
   "9026": {
     "name": "Crystalline Rat",
+    "hitpoints": 14
+  },
+  "9027": {
+    "name": "Crystalline Spider",
+    "hitpoints": 12
+  },
+  "9028": {
+    "name": "Crystalline Bat",
     "hitpoints": 14
   },
   "9029": {
@@ -11439,6 +11515,10 @@
     "name": "Spiked Turoth",
     "hitpoints": 195
   },
+  "10398": {
+    "name": "Shadow Wyrm",
+    "hitpoints": 320
+  },
   "10400": {
     "name": "Guardian Drake",
     "hitpoints": 630
@@ -11459,20 +11539,52 @@
     "name": "Headless Beast",
     "hitpoints": 100
   },
-  "10520": {
-    "name": "Avatar of Creation",
-    "hitpoints": 907
+  "10522": {
+    "name": "Wolf",
+    "hitpoints": 80
   },
-  "10521": {
-    "name": "Avatar of Destruction",
-    "hitpoints": 907
+  "10523": {
+    "name": "Forgotten Soul",
+    "hitpoints": 50
+  },
+  "10524": {
+    "name": "Forgotten Soul",
+    "hitpoints": 50
+  },
+  "10525": {
+    "name": "Forgotten Soul",
+    "hitpoints": 77
+  },
+  "10526": {
+    "name": "Forgotten Soul",
+    "hitpoints": 77
   },
   "10531": {
     "name": "Avatar of Creation",
-    "hitpoints": 907
+    "hitpoints": 1500
   },
   "10532": {
     "name": "Avatar of Destruction",
-    "hitpoints": 907
+    "hitpoints": 1500
+  },
+  "10534": {
+    "name": "Forgotten Soul",
+    "hitpoints": 50
+  },
+  "10535": {
+    "name": "Forgotten Soul",
+    "hitpoints": 50
+  },
+  "10536": {
+    "name": "Forgotten Soul",
+    "hitpoints": 77
+  },
+  "10537": {
+    "name": "Forgotten Soul",
+    "hitpoints": 77
+  },
+  "10589": {
+    "name": "Urium Shade",
+    "hitpoints": 130
   }
 }

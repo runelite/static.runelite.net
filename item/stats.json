@@ -3634,6 +3634,12 @@
     "name": "Worm",
     "weight": 0.003
   },
+  "945": {
+    "name": "Throwing rope",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {}
+  },
   "946": {
     "name": "Knife",
     "weight": 0.453,
@@ -18425,6 +18431,10 @@
     "name": "Spinning plate",
     "weight": 0.05
   },
+  "4614": {
+    "name": "Broken plate",
+    "weight": 0.05
+  },
   "4615": {
     "name": "Letter",
     "quest": true,
@@ -18677,6 +18687,14 @@
     "name": "Sphinx's token",
     "quest": true,
     "weight": 0.8
+  },
+  "4692": {
+    "name": "Gold leaf",
+    "quest": true,
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {},
+    "ge_limit": 11000
   },
   "4693": {
     "name": "Full bucket",
@@ -23646,6 +23664,13 @@
       "aspeed": 5
     },
     "ge_limit": 70
+  },
+  "5732": {
+    "name": "Stool",
+    "quest": true,
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {}
   },
   "5733": {
     "name": "Rotten potato",
@@ -31172,6 +31197,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "dslash": 1,
       "dcrush": 2,
       "aspeed": 4
@@ -31183,6 +31209,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "dslash": 1,
       "dcrush": 2,
       "aspeed": 4
@@ -31226,12 +31253,25 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 4
     }
   },
   "7681": {
     "name": "Game book",
     "weight": 1.0
+  },
+  "7682": {
+    "name": "Hoop",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {}
+  },
+  "7684": {
+    "name": "Dart",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {}
   },
   "7686": {
     "name": "Bow and arrow",
@@ -37027,6 +37067,13 @@
     "weight": 3.0,
     "ge_limit": 13000
   },
+  "9660": {
+    "name": "Bucket",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {},
+    "ge_limit": 13000
+  },
   "9666": {
     "name": "Proselyte harness m",
     "weight": 14.514,
@@ -41707,6 +41754,13 @@
       "aspeed": 4
     }
   },
+  "10841": {
+    "name": "Apricot cream pie",
+    "quest": true,
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {}
+  },
   "10842": {
     "name": "Decapitated head",
     "quest": true,
@@ -44594,6 +44648,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 1,
       "dslash": 1,
       "dcrush": 1,
@@ -44606,6 +44661,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "acrush": 1,
       "dslash": 1,
       "dcrush": 1,
@@ -71166,8 +71222,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "24380": {
@@ -71175,8 +71230,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "24382": {
@@ -71184,8 +71238,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "24384": {
@@ -71193,8 +71246,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "24387": {
@@ -72696,6 +72748,15 @@
     },
     "ge_limit": 5
   },
+  "25004": {
+    "name": "Trailblazer top (t3)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    },
+    "ge_limit": 5
+  },
   "25007": {
     "name": "Trailblazer trousers (t3)",
     "weight": 0.907,
@@ -72730,6 +72791,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0
+    },
+    "ge_limit": 5
+  },
+  "25019": {
+    "name": "Trailblazer top (t2)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
     },
     "ge_limit": 5
   },
@@ -72792,8 +72862,7 @@
     "weight": 15.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "25044": {
@@ -72801,8 +72870,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "25046": {
@@ -72810,8 +72878,7 @@
     "weight": 15.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "25048": {
@@ -72819,8 +72886,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "25050": {
@@ -72828,8 +72894,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "25052": {
@@ -72837,8 +72902,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "25054": {
@@ -72846,8 +72910,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "25056": {
@@ -72860,6 +72923,19 @@
     },
     "ge_limit": 5
   },
+  "25059": {
+    "name": "Infernal harpoon (or)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
   "25063": {
     "name": "Infernal pickaxe (or)",
     "weight": 2.4,
@@ -72868,6 +72944,20 @@
       "slot": 3,
       "astab": 38,
       "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25066": {
+    "name": "Infernal axe (or)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 38,
       "acrush": 32,
       "dslash": 1,
       "str": 42,
@@ -72993,7 +73083,7 @@
   "25099": {
     "name": "Trailblazer graceful ornament kit",
     "weight": 0.1,
-    "ge_limit": 5
+    "ge_limit": 6
   },
   "25106": {
     "name": "Extradimensional bag",
@@ -73222,14 +73312,45 @@
   },
   "25195": {
     "name": "Blue cape",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1
     },
     "ge_limit": 150
   },
+  "25197": {
+    "name": "Soul wars guide",
+    "weight": 0.001
+  },
+  "25199": {
+    "name": "Bones",
+    "weight": 0.05,
+    "ge_limit": 3000
+  },
+  "25202": {
+    "name": "Bandages",
+    "weight": 0.001
+  },
+  "25203": {
+    "name": "Potion of power(4)",
+    "weight": 0.035
+  },
+  "25204": {
+    "name": "Potion of power(3)",
+    "weight": 0.035
+  },
+  "25205": {
+    "name": "Potion of power(2)",
+    "weight": 0.035
+  },
+  "25206": {
+    "name": "Potion of power(1)",
+    "weight": 0.035
+  },
   "25207": {
     "name": "Red cape",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -73238,169 +73359,214 @@
   },
   "25208": {
     "name": "Blue cape",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1
     },
     "ge_limit": 150
   },
+  "25209": {
+    "name": "Barricade",
+    "weight": 5.0
+  },
+  "25210": {
+    "name": "Barricade",
+    "weight": 5.0
+  },
+  "25211": {
+    "name": "Explosive potion",
+    "weight": 0.035
+  },
   "25212": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25213": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25214": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25215": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25216": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25217": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25218": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25219": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25220": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25221": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25222": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25223": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25224": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25225": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25226": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25227": {
     "name": "Blue icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25228": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25229": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25230": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25231": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25232": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25233": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25234": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25235": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25236": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25237": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25238": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25239": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25240": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25241": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25242": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
   "25243": {
     "name": "Red icon",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {}
   },
@@ -73431,6 +73597,14 @@
   "25316": {
     "name": "Goblin decorations",
     "weight": 1.0
+  },
+  "25320": {
+    "name": "Gnome child",
+    "weight": 0.001
+  },
+  "25321": {
+    "name": "Gnome child",
+    "weight": 0.001
   },
   "25322": {
     "name": "20th anniversary hat",
@@ -73500,12 +73674,17 @@
     "name": "Gnome child icon",
     "weight": 0.08
   },
+  "25340": {
+    "name": "Ectoplasmator",
+    "weight": 0.035
+  },
   "25342": {
     "name": "Spoils of war",
     "weight": 1.285
   },
   "25344": {
     "name": "Soul cape",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -73514,14 +73693,69 @@
   },
   "25346": {
     "name": "Soul cape",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
       "prayer": 8
     }
   },
+  "25367": {
+    "name": "Infernal harpoon (uncharged)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
   "25369": {
     "name": "Infernal pickaxe (uncharged)",
+    "weight": 2.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25371": {
+    "name": "Infernal axe (uncharged)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25373": {
+    "name": "Dragon harpoon (or)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "25376": {
+    "name": "Dragon pickaxe (or)",
     "weight": 2.4,
     "equipable": true,
     "equipment": {
@@ -73559,5 +73793,307 @@
   "25386": {
     "name": "Trailblazer relic hunter (t3) armour set",
     "weight": 0.05
+  },
+  "25389": {
+    "name": "Swampbark body",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 15,
+      "dstab": 38,
+      "dslash": 44,
+      "dcrush": 48,
+      "dmagic": 21
+    }
+  },
+  "25392": {
+    "name": "Swampbark gauntlets",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "amagic": 3,
+      "dstab": 4,
+      "dslash": 3,
+      "dcrush": 5,
+      "dmagic": 4
+    }
+  },
+  "25395": {
+    "name": "Swampbark boots",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": 3,
+      "dstab": 4,
+      "dslash": 3,
+      "dcrush": 5,
+      "dmagic": 4
+    }
+  },
+  "25398": {
+    "name": "Swampbark helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 4,
+      "dstab": 13,
+      "dslash": 11,
+      "dcrush": 14,
+      "dmagic": 5
+    }
+  },
+  "25401": {
+    "name": "Swampbark legs",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 10,
+      "dstab": 20,
+      "dslash": 22,
+      "dcrush": 24,
+      "dmagic": 15
+    }
+  },
+  "25404": {
+    "name": "Bloodbark body",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 18,
+      "dstab": 53,
+      "dslash": 39,
+      "dcrush": 64,
+      "dmagic": 24
+    }
+  },
+  "25407": {
+    "name": "Bloodbark gauntlets",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "amagic": 4,
+      "dstab": 5,
+      "dslash": 4,
+      "dcrush": 6,
+      "dmagic": 5
+    }
+  },
+  "25410": {
+    "name": "Bloodbark boots",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": 4,
+      "dstab": 5,
+      "dslash": 4,
+      "dcrush": 6,
+      "dmagic": 5
+    }
+  },
+  "25413": {
+    "name": "Bloodbark helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 5,
+      "dstab": 16,
+      "dslash": 14,
+      "dcrush": 17,
+      "dmagic": 6
+    }
+  },
+  "25416": {
+    "name": "Bloodbark legs",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 13,
+      "dstab": 33,
+      "dslash": 31,
+      "dcrush": 38,
+      "dmagic": 17
+    }
+  },
+  "25424": {
+    "name": "Gold key red",
+    "weight": 0.01
+  },
+  "25426": {
+    "name": "Gold key brown",
+    "weight": 0.01
+  },
+  "25428": {
+    "name": "Gold key crimson",
+    "weight": 0.01
+  },
+  "25430": {
+    "name": "Gold key black",
+    "weight": 0.01
+  },
+  "25432": {
+    "name": "Gold key purple",
+    "weight": 0.01
+  },
+  "25434": {
+    "name": "Zealot's robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25436": {
+    "name": "Zealot's robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25438": {
+    "name": "Zealot's helm",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25440": {
+    "name": "Zealot's boots",
+    "weight": 0.283,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25442": {
+    "name": "Bronze locks",
+    "weight": 0.283
+  },
+  "25445": {
+    "name": "Steel locks",
+    "weight": 0.283
+  },
+  "25448": {
+    "name": "Black locks",
+    "weight": 0.283
+  },
+  "25451": {
+    "name": "Silver locks",
+    "weight": 0.283
+  },
+  "25454": {
+    "name": "Gold locks",
+    "weight": 0.283
+  },
+  "25457": {
+    "name": "Broken coffin",
+    "weight": 1.0
+  },
+  "25459": {
+    "name": "Bronze coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25461": {
+    "name": "Steel coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25463": {
+    "name": "Black coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25465": {
+    "name": "Silver coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25467": {
+    "name": "Gold coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25469": {
+    "name": "Open bronze coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25470": {
+    "name": "Open steel coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25471": {
+    "name": "Open black coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25472": {
+    "name": "Open silver coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25473": {
+    "name": "Open gold coffin",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25474": {
+    "name": "Tree wizards' journal",
+    "weight": 0.003
+  },
+  "25476": {
+    "name": "Bloody notes",
+    "weight": 0.003
+  },
+  "25478": {
+    "name": "Runescroll of swampbark",
+    "weight": 0.015
+  },
+  "25481": {
+    "name": "Runescroll of bloodbark",
+    "weight": 0.015
   }
 }
