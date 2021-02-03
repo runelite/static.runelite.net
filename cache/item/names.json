@@ -15561,7 +15561,7 @@
   "25241": "Red icon",
   "25242": "Red icon",
   "25243": "Red icon",
-  "25244": "Old key",
+  "25244": "Dark key",
   "25246": "Ring of suffering (i)",
   "25248": "Ring of suffering (ri)",
   "25250": "Salve amulet(i)",
@@ -15712,5 +15712,7 @@
   "25494": "Black d'hide vambraces (beta)",
   "25495": "Crystal helm (beta)",
   "25496": "Crystal body (beta)",
-  "25497": "Crystal legs (beta)"
+  "25497": "Crystal legs (beta)",
+  "25498": "Clue scroll (elite)",
+  "25499": "Clue scroll (elite)"
 }
