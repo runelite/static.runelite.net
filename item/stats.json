@@ -18431,10 +18431,6 @@
     "name": "Spinning plate",
     "weight": 0.05
   },
-  "4614": {
-    "name": "Broken plate",
-    "weight": 0.05
-  },
   "4615": {
     "name": "Letter",
     "quest": true,
@@ -23668,9 +23664,7 @@
   "5732": {
     "name": "Stool",
     "quest": true,
-    "weight": 0.001,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.001
   },
   "5733": {
     "name": "Rotten potato",
@@ -55222,6 +55216,11 @@
     "quest": true,
     "weight": 0.01
   },
+  "19568": {
+    "name": "Combat scratched key",
+    "quest": true,
+    "weight": 0.01
+  },
   "19569": {
     "name": "Combat damaged key",
     "quest": true,
@@ -57575,6 +57574,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "astab": -100,
       "aslash": -100,
       "acrush": -50,
@@ -68061,6 +68061,17 @@
     },
     "ge_limit": 8
   },
+  "23619": {
+    "name": "Morrigan's javelin",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 105,
+      "rstr": 145,
+      "aspeed": 6
+    },
+    "ge_limit": 100
+  },
   "23650": {
     "name": "Rune pouch",
     "weight": 1.0
@@ -72862,7 +72873,13 @@
     "weight": 15.0,
     "equipable": true,
     "equipment": {
-      "slot": 5
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
     }
   },
   "25044": {
@@ -72870,7 +72887,8 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5
+      "slot": 3,
+      "is2h": true
     }
   },
   "25046": {
@@ -72878,7 +72896,8 @@
     "weight": 15.0,
     "equipable": true,
     "equipment": {
-      "slot": 5
+      "slot": 3,
+      "is2h": true
     }
   },
   "25048": {
@@ -73598,14 +73617,6 @@
     "name": "Goblin decorations",
     "weight": 1.0
   },
-  "25320": {
-    "name": "Gnome child",
-    "weight": 0.001
-  },
-  "25321": {
-    "name": "Gnome child",
-    "weight": 0.001
-  },
   "25322": {
     "name": "20th anniversary hat",
     "weight": 0.907,
@@ -73973,7 +73984,7 @@
     "weight": 0.283,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 10
     }
   },
   "25442": {
@@ -74095,5 +74106,185 @@
   "25481": {
     "name": "Runescroll of bloodbark",
     "weight": 0.015
+  },
+  "25484": {
+    "name": "Toxic blowpipe (beta - bronze)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 32,
+      "rstr": 26,
+      "aspeed": 3
+    }
+  },
+  "25485": {
+    "name": "Toxic blowpipe (beta - iron)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 33,
+      "rstr": 27,
+      "aspeed": 3
+    }
+  },
+  "25486": {
+    "name": "Toxic blowpipe (beta - steel)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 34,
+      "rstr": 28,
+      "aspeed": 3
+    }
+  },
+  "25487": {
+    "name": "Toxic blowpipe (beta - black)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 35,
+      "rstr": 29,
+      "aspeed": 3
+    }
+  },
+  "25488": {
+    "name": "Toxic blowpipe (beta - mithril)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 36,
+      "rstr": 31,
+      "aspeed": 3
+    }
+  },
+  "25489": {
+    "name": "Toxic blowpipe (beta - adamant)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 37,
+      "rstr": 35,
+      "aspeed": 3
+    }
+  },
+  "25490": {
+    "name": "Toxic blowpipe (beta - rune)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 41,
+      "rstr": 45,
+      "aspeed": 3
+    }
+  },
+  "25491": {
+    "name": "Toxic blowpipe (beta - dragon)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 45,
+      "rstr": 53,
+      "aspeed": 3
+    }
+  },
+  "25492": {
+    "name": "Black d'hide body (beta)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 30,
+      "dstab": 30,
+      "dslash": 35,
+      "dcrush": 35,
+      "dmagic": 45,
+      "drange": 50
+    }
+  },
+  "25493": {
+    "name": "Black d'hide chaps (beta)",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -10,
+      "arange": 17,
+      "dstab": 12,
+      "dslash": 18,
+      "dcrush": 18,
+      "dmagic": 23,
+      "drange": 26
+    }
+  },
+  "25494": {
+    "name": "Black d'hide vambraces (beta)",
+    "weight": 0.283,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "amagic": -10,
+      "arange": 11,
+      "dstab": 4,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 8
+    }
+  },
+  "25495": {
+    "name": "Crystal helm (beta)",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 8,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 26,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "25496": {
+    "name": "Crystal body (beta)",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 30,
+      "dstab": 34,
+      "dslash": 24,
+      "dcrush": 32,
+      "dmagic": 44,
+      "drange": 53,
+      "prayer": 3
+    }
+  },
+  "25497": {
+    "name": "Crystal legs (beta)",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 17,
+      "dstab": 20,
+      "dslash": 16,
+      "dcrush": 24,
+      "dmagic": 34,
+      "drange": 29,
+      "prayer": 2
+    }
   }
 }
