@@ -11583,8 +11583,24 @@
     "name": "Forgotten Soul",
     "hitpoints": 77
   },
+  "10544": {
+    "name": "Forgotten Soul",
+    "hitpoints": 50
+  },
+  "10545": {
+    "name": "Forgotten Soul",
+    "hitpoints": 50
+  },
   "10589": {
     "name": "Urium Shade",
     "hitpoints": 130
+  },
+  "10591": {
+    "name": "Undead Zealot",
+    "hitpoints": 28
+  },
+  "10592": {
+    "name": "Undead Zealot",
+    "hitpoints": 28
   }
 }
