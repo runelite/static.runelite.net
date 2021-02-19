@@ -7240,11 +7240,6 @@
       "str": 2
     }
   },
-  "1496": {
-    "name": "Iban's dove",
-    "quest": true,
-    "weight": 0.1
-  },
   "1497": {
     "name": "Amulet of othanian",
     "quest": true,
@@ -7260,20 +7255,10 @@
     "quest": true,
     "weight": 0.01
   },
-  "1500": {
-    "name": "Iban's shadow",
-    "quest": true,
-    "weight": 0.025
-  },
   "1501": {
     "name": "Dwarf brew",
     "quest": true,
     "weight": 0.15
-  },
-  "1502": {
-    "name": "Iban's ashes",
-    "quest": true,
-    "weight": 0.056
   },
   "1503": {
     "name": "Warrant",
@@ -74286,5 +74271,85 @@
       "drange": 29,
       "prayer": 2
     }
+  },
+  "25500": {
+    "name": "Cursed banana",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "25502": {
+    "name": "Banana cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
+  },
+  "25504": {
+    "name": "List of monkey sightings",
+    "quest": true,
+    "weight": 0.014
+  },
+  "25505": {
+    "name": "Premium banana",
+    "quest": true,
+    "weight": 0.05
+  },
+  "25506": {
+    "name": "Bamboo",
+    "quest": true,
+    "weight": 0.1
+  },
+  "25507": {
+    "name": "Monkey cage",
+    "quest": true,
+    "weight": 1.5
+  },
+  "25508": {
+    "name": "Donie's caged monkey",
+    "quest": true,
+    "weight": 1.5
+  },
+  "25509": {
+    "name": "Bob's caged monkey",
+    "quest": true,
+    "weight": 1.5
+  },
+  "25510": {
+    "name": "Aereck's caged monkey",
+    "quest": true,
+    "weight": 1.5
+  },
+  "25511": {
+    "name": "Cow's caged monkey",
+    "quest": true,
+    "weight": 1.5
+  },
+  "25512": {
+    "name": "Unicorn's caged monkey",
+    "quest": true,
+    "weight": 1.5
+  },
+  "25513": {
+    "name": "Sheep's caged monkey",
+    "quest": true,
+    "weight": 1.5
+  },
+  "25514": {
+    "name": "Unicorn horn",
+    "weight": 0.007,
+    "ge_limit": 13000
   }
 }
