@@ -1939,22 +1939,6 @@
     "name": "Dagannoth",
     "hitpoints": 120
   },
-  "976": {
-    "name": "Dagannoth",
-    "hitpoints": 160
-  },
-  "977": {
-    "name": "Dagannoth",
-    "hitpoints": 160
-  },
-  "978": {
-    "name": "Dagannoth",
-    "hitpoints": 160
-  },
-  "979": {
-    "name": "Dagannoth",
-    "hitpoints": 160
-  },
   "980": {
     "name": "Dagannoth mother",
     "hitpoints": 120
@@ -5093,7 +5077,7 @@
   },
   "3313": {
     "name": "Giant rat",
-    "hitpoints": 5
+    "hitpoints": 3
   },
   "3314": {
     "name": "Giant rat",
