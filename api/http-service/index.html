@@ -41,18 +41,18 @@
         })
     </script>
 
-    <title>RuneLite HTTP API 1.7.2.2</title>
+    <title>RuneLite HTTP API 1.7.3</title>
 </head>
 <body class="markdown-body">
 	<noscript>
 # RuneLite HTTP API
-HTTPS://api.runelite.net/runelite-1.7.2.2
+HTTPS://api.runelite.net/runelite-1.7.3
 
 Open source RuneScape client
 
 
 
-**Version** 1.7.2.2
+**Version** 1.7.3
 
 
 
@@ -461,121 +461,6 @@ Open source RuneScape client
 | Status Code | Reason      | Response Model |
 |-------------|-------------|----------------|
 | 200    | successful operation | <a href="#/definitions/ItemDefinition">ItemDefinition</a>|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## /cache/item/{itemId}/image
-
-
-### GET
-
-<a id="getItemImage"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>itemId</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>quantity</th>
-    <td>query</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>border</th>
-    <td>query</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>shadowColor</th>
-    <td>query</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-__Content-Type:__ image/png
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| 200    | successful operation | Array[<a href=""></a>]|
 
 
 
@@ -1920,7 +1805,7 @@ __Content-Type:__ image/png
     <td> - </td>
 
     
-            <td>integer (int32)</td>
+            <td>number (double)</td>
     
 
 </tr>
@@ -3422,82 +3307,6 @@ __Content-Type:__ image/png
 
 
 
-## /item/price
-
-
-### GET
-
-<a id="prices"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>id</th>
-    <td>query</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>Array[integer] (multi)</td>
-    
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| 200    | successful operation | Array[<a href="#/definitions/ItemPrice">ItemPrice</a>]|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## /item/prices
 
 
@@ -3531,95 +3340,6 @@ __Content-Type:__ image/png
 | Status Code | Reason      | Response Model |
 |-------------|-------------|----------------|
 | 200    | successful operation | Array[<a href="#/definitions/ItemPrice">ItemPrice</a>]|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## /item/{itemId}/price
-
-
-### GET
-
-<a id="itemPrice"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>itemId</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>time</th>
-    <td>query</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int64)</td>
-    
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| 200    | successful operation | <a href="#/definitions/ItemPrice">ItemPrice</a>|
 
 
 
@@ -4019,95 +3739,6 @@ __Content-Type:__ image/png
 | Status Code | Reason      | Response Model |
 |-------------|-------------|----------------|
 | default    | successful operation |  - |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## /sprite
-
-
-### GET
-
-<a id="getSprite"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>spriteId</th>
-    <td>query</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>frameId</th>
-    <td>query</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-__Content-Type:__ image/png
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| 200    | successful operation | Array[<a href=""></a>]|
-
-
-
 
 
 
@@ -6223,6 +5854,19 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
+            <td>tempoross</td>
+            <td>
+                
+                    <a href="#/definitions/Skill">Skill</a>
+                    
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>gauntlet</td>
             <td>
                 
@@ -7003,6 +6647,19 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
+            <td>tradeable</td>
+            <td>
+                
+                    
+                    boolean
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>xoffset2d</td>
             <td>
                 
@@ -7021,19 +6678,6 @@ __Content-Type:__ image/png
                 
                     
                     integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>tradeable</td>
-            <td>
-                
-                    
-                    boolean
                 
             </td>
             <td>optional</td>
@@ -7094,11 +6738,11 @@ __Content-Type:__ image/png
         </tr>
     
         <tr>
-            <td>time</td>
+            <td>wikiPrice</td>
             <td>
                 
                     
-                    integer (int64)
+                    integer (int32)
                 
             </td>
             <td>optional</td>
