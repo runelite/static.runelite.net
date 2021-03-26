@@ -313,42 +313,6 @@
       "rstr": 16
     }
   },
-  "79": {
-    "name": "Ice arrows",
-    "quest": true,
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "rstr": 16
-    }
-  },
-  "80": {
-    "name": "Ice arrows",
-    "quest": true,
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "rstr": 16
-    }
-  },
-  "81": {
-    "name": "Ice arrows",
-    "quest": true,
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "rstr": 16
-    }
-  },
-  "82": {
-    "name": "Ice arrows",
-    "quest": true,
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "rstr": 16
-    }
-  },
   "83": {
     "name": "Lever",
     "quest": true,
@@ -1868,6 +1832,26 @@
     "weight": 0.5
   },
   "611": {
+    "name": "Locating crystal",
+    "quest": true,
+    "weight": 0.907
+  },
+  "612": {
+    "name": "Locating crystal",
+    "quest": true,
+    "weight": 0.907
+  },
+  "613": {
+    "name": "Locating crystal",
+    "quest": true,
+    "weight": 0.907
+  },
+  "614": {
+    "name": "Locating crystal",
+    "quest": true,
+    "weight": 0.907
+  },
+  "615": {
     "name": "Locating crystal",
     "quest": true,
     "weight": 0.907
@@ -7090,6 +7074,11 @@
     "name": "Archery ticket",
     "ge_limit": 18000
   },
+  "1465": {
+    "name": "Weapon poison",
+    "weight": 0.02,
+    "ge_limit": 2000
+  },
   "1466": {
     "name": "Sea slug",
     "quest": true,
@@ -9501,11 +9490,6 @@
     "quest": true,
     "weight": 0.1
   },
-  "2340": {
-    "name": "Palm leaf",
-    "quest": true,
-    "weight": 0.1
-  },
   "2341": {
     "name": "Wrapped oomlie",
     "quest": true,
@@ -9914,6 +9898,15 @@
     "quest": true,
     "weight": 0.01
   },
+  "2422": {
+    "name": "Blue partyhat",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    },
+    "ge_limit": 5
+  },
   "2423": {
     "name": "Key print",
     "quest": true,
@@ -10312,17 +10305,8 @@
   },
   "2513": {
     "name": "Dragon chainbody",
+    "quest": true,
     "weight": 6.803,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "dstab": 81,
-      "dslash": 93,
-      "dcrush": 98,
-      "dmagic": -3,
-      "drange": 82
-    },
     "ge_limit": 70
   },
   "2514": {
@@ -15704,8 +15688,8 @@
     "name": "Eye of gnome",
     "weight": 0.007
   },
-  "4009": {
-    "name": "Eye of gnome",
+  "4010": {
+    "name": "Monkey magic",
     "weight": 0.007
   },
   "4012": {
@@ -15723,6 +15707,10 @@
     "name": "Banana stew",
     "weight": 0.25,
     "ge_limit": 6000
+  },
+  "4018": {
+    "name": "Monkey wrench",
+    "weight": 9.525
   },
   "4020": {
     "name": "M'amulet mould",
@@ -16396,7 +16384,7 @@
     }
   },
   "4160": {
-    "name": "Broad Arrows",
+    "name": "Broad arrows",
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -16458,9 +16446,26 @@
     },
     "ge_limit": 70
   },
+  "4178": {
+    "name": "Abyssal whip",
+    "quest": true,
+    "weight": 0.453,
+    "ge_limit": 70
+  },
   "4179": {
     "name": "Stick",
     "weight": 0.01
+  },
+  "4180": {
+    "name": "Dragon platelegs",
+    "quest": true,
+    "weight": 6.803,
+    "ge_limit": 70
+  },
+  "4182": {
+    "name": "Goutweed",
+    "quest": true,
+    "weight": 0.007
   },
   "4183": {
     "name": "Star amulet",
@@ -23274,6 +23279,15 @@
     },
     "ge_limit": 125
   },
+  "5684": {
+    "name": "Poison dagger(p+)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
   "5686": {
     "name": "Iron dagger(p++)",
     "weight": 0.453,
@@ -23401,6 +23415,15 @@
       "aspeed": 4
     },
     "ge_limit": 125
+  },
+  "5702": {
+    "name": "Poison dagger(p++)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "5704": {
     "name": "Bronze spear(p+)",
@@ -24562,6 +24585,11 @@
   },
   "6083": {
     "name": "Tarnished key",
+    "quest": true,
+    "weight": 0.01
+  },
+  "6084": {
+    "name": "Worn key",
     "quest": true,
     "weight": 0.01
   },
@@ -28360,6 +28388,11 @@
     "name": "Roll",
     "weight": 0.02
   },
+  "6964": {
+    "name": "Coins",
+    "quest": true,
+    "weight": 9.071
+  },
   "6965": {
     "name": "Square sandwich",
     "weight": 0.02
@@ -28367,6 +28400,18 @@
   "6966": {
     "name": "Prison key",
     "weight": 0.01
+  },
+  "6967": {
+    "name": "Dragon med helm",
+    "quest": true,
+    "weight": 1.36,
+    "ge_limit": 8
+  },
+  "6969": {
+    "name": "Shark",
+    "quest": true,
+    "weight": 0.65,
+    "ge_limit": 10000
   },
   "6970": {
     "name": "Pyramid top",
@@ -28840,6 +28885,11 @@
     "quest": true,
     "weight": 32.0
   },
+  "7147": {
+    "name": "Cannon balls",
+    "quest": true,
+    "weight": 0.005
+  },
   "7148": {
     "name": "Repair plank",
     "quest": true,
@@ -28853,6 +28903,18 @@
   "7150": {
     "name": "Tacks",
     "quest": true
+  },
+  "7155": {
+    "name": "Rope",
+    "quest": true,
+    "weight": 1.36,
+    "ge_limit": 250
+  },
+  "7156": {
+    "name": "Tinderbox",
+    "quest": true,
+    "weight": 0.035,
+    "ge_limit": 40
   },
   "7157": {
     "name": "Braindeath 'rum'",
@@ -31392,6 +31454,46 @@
     "name": "Tea leaves",
     "weight": 0.01
   },
+  "7740": {
+    "name": "Beer",
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
+  "7742": {
+    "name": "Beer glass",
+    "weight": 0.05,
+    "ge_limit": 10000
+  },
+  "7744": {
+    "name": "Asgarnian ale",
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
+  "7746": {
+    "name": "Greenman's ale",
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
+  "7748": {
+    "name": "Dragon bitter",
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
+  "7750": {
+    "name": "Moonlight mead",
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
+  "7752": {
+    "name": "Cider",
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
+  "7754": {
+    "name": "Chef's delight",
+    "weight": 0.55,
+    "ge_limit": 2000
+  },
   "7756": {
     "name": "Paintbrush",
     "equipable": true,
@@ -33271,7 +33373,7 @@
     "weight": 1.0
   },
   "8644": {
-    "name": "Wooden telescope",
+    "name": "Oak telescope",
     "weight": 1.0
   },
   "8646": {
@@ -42501,6 +42603,12 @@
     "quest": true,
     "weight": 0.001
   },
+  "11046": {
+    "name": "Rope",
+    "quest": true,
+    "weight": 0.001,
+    "ge_limit": 250
+  },
   "11048": {
     "name": "Armour shard",
     "quest": true,
@@ -44437,6 +44545,10 @@
     "weight": 0.045,
     "ge_limit": 2000
   },
+  "11525": {
+    "name": "Feather",
+    "ge_limit": 30000
+  },
   "11640": {
     "name": "Book of knowledge",
     "weight": 1.0
@@ -44617,6 +44729,62 @@
     "quest": true,
     "weight": 0.001
   },
+  "11686": {
+    "name": "Fire rune",
+    "ge_limit": 50000
+  },
+  "11687": {
+    "name": "Water rune",
+    "ge_limit": 50000
+  },
+  "11688": {
+    "name": "Air rune",
+    "ge_limit": 50000
+  },
+  "11689": {
+    "name": "Earth rune",
+    "ge_limit": 50000
+  },
+  "11690": {
+    "name": "Mind rune",
+    "ge_limit": 12000
+  },
+  "11691": {
+    "name": "Body rune",
+    "ge_limit": 12000
+  },
+  "11692": {
+    "name": "Death rune",
+    "ge_limit": 25000
+  },
+  "11693": {
+    "name": "Nature rune",
+    "ge_limit": 12000
+  },
+  "11694": {
+    "name": "Chaos rune",
+    "ge_limit": 12000
+  },
+  "11695": {
+    "name": "Law rune",
+    "ge_limit": 12000
+  },
+  "11696": {
+    "name": "Cosmic rune",
+    "ge_limit": 12000
+  },
+  "11697": {
+    "name": "Blood rune",
+    "ge_limit": 25000
+  },
+  "11698": {
+    "name": "Soul rune",
+    "ge_limit": 10000
+  },
+  "11699": {
+    "name": "Astral rune",
+    "ge_limit": 10000
+  },
   "11704": {
     "name": "Raw pheasant",
     "weight": 10.0
@@ -44677,7 +44845,6 @@
   },
   "11710": {
     "name": "Anti-dragon shield (nz)",
-    "quest": true,
     "weight": 5.443,
     "equipable": true,
     "equipment": {
@@ -44691,7 +44858,6 @@
   },
   "11711": {
     "name": "Magic secateurs (nz)",
-    "quest": true,
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -44819,303 +44985,6 @@
   "11739": {
     "name": "Open herb box",
     "weight": 0.2
-  },
-  "11748": {
-    "name": "New crystal bow (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11749": {
-    "name": "Crystal bow full (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11750": {
-    "name": "Crystal bow 9/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11751": {
-    "name": "Crystal bow 8/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11752": {
-    "name": "Crystal bow 7/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11753": {
-    "name": "Crystal bow 6/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11754": {
-    "name": "Crystal bow 5/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11755": {
-    "name": "Crystal bow 4/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11756": {
-    "name": "Crystal bow 3/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11757": {
-    "name": "Crystal bow 2/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11758": {
-    "name": "Crystal bow 1/10 (i)",
-    "quest": true,
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 100,
-      "rstr": 70,
-      "aspeed": 5
-    }
-  },
-  "11759": {
-    "name": "New crystal shield (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11760": {
-    "name": "Crystal shield full (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11761": {
-    "name": "Crystal shield 9/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11762": {
-    "name": "Crystal shield 8/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11763": {
-    "name": "Crystal shield 7/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11764": {
-    "name": "Crystal shield 6/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11765": {
-    "name": "Crystal shield 5/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11766": {
-    "name": "Crystal shield 4/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11767": {
-    "name": "Crystal shield 3/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11768": {
-    "name": "Crystal shield 2/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
-  },
-  "11769": {
-    "name": "Crystal shield 1/10 (i)",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
-    }
   },
   "11770": {
     "name": "Seers ring (i)",
@@ -51442,204 +51311,6 @@
     "equipment": {
       "slot": 3,
       "aspeed": 4
-    }
-  },
-  "13080": {
-    "name": "New crystal halberd full (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13081": {
-    "name": "Crystal halberd full (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13082": {
-    "name": "Crystal halberd 9/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13083": {
-    "name": "Crystal halberd 8/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13084": {
-    "name": "Crystal halberd 7/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13085": {
-    "name": "Crystal halberd 6/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13086": {
-    "name": "Crystal halberd 5/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13087": {
-    "name": "Crystal halberd 4/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13088": {
-    "name": "Crystal halberd 3/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13089": {
-    "name": "Crystal halberd 2/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
-    }
-  },
-  "13090": {
-    "name": "Crystal halberd 1/10 (i)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 85,
-      "aslash": 110,
-      "acrush": 5,
-      "amagic": -4,
-      "dstab": -1,
-      "dslash": 4,
-      "dcrush": 5,
-      "str": 118,
-      "aspeed": 7
     }
   },
   "13102": {
@@ -59370,7 +59041,7 @@
     "weight": 4.0
   },
   "20792": {
-    "name": "Hardcore Ironman helm",
+    "name": "Hardcore ironman helm",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -63556,6 +63227,10 @@
     "name": "Redwood bird house",
     "weight": 0.453,
     "ge_limit": 250
+  },
+  "22208": {
+    "name": "Wrath rune",
+    "ge_limit": 10000
   },
   "22209": {
     "name": "Extended super antifire(4)",
@@ -68419,7 +68094,7 @@
     "weight": 0.02
   },
   "23794": {
-    "name": "clear liquid",
+    "name": "Clear liquid",
     "quest": true,
     "weight": 0.02
   },
@@ -69571,7 +69246,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 125
   },
   "24006": {
     "name": "Elven gloves",
@@ -71082,7 +70758,7 @@
       "slot": 10
     }
   },
-  "24326": {
+  "24325": {
     "name": "Pumpkin lantern",
     "weight": 0.07,
     "equipable": true,
@@ -71289,7 +70965,7 @@
       "slot": 3,
       "aspeed": 5
     },
-    "ge_limit": 5
+    "ge_limit": 10
   },
   "24397": {
     "name": "Twisted hat (t2)",
@@ -71389,7 +71065,8 @@
       "str": 89,
       "prayer": 2,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "24419": {
     "name": "Inquisitor's great helm",
@@ -71587,7 +71264,8 @@
   },
   "24495": {
     "name": "Jar of dreams",
-    "weight": 0.04
+    "weight": 0.04,
+    "ge_limit": 4
   },
   "24511": {
     "name": "Harmonised orb",
@@ -71766,6 +71444,10 @@
     "name": "Blighted super restore(1)",
     "weight": 0.02
   },
+  "24607": {
+    "name": "Blighted ancient ice sack",
+    "ge_limit": 10000
+  },
   "24617": {
     "name": "Vesta's blighted longsword",
     "weight": 1.814,
@@ -71800,35 +71482,43 @@
   },
   "24623": {
     "name": "Divine battlemage potion(4)",
-    "weight": 0.135
+    "weight": 0.135,
+    "ge_limit": 2000
   },
   "24626": {
     "name": "Divine battlemage potion(3)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "24629": {
     "name": "Divine battlemage potion(2)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "24632": {
     "name": "Divine battlemage potion(1)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "24635": {
     "name": "Divine bastion potion(4)",
-    "weight": 0.135
+    "weight": 0.135,
+    "ge_limit": 2000
   },
   "24638": {
     "name": "Divine bastion potion(3)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "24641": {
     "name": "Divine bastion potion(2)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "24644": {
     "name": "Divine bastion potion(1)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "24664": {
     "name": "Twisted ancestral hat",
@@ -72882,7 +72572,12 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
     }
   },
   "25048": {
@@ -73574,6 +73269,10 @@
     "equipable": true,
     "equipment": {}
   },
+  "25280": {
+    "name": "Essence pack",
+    "weight": 4.535
+  },
   "25282": {
     "name": "Sled",
     "weight": 1.0,
@@ -73920,6 +73619,15 @@
       "dmagic": 17
     }
   },
+  "25419": {
+    "name": "Urium remains",
+    "weight": 1.36,
+    "ge_limit": 7500
+  },
+  "25422": {
+    "name": "Bleached bones",
+    "weight": 0.5
+  },
   "25424": {
     "name": "Gold key red",
     "weight": 0.01
@@ -73990,7 +73698,8 @@
   },
   "25454": {
     "name": "Gold locks",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 8
   },
   "25457": {
     "name": "Broken coffin",
@@ -74297,59 +74006,258 @@
       "drange": 2
     }
   },
-  "25504": {
-    "name": "List of monkey sightings",
-    "quest": true,
-    "weight": 0.014
+  "25521": {
+    "name": "Jar of spirits",
+    "weight": 0.04,
+    "ge_limit": 4
   },
-  "25505": {
-    "name": "Premium banana",
-    "quest": true,
-    "weight": 0.05
+  "25524": {
+    "name": "Jar of smoke",
+    "weight": 0.04,
+    "ge_limit": 4
   },
-  "25506": {
-    "name": "Bamboo",
-    "quest": true,
-    "weight": 0.1
+  "25533": {
+    "name": "Soft clay pack",
+    "weight": 4.535
   },
-  "25507": {
-    "name": "Monkey cage",
-    "quest": true,
-    "weight": 1.5
+  "25535": {
+    "name": "Essence pack",
+    "weight": 4.535
   },
-  "25508": {
-    "name": "Donie's caged monkey",
-    "quest": true,
-    "weight": 1.5
+  "25537": {
+    "name": "Bag full of gems",
+    "weight": 1.0
   },
-  "25509": {
-    "name": "Bob's caged monkey",
-    "quest": true,
-    "weight": 1.5
+  "25539": {
+    "name": "Celestial ring (uncharged)",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
   },
-  "25510": {
-    "name": "Aereck's caged monkey",
-    "quest": true,
-    "weight": 1.5
+  "25541": {
+    "name": "Celestial ring",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
   },
-  "25511": {
-    "name": "Cow's caged monkey",
-    "quest": true,
-    "weight": 1.5
+  "25543": {
+    "name": "Celestial signet (uncharged)",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
   },
-  "25512": {
-    "name": "Unicorn's caged monkey",
-    "quest": true,
-    "weight": 1.5
+  "25545": {
+    "name": "Celestial signet",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
   },
-  "25513": {
-    "name": "Sheep's caged monkey",
-    "quest": true,
-    "weight": 1.5
+  "25547": {
+    "name": "Star fragment",
+    "weight": 2.721
   },
-  "25514": {
-    "name": "Unicorn horn",
-    "weight": 0.007,
-    "ge_limit": 13000
+  "25549": {
+    "name": "Golden prospector helmet",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25551": {
+    "name": "Golden prospector jacket",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25553": {
+    "name": "Golden prospector legs",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25555": {
+    "name": "Golden prospector boots",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25557": {
+    "name": "Dark flippers",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": -2,
+      "aslash": -2,
+      "acrush": -2,
+      "dslash": 1,
+      "dcrush": 1
+    }
+  },
+  "25559": {
+    "name": "Big harpoonfish",
+    "weight": 0.7
+  },
+  "25561": {
+    "name": "Stuffed big harpoonfish",
+    "weight": 0.9
+  },
+  "25564": {
+    "name": "Raw harpoonfish",
+    "weight": 0.5
+  },
+  "25565": {
+    "name": "Harpoonfish",
+    "weight": 0.45
+  },
+  "25567": {
+    "name": "The desert trout - ship's log",
+    "weight": 0.51
+  },
+  "25569": {
+    "name": "Spirit anglers research notes",
+    "weight": 0.51
+  },
+  "25571": {
+    "name": "Damp egg",
+    "weight": 0.02
+  },
+  "25574": {
+    "name": "Tome of water",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 8,
+      "dmagic": 8
+    }
+  },
+  "25576": {
+    "name": "Tome of water (empty)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 8,
+      "dmagic": 8
+    }
+  },
+  "25580": {
+    "name": "Tackle box",
+    "weight": 0.95
+  },
+  "25582": {
+    "name": "Fish barrel",
+    "weight": 1.39,
+    "equipable": true,
+    "equipment": {}
+  },
+  "25584": {
+    "name": "Open fish barrel",
+    "weight": 1.39,
+    "equipable": true,
+    "equipment": {}
+  },
+  "25585": {
+    "name": "Fish sack barrel",
+    "equipable": true,
+    "equipment": {
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
+  },
+  "25587": {
+    "name": "Open fish sack barrel",
+    "equipable": true,
+    "equipment": {
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
+  },
+  "25590": {
+    "name": "Casket",
+    "ge_limit": 50
+  },
+  "25592": {
+    "name": "Spirit angler headband",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25594": {
+    "name": "Spirit angler top",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "25596": {
+    "name": "Spirit angler waders",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "25598": {
+    "name": "Spirit angler boots",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "25604": {
+    "name": "Gregg's eastdoor",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 6
+    }
+  },
+  "25606": {
+    "name": "Propeller hat",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25608": {
+    "name": "Pastel flowers",
+    "quest": true,
+    "weight": 0.002
+  },
+  "25609": {
+    "name": "Gregg's iou",
+    "quest": true,
+    "weight": 0.01
+  },
+  "25610": {
+    "name": "Thick dye",
+    "quest": true,
+    "weight": 0.02
   }
 }
