@@ -395,14 +395,6 @@
     "name": "Big Wolf",
     "hitpoints": 74
   },
-  "116": {
-    "name": "Wolf",
-    "hitpoints": 34
-  },
-  "117": {
-    "name": "Wolf",
-    "hitpoints": 34
-  },
   "130": {
     "name": "Skeleton",
     "hitpoints": 29
@@ -458,10 +450,6 @@
   "143": {
     "name": "Rocnar",
     "hitpoints": 100
-  },
-  "231": {
-    "name": "Wolf",
-    "hitpoints": 34
   },
   "232": {
     "name": "Jungle Wolf",
@@ -3467,6 +3455,10 @@
     "name": "TzHaar-Ket",
     "hitpoints": 140
   },
+  "2187": {
+    "name": "TzHaar-Ket",
+    "hitpoints": 140
+  },
   "2189": {
     "name": "Tz-Kih",
     "hitpoints": 10
@@ -4959,10 +4951,6 @@
     "name": "Man",
     "hitpoints": 7
   },
-  "3268": {
-    "name": "Woman",
-    "hitpoints": 7
-  },
   "3269": {
     "name": "Guard",
     "hitpoints": 22
@@ -5732,7 +5720,7 @@
     "hitpoints": 15
   },
   "3911": {
-    "name": "Black unicorn",
+    "name": "Black unicorn Foal",
     "hitpoints": 25
   },
   "3912": {
@@ -5945,7 +5933,7 @@
   },
   "4114": {
     "name": "White Knight",
-    "hitpoints": 55
+    "hitpoints": 52
   },
   "4115": {
     "name": "Fareed (hard)",
@@ -7785,11 +7773,11 @@
   },
   "5758": {
     "name": "Penance Ranger",
-    "hitpoints": 29
+    "hitpoints": 28
   },
   "5759": {
     "name": "Penance Ranger",
-    "hitpoints": 32
+    "hitpoints": 29
   },
   "5760": {
     "name": "Penance Ranger",
@@ -7809,7 +7797,7 @@
   },
   "5764": {
     "name": "Penance Ranger",
-    "hitpoints": 55
+    "hitpoints": 54
   },
   "5765": {
     "name": "Penance Ranger",
@@ -8468,7 +8456,7 @@
     "hitpoints": 176
   },
   "6340": {
-    "name": "Cow",
+    "name": "Cow (hard)",
     "hitpoints": 160
   },
   "6342": {
@@ -11375,6 +11363,10 @@
     "name": "Husk",
     "hitpoints": 20
   },
+  "9460": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
   "9465": {
     "name": "Infernal pyrelord",
     "hitpoints": 184
@@ -11503,6 +11495,10 @@
     "name": "Shadow Wyrm",
     "hitpoints": 320
   },
+  "10399": {
+    "name": "Shadow Wyrm",
+    "hitpoints": 320
+  },
   "10400": {
     "name": "Guardian Drake",
     "hitpoints": 630
@@ -11510,6 +11506,18 @@
   "10402": {
     "name": "Colossal Hydra",
     "hitpoints": 750
+  },
+  "10435": {
+    "name": "Sourhog",
+    "hitpoints": 40
+  },
+  "10436": {
+    "name": "Sourhog",
+    "hitpoints": 40
+  },
+  "10437": {
+    "name": "Sourhog",
+    "hitpoints": 40
   },
   "10492": {
     "name": "Headless Beast (hard)",
