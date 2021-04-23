@@ -395,6 +395,14 @@
     "name": "Big Wolf",
     "hitpoints": 74
   },
+  "116": {
+    "name": "Wolf",
+    "hitpoints": 34
+  },
+  "117": {
+    "name": "Wolf",
+    "hitpoints": 34
+  },
   "130": {
     "name": "Skeleton",
     "hitpoints": 29
@@ -759,6 +767,10 @@
     "name": "Dust devil",
     "hitpoints": 105
   },
+  "426": {
+    "name": "Turoth",
+    "hitpoints": 78
+  },
   "427": {
     "name": "Turoth",
     "hitpoints": 81
@@ -774,6 +786,14 @@
   "430": {
     "name": "Turoth",
     "hitpoints": 76
+  },
+  "431": {
+    "name": "Turoth",
+    "hitpoints": 80
+  },
+  "432": {
+    "name": "Turoth",
+    "hitpoints": 80
   },
   "433": {
     "name": "Pyrefiend",
@@ -841,7 +861,7 @@
   },
   "449": {
     "name": "Crawling Hand",
-    "hitpoints": 15
+    "hitpoints": 16
   },
   "450": {
     "name": "Crawling Hand",
@@ -849,17 +869,25 @@
   },
   "451": {
     "name": "Crawling Hand",
-    "hitpoints": 15
+    "hitpoints": 16
   },
   "452": {
     "name": "Crawling Hand",
-    "hitpoints": 15
+    "hitpoints": 16
   },
   "453": {
     "name": "Crawling Hand",
     "hitpoints": 19
   },
   "454": {
+    "name": "Crawling Hand",
+    "hitpoints": 19
+  },
+  "456": {
+    "name": "Crawling Hand",
+    "hitpoints": 19
+  },
+  "457": {
     "name": "Crawling Hand",
     "hitpoints": 19
   },
@@ -1545,19 +1573,19 @@
   },
   "725": {
     "name": "Mummy",
-    "hitpoints": 10
+    "hitpoints": 90
   },
   "726": {
     "name": "Mummy",
-    "hitpoints": 10
+    "hitpoints": 90
   },
   "727": {
     "name": "Mummy",
-    "hitpoints": 10
+    "hitpoints": 90
   },
   "728": {
     "name": "Mummy",
-    "hitpoints": 10
+    "hitpoints": 90
   },
   "729": {
     "name": "Scarabs",
@@ -1768,7 +1796,7 @@
     "hitpoints": 120
   },
   "911": {
-    "name": "Agrith-Naar",
+    "name": "Agrith Naar",
     "hitpoints": 95
   },
   "924": {
@@ -2167,10 +2195,6 @@
     "name": "Woman",
     "hitpoints": 13
   },
-  "1131": {
-    "name": "Woman",
-    "hitpoints": 10
-  },
   "1134": {
     "name": "Damis (hard)",
     "hitpoints": 198
@@ -2179,6 +2203,10 @@
     "name": "Damis (hard)",
     "hitpoints": 255
   },
+  "1138": {
+    "name": "Man",
+    "hitpoints": 13
+  },
   "1139": {
     "name": "Woman",
     "hitpoints": 13
@@ -2186,10 +2214,6 @@
   "1140": {
     "name": "Woman",
     "hitpoints": 13
-  },
-  "1141": {
-    "name": "Woman",
-    "hitpoints": 10
   },
   "1142": {
     "name": "Woman",
@@ -6263,10 +6287,6 @@
     "name": "Enclave guard",
     "hitpoints": 80
   },
-  "4382": {
-    "name": "Ogre shaman",
-    "hitpoints": 1
-  },
   "4383": {
     "name": "Ogre shaman",
     "hitpoints": 1
@@ -6634,10 +6654,6 @@
   "4764": {
     "name": "Target",
     "hitpoints": 1
-  },
-  "4772": {
-    "name": "Fortress Guard",
-    "hitpoints": 22
   },
   "4773": {
     "name": "Fortress Guard",
@@ -8404,7 +8420,7 @@
     "hitpoints": 132
   },
   "6327": {
-    "name": "Agrith-Naar (hard)",
+    "name": "Agrith Naar (hard)",
     "hitpoints": 209
   },
   "6328": {
@@ -8644,7 +8660,7 @@
     "hitpoints": 55
   },
   "6388": {
-    "name": "Agrith-Naar",
+    "name": "Agrith Naar",
     "hitpoints": 95
   },
   "6389": {
@@ -9738,10 +9754,6 @@
   "7312": {
     "name": "Double agent",
     "hitpoints": 160
-  },
-  "7322": {
-    "name": "Wild dog",
-    "hitpoints": 62
   },
   "7388": {
     "name": "Crushing hand",
@@ -11594,5 +11606,45 @@
   "10592": {
     "name": "Undead Zealot",
     "hitpoints": 28
+  },
+  "10654": {
+    "name": "Ancient Guardian",
+    "hitpoints": 40
+  },
+  "10655": {
+    "name": "Ancient Guardian",
+    "hitpoints": 40
+  },
+  "10689": {
+    "name": "Chaos Golem",
+    "hitpoints": 94
+  },
+  "10690": {
+    "name": "Rubble",
+    "hitpoints": 94
+  },
+  "10691": {
+    "name": "Body Golem",
+    "hitpoints": 60
+  },
+  "10692": {
+    "name": "Rubble",
+    "hitpoints": 60
+  },
+  "10693": {
+    "name": "Mind Golem",
+    "hitpoints": 40
+  },
+  "10694": {
+    "name": "Rubble",
+    "hitpoints": 40
+  },
+  "10695": {
+    "name": "Flawed Golem",
+    "hitpoints": 25
+  },
+  "10696": {
+    "name": "Rubble",
+    "hitpoints": 25
   }
 }
