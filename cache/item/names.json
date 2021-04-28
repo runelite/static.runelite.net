@@ -11934,7 +11934,7 @@
   "19608": "Unstrung heavy ballista",
   "19610": "Monkey tail",
   "19611": "Monkey tail",
-  "19613": "Lumbridge graveyard teleport",
+  "19613": "Arceuus library teleport",
   "19615": "Draynor manor teleport",
   "19617": "Mind altar teleport",
   "19619": "Salve graveyard teleport",
@@ -13404,9 +13404,6 @@
   "21817": "Bracelet of ethereum (uncharged)",
   "21818": "Bracelet of ethereum (uncharged)",
   "21820": "Revenant ether",
-  "21826": "Redundant hat",
-  "21829": "Redundant top",
-  "21832": "Redundant leggings",
   "21837": "Ogre artefact",
   "21838": "Shaman mask",
   "21839": "Shaman mask",
@@ -15824,5 +15821,8 @@
   "25694": "Ancient carcanet",
   "25696": "Mind core",
   "25698": "Body core",
-  "25700": "Chaos core"
+  "25700": "Chaos core",
+  "25702": "Ungael lab notes",
+  "25704": "Lithkren vault notes",
+  "25706": "Dusty note"
 }
