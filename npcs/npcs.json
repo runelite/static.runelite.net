@@ -5067,6 +5067,10 @@
     "name": "Hero",
     "hitpoints": 82
   },
+  "3296": {
+    "name": "Forester",
+    "hitpoints": 17
+  },
   "3297": {
     "name": "Knight of Ardougne",
     "hitpoints": 52
@@ -5078,10 +5082,6 @@
   "3299": {
     "name": "Woman",
     "hitpoints": 7
-  },
-  "3300": {
-    "name": "Knight of Ardougne",
-    "hitpoints": 52
   },
   "3301": {
     "name": "Archer",
@@ -11361,7 +11361,7 @@
   },
   "9452": {
     "name": "Parasite",
-    "hitpoints": 40
+    "hitpoints": 80
   },
   "9453": {
     "name": "Parasite",
@@ -11611,8 +11611,12 @@
     "name": "Ancient Guardian",
     "hitpoints": 40
   },
-  "10655": {
+  "10665": {
     "name": "Ancient Guardian",
+    "hitpoints": 40
+  },
+  "10666": {
+    "name": "Rubble",
     "hitpoints": 40
   },
   "10689": {
