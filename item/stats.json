@@ -18937,7 +18937,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -19003,7 +19003,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -14,
-      "arange": -7,
+      "arange": -11,
       "dstab": 75,
       "dslash": 72,
       "dcrush": 73,
@@ -19136,7 +19136,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -19200,7 +19200,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -19951,7 +19951,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -19966,7 +19966,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -19981,7 +19981,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -19996,7 +19996,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -20237,7 +20237,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -14,
-      "arange": -7,
+      "arange": -11,
       "dstab": 75,
       "dslash": 72,
       "dcrush": 73,
@@ -20252,7 +20252,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -14,
-      "arange": -7,
+      "arange": -11,
       "dstab": 75,
       "dslash": 72,
       "dcrush": 73,
@@ -20267,7 +20267,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -14,
-      "arange": -7,
+      "arange": -11,
       "dstab": 75,
       "dslash": 72,
       "dcrush": 73,
@@ -20282,7 +20282,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -14,
-      "arange": -7,
+      "arange": -11,
       "dstab": 75,
       "dslash": 72,
       "dcrush": 73,
@@ -20777,7 +20777,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -20792,7 +20792,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -20807,7 +20807,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -20822,7 +20822,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -21055,7 +21055,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -21070,7 +21070,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -21085,7 +21085,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -21100,7 +21100,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -21,
-      "arange": -7,
+      "arange": -11,
       "dstab": 85,
       "dslash": 82,
       "dcrush": 83,
@@ -27563,6 +27563,10 @@
   "6716": {
     "name": "Karamthulhu",
     "quest": true,
+    "weight": 0.001
+  },
+  "6717": {
+    "name": "Karamthulhu",
     "weight": 0.001
   },
   "6718": {
@@ -35479,7 +35483,7 @@
       "slot": 3,
       "aslash": -1,
       "acrush": 7,
-      "amagic": 4,
+      "amagic": 10,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
@@ -55241,10 +55245,6 @@
     "weight": 0.25,
     "ge_limit": 8
   },
-  "19613": {
-    "name": "Lumbridge graveyard teleport",
-    "ge_limit": 10000
-  },
   "19615": {
     "name": "Draynor manor teleport",
     "ge_limit": 10000
@@ -61065,7 +61065,7 @@
       "slot": 3,
       "aslash": -1,
       "acrush": 7,
-      "amagic": 4,
+      "amagic": 10,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
@@ -74931,7 +74931,7 @@
       "astab": 20,
       "aslash": -2,
       "acrush": 40,
-      "str": 36,
+      "str": 40,
       "prayer": 2,
       "aspeed": 4
     }
@@ -74945,7 +74945,7 @@
       "astab": 20,
       "aslash": -2,
       "acrush": 40,
-      "str": 36,
+      "str": 40,
       "prayer": 2,
       "aspeed": 4
     }
@@ -75050,5 +75050,19 @@
   "25700": {
     "name": "Chaos core",
     "weight": 0.02
+  },
+  "25702": {
+    "name": "Ungael lab notes",
+    "quest": true,
+    "weight": 0.51
+  },
+  "25704": {
+    "name": "Lithkren vault notes",
+    "quest": true,
+    "weight": 0.51
+  },
+  "25706": {
+    "name": "Dusty note",
+    "quest": true
   }
 }
