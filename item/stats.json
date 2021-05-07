@@ -13582,11 +13582,6 @@
     "weight": 1.0,
     "ge_limit": 13000
   },
-  "3261": {
-    "name": "Goutweed",
-    "quest": true,
-    "weight": 0.007
-  },
   "3262": {
     "name": "Troll thistle",
     "quest": true,
@@ -14039,21 +14034,25 @@
   },
   "3422": {
     "name": "Olive oil(4)",
+    "quest": true,
     "weight": 0.035,
     "ge_limit": 10000
   },
   "3424": {
     "name": "Olive oil(3)",
+    "quest": true,
     "weight": 0.03,
     "ge_limit": 10000
   },
   "3426": {
     "name": "Olive oil(2)",
+    "quest": true,
     "weight": 0.025,
     "ge_limit": 10000
   },
   "3428": {
     "name": "Olive oil(1)",
+    "quest": true,
     "weight": 0.02,
     "ge_limit": 10000
   },
@@ -55245,6 +55244,10 @@
     "weight": 0.25,
     "ge_limit": 8
   },
+  "19613": {
+    "name": "Arceuus library teleport",
+    "ge_limit": 10000
+  },
   "19615": {
     "name": "Draynor manor teleport",
     "ge_limit": 10000
@@ -66032,11 +66035,6 @@
     "name": "Dragonfruit",
     "weight": 0.2,
     "ge_limit": 11000
-  },
-  "22932": {
-    "name": "White lily",
-    "weight": 0.02,
-    "ge_limit": 600
   },
   "22935": {
     "name": "Celastrus bark",

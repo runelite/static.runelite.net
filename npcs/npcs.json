@@ -1447,18 +1447,6 @@
     "name": "Goblin",
     "hitpoints": 12
   },
-  "674": {
-    "name": "Goblin",
-    "hitpoints": 12
-  },
-  "677": {
-    "name": "Goblin",
-    "hitpoints": 12
-  },
-  "678": {
-    "name": "Goblin",
-    "hitpoints": 12
-  },
   "680": {
     "name": "Giant skeleton",
     "hitpoints": 70
@@ -2195,6 +2183,10 @@
     "name": "Woman",
     "hitpoints": 13
   },
+  "1131": {
+    "name": "Woman",
+    "hitpoints": 10
+  },
   "1134": {
     "name": "Damis (hard)",
     "hitpoints": 198
@@ -2214,6 +2206,10 @@
   "1140": {
     "name": "Woman",
     "hitpoints": 13
+  },
+  "1141": {
+    "name": "Woman",
+    "hitpoints": 10
   },
   "1142": {
     "name": "Woman",
@@ -3621,11 +3617,11 @@
   },
   "2246": {
     "name": "Goblin",
-    "hitpoints": 3
+    "hitpoints": 15
   },
   "2247": {
     "name": "Goblin",
-    "hitpoints": 15
+    "hitpoints": 3
   },
   "2248": {
     "name": "Goblin",
@@ -3765,7 +3761,7 @@
   },
   "2484": {
     "name": "Goblin",
-    "hitpoints": 12
+    "hitpoints": 5
   },
   "2485": {
     "name": "Goblin",
@@ -4534,14 +4530,6 @@
   "3046": {
     "name": "Goblin",
     "hitpoints": 16
-  },
-  "3047": {
-    "name": "Goblin",
-    "hitpoints": 12
-  },
-  "3048": {
-    "name": "Goblin",
-    "hitpoints": 12
   },
   "3049": {
     "name": "Hobgoblin",
