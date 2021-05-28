@@ -1,5 +1,6 @@
 net.runelite.api
 net.runelite.api.annotations
+net.runelite.api.clan
 net.runelite.api.coords
 net.runelite.api.events
 net.runelite.api.geometry
