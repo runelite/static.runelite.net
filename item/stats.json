@@ -832,7 +832,6 @@
   },
   "272": {
     "name": "Fish food",
-    "quest": true,
     "weight": 0.028,
     "ge_limit": 15
   },
@@ -13581,6 +13580,11 @@
     "name": "Bark",
     "weight": 1.0,
     "ge_limit": 13000
+  },
+  "3261": {
+    "name": "Goutweed",
+    "quest": true,
+    "weight": 0.007
   },
   "3262": {
     "name": "Troll thistle",
@@ -66036,6 +66040,11 @@
     "weight": 0.2,
     "ge_limit": 11000
   },
+  "22932": {
+    "name": "White lily",
+    "weight": 0.02,
+    "ge_limit": 600
+  },
   "22935": {
     "name": "Celastrus bark",
     "weight": 1.0,
@@ -71620,7 +71629,8 @@
       "drange": 12,
       "str": 4,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "24420": {
     "name": "Inquisitor's hauberk",
@@ -71639,7 +71649,8 @@
       "drange": 35,
       "str": 4,
       "prayer": 2
-    }
+    },
+    "ge_limit": 8
   },
   "24421": {
     "name": "Inquisitor's plateskirt",
@@ -71658,7 +71669,8 @@
       "drange": 22,
       "str": 2,
       "prayer": 2
-    }
+    },
+    "ge_limit": 8
   },
   "24422": {
     "name": "Nightmare staff",
@@ -73169,11 +73181,16 @@
   },
   "25044": {
     "name": "Trailblazer rune trophy",
-    "weight": 1.0,
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
     }
   },
   "25046": {
@@ -73410,6 +73427,7 @@
   },
   "25129": {
     "name": "Beekeeper's hat",
+    "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -74300,19 +74318,23 @@
   },
   "25442": {
     "name": "Bronze locks",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 8
   },
   "25445": {
     "name": "Steel locks",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 8
   },
   "25448": {
     "name": "Black locks",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 8
   },
   "25451": {
     "name": "Silver locks",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 8
   },
   "25454": {
     "name": "Gold locks",
@@ -75062,5 +75084,149 @@
   "25706": {
     "name": "Dusty note",
     "quest": true
+  },
+  "25712": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25714": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25715": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25716": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25717": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25718": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25719": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25720": {
+    "name": "Clan cloak",
+    "weight": 0.32,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "25721": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25723": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25724": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25725": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25726": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25727": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25728": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "25729": {
+    "name": "Clan vexillum",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   }
 }
