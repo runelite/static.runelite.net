@@ -162,7 +162,7 @@ net.runelite.client.plugins.specialcounter
 net.runelite.client.plugins.statusbars
 net.runelite.client.plugins.statusbars.config
 net.runelite.client.plugins.stretchedmode
-net.runelite.client.plugins.teamcapes
+net.runelite.client.plugins.team
 net.runelite.client.plugins.tearsofguthix
 net.runelite.client.plugins.tileindicators
 net.runelite.client.plugins.timers
