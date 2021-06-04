@@ -38940,7 +38940,6 @@
   },
   "10031": {
     "name": "Rabbit snare",
-    "quest": true,
     "weight": 0.02,
     "ge_limit": 250
   },
@@ -69518,7 +69517,8 @@
   },
   "23908": {
     "name": "Zalcano shard",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 50
   },
   "23911": {
     "name": "Crystal crown",
@@ -69635,6 +69635,10 @@
   "23951": {
     "name": "Enhanced crystal key",
     "weight": 0.01
+  },
+  "23959": {
+    "name": "Enhanced crystal teleport seed",
+    "ge_limit": 100
   },
   "23971": {
     "name": "Crystal helm",
@@ -75228,5 +75232,145 @@
       "is2h": true,
       "aspeed": 4
     }
+  },
+  "25731": {
+    "name": "Holy sanguinesti staff",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "arange": -4,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "25733": {
+    "name": "Holy sanguinesti staff (uncharged)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "arange": -4,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "25734": {
+    "name": "Holy ghrazi rapier",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 94,
+      "aslash": 55,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25736": {
+    "name": "Holy scythe of vitur",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 70,
+      "aslash": 110,
+      "acrush": 30,
+      "amagic": -6,
+      "dstab": -2,
+      "dslash": 8,
+      "dcrush": 10,
+      "str": 75,
+      "aspeed": 5
+    }
+  },
+  "25738": {
+    "name": "Holy scythe of vitur (uncharged)",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 50,
+      "aslash": 75,
+      "acrush": 10,
+      "amagic": -6,
+      "dstab": -2,
+      "dslash": 6,
+      "str": 50,
+      "aspeed": 5
+    }
+  },
+  "25739": {
+    "name": "Sanguine scythe of vitur",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 70,
+      "aslash": 110,
+      "acrush": 30,
+      "amagic": -6,
+      "dstab": -2,
+      "dslash": 8,
+      "dcrush": 10,
+      "str": 75,
+      "aspeed": 5
+    }
+  },
+  "25741": {
+    "name": "Sanguine scythe of vitur (uncharged)",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 50,
+      "aslash": 75,
+      "acrush": 10,
+      "amagic": -6,
+      "dstab": -2,
+      "dslash": 6,
+      "str": 50,
+      "aspeed": 5
+    }
+  },
+  "25746": {
+    "name": "Sanguine dust",
+    "weight": 0.19
+  },
+  "25748": {
+    "name": "Lil' maiden",
+    "weight": 0.015
+  },
+  "25749": {
+    "name": "Lil' bloat",
+    "weight": 0.015
+  },
+  "25750": {
+    "name": "Lil' nylo",
+    "weight": 0.015
+  },
+  "25751": {
+    "name": "Lil' sot",
+    "weight": 0.015
+  },
+  "25752": {
+    "name": "Lil' xarp",
+    "weight": 0.015
+  },
+  "25753": {
+    "name": "Antique lamp",
+    "weight": 0.1
   }
 }

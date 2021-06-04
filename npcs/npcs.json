@@ -11107,6 +11107,10 @@
     "name": "Corrupted Spider",
     "hitpoints": 12
   },
+  "9042": {
+    "name": "Corrupted Bat",
+    "hitpoints": 14
+  },
   "9043": {
     "name": "Corrupted Unicorn",
     "hitpoints": 44
