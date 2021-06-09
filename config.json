@@ -1,13 +1,1 @@
-{
-  "clientLoadErrorMessage": "OldSchool RuneScape is currently offline for extended game maintenance from 8am - 2pm BST.",
-  "clientLoadErrorButtons": [
-    {
-      "text": "Open news post",
-      "url": "https://secure.runescape.com/m=news/game-maintenance--wednesday-june-9th?oldschool=1"
-    },
-    {
-      "text": "Open Twitter",
-      "url": "https://twitter.com/OldSchoolRS/"
-    }
-  ]
-}
+{}
