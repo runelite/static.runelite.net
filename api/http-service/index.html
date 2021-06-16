@@ -41,18 +41,18 @@
         })
     </script>
 
-    <title>RuneLite HTTP API 1.7.11.2</title>
+    <title>RuneLite HTTP API 1.7.12</title>
 </head>
 <body class="markdown-body">
 	<noscript>
 # RuneLite HTTP API
-HTTPS://api.runelite.net/runelite-1.7.11.2
+HTTPS://api.runelite.net/runelite-1.7.12
 
 Open source RuneScape client
 
 
 
-**Version** 1.7.11.2
+**Version** 1.7.12
 
 
 
@@ -2420,456 +2420,6 @@ Open source RuneScape client
 | Status Code | Reason      | Response Model |
 |-------------|-------------|----------------|
 | default    | successful operation |  - |
-
-
-
-
-
-
-
-
-
-
-
-
-## /examine/item/{id}
-
-
-### GET
-
-<a id="getItem"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>id</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| 200    | successful operation | |
-
-
-
-
-
-
-
-### POST
-
-
-<a id="submitItem"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>id</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>body</th>
-    <td>body</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    <td>
-    
-    
-    </td>
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| default    | successful operation |  - |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## /examine/npc/{id}
-
-
-### GET
-
-<a id="getNpc"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>id</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| 200    | successful operation | |
-
-
-
-
-
-
-
-### POST
-
-
-<a id="submitNpc"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>id</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>body</th>
-    <td>body</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    <td>
-    
-    
-    </td>
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| default    | successful operation |  - |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## /examine/object/{id}
-
-
-### GET
-
-<a id="getObject"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>id</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| 200    | successful operation | |
-
-
-
-
-
-
-
-### POST
-
-
-<a id="submitObject"></a>
-
-
-
-
-
-
-
-
-
-#### Request
-
-
-
-##### Parameters
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Located in</th>
-        <th>Required</th>
-        <th>Description</th>
-        <th>Default</th>
-        <th>Schema</th>
-    </tr>
-
-
-
-<tr>
-    <th>id</th>
-    <td>path</td>
-    <td>yes</td>
-    <td></td>
-    <td> - </td>
-
-    
-            <td>integer (int32)</td>
-    
-
-</tr>
-
-<tr>
-    <th>body</th>
-    <td>body</td>
-    <td>no</td>
-    <td></td>
-    <td> - </td>
-
-    <td>
-    
-    
-    </td>
-
-</tr>
-
-
-</table>
-
-
-
-#### Response
-
-
-
-| Status Code | Reason      | Response Model |
-|-------------|-------------|----------------|
-| default    | successful operation |  - |
-
-
-
 
 
 
@@ -6075,6 +5625,19 @@ Open source RuneScape client
         </tr>
     
         <tr>
+            <td>unknown1</td>
+            <td>
+                
+                    
+                    string
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>resizeX</td>
             <td>
                 
@@ -6543,6 +6106,19 @@ Open source RuneScape client
         </tr>
     
         <tr>
+            <td>category</td>
+            <td>
+                
+                    
+                    integer (int32)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>notedID</td>
             <td>
                 
@@ -6660,19 +6236,6 @@ Open source RuneScape client
         </tr>
     
         <tr>
-            <td>tradeable</td>
-            <td>
-                
-                    
-                    boolean
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
             <td>xoffset2d</td>
             <td>
                 
@@ -6691,6 +6254,19 @@ Open source RuneScape client
                 
                     
                     integer (int32)
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>tradeable</td>
+            <td>
+                
+                    
+                    boolean
                 
             </td>
             <td>optional</td>
@@ -7392,6 +6968,19 @@ Open source RuneScape client
         </tr>
     
         <tr>
+            <td>minimapVisible</td>
+            <td>
+                
+                    
+                    boolean
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>interactable</td>
             <td>
                 
@@ -7406,19 +6995,6 @@ Open source RuneScape client
     
         <tr>
             <td>pet</td>
-            <td>
-                
-                    
-                    boolean
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>minimapVisible</td>
             <td>
                 
                     
@@ -7943,6 +7519,19 @@ Open source RuneScape client
                 
                 
                 array[integer]
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
+            <td>category</td>
+            <td>
+                
+                    
+                    integer (int32)
                 
             </td>
             <td>optional</td>
