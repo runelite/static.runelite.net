@@ -66255,6 +66255,7 @@
   },
   "23007": {
     "name": "Tatty note",
+    "quest": true,
     "weight": 0.003
   },
   "23009": {
@@ -75015,6 +75016,10 @@
     "name": "Guppy",
     "weight": 0.12
   },
+  "25656": {
+    "name": "Ruined guppy",
+    "weight": 0.12
+  },
   "25658": {
     "name": "Raw cavefish",
     "weight": 0.12
@@ -75023,12 +75028,20 @@
     "name": "Cavefish",
     "weight": 0.12
   },
+  "25662": {
+    "name": "Ruined cavefish",
+    "weight": 0.12
+  },
   "25664": {
     "name": "Raw tetra",
     "weight": 0.12
   },
   "25666": {
     "name": "Tetra",
+    "weight": 0.12
+  },
+  "25668": {
+    "name": "Ruined tetra",
     "weight": 0.12
   },
   "25670": {
@@ -75233,6 +75246,10 @@
       "aspeed": 4
     }
   },
+  "25730": {
+    "name": "Bandages (Theatre of Blood)",
+    "quest": true
+  },
   "25731": {
     "name": "Holy sanguinesti staff",
     "weight": 1.5,
@@ -75372,5 +75389,278 @@
   "25753": {
     "name": "Antique lamp",
     "weight": 0.1
+  },
+  "25754": {
+    "name": "Antipoison (-)(1)",
+    "weight": 0.02
+  },
+  "25755": {
+    "name": "Antipoison (-)(2)",
+    "weight": 0.02
+  },
+  "25756": {
+    "name": "Antipoison (-)(3)",
+    "weight": 0.02
+  },
+  "25757": {
+    "name": "Antipoison (-)(4)",
+    "weight": 0.02
+  },
+  "25758": {
+    "name": "Antipoison potion (1)",
+    "weight": 0.02
+  },
+  "25759": {
+    "name": "Antipoison potion (2)",
+    "weight": 0.02
+  },
+  "25760": {
+    "name": "Antipoison potion (3)",
+    "weight": 0.02
+  },
+  "25761": {
+    "name": "Antipoison potion (4)",
+    "weight": 0.02
+  },
+  "25762": {
+    "name": "Antipoison (+)(1)",
+    "weight": 0.02
+  },
+  "25763": {
+    "name": "Antipoison (+)(2)",
+    "weight": 0.02
+  },
+  "25764": {
+    "name": "Antipoison (+)(3)",
+    "weight": 0.02
+  },
+  "25765": {
+    "name": "Antipoison (+)(4)",
+    "weight": 0.02
+  },
+  "25766": {
+    "name": "Fiendish ashes",
+    "weight": 0.056
+  },
+  "25769": {
+    "name": "Vile ashes",
+    "weight": 0.056
+  },
+  "25772": {
+    "name": "Malicious ashes",
+    "weight": 0.056
+  },
+  "25775": {
+    "name": "Abyssal ashes",
+    "weight": 0.056
+  },
+  "25778": {
+    "name": "Infernal ashes",
+    "weight": 0.056
+  },
+  "25781": {
+    "name": "Ash sanctifier",
+    "weight": 0.025
+  },
+  "25783": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "25784": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "25785": {
+    "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "25786": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "25787": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "25788": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "25789": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "25790": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "25791": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "25792": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "25793": {
+    "name": "Receipt",
+    "quest": true,
+    "weight": 0.003
+  },
+  "25794": {
+    "name": "Bone",
+    "quest": true,
+    "weight": 0.907
+  },
+  "25795": {
+    "name": "Rose",
+    "quest": true,
+    "weight": 0.003
+  },
+  "25796": {
+    "name": "Delivery confirmation",
+    "quest": true,
+    "weight": 0.028
+  },
+  "25797": {
+    "name": "Order form",
+    "quest": true,
+    "weight": 0.001
+  },
+  "25798": {
+    "name": "Demonic incantations",
+    "quest": true,
+    "weight": 0.226
+  },
+  "25799": {
+    "name": "Bloody knife",
+    "quest": true,
+    "weight": 0.453
+  },
+  "25800": {
+    "name": "Cultist robe",
+    "quest": true,
+    "weight": 0.907
+  },
+  "25801": {
+    "name": "Kourend map",
+    "quest": true,
+    "weight": 0.51
+  },
+  "25802": {
+    "name": "Rose's diary",
+    "quest": true,
+    "weight": 0.226
+  },
+  "25803": {
+    "name": "Bluish key",
+    "quest": true,
+    "weight": 0.01
+  },
+  "25804": {
+    "name": "Cold key",
+    "quest": true,
+    "weight": 0.01
+  },
+  "25805": {
+    "name": "Rose's note",
+    "quest": true,
+    "weight": 0.003
+  },
+  "25806": {
+    "name": "Rose's note",
+    "quest": true,
+    "weight": 0.003
+  },
+  "25807": {
+    "name": "Rose's note",
+    "quest": true,
+    "weight": 0.003
+  },
+  "25808": {
+    "name": "Rose's note",
+    "quest": true,
+    "weight": 0.003
+  },
+  "25809": {
+    "name": "Lizardman egg",
+    "quest": true,
+    "weight": 0.038
+  },
+  "25810": {
+    "name": "Damp key",
+    "quest": true
+  },
+  "25811": {
+    "name": "Broken redirector",
+    "quest": true,
+    "weight": 1.0
+  },
+  "25812": {
+    "name": "Sulphur potion",
+    "quest": true,
+    "weight": 0.056
+  },
+  "25813": {
+    "name": "Shielding potion",
+    "quest": true,
+    "weight": 0.056
+  },
+  "25814": {
+    "name": "Declaration",
+    "quest": true,
+    "weight": 0.003
+  },
+  "25815": {
+    "name": "Dark nullifier",
+    "quest": true,
+    "weight": 1.0
+  },
+  "25816": {
+    "name": "Shayzien journal",
+    "quest": true,
+    "weight": 0.28
+  },
+  "25818": {
+    "name": "Book of the dead",
+    "quest": true,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 6,
+      "prayer": 3
+    }
+  },
+  "25820": {
+    "name": "Antique lamp",
+    "quest": true
+  },
+  "25822": {
+    "name": "Protest banner",
+    "quest": true,
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "25824": {
+    "name": "Research notes",
+    "quest": true,
+    "weight": 0.028
+  },
+  "25826": {
+    "name": "Lizardkicker",
+    "weight": 0.55
+  },
+  "25829": {
+    "name": "Old note",
+    "quest": true,
+    "weight": 0.028
+  },
+  "25831": {
+    "name": "Shayzia military orders",
+    "weight": 0.028
   }
 }

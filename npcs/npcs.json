@@ -5136,7 +5136,7 @@
     "hitpoints": 123
   },
   "3361": {
-    "name": "Kourend guard",
+    "name": "Guard (Deadman Mode)",
     "hitpoints": 800
   },
   "3400": {
@@ -8956,15 +8956,7 @@
     "hitpoints": 250
   },
   "6574": {
-    "name": "Gnome guard",
-    "hitpoints": 800
-  },
-  "6575": {
-    "name": "Guard",
-    "hitpoints": 800
-  },
-  "6576": {
-    "name": "Guard",
+    "name": "Ghost guard",
     "hitpoints": 800
   },
   "6579": {
@@ -9092,7 +9084,7 @@
     "hitpoints": 62
   },
   "6698": {
-    "name": "Ghost guard",
+    "name": "Kourend guard",
     "hitpoints": 800
   },
   "6699": {
@@ -9108,7 +9100,7 @@
     "hitpoints": 800
   },
   "6702": {
-    "name": "Guard",
+    "name": "Gnome guard",
     "hitpoints": 800
   },
   "6716": {
@@ -11642,5 +11634,49 @@
   "10696": {
     "name": "Rubble",
     "hitpoints": 25
+  },
+  "10936": {
+    "name": "Judge of Yama",
+    "hitpoints": 260
+  },
+  "10938": {
+    "name": "Judge of Yama",
+    "hitpoints": 260
+  },
+  "10957": {
+    "name": "Phantom Hand",
+    "hitpoints": 12
+  },
+  "10958": {
+    "name": "Phantom Hand",
+    "hitpoints": 12
+  },
+  "10989": {
+    "name": "Barbarian Warlord",
+    "hitpoints": 80
+  },
+  "11066": {
+    "name": "Boar",
+    "hitpoints": 8
+  },
+  "11067": {
+    "name": "Boar",
+    "hitpoints": 12
+  },
+  "11068": {
+    "name": "Lynx",
+    "hitpoints": 25
+  },
+  "11069": {
+    "name": "Lynx",
+    "hitpoints": 30
+  },
+  "11071": {
+    "name": "Lynx Tamer",
+    "hitpoints": 22
+  },
+  "11088": {
+    "name": "Necromancer",
+    "hitpoints": 40
   }
 }
