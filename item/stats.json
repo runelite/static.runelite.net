@@ -28209,6 +28209,10 @@
       "slot": 2
     }
   },
+  "6864": {
+    "name": "Marionette handle",
+    "weight": 0.2
+  },
   "6865": {
     "name": "Blue marionette",
     "weight": 0.907
@@ -75621,6 +75625,11 @@
     "quest": true,
     "weight": 0.28
   },
+  "25817": {
+    "name": "Royal accord of twill",
+    "quest": true,
+    "weight": 0.003
+  },
   "25818": {
     "name": "Book of the dead",
     "quest": true,
@@ -75656,11 +75665,14 @@
   },
   "25829": {
     "name": "Old note",
-    "quest": true,
     "weight": 0.028
   },
   "25831": {
     "name": "Shayzia military orders",
     "weight": 0.028
+  },
+  "25833": {
+    "name": "Raw boar meat",
+    "weight": 0.425
   }
 }

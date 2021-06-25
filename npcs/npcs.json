@@ -680,19 +680,19 @@
     "hitpoints": 5
   },
   "397": {
-    "name": "Town Guard",
+    "name": "Guard",
     "hitpoints": 22
   },
   "398": {
-    "name": "Town Guard",
+    "name": "Guard",
     "hitpoints": 22
   },
   "399": {
-    "name": "Town Guard",
+    "name": "Guard",
     "hitpoints": 22
   },
   "400": {
-    "name": "Town Guard",
+    "name": "Guard",
     "hitpoints": 22
   },
   "406": {
@@ -4171,6 +4171,10 @@
     "name": "Bruise Blamish Snail",
     "hitpoints": 15
   },
+  "2761": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
   "2790": {
     "name": "Cow",
     "hitpoints": 8
@@ -5134,10 +5138,6 @@
   "3360": {
     "name": "Leon d'Cour",
     "hitpoints": 123
-  },
-  "3361": {
-    "name": "Guard (Deadman Mode)",
-    "hitpoints": 800
   },
   "3400": {
     "name": "Culinaromancer",
@@ -8956,7 +8956,15 @@
     "hitpoints": 250
   },
   "6574": {
-    "name": "Ghost guard",
+    "name": "Gnome guard",
+    "hitpoints": 800
+  },
+  "6575": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "6576": {
+    "name": "Guard",
     "hitpoints": 800
   },
   "6579": {
@@ -9084,7 +9092,7 @@
     "hitpoints": 62
   },
   "6698": {
-    "name": "Kourend guard",
+    "name": "Ghost guard",
     "hitpoints": 800
   },
   "6699": {
@@ -9100,7 +9108,7 @@
     "hitpoints": 800
   },
   "6702": {
-    "name": "Gnome guard",
+    "name": "Guard",
     "hitpoints": 800
   },
   "6716": {
@@ -9326,14 +9334,6 @@
   "6996": {
     "name": "Mugger",
     "hitpoints": 8
-  },
-  "7016": {
-    "name": "Kourend guard",
-    "hitpoints": 22
-  },
-  "7017": {
-    "name": "Kourend head guard",
-    "hitpoints": 86
   },
   "7018": {
     "name": "Reanimated Goblin",
@@ -11643,6 +11643,34 @@
     "name": "Judge of Yama",
     "hitpoints": 260
   },
+  "10940": {
+    "name": "Assassin",
+    "hitpoints": 120
+  },
+  "10941": {
+    "name": "Assassin",
+    "hitpoints": 120
+  },
+  "10947": {
+    "name": "Lizardman brute",
+    "hitpoints": 60
+  },
+  "10953": {
+    "name": "Xamphur",
+    "hitpoints": 450
+  },
+  "10954": {
+    "name": "Xamphur",
+    "hitpoints": 450
+  },
+  "10955": {
+    "name": "Xamphur",
+    "hitpoints": 450
+  },
+  "10956": {
+    "name": "Xamphur",
+    "hitpoints": 450
+  },
   "10957": {
     "name": "Phantom Hand",
     "hitpoints": 12
@@ -11651,9 +11679,41 @@
     "name": "Phantom Hand",
     "hitpoints": 12
   },
+  "10984": {
+    "name": "Barbarian",
+    "hitpoints": 18
+  },
+  "10985": {
+    "name": "Barbarian",
+    "hitpoints": 18
+  },
+  "10986": {
+    "name": "Barbarian",
+    "hitpoints": 24
+  },
+  "10987": {
+    "name": "Barbarian",
+    "hitpoints": 18
+  },
+  "10988": {
+    "name": "Barbarian",
+    "hitpoints": 20
+  },
   "10989": {
     "name": "Barbarian Warlord",
     "hitpoints": 80
+  },
+  "11063": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "11064": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "11065": {
+    "name": "Bandit",
+    "hitpoints": 27
   },
   "11066": {
     "name": "Boar",
@@ -11675,8 +11735,116 @@
     "name": "Lynx Tamer",
     "hitpoints": 22
   },
+  "11072": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11073": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
+  "11074": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11075": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
+  "11076": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11077": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
+  "11078": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11079": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
+  "11080": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11081": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
+  "11082": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11083": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
+  "11084": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11085": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
+  "11086": {
+    "name": "Soldier",
+    "hitpoints": 22
+  },
+  "11087": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
   "11088": {
     "name": "Necromancer",
     "hitpoints": 40
+  },
+  "11093": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11095": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11097": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11099": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11101": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11103": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11105": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11107": {
+    "name": "Head Guard",
+    "hitpoints": 86
+  },
+  "11109": {
+    "name": "Dark warrior",
+    "hitpoints": 80
+  },
+  "11110": {
+    "name": "Dark warrior",
+    "hitpoints": 70
+  },
+  "11111": {
+    "name": "Dark warrior",
+    "hitpoints": 50
   }
 }
