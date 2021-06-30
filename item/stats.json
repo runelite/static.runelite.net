@@ -2881,7 +2881,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 3,
       "rstr": 1,
       "aspeed": 3
     },
@@ -2892,8 +2891,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 4,
-      "rstr": 3,
+      "rstr": 2,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -2903,8 +2901,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 5,
-      "rstr": 4,
+      "rstr": 3,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -2914,8 +2911,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 8,
-      "rstr": 7,
+      "rstr": 9,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -2925,8 +2921,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 11,
-      "rstr": 10,
+      "rstr": 17,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -2936,8 +2931,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 15,
-      "rstr": 14,
+      "rstr": 26,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -2947,7 +2941,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 3,
       "rstr": 1,
       "aspeed": 3
     },
@@ -2958,8 +2951,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 4,
-      "rstr": 3,
+      "rstr": 2,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -2969,8 +2961,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 5,
-      "rstr": 4,
+      "rstr": 3,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -2980,8 +2971,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 8,
-      "rstr": 7,
+      "rstr": 9,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -2991,8 +2981,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 11,
-      "rstr": 10,
+      "rstr": 17,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -3002,8 +2991,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 15,
-      "rstr": 14,
+      "rstr": 26,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -12744,7 +12732,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 7,
       "rstr": 6,
       "aspeed": 3
     },
@@ -12755,7 +12742,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 7,
       "rstr": 6,
       "aspeed": 3
     },
@@ -22818,7 +22804,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 3,
       "rstr": 1,
       "aspeed": 3
     },
@@ -22829,8 +22814,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 4,
-      "rstr": 3,
+      "rstr": 2,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -22840,8 +22824,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 5,
-      "rstr": 4,
+      "rstr": 3,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -22851,7 +22834,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 7,
       "rstr": 6,
       "aspeed": 3
     },
@@ -22862,8 +22844,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 8,
-      "rstr": 7,
+      "rstr": 9,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -22873,8 +22854,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 11,
-      "rstr": 10,
+      "rstr": 17,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -22884,8 +22864,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 15,
-      "rstr": 14,
+      "rstr": 26,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -22895,7 +22874,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 3,
       "rstr": 1,
       "aspeed": 3
     },
@@ -22906,8 +22884,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 4,
-      "rstr": 3,
+      "rstr": 2,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -22917,8 +22894,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 5,
-      "rstr": 4,
+      "rstr": 3,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -22928,7 +22904,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 7,
       "rstr": 6,
       "aspeed": 3
     },
@@ -22939,8 +22914,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 8,
-      "rstr": 7,
+      "rstr": 9,
       "aspeed": 3
     },
     "ge_limit": 7000
@@ -22950,8 +22924,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 11,
-      "rstr": 10,
+      "rstr": 17,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -22961,8 +22934,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 15,
-      "rstr": 14,
+      "rstr": 26,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -43546,8 +43518,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 18,
-      "rstr": 20,
+      "rstr": 35,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -43557,8 +43528,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 18,
-      "rstr": 20,
+      "rstr": 35,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -43572,8 +43542,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 18,
-      "rstr": 20,
+      "rstr": 35,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -43583,8 +43552,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "arange": 18,
-      "rstr": 20,
+      "rstr": 35,
       "aspeed": 3
     },
     "ge_limit": 11000
@@ -46195,7 +46163,8 @@
       "amagic": -8,
       "arange": 12,
       "dmagic": 24,
-      "drange": 52
+      "drange": 52,
+      "rstr": 4
     },
     "ge_limit": 8
   },
@@ -50401,7 +50370,8 @@
       "amagic": -8,
       "arange": 12,
       "dmagic": 24,
-      "drange": 52
+      "drange": 52,
+      "rstr": 4
     },
     "ge_limit": 8
   },
@@ -50973,7 +50943,7 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "arange": 60,
+      "arange": 30,
       "aspeed": 3
     },
     "ge_limit": 8
@@ -50985,8 +50955,8 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "arange": 60,
-      "rstr": 40,
+      "arange": 30,
+      "rstr": 20,
       "aspeed": 3
     }
   },
@@ -53332,6 +53302,7 @@
       "slot": 9,
       "acrush": 2,
       "amagic": -1,
+      "arange": 6,
       "dslash": 2,
       "dcrush": 3,
       "dmagic": -1,
@@ -53346,7 +53317,7 @@
     "equipment": {
       "slot": 10,
       "amagic": -2,
-      "arange": -1,
+      "arange": 4,
       "dstab": 5,
       "dslash": 7,
       "dcrush": 8
@@ -53359,7 +53330,7 @@
     "equipment": {
       "slot": 0,
       "amagic": -6,
-      "arange": -2,
+      "arange": 4,
       "dstab": 10,
       "dslash": 14,
       "dcrush": 12,
@@ -53374,7 +53345,7 @@
     "equipment": {
       "slot": 7,
       "amagic": -20,
-      "arange": -5,
+      "arange": 6,
       "dstab": 23,
       "dslash": 22,
       "dcrush": 21,
@@ -53389,9 +53360,10 @@
     "equipment": {
       "slot": 4,
       "amagic": -10,
-      "dstab": 30,
-      "dslash": 37,
-      "dcrush": 40,
+      "arange": 10,
+      "dstab": 20,
+      "dslash": 24,
+      "dcrush": 28,
       "dmagic": -4,
       "drange": 27
     }
@@ -60137,7 +60109,8 @@
       "dslash": 24,
       "dcrush": 22,
       "dmagic": 26,
-      "drange": 58
+      "drange": 58,
+      "rstr": 10
     },
     "ge_limit": 8
   },
@@ -62748,7 +62721,8 @@
       "dcrush": 28,
       "dmagic": 28,
       "drange": 68,
-      "str": -2
+      "str": -2,
+      "rstr": 8
     },
     "ge_limit": 8
   },
@@ -62768,7 +62742,8 @@
       "dcrush": -22,
       "dmagic": 28,
       "drange": 18,
-      "str": -2
+      "str": -2,
+      "rstr": 8
     },
     "ge_limit": 8
   },
@@ -69647,23 +69622,23 @@
   },
   "23971": {
     "name": "Crystal helm",
-    "weight": 2.721,
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 0,
       "amagic": -10,
-      "arange": 8,
+      "arange": 9,
       "dstab": 12,
       "dslash": 8,
       "dcrush": 14,
-      "dmagic": 26,
+      "dmagic": 10,
       "drange": 18,
       "prayer": 2
     }
   },
   "23973": {
     "name": "Crystal helm (inactive)",
-    "weight": 2.721,
+    "weight": 0.5,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -69671,23 +69646,23 @@
   },
   "23975": {
     "name": "Crystal body",
-    "weight": 9.979,
+    "weight": 2.0,
     "equipable": true,
     "equipment": {
       "slot": 4,
       "amagic": -18,
-      "arange": 30,
-      "dstab": 34,
-      "dslash": 24,
-      "dcrush": 32,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
       "dmagic": 44,
-      "drange": 53,
+      "drange": 68,
       "prayer": 3
     }
   },
   "23977": {
     "name": "Crystal body (inactive)",
-    "weight": 9.979,
+    "weight": 2.0,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -69695,23 +69670,23 @@
   },
   "23979": {
     "name": "Crystal legs",
-    "weight": 9.071,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7,
       "amagic": -12,
-      "arange": 17,
-      "dstab": 20,
-      "dslash": 16,
-      "dcrush": 24,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
       "dmagic": 34,
-      "drange": 29,
+      "drange": 38,
       "prayer": 2
     }
   },
   "23981": {
     "name": "Crystal legs (inactive)",
-    "weight": 9.071,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -69726,7 +69701,7 @@
       "slot": 3,
       "is2h": true,
       "arange": 100,
-      "rstr": 70,
+      "rstr": 78,
       "aspeed": 5
     }
   },

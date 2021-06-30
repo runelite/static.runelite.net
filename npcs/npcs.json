@@ -4171,10 +4171,6 @@
     "name": "Bruise Blamish Snail",
     "hitpoints": 15
   },
-  "2761": {
-    "name": "Hill Giant",
-    "hitpoints": 35
-  },
   "2790": {
     "name": "Cow",
     "hitpoints": 8
@@ -10001,7 +9997,7 @@
   },
   "7698": {
     "name": "Jal-Xil",
-    "hitpoints": 130
+    "hitpoints": 125
   },
   "7699": {
     "name": "Jal-Zek",
@@ -10017,7 +10013,7 @@
   },
   "7702": {
     "name": "Jal-Xil",
-    "hitpoints": 130
+    "hitpoints": 125
   },
   "7703": {
     "name": "Jal-Zek",
@@ -10033,7 +10029,7 @@
   },
   "7708": {
     "name": "Jal-MejJak",
-    "hitpoints": 80
+    "hitpoints": 75
   },
   "7744": {
     "name": "Lizardman shaman",
