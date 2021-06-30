@@ -197,6 +197,7 @@ net.runelite.client.ui.components.shadowlabel
 net.runelite.client.ui.overlay
 net.runelite.client.ui.overlay.components
 net.runelite.client.ui.overlay.infobox
+net.runelite.client.ui.overlay.outline
 net.runelite.client.ui.overlay.tooltip
 net.runelite.client.ui.overlay.worldmap
 net.runelite.client.ui.skin
