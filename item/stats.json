@@ -2947,7 +2947,7 @@
     "ge_limit": 7000
   },
   "813": {
-    "name": "Iron dart(p)",
+    "name": "Iron dart (p)",
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -53354,7 +53354,7 @@
     }
   },
   "13381": {
-    "name": "Shayzien platebody (5)",
+    "name": "Shayzien body (5)",
     "weight": 9.979,
     "equipable": true,
     "equipment": {
@@ -57855,7 +57855,6 @@
   },
   "20408": {
     "name": "Dark bow",
-    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -74273,7 +74272,8 @@
     "weight": 0.907,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 4,
+      "prayer": 7
     }
   },
   "25436": {
@@ -74281,7 +74281,8 @@
     "weight": 0.907,
     "equipable": true,
     "equipment": {
-      "slot": 7
+      "slot": 7,
+      "prayer": 6
     }
   },
   "25438": {
@@ -74289,7 +74290,8 @@
     "weight": 2.267,
     "equipable": true,
     "equipment": {
-      "slot": 0
+      "slot": 0,
+      "prayer": 1
     }
   },
   "25440": {
@@ -74297,7 +74299,8 @@
     "weight": 0.283,
     "equipable": true,
     "equipment": {
-      "slot": 10
+      "slot": 10,
+      "prayer": 1
     }
   },
   "25442": {
@@ -75649,5 +75652,285 @@
   "25833": {
     "name": "Raw boar meat",
     "weight": 0.425
+  },
+  "25836": {
+    "name": "Little parasite",
+    "weight": 0.015
+  },
+  "25837": {
+    "name": "Slepey tablet",
+    "weight": 2.0
+  },
+  "25840": {
+    "name": "Banana hat",
+    "weight": 0.09,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "25842": {
+    "name": "Sraracha",
+    "weight": 0.015
+  },
+  "25843": {
+    "name": "Sraracha",
+    "weight": 0.015
+  },
+  "25844": {
+    "name": "Orange egg sac",
+    "weight": 5.0
+  },
+  "25846": {
+    "name": "Blue egg sac",
+    "weight": 5.0
+  },
+  "25849": {
+    "name": "Amethyst dart",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "rstr": 28,
+      "aspeed": 3
+    },
+    "ge_limit": 11000
+  },
+  "25851": {
+    "name": "Amethyst dart(p)",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "rstr": 28,
+      "aspeed": 3
+    },
+    "ge_limit": 11000
+  },
+  "25853": {
+    "name": "Amethyst dart tip",
+    "ge_limit": 11000
+  },
+  "25855": {
+    "name": "Amethyst dart(p+)",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "rstr": 28,
+      "aspeed": 3
+    },
+    "ge_limit": 11000
+  },
+  "25857": {
+    "name": "Amethyst dart(p++)",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "rstr": 28,
+      "aspeed": 3
+    },
+    "ge_limit": 11000
+  },
+  "25859": {
+    "name": "Enhanced crystal weapon seed",
+    "weight": 0.018
+  },
+  "25862": {
+    "name": "Bow of faerdhinen (inactive)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25865": {
+    "name": "Bow of faerdhinen",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25867": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25870": {
+    "name": "Blade of saeldor (c)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 94,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25872": {
+    "name": "Blade of saeldor (c)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 94,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25874": {
+    "name": "Blade of saeldor (c)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 94,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25876": {
+    "name": "Blade of saeldor (c)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 94,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25878": {
+    "name": "Blade of saeldor (c)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 94,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25880": {
+    "name": "Blade of saeldor (c)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 94,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25882": {
+    "name": "Blade of saeldor (c)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 94,
+      "str": 89,
+      "aspeed": 4
+    }
+  },
+  "25884": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25886": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25888": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25890": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25892": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25894": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "25896": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
   }
 }
