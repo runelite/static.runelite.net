@@ -50375,6 +50375,20 @@
     },
     "ge_limit": 8
   },
+  "12808": {
+    "name": "Saradomin's blessed sword (full)",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 100,
+      "acrush": 60,
+      "str": 88,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
   "12809": {
     "name": "Saradomin's blessed sword",
     "weight": 3.0,
@@ -57759,6 +57773,7 @@
   },
   "20389": {
     "name": "Dragon arrow",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -57768,7 +57783,8 @@
   },
   "20390": {
     "name": "Shark",
-    "weight": 0.65,
+    "equipable": true,
+    "equipment": {},
     "ge_limit": 10000
   },
   "20401": {
@@ -57812,7 +57828,6 @@
   },
   "20405": {
     "name": "Abyssal whip",
-    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -57839,7 +57854,6 @@
   },
   "20407": {
     "name": "Dragon dagger",
-    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -57855,6 +57869,7 @@
   },
   "20408": {
     "name": "Dark bow",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -57946,7 +57961,6 @@
   },
   "20422": {
     "name": "Rune platelegs",
-    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -57962,7 +57976,6 @@
   },
   "20423": {
     "name": "Black d'hide body",
-    "weight": 6.803,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -57994,12 +58007,11 @@
   },
   "20425": {
     "name": "Mystic robe top",
-    "weight": 2.721,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": 20,
-      "dmagic": 20
+      "slot": 7,
+      "amagic": 15,
+      "dmagic": 15
     },
     "ge_limit": 125
   },
@@ -58641,8 +58653,6 @@
   },
   "20578": {
     "name": "Climbing boots",
-    "quest": true,
-    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -58773,7 +58783,6 @@
   },
   "20586": {
     "name": "Amulet of glory",
-    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -58791,6 +58800,11 @@
       "prayer": 3
     },
     "ge_limit": 10000
+  },
+  "20587": {
+    "name": "Rope",
+    "weight": 1.36,
+    "ge_limit": 250
   },
   "20590": {
     "name": "Stale baguette",
@@ -58834,7 +58848,6 @@
   },
   "20598": {
     "name": "Ahrim's robetop",
-    "weight": 4.535,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -58848,8 +58861,7 @@
     "ge_limit": 15
   },
   "20599": {
-    "name": "Ahrim's robeskirt",
-    "weight": 11.339,
+    "name": "Ahrim's robeskirt (Last Man Standing)",
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -58859,8 +58871,7 @@
       "dslash": 30,
       "dcrush": 36,
       "dmagic": 22
-    },
-    "ge_limit": 15
+    }
   },
   "20600": {
     "name": "Rune arrow",
@@ -59302,7 +59313,6 @@
   },
   "20784": {
     "name": "Dragon claws",
-    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -68119,6 +68129,10 @@
     },
     "ge_limit": 70
   },
+  "23533": {
+    "name": "Cooked karambwan",
+    "ge_limit": 10000
+  },
   "23543": {
     "name": "Super combat potion(4)",
     "weight": 0.035,
@@ -68219,9 +68233,108 @@
     "weight": 0.02,
     "ge_limit": 2000
   },
+  "23591": {
+    "name": "Helm of neitiznot",
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 31,
+      "dslash": 29,
+      "dcrush": 34,
+      "dmagic": 3,
+      "drange": 30,
+      "str": 3,
+      "prayer": 3
+    },
+    "ge_limit": 70
+  },
+  "23593": {
+    "name": "Barrows gloves",
+    "weight": 0.226,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "23595": {
+    "name": "Berserker ring",
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dcrush": 4,
+      "str": 4
+    },
+    "ge_limit": 8
+  },
+  "23597": {
+    "name": "Dragon defender",
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 25,
+      "aslash": 24,
+      "acrush": 23,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 25,
+      "dslash": 24,
+      "dcrush": 23,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 6
+    }
+  },
+  "23599": {
+    "name": "Spirit shield",
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "dstab": 39,
+      "dslash": 41,
+      "dcrush": 50,
+      "dmagic": 1,
+      "drange": 45,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "23602": {
+    "name": "Rune crossbow",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 90,
+      "aspeed": 6
+    },
+    "ge_limit": 70
+  },
+  "23603": {
+    "name": "Imbued guthix cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
   "23611": {
     "name": "Armadyl crossbow",
-    "weight": 6.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -68230,6 +68343,60 @@
       "aspeed": 6
     },
     "ge_limit": 8
+  },
+  "23613": {
+    "name": "Staff of the dead",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 70,
+      "amagic": 17,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 17,
+      "str": 72,
+      "mdmg": 15,
+      "aspeed": 4
+    },
+    "ge_limit": 8
+  },
+  "23615": {
+    "name": "Vesta's longsword",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 106,
+      "aslash": 121,
+      "acrush": -2,
+      "dstab": 1,
+      "dslash": 4,
+      "dcrush": 3,
+      "str": 118,
+      "aspeed": 5
+    },
+    "ge_limit": 10
+  },
+  "23617": {
+    "name": "Zuriel's staff",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 13,
+      "aslash": -1,
+      "acrush": 65,
+      "amagic": 18,
+      "dstab": 5,
+      "dslash": 7,
+      "dcrush": 4,
+      "dmagic": 18,
+      "str": 72,
+      "mdmg": 10,
+      "aspeed": 5
+    },
+    "ge_limit": 10
   },
   "23619": {
     "name": "Morrigan's javelin",
@@ -68242,9 +68409,341 @@
     },
     "ge_limit": 100
   },
+  "23620": {
+    "name": "Statius's warhammer",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -4,
+      "aslash": -4,
+      "acrush": 123,
+      "str": 114,
+      "aspeed": 5
+    },
+    "ge_limit": 10
+  },
+  "23622": {
+    "name": "Infernal cape",
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 1,
+      "arange": 1,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 12,
+      "drange": 12,
+      "str": 8,
+      "prayer": 2
+    }
+  },
+  "23624": {
+    "name": "Seers ring (i)",
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "amagic": 12,
+      "dmagic": 12
+    }
+  },
+  "23626": {
+    "name": "Kodai wand",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 28,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 20,
+      "mdmg": 15,
+      "aspeed": 4
+    },
+    "ge_limit": 8
+  },
+  "23628": {
+    "name": "Ghrazi rapier",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 94,
+      "aslash": 55,
+      "str": 89,
+      "aspeed": 4
+    },
+    "ge_limit": 8
+  },
+  "23630": {
+    "name": "Heavy ballista",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 125,
+      "rstr": 15,
+      "aspeed": 7
+    },
+    "ge_limit": 8
+  },
+  "23632": {
+    "name": "Karil's leathertop",
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 30,
+      "dstab": 47,
+      "dslash": 42,
+      "dcrush": 50,
+      "dmagic": 65,
+      "drange": 57
+    },
+    "ge_limit": 15
+  },
+  "23633": {
+    "name": "Dharok's platelegs",
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "dmagic": -4,
+      "drange": 92
+    },
+    "ge_limit": 15
+  },
+  "23634": {
+    "name": "Torag's platelegs",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "dmagic": -4,
+      "drange": 92
+    },
+    "ge_limit": 15
+  },
+  "23635": {
+    "name": "Verac's plateskirt",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 85,
+      "dslash": 82,
+      "dcrush": 83,
+      "drange": 84,
+      "prayer": 4
+    },
+    "ge_limit": 15
+  },
+  "23636": {
+    "name": "Verac's helm",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "drange": 56,
+      "prayer": 3
+    },
+    "ge_limit": 15
+  },
+  "23637": {
+    "name": "Torag's helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "dmagic": -1,
+      "drange": 62
+    },
+    "ge_limit": 15
+  },
+  "23638": {
+    "name": "Guthan's helm",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 55,
+      "dslash": 58,
+      "dcrush": 54,
+      "dmagic": -1,
+      "drange": 62
+    },
+    "ge_limit": 15
+  },
+  "23639": {
+    "name": "Dharok's helm",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 45,
+      "dslash": 48,
+      "dcrush": 44,
+      "dmagic": -1,
+      "drange": 51
+    },
+    "ge_limit": 15
+  },
+  "23640": {
+    "name": "Amulet of fury",
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": 10,
+      "arange": 10,
+      "dstab": 15,
+      "dslash": 15,
+      "dcrush": 15,
+      "dmagic": 15,
+      "drange": 15,
+      "str": 8,
+      "prayer": 5
+    },
+    "ge_limit": 8
+  },
+  "23642": {
+    "name": "Blessed spirit shield",
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "dstab": 53,
+      "dslash": 55,
+      "dcrush": 73,
+      "dmagic": 2,
+      "drange": 52,
+      "prayer": 3
+    },
+    "ge_limit": 8
+  },
+  "23644": {
+    "name": "Eternal boots",
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": 8,
+      "dstab": 5,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 8,
+      "drange": 5
+    },
+    "ge_limit": 15
+  },
+  "23646": {
+    "name": "Bandos tassets",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 71,
+      "dslash": 63,
+      "dcrush": 66,
+      "dmagic": -4,
+      "drange": 93,
+      "str": 2,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "23648": {
+    "name": "Dragon javelin",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 150
+    },
+    "ge_limit": 11000
+  },
+  "23649": {
+    "name": "Diamond bolts (e)",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 105
+    },
+    "ge_limit": 11000
+  },
   "23650": {
     "name": "Rune pouch",
     "weight": 1.0
+  },
+  "23652": {
+    "name": "Mage's book",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 15,
+      "dmagic": 15
+    },
+    "ge_limit": 15
+  },
+  "23653": {
+    "name": "Ahrim's staff",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 12,
+      "aslash": -1,
+      "acrush": 65,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 2,
+      "dmagic": 15,
+      "str": 68,
+      "mdmg": 5,
+      "aspeed": 6
+    },
+    "ge_limit": 15
+  },
+  "23654": {
+    "name": "Occult necklace",
+    "weight": 0.005,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "amagic": 12,
+      "mdmg": 10,
+      "prayer": 2
+    },
+    "ge_limit": 8
   },
   "23655": {
     "name": "Crystal seedling",
@@ -69715,7 +70214,6 @@
       "aslash": 110,
       "acrush": 5,
       "amagic": -4,
-      "arange": 2,
       "dstab": -1,
       "dslash": 4,
       "dcrush": 5,
@@ -71878,6 +72376,10 @@
       "drange": 30
     }
   },
+  "24534": {
+    "name": "Mithril seeds",
+    "ge_limit": 18000
+  },
   "24535": {
     "name": "Magic egg ball",
     "weight": 0.085
@@ -73620,6 +74122,20 @@
       "drange": 19
     }
   },
+  "25177": {
+    "name": "Slayer helmet (i)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
   "25195": {
     "name": "Blue cape",
     "weight": 0.453,
@@ -73879,6 +74395,18 @@
     "weight": 0.001,
     "equipable": true,
     "equipment": {}
+  },
+  "25250": {
+    "name": "Salve amulet(i)",
+    "quest": true,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "prayer": 3
+    }
   },
   "25280": {
     "name": "Essence pack",
@@ -74632,6 +75160,67 @@
       "dcrush": 1,
       "drange": 2
     }
+  },
+  "25515": {
+    "name": "Dharok's platebody",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -10,
+      "dstab": 122,
+      "dslash": 120,
+      "dcrush": 107,
+      "dmagic": -6,
+      "drange": 132
+    },
+    "ge_limit": 15
+  },
+  "25516": {
+    "name": "Dharok's greataxe",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -4,
+      "aslash": 103,
+      "acrush": 95,
+      "amagic": -4,
+      "drange": -1,
+      "str": 105,
+      "aspeed": 7
+    },
+    "ge_limit": 15
+  },
+  "25517": {
+    "name": "Volatile nightmare staff",
+    "weight": 1.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 14,
+      "mdmg": 15,
+      "aspeed": 5
+    }
+  },
+  "25518": {
+    "name": "Ancestral hat",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 8,
+      "arange": -2,
+      "dstab": 12,
+      "dslash": 11,
+      "dcrush": 13,
+      "dmagic": 5,
+      "mdmg": 2
+    },
+    "ge_limit": 8
   },
   "25519": {
     "name": "Jalrek-jad",
@@ -75629,6 +76218,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 4
     }
   },

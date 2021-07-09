@@ -1943,6 +1943,22 @@
     "name": "Dagannoth",
     "hitpoints": 120
   },
+  "976": {
+    "name": "Dagannoth",
+    "hitpoints": 120
+  },
+  "977": {
+    "name": "Dagannoth",
+    "hitpoints": 120
+  },
+  "978": {
+    "name": "Dagannoth",
+    "hitpoints": 120
+  },
+  "979": {
+    "name": "Dagannoth",
+    "hitpoints": 120
+  },
   "980": {
     "name": "Dagannoth mother",
     "hitpoints": 120
@@ -11239,6 +11255,78 @@
     "name": "Typhor",
     "hitpoints": 360
   },
+  "9416": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9417": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9418": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9419": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9420": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9421": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9422": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9423": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9424": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "9425": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9426": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9427": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9428": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9429": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9430": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9431": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9432": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
+  "9433": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
+  },
   "9446": {
     "name": "Sleepwalker",
     "hitpoints": 10
@@ -11278,6 +11366,10 @@
   "9455": {
     "name": "Husk",
     "hitpoints": 20
+  },
+  "9460": {
+    "name": "The Nightmare",
+    "hitpoints": 2400
   },
   "9465": {
     "name": "Infernal pyrelord",
@@ -11762,5 +11854,17 @@
   "11111": {
     "name": "Dark warrior",
     "hitpoints": 50
+  },
+  "11153": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "11154": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
+  },
+  "11155": {
+    "name": "Phosani's Nightmare",
+    "hitpoints": 3200
   }
 }
