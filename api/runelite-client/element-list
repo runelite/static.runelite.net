@@ -146,6 +146,7 @@ net.runelite.client.plugins.randomevents
 net.runelite.client.plugins.regenmeter
 net.runelite.client.plugins.reportbutton
 net.runelite.client.plugins.roguesden
+net.runelite.client.plugins.roofremoval
 net.runelite.client.plugins.runecraft
 net.runelite.client.plugins.runenergy
 net.runelite.client.plugins.runepouch
