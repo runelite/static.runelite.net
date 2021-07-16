@@ -1087,6 +1087,10 @@
     "name": "Pirate",
     "hitpoints": 23
   },
+  "524": {
+    "name": "Pirate",
+    "hitpoints": 20
+  },
   "525": {
     "name": "Thug",
     "hitpoints": 18
@@ -9849,11 +9853,11 @@
   },
   "7418": {
     "name": "Zamorak warrior",
-    "hitpoints": 50
+    "hitpoints": 45
   },
   "7419": {
     "name": "Zamorak warrior",
-    "hitpoints": 50
+    "hitpoints": 45
   },
   "7420": {
     "name": "Zamorak ranger",
@@ -11140,6 +11144,10 @@
     "hitpoints": 100
   },
   "9049": {
+    "name": "Zalcano",
+    "hitpoints": 300
+  },
+  "9050": {
     "name": "Zalcano",
     "hitpoints": 1000
   },
