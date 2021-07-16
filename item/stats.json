@@ -7209,6 +7209,11 @@
       "str": 2
     }
   },
+  "1496": {
+    "name": "Iban's dove",
+    "quest": true,
+    "weight": 0.1
+  },
   "1497": {
     "name": "Amulet of othanian",
     "quest": true,
@@ -7224,10 +7229,20 @@
     "quest": true,
     "weight": 0.01
   },
+  "1500": {
+    "name": "Iban's shadow",
+    "quest": true,
+    "weight": 0.025
+  },
   "1501": {
     "name": "Dwarf brew",
     "quest": true,
     "weight": 0.15
+  },
+  "1502": {
+    "name": "Iban's ashes",
+    "quest": true,
+    "weight": 0.056
   },
   "1503": {
     "name": "Warrant",
@@ -16002,7 +16017,6 @@
     "equipment": {
       "slot": 0,
       "amagic": -3,
-      "arange": -1,
       "dstab": 7,
       "dslash": 8,
       "dcrush": 6,
@@ -17920,7 +17934,6 @@
     "equipment": {
       "slot": 0,
       "amagic": -3,
-      "arange": -1,
       "dstab": 10,
       "dslash": 11,
       "dcrush": 9,
@@ -17995,7 +18008,6 @@
     "equipment": {
       "slot": 0,
       "amagic": -3,
-      "arange": -1,
       "dstab": 14,
       "dslash": 15,
       "dcrush": 13,
@@ -21419,28 +21431,23 @@
   },
   "5070": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "5071": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "5072": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "5073": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "5074": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "5075": {
     "name": "Bird nest",
@@ -30109,8 +30116,7 @@
   },
   "7413": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "7414": {
     "name": "Paddle",
@@ -54678,8 +54684,7 @@
   },
   "13653": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "13654": {
     "name": "Nest box (seeds)",
@@ -57773,7 +57778,6 @@
   },
   "20389": {
     "name": "Dragon arrow",
-    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -57783,8 +57787,6 @@
   },
   "20390": {
     "name": "Shark",
-    "equipable": true,
-    "equipment": {},
     "ge_limit": 10000
   },
   "20401": {
@@ -58009,9 +58011,9 @@
     "name": "Mystic robe top",
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": 15,
-      "dmagic": 15
+      "slot": 4,
+      "amagic": 20,
+      "dmagic": 20
     },
     "ge_limit": 125
   },
@@ -65810,13 +65812,11 @@
   },
   "22798": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "22800": {
     "name": "Bird nest",
-    "weight": 0.002,
-    "ge_limit": 11000
+    "weight": 0.002
   },
   "22804": {
     "name": "Dragon knife",
@@ -70774,7 +70774,6 @@
     "equipment": {
       "slot": 0,
       "amagic": -3,
-      "arange": -1,
       "dstab": 14,
       "dslash": 15,
       "dcrush": 13,
@@ -76329,6 +76328,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aspeed": 5
     }
   },
@@ -76338,6 +76338,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "arange": 128,
       "rstr": 106,
       "aspeed": 5
