@@ -41,18 +41,18 @@
         })
     </script>
 
-    <title>RuneLite HTTP API 1.7.16</title>
+    <title>RuneLite HTTP API 1.7.17</title>
 </head>
 <body class="markdown-body">
 	<noscript>
 # RuneLite HTTP API
-HTTPS://api.runelite.net/runelite-1.7.16
+HTTPS://api.runelite.net/runelite-1.7.17
 
 Open source RuneScape client
 
 
 
-**Version** 1.7.16
+**Version** 1.7.17
 
 
 
@@ -1807,6 +1807,156 @@ Open source RuneScape client
     
             <td>number (double)</td>
     
+
+</tr>
+
+
+</table>
+
+
+
+#### Response
+
+
+
+| Status Code | Reason      | Response Model |
+|-------------|-------------|----------------|
+| default    | successful operation |  - |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## /chat/pets
+
+
+### GET
+
+<a id="getPetList"></a>
+
+
+
+
+
+
+
+
+
+#### Request
+
+
+
+##### Parameters
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Located in</th>
+        <th>Required</th>
+        <th>Description</th>
+        <th>Default</th>
+        <th>Schema</th>
+    </tr>
+
+
+
+<tr>
+    <th>name</th>
+    <td>query</td>
+    <td>yes</td>
+    <td></td>
+    <td> - </td>
+
+    
+            <td>string </td>
+    
+
+</tr>
+
+
+</table>
+
+
+
+#### Response
+
+
+
+| Status Code | Reason      | Response Model |
+|-------------|-------------|----------------|
+| 200    | successful operation | Array[<a href=""></a>]|
+
+
+
+
+
+
+
+### POST
+
+
+<a id="submitPetList"></a>
+
+
+
+
+
+
+
+
+
+#### Request
+
+
+
+##### Parameters
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Located in</th>
+        <th>Required</th>
+        <th>Description</th>
+        <th>Default</th>
+        <th>Schema</th>
+    </tr>
+
+
+
+<tr>
+    <th>name</th>
+    <td>query</td>
+    <td>yes</td>
+    <td></td>
+    <td> - </td>
+
+    
+            <td>string </td>
+    
+
+</tr>
+
+<tr>
+    <th>body</th>
+    <td>body</td>
+    <td>no</td>
+    <td></td>
+    <td> - </td>
+
+    <td>
+    Array[<a href=""></a>]
+    
+    </td>
 
 </tr>
 
@@ -6249,6 +6399,19 @@ Open source RuneScape client
         </tr>
     
         <tr>
+            <td>tradeable</td>
+            <td>
+                
+                    
+                    boolean
+                
+            </td>
+            <td>optional</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    
+        <tr>
             <td>xoffset2d</td>
             <td>
                 
@@ -6267,19 +6430,6 @@ Open source RuneScape client
                 
                     
                     integer (int32)
-                
-            </td>
-            <td>optional</td>
-            <td>-</td>
-            <td></td>
-        </tr>
-    
-        <tr>
-            <td>tradeable</td>
-            <td>
-                
-                    
-                    boolean
                 
             </td>
             <td>optional</td>
