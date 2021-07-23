@@ -76523,5 +76523,256 @@
       "rstr": 106,
       "aspeed": 5
     }
+  },
+  "25898": {
+    "name": "Tztok slayer helmet",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
+  },
+  "25900": {
+    "name": "Tztok slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "25902": {
+    "name": "Tztok slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "25904": {
+    "name": "Vampyric slayer helmet",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
+  },
+  "25906": {
+    "name": "Vampyric slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "25908": {
+    "name": "Vampyric slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "25910": {
+    "name": "Tzkal slayer helmet",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
+  },
+  "25912": {
+    "name": "Tzkal slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "25914": {
+    "name": "Tzkal slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "25916": {
+    "name": "Dragon hunter crossbow (t)",
+    "weight": 7.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 95,
+      "aspeed": 6
+    }
+  },
+  "25918": {
+    "name": "Dragon hunter crossbow (b)",
+    "weight": 7.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 95,
+      "aspeed": 6
+    }
+  },
+  "25920": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "25921": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "25922": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "25923": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "25924": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "25925": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "25926": {
+    "name": "Ghommal's hilt 1",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25928": {
+    "name": "Ghommal's hilt 2",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25930": {
+    "name": "Ghommal's hilt 3",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25932": {
+    "name": "Ghommal's hilt 4",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25934": {
+    "name": "Ghommal's hilt 5",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25936": {
+    "name": "Ghommal's hilt 6",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25958": {
+    "name": "Corrupted paddlefish",
+    "weight": 0.45,
+    "equipable": true,
+    "equipment": {}
+  },
+  "25959": {
+    "name": "Corrupted escape crystal",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {}
+  },
+  "25960": {
+    "name": "Crystal paddlefish",
+    "weight": 0.45,
+    "equipable": true,
+    "equipment": {}
+  },
+  "25961": {
+    "name": "Escape crystal",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {}
   }
 }
