@@ -87,6 +87,7 @@ net.runelite.client.plugins.idlenotifier
 net.runelite.client.plugins.implings
 net.runelite.client.plugins.info
 net.runelite.client.plugins.instancemap
+net.runelite.client.plugins.interacthighlight
 net.runelite.client.plugins.interfacestyles
 net.runelite.client.plugins.inventorygrid
 net.runelite.client.plugins.inventorytags
