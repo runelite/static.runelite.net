@@ -3329,7 +3329,7 @@
   },
   "2097": {
     "name": "Cyclops",
-    "hitpoints": 75
+    "hitpoints": 55
   },
   "2098": {
     "name": "Hill Giant",
@@ -4347,6 +4347,18 @@
     "name": "Dungeon rat",
     "hitpoints": 12
   },
+  "2910": {
+    "name": "Chinchompa",
+    "hitpoints": 1
+  },
+  "2911": {
+    "name": "Carnivorous chinchompa",
+    "hitpoints": 1
+  },
+  "2912": {
+    "name": "Black chinchompa",
+    "hitpoints": 1
+  },
   "2916": {
     "name": "Waterfiend",
     "hitpoints": 128
@@ -5154,6 +5166,10 @@
   "3360": {
     "name": "Leon d'Cour",
     "hitpoints": 123
+  },
+  "3361": {
+    "name": "Kourend guard",
+    "hitpoints": 800
   },
   "3400": {
     "name": "Culinaromancer",
@@ -11481,7 +11497,7 @@
   },
   "9773": {
     "name": "Kroy",
-    "hitpoints": 237
+    "hitpoints": 209
   },
   "9774": {
     "name": "Damien Leucurte",
@@ -11539,6 +11555,14 @@
     "name": "Headless Beast",
     "hitpoints": 100
   },
+  "10495": {
+    "name": "Chicken",
+    "hitpoints": 3
+  },
+  "10496": {
+    "name": "Chicken",
+    "hitpoints": 3
+  },
   "10506": {
     "name": "Headless Beast",
     "hitpoints": 100
@@ -11586,6 +11610,10 @@
   "10537": {
     "name": "Forgotten Soul",
     "hitpoints": 77
+  },
+  "10541": {
+    "name": "Bird",
+    "hitpoints": 5
   },
   "10544": {
     "name": "Forgotten Soul",
@@ -11650,6 +11678,30 @@
   "10696": {
     "name": "Rubble",
     "hitpoints": 25
+  },
+  "10717": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "10718": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "10719": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "10720": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "10721": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "10888": {
+    "name": "Bat",
+    "hitpoints": 8
   },
   "10936": {
     "name": "Judge of Yama",
@@ -11823,29 +11875,57 @@
     "name": "Head Guard",
     "hitpoints": 86
   },
+  "11094": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
   "11095": {
     "name": "Head Guard",
     "hitpoints": 86
+  },
+  "11096": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "11097": {
     "name": "Head Guard",
     "hitpoints": 86
   },
+  "11098": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
   "11099": {
     "name": "Head Guard",
     "hitpoints": 86
+  },
+  "11100": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "11101": {
     "name": "Head Guard",
     "hitpoints": 86
   },
+  "11102": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
   "11103": {
     "name": "Head Guard",
     "hitpoints": 86
   },
+  "11104": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
   "11105": {
     "name": "Head Guard",
     "hitpoints": 86
+  },
+  "11106": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "11107": {
     "name": "Head Guard",
@@ -11874,5 +11954,17 @@
   "11155": {
     "name": "Phosani's Nightmare",
     "hitpoints": 3200
+  },
+  "11175": {
+    "name": "Spider",
+    "hitpoints": 80
+  },
+  "11176": {
+    "name": "Spider",
+    "hitpoints": 100
+  },
+  "11192": {
+    "name": "Hespori",
+    "hitpoints": 360
   }
 }
