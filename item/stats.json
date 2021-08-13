@@ -20568,6 +20568,14 @@
     "name": "Dwarven battleaxe",
     "weight": 2.0
   },
+  "5060": {
+    "name": "Dwarven battleaxe",
+    "weight": 2.0
+  },
+  "5061": {
+    "name": "Dwarven battleaxe",
+    "weight": 2.0
+  },
   "5062": {
     "name": "Left boot",
     "weight": 0.5
@@ -29799,7 +29807,7 @@
     "weight": 0.015
   },
   "7582": {
-    "name": "Hellcat",
+    "name": "Hell cat",
     "weight": 0.015
   },
   "7583": {
@@ -29807,7 +29815,7 @@
     "weight": 0.015
   },
   "7584": {
-    "name": "Lazy hellcat",
+    "name": "Lazy hell cat",
     "weight": 0.015
   },
   "7585": {
@@ -41914,7 +41922,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 6
+      "aspeed": 4
     }
   },
   "11260": {
@@ -48659,7 +48667,7 @@
     "ge_limit": 8
   },
   "12808": {
-    "name": "Saradomin's blessed sword (full)",
+    "name": "Sara's blessed sword (full)",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -56020,15 +56028,6 @@
     "weight": 6.0,
     "ge_limit": 8
   },
-  "20388": {
-    "name": "Adamant arrow",
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "rstr": 31
-    },
-    "ge_limit": 11000
-  },
   "20389": {
     "name": "Dragon arrow",
     "equipable": true,
@@ -56042,45 +56041,6 @@
     "name": "Shark",
     "ge_limit": 10000
   },
-  "20401": {
-    "name": "Yew shortbow",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 47,
-      "aspeed": 4
-    },
-    "ge_limit": 18000
-  },
-  "20402": {
-    "name": "Rune scimitar",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": 45,
-      "acrush": -2,
-      "dslash": 1,
-      "str": 44,
-      "aspeed": 4
-    },
-    "ge_limit": 70
-  },
-  "20403": {
-    "name": "Maple shortbow",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 29,
-      "aspeed": 4
-    },
-    "ge_limit": 18000
-  },
   "20405": {
     "name": "Abyssal whip",
     "equipable": true,
@@ -56088,21 +56048,6 @@
       "slot": 3,
       "aslash": 82,
       "str": 82,
-      "aspeed": 4
-    },
-    "ge_limit": 70
-  },
-  "20406": {
-    "name": "Dragon scimitar",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 8,
-      "aslash": 67,
-      "acrush": -2,
-      "dslash": 1,
-      "str": 66,
       "aspeed": 4
     },
     "ge_limit": 70
@@ -56134,86 +56079,6 @@
     },
     "ge_limit": 8
   },
-  "20415": {
-    "name": "Adamant platebody",
-    "weight": 11.339,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -30,
-      "arange": -15,
-      "dstab": 65,
-      "dslash": 63,
-      "dcrush": 55,
-      "dmagic": -6,
-      "drange": 63
-    },
-    "ge_limit": 125
-  },
-  "20416": {
-    "name": "Adamant platelegs",
-    "weight": 10.432,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -11,
-      "dstab": 33,
-      "dslash": 31,
-      "dcrush": 29,
-      "dmagic": -4,
-      "drange": 31
-    },
-    "ge_limit": 125
-  },
-  "20417": {
-    "name": "Blue d'hide body",
-    "weight": 6.803,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "arange": 20,
-      "dstab": 45,
-      "dslash": 37,
-      "dcrush": 50,
-      "dmagic": 30,
-      "drange": 45
-    },
-    "ge_limit": 125
-  },
-  "20418": {
-    "name": "Blue d'hide chaps",
-    "weight": 5.443,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -10,
-      "arange": 11,
-      "dstab": 25,
-      "dslash": 19,
-      "dcrush": 27,
-      "dmagic": 14,
-      "drange": 25
-    },
-    "ge_limit": 125
-  },
-  "20421": {
-    "name": "Rune platebody",
-    "weight": 9.979,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -30,
-      "arange": -15,
-      "dstab": 82,
-      "dslash": 80,
-      "dcrush": 72,
-      "dmagic": -6,
-      "drange": 80
-    },
-    "ge_limit": 70
-  },
   "20422": {
     "name": "Rune platelegs",
     "equipable": true,
@@ -56244,22 +56109,6 @@
     },
     "ge_limit": 70
   },
-  "20424": {
-    "name": "Black d'hide chaps",
-    "weight": 5.443,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -10,
-      "arange": 17,
-      "dstab": 31,
-      "dslash": 25,
-      "dcrush": 33,
-      "dmagic": 28,
-      "drange": 31
-    },
-    "ge_limit": 70
-  },
   "20425": {
     "name": "Mystic robe top",
     "equipable": true,
@@ -56280,57 +56129,6 @@
       "dmagic": 15
     },
     "ge_limit": 125
-  },
-  "20428": {
-    "name": "Dragon chainbody",
-    "weight": 6.803,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "dstab": 81,
-      "dslash": 93,
-      "dcrush": 98,
-      "dmagic": -3,
-      "drange": 82
-    },
-    "ge_limit": 70
-  },
-  "20429": {
-    "name": "Dragon platelegs",
-    "weight": 9.071,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -11,
-      "dstab": 68,
-      "dslash": 66,
-      "dcrush": 63,
-      "dmagic": -4,
-      "drange": 65
-    },
-    "ge_limit": 70
-  },
-  "20431": {
-    "name": "Ancient staff",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 10,
-      "aslash": -1,
-      "acrush": 40,
-      "amagic": 15,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 15,
-      "str": 50,
-      "prayer": -1,
-      "aspeed": 4
-    },
-    "ge_limit": 70
   },
   "20433": {
     "name": "Evil chicken feet",
@@ -56550,83 +56348,6 @@
     "name": "Guthix halo (broken)",
     "weight": 0.3
   },
-  "20547": {
-    "name": "Monkfish",
-    "weight": 0.4,
-    "ge_limit": 13000
-  },
-  "20552": {
-    "name": "Rune battleaxe",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": -2,
-      "aslash": 48,
-      "acrush": 43,
-      "drange": -1,
-      "str": 64,
-      "aspeed": 6
-    },
-    "ge_limit": 70
-  },
-  "20553": {
-    "name": "Beginner wand",
-    "weight": 0.283,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 5,
-      "dmagic": 5,
-      "aspeed": 4
-    },
-    "ge_limit": 125
-  },
-  "20554": {
-    "name": "Toktz-xil-ak",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 47,
-      "aslash": 38,
-      "acrush": -2,
-      "dstab": 2,
-      "dslash": 3,
-      "str": 49,
-      "aspeed": 4
-    },
-    "ge_limit": 70
-  },
-  "20555": {
-    "name": "Rune 2h sword",
-    "weight": 3.628,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": -4,
-      "aslash": 69,
-      "acrush": 50,
-      "amagic": -4,
-      "drange": -1,
-      "str": 70,
-      "aspeed": 7
-    },
-    "ge_limit": 70
-  },
-  "20556": {
-    "name": "Apprentice wand",
-    "weight": 0.255,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 10,
-      "dmagic": 10,
-      "aspeed": 4
-    },
-    "ge_limit": 125
-  },
   "20557": {
     "name": "Granite maul",
     "weight": 4.535,
@@ -56640,269 +56361,6 @@
     },
     "ge_limit": 70
   },
-  "20558": {
-    "name": "Magic shortbow",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 69,
-      "aspeed": 4
-    },
-    "ge_limit": 18000
-  },
-  "20559": {
-    "name": "Dragon 2h sword",
-    "weight": 3.628,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": -4,
-      "aslash": 92,
-      "acrush": 80,
-      "amagic": -4,
-      "drange": -1,
-      "str": 93,
-      "aspeed": 7
-    },
-    "ge_limit": 8
-  },
-  "20560": {
-    "name": "Master wand",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 20,
-      "dmagic": 20,
-      "aspeed": 4
-    },
-    "ge_limit": 70
-  },
-  "20561": {
-    "name": "Adamant full helm",
-    "weight": 3.175,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -3,
-      "dstab": 19,
-      "dslash": 21,
-      "dcrush": 16,
-      "dmagic": -1,
-      "drange": 19
-    },
-    "ge_limit": 125
-  },
-  "20562": {
-    "name": "Mystic hat",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": 4,
-      "dmagic": 4
-    },
-    "ge_limit": 125
-  },
-  "20563": {
-    "name": "Proselyte sallet",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -3,
-      "dstab": 19,
-      "dslash": 21,
-      "dcrush": 16,
-      "dmagic": -1,
-      "drange": 19,
-      "prayer": 4
-    },
-    "ge_limit": 70
-  },
-  "20564": {
-    "name": "Proselyte hauberk",
-    "weight": 8.618,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -30,
-      "arange": -15,
-      "dstab": 65,
-      "dslash": 63,
-      "dcrush": 55,
-      "dmagic": -6,
-      "drange": 63,
-      "prayer": 8
-    },
-    "ge_limit": 70
-  },
-  "20565": {
-    "name": "Proselyte cuisse",
-    "weight": 7.711,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -11,
-      "dstab": 33,
-      "dslash": 31,
-      "dcrush": 29,
-      "dmagic": -4,
-      "drange": 31,
-      "prayer": 6
-    },
-    "ge_limit": 70
-  },
-  "20566": {
-    "name": "Red d'hide body",
-    "weight": 6.803,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "arange": 25,
-      "dstab": 50,
-      "dslash": 42,
-      "dcrush": 55,
-      "dmagic": 40,
-      "drange": 50
-    },
-    "ge_limit": 70
-  },
-  "20567": {
-    "name": "Red d'hide chaps",
-    "weight": 5.443,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -10,
-      "arange": 14,
-      "dstab": 28,
-      "dslash": 22,
-      "dcrush": 30,
-      "dmagic": 20,
-      "drange": 28
-    },
-    "ge_limit": 70
-  },
-  "20568": {
-    "name": "Splitbark helm",
-    "weight": 0.907,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": 3,
-      "arange": -2,
-      "dstab": 10,
-      "dslash": 9,
-      "dcrush": 11,
-      "dmagic": 3
-    },
-    "ge_limit": 70
-  },
-  "20571": {
-    "name": "Warrior helm",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "aslash": 5,
-      "amagic": -5,
-      "arange": -5,
-      "dstab": 31,
-      "dslash": 33,
-      "dcrush": 29,
-      "drange": 30
-    },
-    "ge_limit": 70
-  },
-  "20572": {
-    "name": "Archer helm",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "astab": -5,
-      "aslash": -5,
-      "acrush": -5,
-      "amagic": -5,
-      "arange": 6,
-      "dstab": 6,
-      "dslash": 8,
-      "dcrush": 10,
-      "dmagic": 6,
-      "drange": 6
-    },
-    "ge_limit": 70
-  },
-  "20573": {
-    "name": "Farseer helm",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "astab": -5,
-      "aslash": -5,
-      "acrush": -5,
-      "amagic": 6,
-      "arange": -5,
-      "dstab": 8,
-      "dslash": 10,
-      "dcrush": 12,
-      "dmagic": 6
-    },
-    "ge_limit": 70
-  },
-  "20574": {
-    "name": "Infinity top",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": 22,
-      "dmagic": 22
-    },
-    "ge_limit": 125
-  },
-  "20575": {
-    "name": "Infinity bottoms",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": 17,
-      "dmagic": 17
-    },
-    "ge_limit": 125
-  },
-  "20576": {
-    "name": "3rd age robe top",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": 24,
-      "dmagic": 24
-    },
-    "ge_limit": 8
-  },
-  "20577": {
-    "name": "3rd age robe",
-    "weight": 1.8,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": 19,
-      "dmagic": 19
-    },
-    "ge_limit": 8
-  },
   "20578": {
     "name": "Climbing boots",
     "equipable": true,
@@ -56913,51 +56371,6 @@
       "str": 2
     },
     "ge_limit": 200
-  },
-  "20579": {
-    "name": "Mystic boots",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 10,
-      "amagic": 3,
-      "dmagic": 3
-    },
-    "ge_limit": 125
-  },
-  "20580": {
-    "name": "Snakeskin boots",
-    "weight": 0.34,
-    "equipable": true,
-    "equipment": {
-      "slot": 10,
-      "amagic": -10,
-      "arange": 3,
-      "dstab": 1,
-      "dslash": 1,
-      "dcrush": 2,
-      "dmagic": 1
-    },
-    "ge_limit": 125
-  },
-  "20581": {
-    "name": "Mithril gloves",
-    "weight": 0.226,
-    "equipable": true,
-    "equipment": {
-      "slot": 9,
-      "astab": 6,
-      "aslash": 6,
-      "acrush": 6,
-      "amagic": 3,
-      "arange": 6,
-      "dstab": 6,
-      "dslash": 6,
-      "dcrush": 6,
-      "dmagic": 3,
-      "drange": 6,
-      "str": 6
-    }
   },
   "20582": {
     "name": "Adamant gloves",
@@ -56977,39 +56390,6 @@
       "drange": 7,
       "str": 7
     }
-  },
-  "20583": {
-    "name": "Rune gloves",
-    "weight": 0.226,
-    "equipable": true,
-    "equipment": {
-      "slot": 9,
-      "astab": 8,
-      "aslash": 8,
-      "acrush": 8,
-      "amagic": 4,
-      "arange": 8,
-      "dstab": 8,
-      "dslash": 8,
-      "dcrush": 8,
-      "dmagic": 4,
-      "drange": 8,
-      "str": 8
-    }
-  },
-  "20584": {
-    "name": "Amulet of accuracy",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {
-      "slot": 2,
-      "astab": 4,
-      "aslash": 4,
-      "acrush": 4,
-      "amagic": 4,
-      "arange": 4
-    },
-    "ge_limit": 5
   },
   "20585": {
     "name": "Amulet of power",
@@ -57124,15 +56504,6 @@
       "dmagic": 22
     },
     "ge_limit": 15
-  },
-  "20600": {
-    "name": "Rune arrow",
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "rstr": 49
-    },
-    "ge_limit": 11000
   },
   "20608": {
     "name": "Bloodier key",
@@ -57570,21 +56941,6 @@
       "dcrush": 7,
       "str": 56,
       "aspeed": 4
-    },
-    "ge_limit": 8
-  },
-  "20785": {
-    "name": "Dragon warhammer",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": -4,
-      "aslash": -4,
-      "acrush": 95,
-      "amagic": -4,
-      "str": 85,
-      "aspeed": 6
     },
     "ge_limit": 8
   },
@@ -59117,47 +58473,6 @@
     "name": "Lava staff upgrade kit",
     "weight": 0.5,
     "ge_limit": 50
-  },
-  "21205": {
-    "name": "Elder maul",
-    "weight": 5.443,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "acrush": 135,
-      "amagic": -4,
-      "str": 147,
-      "aspeed": 6
-    },
-    "ge_limit": 8
-  },
-  "21206": {
-    "name": "Dragon sword",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 65,
-      "aslash": 55,
-      "acrush": -2,
-      "dslash": 2,
-      "dcrush": 1,
-      "str": 63,
-      "aspeed": 4
-    },
-    "ge_limit": 70
-  },
-  "21207": {
-    "name": "Dragon thrownaxe",
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "arange": 36,
-      "rstr": 47,
-      "aspeed": 5
-    },
-    "ge_limit": 11000
   },
   "21209": {
     "name": "Birthday balloons",
@@ -61276,6 +60591,10 @@
   "22094": {
     "name": "Water container",
     "weight": 2.0
+  },
+  "22095": {
+    "name": "Swamp paste",
+    "ge_limit": 13000
   },
   "22097": {
     "name": "Dragon metal shard",
@@ -68366,6 +67685,18 @@
       "aspeed": 5
     }
   },
+  "23985": {
+    "name": "Crystal bow (inactive)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 100,
+      "rstr": 78,
+      "aspeed": 5
+    }
+  },
   "23987": {
     "name": "Crystal halberd",
     "weight": 1.814,
@@ -68384,8 +67715,40 @@
       "aspeed": 7
     }
   },
+  "23989": {
+    "name": "Crystal halberd (inactive)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 85,
+      "aslash": 110,
+      "acrush": 5,
+      "amagic": -4,
+      "dstab": -1,
+      "dslash": 4,
+      "dcrush": 5,
+      "str": 118,
+      "aspeed": 7
+    }
+  },
   "23991": {
     "name": "Crystal shield",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -10,
+      "arange": -10,
+      "dstab": 51,
+      "dslash": 54,
+      "dcrush": 53,
+      "drange": 80
+    }
+  },
+  "23993": {
+    "name": "Crystal shield (inactive)",
     "weight": 2.721,
     "equipable": true,
     "equipment": {
@@ -68634,6 +67997,50 @@
   "24075": {
     "name": "Legends of the mountain",
     "weight": 0.226
+  },
+  "24123": {
+    "name": "Crystal bow",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 100,
+      "rstr": 78,
+      "aspeed": 5
+    }
+  },
+  "24125": {
+    "name": "Crystal halberd",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 85,
+      "aslash": 110,
+      "acrush": 5,
+      "amagic": -4,
+      "dstab": -1,
+      "dslash": 4,
+      "dcrush": 5,
+      "str": 118,
+      "aspeed": 7
+    }
+  },
+  "24127": {
+    "name": "Crystal shield",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -10,
+      "arange": -10,
+      "dstab": 51,
+      "dslash": 54,
+      "dcrush": 53,
+      "drange": 80
+    }
   },
   "24130": {
     "name": "Combat path starter kit",
@@ -71379,11 +70786,11 @@
     }
   },
   "24847": {
-    "name": "Ziggy",
+    "name": "Red",
     "weight": 0.015
   },
   "24849": {
-    "name": "Red",
+    "name": "Ziggy",
     "weight": 0.015
   },
   "24851": {
@@ -72632,8 +72039,265 @@
     "equipable": true,
     "equipment": {}
   },
+  "25246": {
+    "name": "Ring of suffering (i)",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 20,
+      "dslash": 20,
+      "dcrush": 20,
+      "dmagic": 20,
+      "drange": 20,
+      "prayer": 4
+    }
+  },
+  "25248": {
+    "name": "Ring of suffering (ri)",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 20,
+      "dslash": 20,
+      "dcrush": 20,
+      "dmagic": 20,
+      "drange": 20,
+      "prayer": 4
+    }
+  },
   "25250": {
     "name": "Salve amulet(i)",
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "prayer": 3
+    }
+  },
+  "25252": {
+    "name": "Ring of the gods (i)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1,
+      "prayer": 8
+    }
+  },
+  "25254": {
+    "name": "Tyrannical ring (i)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "acrush": 8,
+      "dcrush": 8
+    }
+  },
+  "25256": {
+    "name": "Treasonous ring (i)",
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "astab": 8,
+      "dstab": 8
+    }
+  },
+  "25258": {
+    "name": "Seers ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "amagic": 12,
+      "dmagic": 12
+    }
+  },
+  "25260": {
+    "name": "Archers ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "arange": 8,
+      "drange": 8
+    }
+  },
+  "25262": {
+    "name": "Warrior ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "aslash": 8,
+      "dslash": 8
+    }
+  },
+  "25264": {
+    "name": "Berserker ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dcrush": 8,
+      "str": 8
+    }
+  },
+  "25266": {
+    "name": "Black mask (10) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25267": {
+    "name": "Black mask (9) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25268": {
+    "name": "Black mask (8) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25269": {
+    "name": "Black mask (7) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25270": {
+    "name": "Black mask (6) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25271": {
+    "name": "Black mask (5) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25272": {
+    "name": "Black mask (4) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25273": {
+    "name": "Black mask (3) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25274": {
+    "name": "Black mask (2) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25275": {
+    "name": "Black mask (1) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25276": {
+    "name": "Black mask (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "25278": {
+    "name": "Salve amulet(ei)",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -74793,6 +74457,14 @@
     "name": "Ranis' head",
     "weight": 0.01
   },
+  "25965": {
+    "name": "Strange spider eggs",
+    "weight": 0.01
+  },
+  "25966": {
+    "name": "Sulphuric acid",
+    "weight": 0.01
+  },
   "25967": {
     "name": "Sticky note",
     "weight": 0.01
@@ -74800,5 +74472,118 @@
   "25968": {
     "name": "Hespori bark",
     "weight": 0.01
+  },
+  "25969": {
+    "name": "Masori chestplate",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -4,
+      "arange": 30,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 15,
+      "dmagic": 6,
+      "drange": 12
+    }
+  },
+  "25971": {
+    "name": "Masori chainskirt",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -2,
+      "arange": 18,
+      "dstab": 6,
+      "dslash": 4,
+      "dcrush": 9,
+      "dmagic": 4,
+      "drange": 8
+    }
+  },
+  "25973": {
+    "name": "Masori amulet",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": 10,
+      "arange": 10
+    }
+  },
+  "25975": {
+    "name": "Lightbearer",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
+  },
+  "25977": {
+    "name": "Osmumten's khopesh",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 150,
+      "aslash": 105,
+      "str": 115,
+      "aspeed": 5
+    }
+  },
+  "25983": {
+    "name": "Elidinis' broken ward",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {}
+  },
+  "25985": {
+    "name": "Elidinis' ward",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 25,
+      "dstab": 53,
+      "dslash": 55,
+      "dcrush": 73,
+      "dmagic": 2,
+      "drange": 52,
+      "mdmg": 5,
+      "prayer": 4
+    }
+  },
+  "25987": {
+    "name": "Tumeken's heka",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "arange": -4,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 20
+    }
+  },
+  "25989": {
+    "name": "Tumeken's heka (uncharged)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "arange": -4,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 20
+    }
   }
 }
