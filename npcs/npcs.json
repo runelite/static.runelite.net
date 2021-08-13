@@ -4397,7 +4397,7 @@
   },
   "2954": {
     "name": "Zamorak wizard",
-    "hitpoints": 73
+    "hitpoints": 76
   },
   "2955": {
     "name": "Saradomin wizard",
@@ -5889,7 +5889,7 @@
   },
   "3982": {
     "name": "Lesser demon",
-    "hitpoints": 81
+    "hitpoints": 79
   },
   "3996": {
     "name": "Witch's experiment",
@@ -6821,7 +6821,7 @@
   },
   "4922": {
     "name": "Ice Queen",
-    "hitpoints": 105
+    "hitpoints": 104
   },
   "4926": {
     "name": "Pirate Guard",
@@ -7077,7 +7077,7 @@
   },
   "5237": {
     "name": "Skeleton",
-    "hitpoints": 110
+    "hitpoints": 77
   },
   "5238": {
     "name": "Spider",
