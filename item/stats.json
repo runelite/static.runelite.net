@@ -28202,10 +28202,6 @@
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
-  "7255": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
   "7256": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
@@ -65802,7 +65798,7 @@
     },
     "ge_limit": 8
   },
-  "23602": {
+  "23601": {
     "name": "Rune crossbow",
     "equipable": true,
     "equipment": {
@@ -74431,15 +74427,11 @@
   },
   "25958": {
     "name": "Corrupted paddlefish",
-    "weight": 0.45,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.45
   },
   "25959": {
     "name": "Corrupted escape crystal",
-    "weight": 0.001,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.001
   },
   "25960": {
     "name": "Crystal paddlefish",
