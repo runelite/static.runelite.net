@@ -2745,7 +2745,7 @@
   },
   "1683": {
     "name": "Crypt spider",
-    "hitpoints": 45
+    "hitpoints": 60
   },
   "1684": {
     "name": "Giant crypt spider",
@@ -3201,7 +3201,7 @@
   },
   "2057": {
     "name": "Dark wizard",
-    "hitpoints": 24
+    "hitpoints": 25
   },
   "2058": {
     "name": "Dark wizard",
@@ -5386,10 +5386,6 @@
   "3615": {
     "name": "Skeletal miner",
     "hitpoints": 39
-  },
-  "3616": {
-    "name": "Treus Dayth",
-    "hitpoints": 100
   },
   "3625": {
     "name": "Ghost",
@@ -10321,7 +10317,7 @@
   },
   "7938": {
     "name": "Revenant dark beast",
-    "hitpoints": 140
+    "hitpoints": 72
   },
   "7939": {
     "name": "Revenant knight",
@@ -11406,6 +11402,18 @@
   "9503": {
     "name": "Iorwerth Warrior",
     "hitpoints": 105
+  },
+  "9567": {
+    "name": "Vanstrom Klause",
+    "hitpoints": 750
+  },
+  "9569": {
+    "name": "Vanstrom Klause",
+    "hitpoints": 750
+  },
+  "9570": {
+    "name": "Vanstrom Klause",
+    "hitpoints": 750
   },
   "9573": {
     "name": "Acidic Bloodveld",
