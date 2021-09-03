@@ -70526,7 +70526,8 @@
   },
   "24777": {
     "name": "Blood shard",
-    "weight": 0.01
+    "weight": 0.01,
+    "ge_limit": 8
   },
   "24780": {
     "name": "Amulet of blood fury",
@@ -74577,5 +74578,25 @@
       "dcrush": 1,
       "dmagic": 20
     }
+  },
+  "26149": {
+    "name": "Tuna",
+    "ge_limit": 6000
+  },
+  "26150": {
+    "name": "Combat potion(1)",
+    "ge_limit": 2000
+  },
+  "26151": {
+    "name": "Combat potion(2)",
+    "ge_limit": 2000
+  },
+  "26152": {
+    "name": "Combat potion(3)",
+    "ge_limit": 2000
+  },
+  "26153": {
+    "name": "Combat potion(4)",
+    "ge_limit": 2000
   }
 }
