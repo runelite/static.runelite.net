@@ -1381,7 +1381,7 @@
   },
   "651": {
     "name": "Ice troll",
-    "hitpoints": 80
+    "hitpoints": 90
   },
   "652": {
     "name": "Ice troll",
@@ -1393,7 +1393,7 @@
   },
   "654": {
     "name": "Ice troll",
-    "hitpoints": 80
+    "hitpoints": 90
   },
   "655": {
     "name": "Goblin",
@@ -1493,7 +1493,7 @@
   },
   "702": {
     "name": "Ice troll",
-    "hitpoints": 80
+    "hitpoints": 90
   },
   "703": {
     "name": "Ice troll",
@@ -1505,7 +1505,7 @@
   },
   "705": {
     "name": "Ice troll",
-    "hitpoints": 80
+    "hitpoints": 90
   },
   "706": {
     "name": "Ice block",
@@ -3121,35 +3121,35 @@
   },
   "2025": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2026": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2027": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2028": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2029": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2030": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2031": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2032": {
     "name": "Greater demon",
-    "hitpoints": 89
+    "hitpoints": 87
   },
   "2042": {
     "name": "Zulrah",
@@ -4847,10 +4847,6 @@
     "name": "Spiritual ranger",
     "hitpoints": 89
   },
-  "3168": {
-    "name": "Spiritual mage",
-    "hitpoints": 75
-  },
   "3169": {
     "name": "Aviansie",
     "hitpoints": 70
@@ -6287,10 +6283,6 @@
     "name": "Ogre chieftain",
     "hitpoints": 60
   },
-  "4363": {
-    "name": "Ogre chieftain",
-    "hitpoints": 60
-  },
   "4367": {
     "name": "Gorad",
     "hitpoints": 80
@@ -6349,19 +6341,19 @@
   },
   "4427": {
     "name": "Vampyre Juvinate",
-    "hitpoints": 65
+    "hitpoints": 85
   },
   "4428": {
     "name": "Vampyre Juvinate",
-    "hitpoints": 65
+    "hitpoints": 85
   },
   "4429": {
     "name": "Vampyre Juvinate",
-    "hitpoints": 65
+    "hitpoints": 85
   },
   "4430": {
     "name": "Vampyre Juvinate",
-    "hitpoints": 65
+    "hitpoints": 85
   },
   "4431": {
     "name": "Feral Vampyre",
@@ -6369,7 +6361,7 @@
   },
   "4432": {
     "name": "Vampyre Juvinate",
-    "hitpoints": 65
+    "hitpoints": 85
   },
   "4436": {
     "name": "Vampyre Juvenile",
@@ -6413,7 +6405,7 @@
   },
   "4487": {
     "name": "Vampyre Juvinate",
-    "hitpoints": 65
+    "hitpoints": 85
   },
   "4491": {
     "name": "Skeleton fremennik",
@@ -6696,10 +6688,6 @@
     "hitpoints": 70
   },
   "4799": {
-    "name": "Giant lobster",
-    "hitpoints": 50
-  },
-  "4800": {
     "name": "Giant lobster",
     "hitpoints": 50
   },
@@ -11877,7 +11865,7 @@
   },
   "11088": {
     "name": "Necromancer",
-    "hitpoints": 40
+    "hitpoints": 80
   },
   "11093": {
     "name": "Head Guard",
