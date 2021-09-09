@@ -10,6 +10,7 @@ net.runelite.client.events
 net.runelite.client.externalplugins
 net.runelite.client.game
 net.runelite.client.game.chatbox
+net.runelite.client.game.npcoverlay
 net.runelite.client.input
 net.runelite.client.menus
 net.runelite.client.plugins
