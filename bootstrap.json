@@ -323,6 +323,23 @@
         "properties": {},
         "version": "1.7.24"
     },
+    "clientJvm17Arguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Xmx512m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500",
+        "-Djna.nosys=true",
+        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+    ],
+    "clientJvm17MacArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Xmx512m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500",
+        "-Djna.nosys=true",
+        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
+        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+    ],
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx512m",
@@ -401,5 +418,24 @@
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "-Djna.nosys=true"
+    ],
+    "launcherJvm17Arguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx512m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500",
+        "-Djna.nosys=true",
+        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+    ],
+    "launcherJvm17MacArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx512m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500",
+        "-Djna.nosys=true",
+        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
+        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
     ]
 }
