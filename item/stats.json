@@ -74579,6 +74579,536 @@
       "dmagic": 20
     }
   },
+  "25990": {
+    "name": "Sigil of resilience",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "25991": {
+    "name": "Sigil of resilience",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "25993": {
+    "name": "Sigil of consistency",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "25994": {
+    "name": "Sigil of consistency",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "25996": {
+    "name": "Sigil of the formidable fighter",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "25997": {
+    "name": "Sigil of the formidable fighter",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "25999": {
+    "name": "Sigil of the rigorous ranger",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26000": {
+    "name": "Sigil of the rigorous ranger",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26002": {
+    "name": "Sigil of the meticulous mage",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26003": {
+    "name": "Sigil of the meticulous mage",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26005": {
+    "name": "Sigil of fortification",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26006": {
+    "name": "Sigil of fortification",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26008": {
+    "name": "Sigil of barrows",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26009": {
+    "name": "Sigil of barrows",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26011": {
+    "name": "Sigil of deft strikes",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26012": {
+    "name": "Sigil of deft strikes",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26014": {
+    "name": "Sigil of freedom",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26015": {
+    "name": "Sigil of freedom",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26017": {
+    "name": "Sigil of enhanced harvest",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26018": {
+    "name": "Sigil of enhanced harvest",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26020": {
+    "name": "Sigil of storage",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26021": {
+    "name": "Sigil of storage",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26023": {
+    "name": "Sigil of the smith",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26024": {
+    "name": "Sigil of the smith",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26026": {
+    "name": "Sigil of the alchemist",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26027": {
+    "name": "Sigil of the alchemist",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26029": {
+    "name": "Sigil of the fletcher",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26030": {
+    "name": "Sigil of the fletcher",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26032": {
+    "name": "Sigil of the chef",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26033": {
+    "name": "Sigil of the chef",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26035": {
+    "name": "Sigil of the craftsman",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26036": {
+    "name": "Sigil of the craftsman",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26038": {
+    "name": "Sigil of the abyss",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26039": {
+    "name": "Sigil of the abyss",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26041": {
+    "name": "Sigil of stamina",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26042": {
+    "name": "Sigil of stamina",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26044": {
+    "name": "Sigil of the potion master",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26045": {
+    "name": "Sigil of the potion master",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26047": {
+    "name": "Sigil of the eternal jeweller",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26048": {
+    "name": "Sigil of the eternal jeweller",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26050": {
+    "name": "Sigil of the treasure hunter",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26051": {
+    "name": "Sigil of the treasure hunter",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26053": {
+    "name": "Sigil of mobility",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26054": {
+    "name": "Sigil of mobility",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26056": {
+    "name": "Sigil of exaggeration",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26057": {
+    "name": "Sigil of exaggeration",
+    "weight": 0.1,
+    "ge_limit": 10
+  },
+  "26059": {
+    "name": "Sigil of specialised strikes",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26060": {
+    "name": "Sigil of specialised strikes",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26062": {
+    "name": "Sigil of the porcupine",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26063": {
+    "name": "Sigil of the porcupine",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26065": {
+    "name": "Sigil of binding",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26066": {
+    "name": "Sigil of binding",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26068": {
+    "name": "Sigil of escaping",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26069": {
+    "name": "Sigil of escaping",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26071": {
+    "name": "Sigil of the ruthless ranger",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26072": {
+    "name": "Sigil of the ruthless ranger",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26074": {
+    "name": "Sigil of the feral fighter",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26075": {
+    "name": "Sigil of the feral fighter",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26077": {
+    "name": "Sigil of the menacing mage",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26078": {
+    "name": "Sigil of the menacing mage",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26080": {
+    "name": "Sigil of prosperity",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26081": {
+    "name": "Sigil of prosperity",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26083": {
+    "name": "Sigil of the dwarves",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26084": {
+    "name": "Sigil of the dwarves",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26086": {
+    "name": "Sigil of the elves",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26087": {
+    "name": "Sigil of the elves",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26089": {
+    "name": "Sigil of the barbarians",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26090": {
+    "name": "Sigil of the barbarians",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26092": {
+    "name": "Sigil of the gnomes",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26093": {
+    "name": "Sigil of the gnomes",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26095": {
+    "name": "Sigil of nature",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26096": {
+    "name": "Sigil of nature",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26098": {
+    "name": "Sigil of devotion",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26099": {
+    "name": "Sigil of devotion",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26101": {
+    "name": "Sigil of the forager",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26102": {
+    "name": "Sigil of the forager",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26104": {
+    "name": "Sigil of garments",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26105": {
+    "name": "Sigil of garments",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26107": {
+    "name": "Sigil of slaughter",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26108": {
+    "name": "Sigil of slaughter",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26110": {
+    "name": "Sigil of the fortune farmer",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26111": {
+    "name": "Sigil of the fortune farmer",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26113": {
+    "name": "Sigil of versatility",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26114": {
+    "name": "Sigil of versatility",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26116": {
+    "name": "Sigil of the serpent",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26117": {
+    "name": "Sigil of the serpent",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26119": {
+    "name": "Sigil of supreme stamina",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26120": {
+    "name": "Sigil of supreme stamina",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26122": {
+    "name": "Sigil of preservation",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26123": {
+    "name": "Sigil of preservation",
+    "weight": 0.1,
+    "ge_limit": 8
+  },
+  "26125": {
+    "name": "Sigil of finality",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26126": {
+    "name": "Sigil of finality",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26128": {
+    "name": "Sigil of pious protection",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26129": {
+    "name": "Sigil of pious protection",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26131": {
+    "name": "Sigil of aggression",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26132": {
+    "name": "Sigil of aggression",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26134": {
+    "name": "Sigil of rampage",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26135": {
+    "name": "Sigil of rampage",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26137": {
+    "name": "Sigil of the skiller",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26138": {
+    "name": "Sigil of the skiller",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26140": {
+    "name": "Sigil of remote storage",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26141": {
+    "name": "Sigil of remote storage",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26143": {
+    "name": "Sigil of last recall",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26144": {
+    "name": "Sigil of last recall",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26146": {
+    "name": "Sigil of the guardian angel",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "26147": {
+    "name": "Sigil of the guardian angel",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
   "26149": {
     "name": "Tuna",
     "ge_limit": 6000
@@ -74598,5 +75128,9 @@
   "26153": {
     "name": "Combat potion(4)",
     "ge_limit": 2000
+  },
+  "26154": {
+    "name": "Mount karuulm diary",
+    "weight": 0.028
   }
 }
