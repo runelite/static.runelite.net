@@ -1003,10 +1003,6 @@
     "name": "Cave kraken",
     "hitpoints": 125
   },
-  "493": {
-    "name": "Whirlpool",
-    "hitpoints": 120
-  },
   "494": {
     "name": "Kraken",
     "hitpoints": 255
@@ -1506,14 +1502,6 @@
   "705": {
     "name": "Ice troll",
     "hitpoints": 90
-  },
-  "706": {
-    "name": "Ice block",
-    "hitpoints": 10
-  },
-  "707": {
-    "name": "Ice block",
-    "hitpoints": 10
   },
   "710": {
     "name": "Ice wolf",
@@ -3687,10 +3675,6 @@
     "name": "Guard",
     "hitpoints": 26
   },
-  "2423": {
-    "name": "Chaos dwarf",
-    "hitpoints": 61
-  },
   "2450": {
     "name": "Animated Bronze Armour",
     "hitpoints": 10
@@ -5219,10 +5203,6 @@
     "name": "Lucien",
     "hitpoints": 17
   },
-  "3444": {
-    "name": "Lucien",
-    "hitpoints": 17
-  },
   "3445": {
     "name": "Guardian of Armadyl",
     "hitpoints": 50
@@ -6335,10 +6315,6 @@
     "name": "Colonel Radick",
     "hitpoints": 65
   },
-  "4421": {
-    "name": "Undead cow",
-    "hitpoints": 8
-  },
   "4427": {
     "name": "Vampyre Juvinate",
     "hitpoints": 85
@@ -6627,10 +6603,6 @@
     "name": "The Shaikahan",
     "hitpoints": 100
   },
-  "4709": {
-    "name": "The Shaikahan",
-    "hitpoints": 100
-  },
   "4742": {
     "name": "Black golem",
     "hitpoints": 80
@@ -6720,10 +6692,6 @@
     "hitpoints": 150
   },
   "4863": {
-    "name": "Jubbly bird",
-    "hitpoints": 21
-  },
-  "4864": {
     "name": "Jubbly bird",
     "hitpoints": 21
   },
@@ -7290,10 +7258,6 @@
   "5512": {
     "name": "Gardener",
     "hitpoints": 7
-  },
-  "5534": {
-    "name": "Whirlpool",
-    "hitpoints": 120
   },
   "5535": {
     "name": "Enormous Tentacle",
@@ -9583,10 +9547,6 @@
     "name": "Dust devil",
     "hitpoints": 130
   },
-  "7250": {
-    "name": "Dark beast",
-    "hitpoints": 220
-  },
   "7251": {
     "name": "Fire giant",
     "hitpoints": 150
@@ -11694,6 +11654,10 @@
   "10721": {
     "name": "Skeleton",
     "hitpoints": 17
+  },
+  "10722": {
+    "name": "Ice spider",
+    "hitpoints": 65
   },
   "10888": {
     "name": "Bat",
