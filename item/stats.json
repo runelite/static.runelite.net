@@ -3816,9 +3816,9 @@
       "slot": 9,
       "amagic": -10,
       "arange": 8,
-      "dstab": 3,
+      "dstab": 1,
       "dslash": 2,
-      "dcrush": 4,
+      "dcrush": 2,
       "dmagic": 2
     },
     "ge_limit": 125
@@ -4084,11 +4084,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 8,
-      "dstab": 22,
-      "dslash": 16,
-      "dcrush": 24,
+      "dstab": 12,
+      "dslash": 15,
+      "dcrush": 18,
       "dmagic": 8,
-      "drange": 22
+      "drange": 17
     },
     "ge_limit": 125
   },
@@ -4365,11 +4365,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 15,
-      "dstab": 40,
-      "dslash": 32,
-      "dcrush": 45,
+      "dstab": 18,
+      "dslash": 27,
+      "dcrush": 24,
       "dmagic": 20,
-      "drange": 40
+      "drange": 35
     },
     "ge_limit": 125
   },
@@ -6387,11 +6387,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 32,
       "aspeed": 5
     },
@@ -6406,11 +6406,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -6425,11 +6425,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -6444,11 +6444,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -6463,11 +6463,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -6482,11 +6482,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -6501,11 +6501,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -6520,11 +6520,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -6539,11 +6539,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -9780,9 +9780,9 @@
       "slot": 9,
       "amagic": -10,
       "arange": 9,
-      "dstab": 4,
+      "dstab": 2,
       "dslash": 3,
-      "dcrush": 5,
+      "dcrush": 3,
       "dmagic": 4
     },
     "ge_limit": 125
@@ -9795,9 +9795,9 @@
       "slot": 9,
       "amagic": -10,
       "arange": 10,
-      "dstab": 5,
+      "dstab": 3,
       "dslash": 4,
-      "dcrush": 6,
+      "dcrush": 4,
       "dmagic": 6
     },
     "ge_limit": 70
@@ -9810,9 +9810,9 @@
       "slot": 9,
       "amagic": -10,
       "arange": 11,
-      "dstab": 6,
+      "dstab": 4,
       "dslash": 5,
-      "dcrush": 7,
+      "dcrush": 5,
       "dmagic": 8
     },
     "ge_limit": 70
@@ -9825,11 +9825,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 11,
-      "dstab": 25,
-      "dslash": 19,
-      "dcrush": 27,
+      "dstab": 13,
+      "dslash": 16,
+      "dcrush": 20,
       "dmagic": 14,
-      "drange": 25
+      "drange": 20
     },
     "ge_limit": 125
   },
@@ -9841,11 +9841,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 14,
-      "dstab": 28,
-      "dslash": 22,
-      "dcrush": 30,
-      "dmagic": 20,
-      "drange": 28
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 22,
+      "dmagic": 18,
+      "drange": 20
     },
     "ge_limit": 70
   },
@@ -9857,11 +9857,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 17,
-      "dstab": 31,
-      "dslash": 25,
-      "dcrush": 33,
-      "dmagic": 28,
-      "drange": 31
+      "dstab": 18,
+      "dslash": 20,
+      "dcrush": 26,
+      "dmagic": 23,
+      "drange": 26
     },
     "ge_limit": 70
   },
@@ -9873,11 +9873,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 20,
-      "dstab": 45,
-      "dslash": 37,
-      "dcrush": 50,
-      "dmagic": 30,
-      "drange": 45
+      "dstab": 23,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 26,
+      "drange": 40
     },
     "ge_limit": 125
   },
@@ -9889,11 +9889,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 25,
-      "dstab": 50,
-      "dslash": 42,
-      "dcrush": 55,
-      "dmagic": 40,
-      "drange": 50
+      "dstab": 26,
+      "dslash": 34,
+      "dcrush": 36,
+      "dmagic": 36,
+      "drange": 45
     },
     "ge_limit": 70
   },
@@ -9905,11 +9905,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 30,
-      "dstab": 55,
-      "dslash": 47,
-      "dcrush": 60,
-      "dmagic": 50,
-      "drange": 55
+      "dstab": 30,
+      "dslash": 38,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 50
     },
     "ge_limit": 70
   },
@@ -12193,11 +12193,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -12212,11 +12212,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -25751,11 +25751,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -25770,11 +25770,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -28751,11 +28751,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 15,
-      "dstab": 40,
-      "dslash": 32,
-      "dcrush": 45,
+      "dstab": 18,
+      "dslash": 27,
+      "dcrush": 24,
       "dmagic": 20,
-      "drange": 40
+      "drange": 35
     },
     "ge_limit": 8
   },
@@ -28767,11 +28767,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 15,
-      "dstab": 40,
-      "dslash": 32,
-      "dcrush": 45,
+      "dstab": 18,
+      "dslash": 27,
+      "dcrush": 24,
       "dmagic": 20,
-      "drange": 40
+      "drange": 35
     },
     "ge_limit": 8
   },
@@ -28783,11 +28783,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 20,
-      "dstab": 45,
-      "dslash": 37,
-      "dcrush": 50,
-      "dmagic": 30,
-      "drange": 45
+      "dstab": 23,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 26,
+      "drange": 40
     },
     "ge_limit": 8
   },
@@ -28799,11 +28799,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 20,
-      "dstab": 45,
-      "dslash": 37,
-      "dcrush": 50,
-      "dmagic": 30,
-      "drange": 45
+      "dstab": 23,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 26,
+      "drange": 40
     },
     "ge_limit": 8
   },
@@ -28815,11 +28815,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 8,
-      "dstab": 22,
-      "dslash": 16,
-      "dcrush": 24,
+      "dstab": 12,
+      "dslash": 15,
+      "dcrush": 18,
       "dmagic": 8,
-      "drange": 22
+      "drange": 17
     },
     "ge_limit": 8
   },
@@ -28831,11 +28831,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 8,
-      "dstab": 22,
-      "dslash": 16,
-      "dcrush": 24,
+      "dstab": 12,
+      "dslash": 15,
+      "dcrush": 18,
       "dmagic": 8,
-      "drange": 22
+      "drange": 17
     },
     "ge_limit": 8
   },
@@ -28847,11 +28847,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 11,
-      "dstab": 25,
-      "dslash": 19,
-      "dcrush": 27,
+      "dstab": 13,
+      "dslash": 16,
+      "dcrush": 20,
       "dmagic": 14,
-      "drange": 25
+      "drange": 20
     },
     "ge_limit": 8
   },
@@ -28863,11 +28863,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 11,
-      "dstab": 25,
-      "dslash": 19,
-      "dcrush": 27,
+      "dstab": 13,
+      "dslash": 16,
+      "dcrush": 20,
       "dmagic": 14,
-      "drange": 25
+      "drange": 20
     },
     "ge_limit": 8
   },
@@ -43589,11 +43589,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -43608,11 +43608,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -44780,11 +44780,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -44799,11 +44799,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -46419,11 +46419,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 25,
-      "dstab": 50,
-      "dslash": 42,
-      "dcrush": 55,
-      "dmagic": 40,
-      "drange": 50
+      "dstab": 26,
+      "dslash": 34,
+      "dcrush": 36,
+      "dmagic": 36,
+      "drange": 45
     },
     "ge_limit": 8
   },
@@ -46435,11 +46435,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 14,
-      "dstab": 28,
-      "dslash": 22,
-      "dcrush": 30,
-      "dmagic": 20,
-      "drange": 28
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 22,
+      "dmagic": 18,
+      "drange": 20
     },
     "ge_limit": 8
   },
@@ -46451,11 +46451,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 25,
-      "dstab": 50,
-      "dslash": 42,
-      "dcrush": 55,
-      "dmagic": 40,
-      "drange": 50
+      "dstab": 26,
+      "dslash": 34,
+      "dcrush": 36,
+      "dmagic": 36,
+      "drange": 45
     },
     "ge_limit": 8
   },
@@ -46467,11 +46467,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 14,
-      "dstab": 28,
-      "dslash": 22,
-      "dcrush": 30,
-      "dmagic": 20,
-      "drange": 28
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 22,
+      "dmagic": 18,
+      "drange": 20
     },
     "ge_limit": 8
   },
@@ -46739,11 +46739,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 17,
-      "dstab": 31,
-      "dslash": 25,
-      "dcrush": 33,
-      "dmagic": 28,
-      "drange": 31
+      "dstab": 18,
+      "dslash": 20,
+      "dcrush": 26,
+      "dmagic": 23,
+      "drange": 26
     },
     "ge_limit": 8
   },
@@ -46771,11 +46771,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 17,
-      "dstab": 31,
-      "dslash": 25,
-      "dcrush": 33,
-      "dmagic": 28,
-      "drange": 31
+      "dstab": 18,
+      "dslash": 20,
+      "dcrush": 26,
+      "dmagic": 23,
+      "drange": 26
     },
     "ge_limit": 8
   },
@@ -48563,11 +48563,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -48582,11 +48582,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -51690,7 +51690,7 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": 12,
+      "amagic": 6,
       "dmagic": 10
     },
     "ge_limit": 125
@@ -51701,7 +51701,7 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": 8,
+      "amagic": 4,
       "dmagic": 7
     },
     "ge_limit": 125
@@ -56764,11 +56764,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -56783,11 +56783,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -56802,11 +56802,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -56821,11 +56821,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -57783,13 +57783,14 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "acrush": 110,
-      "dstab": 141,
-      "dslash": 145,
-      "dcrush": 145,
+      "acrush": 124,
+      "dstab": 106,
+      "dslash": 109,
+      "dcrush": 109,
+      "dmagic": -10,
       "drange": 148,
       "str": 38,
-      "aspeed": 7
+      "aspeed": 5
     },
     "ge_limit": 8
   },
@@ -58436,11 +58437,11 @@
       "astab": 7,
       "aslash": -1,
       "acrush": 28,
-      "amagic": 10,
+      "amagic": 12,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 12,
       "str": 35,
       "aspeed": 5
     },
@@ -58455,11 +58456,11 @@
       "astab": 10,
       "aslash": -1,
       "acrush": 40,
-      "amagic": 10,
+      "amagic": 14,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
-      "dmagic": 10,
+      "dmagic": 14,
       "str": 50,
       "aspeed": 5
     },
@@ -70397,7 +70398,8 @@
   },
   "24740": {
     "name": "Strange old lockpick (full)",
-    "weight": 0.002
+    "weight": 0.002,
+    "ge_limit": 50
   },
   "24743": {
     "name": "Graceful hood",
