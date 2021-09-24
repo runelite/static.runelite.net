@@ -191,26 +191,6 @@
     "name": "Zombie",
     "hitpoints": 30
   },
-  "64": {
-    "name": "Zombie",
-    "hitpoints": 30
-  },
-  "65": {
-    "name": "Zombie",
-    "hitpoints": 30
-  },
-  "66": {
-    "name": "Zombie",
-    "hitpoints": 30
-  },
-  "67": {
-    "name": "Zombie",
-    "hitpoints": 30
-  },
-  "68": {
-    "name": "Zombie",
-    "hitpoints": 30
-  },
   "69": {
     "name": "Summoned Zombie",
     "hitpoints": 22
@@ -1001,6 +981,10 @@
   },
   "492": {
     "name": "Cave kraken",
+    "hitpoints": 125
+  },
+  "493": {
+    "name": "Whirlpool",
     "hitpoints": 125
   },
   "494": {
@@ -5255,10 +5239,6 @@
     "name": "A Doubt",
     "hitpoints": 50
   },
-  "3478": {
-    "name": "The Illusive",
-    "hitpoints": 140
-  },
   "3481": {
     "name": "Count Draynor",
     "hitpoints": 35
@@ -6431,10 +6411,6 @@
     "name": "Giant bat",
     "hitpoints": 32
   },
-  "4505": {
-    "name": "Ulfric",
-    "hitpoints": 60
-  },
   "4522": {
     "name": "Guard",
     "hitpoints": 30
@@ -6652,10 +6628,6 @@
     "hitpoints": 22
   },
   "4797": {
-    "name": "Slug Prince",
-    "hitpoints": 70
-  },
-  "4798": {
     "name": "Slug Prince",
     "hitpoints": 70
   },
@@ -7258,6 +7230,10 @@
   "5512": {
     "name": "Gardener",
     "hitpoints": 7
+  },
+  "5534": {
+    "name": "Whirlpool",
+    "hitpoints": 120
   },
   "5535": {
     "name": "Enormous Tentacle",
@@ -10426,10 +10402,6 @@
   "8080": {
     "name": "Iron dragon",
     "hitpoints": 165
-  },
-  "8081": {
-    "name": "Brutal green dragon",
-    "hitpoints": 175
   },
   "8082": {
     "name": "Green dragon",
