@@ -157,7 +157,7 @@ net.runelite.client.plugins.screenmarkers
 net.runelite.client.plugins.screenmarkers.ui
 net.runelite.client.plugins.screenshot
 net.runelite.client.plugins.skillcalculator
-net.runelite.client.plugins.skillcalculator.beans
+net.runelite.client.plugins.skillcalculator.skills
 net.runelite.client.plugins.skybox
 net.runelite.client.plugins.slayer
 net.runelite.client.plugins.smelting
