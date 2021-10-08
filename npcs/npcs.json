@@ -7211,10 +7211,6 @@
     "name": "Soldier",
     "hitpoints": 22
   },
-  "5442": {
-    "name": "Security Guard",
-    "hitpoints": 250
-  },
   "5457": {
     "name": "Shipyard worker",
     "hitpoints": 10
