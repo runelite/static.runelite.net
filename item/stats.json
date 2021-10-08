@@ -6614,7 +6614,7 @@
       "dslash": 3,
       "dcrush": 1,
       "str": 10,
-      "aspeed": 6
+      "aspeed": 7
     }
   },
   "1420": {
@@ -46723,11 +46723,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 30,
-      "dstab": 55,
-      "dslash": 47,
-      "dcrush": 60,
-      "dmagic": 50,
-      "drange": 55
+      "dstab": 30,
+      "dslash": 38,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 50
     },
     "ge_limit": 8
   },
@@ -46755,11 +46755,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 30,
-      "dstab": 55,
-      "dslash": 47,
-      "dcrush": 60,
-      "dmagic": 50,
-      "drange": 55
+      "dstab": 30,
+      "dslash": 38,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 50
     },
     "ge_limit": 8
   },
@@ -67594,6 +67594,10 @@
     "name": "Enhanced crystal key",
     "weight": 0.01
   },
+  "23953": {
+    "name": "Crystal tool seed",
+    "ge_limit": 100
+  },
   "23959": {
     "name": "Enhanced crystal teleport seed",
     "ge_limit": 100
@@ -67777,7 +67781,8 @@
     "equipment": {
       "slot": 3,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "24000": {
     "name": "Crystal grail",
@@ -69723,7 +69728,8 @@
       "dmagic": 14,
       "mdmg": 15,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "24423": {
     "name": "Harmonised nightmare staff",
@@ -69882,15 +69888,18 @@
   },
   "24511": {
     "name": "Harmonised orb",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 8
   },
   "24514": {
     "name": "Volatile orb",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 8
   },
   "24517": {
     "name": "Eldritch orb",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 8
   },
   "24520": {
     "name": "Victor's cape (1000)",
@@ -70045,6 +70054,22 @@
     "name": "Blighted ancient ice sack",
     "ge_limit": 10000
   },
+  "24609": {
+    "name": "Blighted bind sack",
+    "ge_limit": 10000
+  },
+  "24611": {
+    "name": "Blighted snare sack",
+    "ge_limit": 10000
+  },
+  "24613": {
+    "name": "Blighted entangle sack",
+    "ge_limit": 10000
+  },
+  "24615": {
+    "name": "Blighted teleport spell sack",
+    "ge_limit": 10000
+  },
   "24617": {
     "name": "Vesta's blighted longsword",
     "weight": 1.814,
@@ -70076,6 +70101,10 @@
       "str": 118,
       "aspeed": 5
     }
+  },
+  "24621": {
+    "name": "Blighted vengeance sack",
+    "ge_limit": 10000
   },
   "24623": {
     "name": "Divine battlemage potion(4)",
@@ -75134,5 +75163,209 @@
   "26154": {
     "name": "Mount karuulm diary",
     "weight": 0.028
+  },
+  "26156": {
+    "name": "Group iron helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 6,
+      "dslash": 7,
+      "dcrush": 5,
+      "dmagic": -1,
+      "drange": 6
+    }
+  },
+  "26158": {
+    "name": "Group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26160": {
+    "name": "Group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26162": {
+    "name": "Group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26164": {
+    "name": "Group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26166": {
+    "name": "Group iron platelegs",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 11,
+      "dslash": 10,
+      "dcrush": 10,
+      "dmagic": -4,
+      "drange": 10
+    }
+  },
+  "26168": {
+    "name": "Group iron bracers",
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1
+    }
+  },
+  "26170": {
+    "name": "Hardcore group iron helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 6,
+      "dslash": 7,
+      "dcrush": 5,
+      "dmagic": -1,
+      "drange": 6
+    }
+  },
+  "26172": {
+    "name": "Hardcore group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26174": {
+    "name": "Hardcore group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26176": {
+    "name": "Hardcore group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26178": {
+    "name": "Hardcore group iron platebody",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "26180": {
+    "name": "Hardcore group iron platelegs",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 11,
+      "dslash": 10,
+      "dcrush": 10,
+      "dmagic": -4,
+      "drange": 10
+    }
+  },
+  "26182": {
+    "name": "Hardcore group iron bracers",
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1
+    }
   }
 }
