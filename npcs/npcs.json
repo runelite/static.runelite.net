@@ -2143,10 +2143,6 @@
     "name": "Giant Sea Snake",
     "hitpoints": 100
   },
-  "1115": {
-    "name": "Mourner",
-    "hitpoints": 25
-  },
   "1118": {
     "name": "Man",
     "hitpoints": 13
@@ -2206,10 +2202,6 @@
   "1142": {
     "name": "Woman",
     "hitpoints": 23
-  },
-  "1148": {
-    "name": "Mourner",
-    "hitpoints": 25
   },
   "1153": {
     "name": "Ogre",
@@ -6162,10 +6154,6 @@
   "4319": {
     "name": "Skeleton Mage",
     "hitpoints": 80
-  },
-  "4321": {
-    "name": "Renegade knight",
-    "hitpoints": 48
   },
   "4328": {
     "name": "Sigmund",
@@ -11467,10 +11455,6 @@
     "name": "Sourhog",
     "hitpoints": 40
   },
-  "10437": {
-    "name": "Sourhog",
-    "hitpoints": 40
-  },
   "10492": {
     "name": "Headless Beast (hard)",
     "hitpoints": 320
@@ -11698,6 +11682,10 @@
   "10989": {
     "name": "Barbarian Warlord",
     "hitpoints": 80
+  },
+  "11058": {
+    "name": "Man",
+    "hitpoints": 7
   },
   "11063": {
     "name": "Bandit",
