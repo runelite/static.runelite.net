@@ -30563,12 +30563,15 @@
     }
   },
   "7804": {
-    "name": "Zaros mjolnir",
+    "name": "Ancient mjolnir",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 4
+      "is2h": true,
+      "acrush": 11,
+      "str": 14,
+      "aspeed": 6
     }
   },
   "7806": {
@@ -73907,6 +73910,7 @@
   },
   "25818": {
     "name": "Book of the dead",
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -74504,12 +74508,13 @@
     "equipment": {
       "slot": 4,
       "amagic": -4,
-      "arange": 30,
-      "dstab": 12,
-      "dslash": 8,
-      "dcrush": 15,
-      "dmagic": 6,
-      "drange": 12
+      "arange": 33,
+      "dstab": 37,
+      "dslash": 35,
+      "dcrush": 38,
+      "dmagic": 25,
+      "drange": 33,
+      "prayer": 1
     }
   },
   "25971": {
@@ -74519,12 +74524,13 @@
     "equipment": {
       "slot": 7,
       "amagic": -2,
-      "arange": 18,
-      "dstab": 6,
-      "dslash": 4,
-      "dcrush": 9,
-      "dmagic": 4,
-      "drange": 8
+      "arange": 20,
+      "dstab": 26,
+      "dslash": 24,
+      "dcrush": 29,
+      "dmagic": 19,
+      "drange": 22,
+      "prayer": 1
     }
   },
   "25973": {
@@ -74533,11 +74539,9 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
-      "astab": 10,
-      "aslash": 10,
-      "acrush": 10,
-      "amagic": 10,
-      "arange": 10
+      "arange": 10,
+      "rstr": 3,
+      "prayer": 1
     }
   },
   "25975": {
@@ -74548,23 +74552,46 @@
       "slot": 12
     }
   },
-  "25977": {
-    "name": "Osmumten's khopesh",
-    "weight": 1.814,
+  "25979": {
+    "name": "Keris partisan",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 150,
-      "aslash": 105,
-      "str": 115,
-      "aspeed": 5
+      "astab": 58,
+      "aslash": 58,
+      "acrush": 57,
+      "amagic": 2,
+      "str": 45,
+      "aspeed": 4
+    }
+  },
+  "25981": {
+    "name": "Keris partisan of breaching",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 58,
+      "aslash": 58,
+      "acrush": 57,
+      "amagic": 2,
+      "str": 45,
+      "aspeed": 4
     }
   },
   "25983": {
     "name": "Elidinis' broken ward",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 5,
+      "amagic": 10,
+      "dstab": 18,
+      "dslash": 22,
+      "dcrush": 21,
+      "prayer": 4
+    }
   },
   "25985": {
     "name": "Elidinis' ward",
@@ -75367,5 +75394,240 @@
       "dmagic": 1,
       "drange": 1
     }
+  },
+  "26217": {
+    "name": "Masori headdress",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -1,
+      "arange": 10,
+      "dstab": 3,
+      "dslash": 4,
+      "dcrush": 3,
+      "dmagic": 6,
+      "drange": 4,
+      "prayer": 1
+    }
+  },
+  "26219": {
+    "name": "Osmumten's fang",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 150,
+      "aslash": 105,
+      "str": 115,
+      "aspeed": 5
+    }
+  },
+  "26221": {
+    "name": "Ancient ceremonial top",
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "prayer": 6
+    }
+  },
+  "26223": {
+    "name": "Ancient ceremonial legs",
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "prayer": 5
+    }
+  },
+  "26225": {
+    "name": "Ancient ceremonial mask",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "prayer": 2
+    }
+  },
+  "26227": {
+    "name": "Ancient ceremonial gloves",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "prayer": 1
+    }
+  },
+  "26229": {
+    "name": "Ancient ceremonial boots",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "prayer": 1
+    }
+  },
+  "26231": {
+    "name": "Nihil shard",
+    "equipable": true,
+    "equipment": {}
+  },
+  "26233": {
+    "name": "Ancient godsword",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 132,
+      "acrush": 80,
+      "str": 132,
+      "prayer": 8,
+      "aspeed": 6
+    }
+  },
+  "26235": {
+    "name": "Zaryte vambraces",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": -8,
+      "aslash": -8,
+      "acrush": -8,
+      "arange": 18,
+      "dstab": 8,
+      "dslash": 8,
+      "dcrush": 8,
+      "dmagic": 5,
+      "drange": 8,
+      "rstr": 2,
+      "prayer": 1
+    }
+  },
+  "26237": {
+    "name": "Zaryte bow (uncharged)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 100,
+      "rstr": 10,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "26239": {
+    "name": "Zaryte bow",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 100,
+      "rstr": 10,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "26241": {
+    "name": "Virtus mask",
+    "weight": 1.206,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 8,
+      "arange": -3,
+      "dstab": 15,
+      "dslash": 14,
+      "dcrush": 16,
+      "dmagic": 6,
+      "prayer": 1
+    }
+  },
+  "26243": {
+    "name": "Virtus robe top",
+    "weight": 2.895,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 35,
+      "arange": -11,
+      "dstab": 47,
+      "dslash": 38,
+      "dcrush": 56,
+      "dmagic": 31,
+      "prayer": 2
+    }
+  },
+  "26245": {
+    "name": "Virtus robe legs",
+    "weight": 3.79,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 26,
+      "arange": -9,
+      "dstab": 31,
+      "dslash": 28,
+      "dcrush": 34,
+      "dmagic": 22,
+      "prayer": 1
+    }
+  },
+  "26250": {
+    "name": "Jered's empty wine bottle",
+    "weight": 1.0
+  },
+  "26252": {
+    "name": "Ad coupon",
+    "weight": 0.01
+  },
+  "26254": {
+    "name": "Saucepan",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26256": {
+    "name": "Ugly halloween jumper (orange)",
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26258": {
+    "name": "Ugly halloween jumper (black)",
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26260": {
+    "name": "Haunted wine bottle",
+    "weight": 0.15,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "26262": {
+    "name": "Rune scimitar",
+    "ge_limit": 70
+  },
+  "26264": {
+    "name": "Studded body",
+    "ge_limit": 125
   }
 }
