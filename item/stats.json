@@ -1548,7 +1548,7 @@
   },
   "566": {
     "name": "Soul rune",
-    "ge_limit": 10000
+    "ge_limit": 25000
   },
   "567": {
     "name": "Unpowered orb",
@@ -2257,7 +2257,7 @@
       "slot": 3,
       "arange": 6,
       "rstr": 12,
-      "aspeed": 3
+      "aspeed": 4
     }
   },
   "733": {
@@ -12754,24 +12754,20 @@
     "weight": 0.028
   },
   "3179": {
-    "name": "Monkey bones",
-    "weight": 0.5,
-    "ge_limit": 3000
+    "name": "Small ninja monkey bones",
+    "weight": 0.5
   },
   "3180": {
-    "name": "Monkey bones",
-    "weight": 0.5,
-    "ge_limit": 3000
+    "name": "Medium ninja monkey bones",
+    "weight": 0.5
   },
   "3181": {
-    "name": "Monkey bones",
-    "weight": 0.8,
-    "ge_limit": 3000
+    "name": "Gorilla bones",
+    "weight": 0.8
   },
   "3182": {
-    "name": "Monkey bones",
-    "weight": 0.8,
-    "ge_limit": 3000
+    "name": "Bearded gorilla bones",
+    "weight": 0.8
   },
   "3183": {
     "name": "Monkey bones",
@@ -12779,14 +12775,12 @@
     "ge_limit": 3000
   },
   "3185": {
-    "name": "Monkey bones",
-    "weight": 0.5,
-    "ge_limit": 3000
+    "name": "Small zombie monkey bones",
+    "weight": 0.5
   },
   "3186": {
-    "name": "Monkey bones",
-    "weight": 0.5,
-    "ge_limit": 3000
+    "name": "Large zombie monkey bones",
+    "weight": 0.5
   },
   "3187": {
     "name": "Bones",
@@ -43181,7 +43175,7 @@
   },
   "11698": {
     "name": "Soul rune",
-    "ge_limit": 10000
+    "ge_limit": 25000
   },
   "11699": {
     "name": "Astral rune",
@@ -75577,13 +75571,9 @@
       "prayer": 1
     }
   },
-  "26250": {
-    "name": "Jered's empty wine bottle",
-    "weight": 1.0
-  },
-  "26252": {
-    "name": "Ad coupon",
-    "weight": 0.01
+  "26247": {
+    "name": "Pumpkin pie",
+    "weight": 0.45
   },
   "26254": {
     "name": "Saucepan",
@@ -75622,12 +75612,8 @@
       "aspeed": 4
     }
   },
-  "26262": {
-    "name": "Rune scimitar",
-    "ge_limit": 70
-  },
-  "26264": {
-    "name": "Studded body",
-    "ge_limit": 125
+  "26266": {
+    "name": "Condensed gold",
+    "weight": 1.0
   }
 }
