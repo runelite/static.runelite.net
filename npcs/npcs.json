@@ -3623,10 +3623,6 @@
     "name": "Giant Rock Crab",
     "hitpoints": 180
   },
-  "2263": {
-    "name": "Bardur",
-    "hitpoints": 99
-  },
   "2264": {
     "name": "Dagannoth fledgeling",
     "hitpoints": 100
@@ -10225,7 +10221,7 @@
   },
   "7938": {
     "name": "Revenant dark beast",
-    "hitpoints": 72
+    "hitpoints": 136
   },
   "7939": {
     "name": "Revenant knight",
