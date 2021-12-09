@@ -33,7 +33,6 @@ net.runelite.client.plugins.boosts
 net.runelite.client.plugins.bosstimer
 net.runelite.client.plugins.camera
 net.runelite.client.plugins.cannon
-net.runelite.client.plugins.chatboxperformance
 net.runelite.client.plugins.chatchannel
 net.runelite.client.plugins.chatcommands
 net.runelite.client.plugins.chatfilter
