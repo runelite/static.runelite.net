@@ -75615,5 +75615,197 @@
   "26266": {
     "name": "Condensed gold",
     "weight": 1.0
+  },
+  "26270": {
+    "name": "Festive cinnamon",
+    "weight": 0.001
+  },
+  "26272": {
+    "name": "Festive holly",
+    "weight": 0.001
+  },
+  "26274": {
+    "name": "Festive white wine",
+    "weight": 0.001
+  },
+  "26276": {
+    "name": "Notes",
+    "weight": 0.001
+  },
+  "26278": {
+    "name": "Magical cleaning potion",
+    "weight": 0.001
+  },
+  "26280": {
+    "name": "Pink stained platebody",
+    "weight": 0.001
+  },
+  "26282": {
+    "name": "Pink stained platelegs",
+    "weight": 0.001
+  },
+  "26284": {
+    "name": "Pink stained full helm",
+    "weight": 0.001
+  },
+  "26286": {
+    "name": "Clean platebody",
+    "weight": 0.001
+  },
+  "26288": {
+    "name": "Clean platelegs",
+    "weight": 0.001
+  },
+  "26290": {
+    "name": "Clean full helm",
+    "weight": 0.001
+  },
+  "26292": {
+    "name": "Festive gingerbread gnomes",
+    "weight": 0.001
+  },
+  "26294": {
+    "name": "Festive mulled wine",
+    "weight": 0.001
+  },
+  "26296": {
+    "name": "Snow",
+    "weight": 0.01
+  },
+  "26298": {
+    "name": "Secret santa present",
+    "weight": 0.001
+  },
+  "26299": {
+    "name": "Secret santa present",
+    "weight": 0.001
+  },
+  "26302": {
+    "name": "Secret santa present",
+    "weight": 0.001
+  },
+  "26304": {
+    "name": "Chocolate chips",
+    "weight": 0.001
+  },
+  "26306": {
+    "name": "Chocolate chips",
+    "weight": 0.001
+  },
+  "26308": {
+    "name": "A big present",
+    "weight": 0.001
+  },
+  "26310": {
+    "name": "Festive elf slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "26312": {
+    "name": "Festive elf hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26314": {
+    "name": "Snowman ring",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
+  },
+  "26316": {
+    "name": "Secret santa present (red)",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26318": {
+    "name": "Secret santa present (blue)",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26320": {
+    "name": "Secret santa present (green)",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26322": {
+    "name": "Secret santa present (black)",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26324": {
+    "name": "Secret santa present (gold)",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26326": {
+    "name": "Little snowball",
+    "weight": 0.03
+  },
+  "26328": {
+    "name": "Small snowball",
+    "weight": 0.03
+  },
+  "26330": {
+    "name": "Normal snowball",
+    "weight": 0.03
+  },
+  "26332": {
+    "name": "Big snowball",
+    "weight": 0.03
+  },
+  "26334": {
+    "name": "Large snowball",
+    "weight": 0.03
+  },
+  "26336": {
+    "name": "Huge snowball",
+    "weight": 0.03
+  },
+  "26338": {
+    "name": "Humongous snowball",
+    "weight": 0.03
+  },
+  "26358": {
+    "name": "Frozen key piece (armadyl)",
+    "weight": 0.01
+  },
+  "26360": {
+    "name": "Frozen key piece (bandos)",
+    "weight": 0.01
+  },
+  "26362": {
+    "name": "Frozen key piece (zamorak)",
+    "weight": 0.01
+  },
+  "26364": {
+    "name": "Frozen key piece (saradomin)",
+    "weight": 0.01
+  },
+  "26366": {
+    "name": "Important letter",
+    "weight": 0.001
   }
 }
