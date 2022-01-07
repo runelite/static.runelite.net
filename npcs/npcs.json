@@ -11878,5 +11878,61 @@
   "11192": {
     "name": "Hespori",
     "hitpoints": 360
+  },
+  "11278": {
+    "name": "Nex",
+    "hitpoints": 3400
+  },
+  "11279": {
+    "name": "Nex",
+    "hitpoints": 3400
+  },
+  "11280": {
+    "name": "Nex",
+    "hitpoints": 3400
+  },
+  "11281": {
+    "name": "Nex",
+    "hitpoints": 3400
+  },
+  "11282": {
+    "name": "Nex",
+    "hitpoints": 3400
+  },
+  "11283": {
+    "name": "Fumus",
+    "hitpoints": 500
+  },
+  "11284": {
+    "name": "Umbra",
+    "hitpoints": 500
+  },
+  "11285": {
+    "name": "Cruor",
+    "hitpoints": 500
+  },
+  "11286": {
+    "name": "Glacies",
+    "hitpoints": 500
+  },
+  "11290": {
+    "name": "Spiritual Warrior",
+    "hitpoints": 100
+  },
+  "11291": {
+    "name": "Spiritual Ranger",
+    "hitpoints": 107
+  },
+  "11292": {
+    "name": "Spiritual Mage",
+    "hitpoints": 125
+  },
+  "11293": {
+    "name": "Blood Reaver",
+    "hitpoints": 125
+  },
+  "11294": {
+    "name": "Blood Reaver",
+    "hitpoints": 150
   }
 }

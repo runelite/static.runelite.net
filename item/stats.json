@@ -10530,7 +10530,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -10594,7 +10594,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -10760,7 +10760,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -10828,7 +10828,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -10896,7 +10896,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -27589,6 +27589,10 @@
     "equipment": {
       "slot": 0
     }
+  },
+  "7004": {
+    "name": "Chisel",
+    "ge_limit": 40
   },
   "7051": {
     "name": "Unlit bug lantern",
@@ -47298,7 +47302,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -47383,7 +47387,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -47468,7 +47472,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 44,
       "dslash": 48,
       "dcrush": 46,
@@ -73748,7 +73752,8 @@
   },
   "25769": {
     "name": "Vile ashes",
-    "weight": 0.056
+    "weight": 0.056,
+    "ge_limit": 150
   },
   "25772": {
     "name": "Malicious ashes",
@@ -75428,7 +75433,7 @@
   },
   "26223": {
     "name": "Ancient ceremonial legs",
-    "weight": 0.9,
+    "weight": 0.8,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -75458,14 +75463,9 @@
     "weight": 0.3,
     "equipable": true,
     "equipment": {
-      "slot": 9,
+      "slot": 10,
       "prayer": 1
     }
-  },
-  "26231": {
-    "name": "Nihil shard",
-    "equipable": true,
-    "equipment": {}
   },
   "26233": {
     "name": "Ancient godsword",
@@ -75557,7 +75557,7 @@
     }
   },
   "26245": {
-    "name": "Virtus robe legs",
+    "name": "Virtus robe bottoms",
     "weight": 3.79,
     "equipable": true,
     "equipment": {
@@ -75615,82 +75615,6 @@
   "26266": {
     "name": "Condensed gold",
     "weight": 1.0
-  },
-  "26270": {
-    "name": "Festive cinnamon",
-    "weight": 0.001
-  },
-  "26272": {
-    "name": "Festive holly",
-    "weight": 0.001
-  },
-  "26274": {
-    "name": "Festive white wine",
-    "weight": 0.001
-  },
-  "26276": {
-    "name": "Notes",
-    "weight": 0.001
-  },
-  "26278": {
-    "name": "Magical cleaning potion",
-    "weight": 0.001
-  },
-  "26280": {
-    "name": "Pink stained platebody",
-    "weight": 0.001
-  },
-  "26282": {
-    "name": "Pink stained platelegs",
-    "weight": 0.001
-  },
-  "26284": {
-    "name": "Pink stained full helm",
-    "weight": 0.001
-  },
-  "26286": {
-    "name": "Clean platebody",
-    "weight": 0.001
-  },
-  "26288": {
-    "name": "Clean platelegs",
-    "weight": 0.001
-  },
-  "26290": {
-    "name": "Clean full helm",
-    "weight": 0.001
-  },
-  "26292": {
-    "name": "Festive gingerbread gnomes",
-    "weight": 0.001
-  },
-  "26294": {
-    "name": "Festive mulled wine",
-    "weight": 0.001
-  },
-  "26296": {
-    "name": "Snow",
-    "weight": 0.01
-  },
-  "26298": {
-    "name": "Secret santa present",
-    "weight": 0.001
-  },
-  "26299": {
-    "name": "Secret santa present",
-    "weight": 0.001
-  },
-  "26302": {
-    "name": "Secret santa present",
-    "weight": 0.001
-  },
-  "26304": {
-    "name": "Chocolate chips",
-    "weight": 0.001
-  },
-  "26306": {
-    "name": "Chocolate chips",
-    "weight": 0.001
   },
   "26308": {
     "name": "A big present",
@@ -75760,33 +75684,37 @@
       "slot": 5
     }
   },
-  "26326": {
-    "name": "Little snowball",
+  "26340": {
+    "name": "Ancient brew(4)",
+    "weight": 0.035
+  },
+  "26342": {
+    "name": "Ancient brew(3)",
     "weight": 0.03
   },
-  "26328": {
-    "name": "Small snowball",
-    "weight": 0.03
+  "26344": {
+    "name": "Ancient brew(2)",
+    "weight": 0.025
   },
-  "26330": {
-    "name": "Normal snowball",
-    "weight": 0.03
+  "26346": {
+    "name": "Ancient brew(1)",
+    "weight": 0.02
   },
-  "26332": {
-    "name": "Big snowball",
-    "weight": 0.03
+  "26348": {
+    "name": "Nexling",
+    "weight": 0.015
   },
-  "26334": {
-    "name": "Large snowball",
-    "weight": 0.03
+  "26350": {
+    "name": "Ancient mix(2)",
+    "weight": 0.075
   },
-  "26336": {
-    "name": "Huge snowball",
-    "weight": 0.03
+  "26353": {
+    "name": "Ancient mix(1)",
+    "weight": 0.045
   },
-  "26338": {
-    "name": "Humongous snowball",
-    "weight": 0.03
+  "26356": {
+    "name": "Frozen key",
+    "weight": 0.04
   },
   "26358": {
     "name": "Frozen key piece (armadyl)",
@@ -75806,6 +75734,127 @@
   },
   "26366": {
     "name": "Important letter",
+    "weight": 0.001
+  },
+  "26370": {
+    "name": "Ancient hilt",
+    "weight": 2.5
+  },
+  "26374": {
+    "name": "Zaryte crossbow",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 110,
+      "dstab": 14,
+      "dslash": 14,
+      "dcrush": 12,
+      "dmagic": 15,
+      "drange": 16,
+      "prayer": 1,
+      "aspeed": 6
+    }
+  },
+  "26376": {
+    "name": "Torva full helm (damaged)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -5,
+      "arange": -5,
+      "dstab": 59,
+      "dslash": 60,
+      "dcrush": 62,
+      "dmagic": -2,
+      "drange": 57,
+      "str": 8,
+      "prayer": 1
+    }
+  },
+  "26378": {
+    "name": "Torva platebody (damaged)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": -14,
+      "dstab": 117,
+      "dslash": 111,
+      "dcrush": 117,
+      "dmagic": -11,
+      "drange": 142,
+      "str": 6,
+      "prayer": 1
+    }
+  },
+  "26380": {
+    "name": "Torva platelegs (damaged)",
+    "weight": 9.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -24,
+      "arange": -11,
+      "dstab": 87,
+      "dslash": 78,
+      "dcrush": 79,
+      "dmagic": -9,
+      "drange": 102,
+      "str": 4,
+      "prayer": 1
+    }
+  },
+  "26382": {
+    "name": "Torva full helm",
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -5,
+      "arange": -5,
+      "dstab": 59,
+      "dslash": 60,
+      "dcrush": 62,
+      "dmagic": -2,
+      "drange": 57,
+      "str": 8,
+      "prayer": 1
+    }
+  },
+  "26384": {
+    "name": "Torva platebody",
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": -14,
+      "dstab": 117,
+      "dslash": 111,
+      "dcrush": 117,
+      "dmagic": -11,
+      "drange": 142,
+      "str": 6,
+      "prayer": 1
+    }
+  },
+  "26386": {
+    "name": "Torva platelegs",
+    "weight": 9.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -24,
+      "arange": -11,
+      "dstab": 87,
+      "dslash": 78,
+      "dcrush": 79,
+      "dmagic": -9,
+      "drange": 102,
+      "str": 4,
+      "prayer": 1
+    }
+  },
+  "26392": {
+    "name": "Blood essence (active)",
     "weight": 0.001
   }
 }
