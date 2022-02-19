@@ -318,7 +318,6 @@
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
-        "-Djna.nosys=true",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
     "clientJvm17MacArguments": [
@@ -326,7 +325,6 @@
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
-        "-Djna.nosys=true",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
     ],
@@ -334,8 +332,7 @@
         "-XX:+DisableAttachMechanism",
         "-Xmx512m",
         "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "-Djna.nosys=true"
+        "-XX:CompileThreshold=1500"
     ],
     "clientJvmArguments": [
         "-XX:+DisableAttachMechanism",
@@ -344,8 +341,7 @@
         "-XX:CompileThreshold=1500",
         "-Xincgc",
         "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC",
-        "-Djna.nosys=true"
+        "-XX:+UseParNewGC"
     ],
     "dependencyHashes": {
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
@@ -398,16 +394,22 @@
         "-XX:CompileThreshold=1500",
         "-Xincgc",
         "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC",
-        "-Djna.nosys=true"
+        "-XX:+UseParNewGC"
     ],
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx512m",
         "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "-Djna.nosys=true"
+        "-XX:CompileThreshold=1500"
+    ],
+    "launcherJvm11WindowsArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll",
+        "-Xmx512m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
     ],
     "launcherJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
@@ -415,7 +417,6 @@
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
-        "-Djna.nosys=true",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
     "launcherJvm17MacArguments": [
@@ -424,8 +425,16 @@
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
-        "-Djna.nosys=true",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+    ],
+    "launcherJvm17WindowsArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll",
+        "-Xmx512m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500",
+        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ]
 }
