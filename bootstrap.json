@@ -326,7 +326,8 @@
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
-        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED",
+        "-Dapple.awt.application.appearance=system"
     ],
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
@@ -426,7 +427,8 @@
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
-        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED",
+        "-Dapple.awt.application.appearance=system"
     ],
     "launcherJvm17WindowsArguments": [
         "-XX:+DisableAttachMechanism",
