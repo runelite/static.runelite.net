@@ -2071,14 +2071,6 @@
     "name": "Angry giant rat",
     "hitpoints": 50
   },
-  "1063": {
-    "name": "Angry giant rat",
-    "hitpoints": 50
-  },
-  "1064": {
-    "name": "Angry giant rat",
-    "hitpoints": 50
-  },
   "1065": {
     "name": "Angry goblin",
     "hitpoints": 50
@@ -2236,6 +2228,10 @@
     "hitpoints": 25
   },
   "1208": {
+    "name": "Khazard Guard",
+    "hitpoints": 25
+  },
+  "1209": {
     "name": "Khazard Guard",
     "hitpoints": 25
   },
@@ -2926,10 +2922,6 @@
   "1737": {
     "name": "Brawler",
     "hitpoints": 143
-  },
-  "1738": {
-    "name": "Brawler",
-    "hitpoints": 173
   },
   "1777": {
     "name": "Double agent",
@@ -6801,7 +6793,7 @@
   },
   "5079": {
     "name": "Delrith",
-    "hitpoints": 10
+    "hitpoints": 7
   },
   "5086": {
     "name": "Dark wizard",
@@ -9503,6 +9495,10 @@
     "name": "Dust devil",
     "hitpoints": 130
   },
+  "7250": {
+    "name": "Dark beast",
+    "hitpoints": 220
+  },
   "7251": {
     "name": "Fire giant",
     "hitpoints": 150
@@ -11879,6 +11875,74 @@
     "name": "Hespori",
     "hitpoints": 360
   },
+  "11238": {
+    "name": "Dust devil",
+    "hitpoints": 105
+  },
+  "11239": {
+    "name": "Abyssal demon",
+    "hitpoints": 150
+  },
+  "11240": {
+    "name": "Greater Nechryael",
+    "hitpoints": 205
+  },
+  "11241": {
+    "name": "Jelly",
+    "hitpoints": 75
+  },
+  "11242": {
+    "name": "Jelly",
+    "hitpoints": 75
+  },
+  "11243": {
+    "name": "Jelly",
+    "hitpoints": 75
+  },
+  "11244": {
+    "name": "Jelly",
+    "hitpoints": 75
+  },
+  "11245": {
+    "name": "Jelly",
+    "hitpoints": 75
+  },
+  "11246": {
+    "name": "Revenant maledictus",
+    "hitpoints": 1250
+  },
+  "11268": {
+    "name": "Skoblin",
+    "hitpoints": 30
+  },
+  "11269": {
+    "name": "Snothead",
+    "hitpoints": 50
+  },
+  "11270": {
+    "name": "Snailfeet",
+    "hitpoints": 80
+  },
+  "11271": {
+    "name": "Mosschin",
+    "hitpoints": 120
+  },
+  "11272": {
+    "name": "Redeyes",
+    "hitpoints": 160
+  },
+  "11273": {
+    "name": "Strongbones",
+    "hitpoints": 200
+  },
+  "11274": {
+    "name": "Snothead",
+    "hitpoints": 50
+  },
+  "11275": {
+    "name": "Snailfeet",
+    "hitpoints": 80
+  },
   "11278": {
     "name": "Nex",
     "hitpoints": 3400
@@ -11921,7 +11985,7 @@
   },
   "11291": {
     "name": "Spiritual Ranger",
-    "hitpoints": 107
+    "hitpoints": 110
   },
   "11292": {
     "name": "Spiritual Mage",
@@ -11934,5 +11998,17 @@
   "11294": {
     "name": "Blood Reaver",
     "hitpoints": 150
+  },
+  "11298": {
+    "name": "Mosschin",
+    "hitpoints": 120
+  },
+  "11299": {
+    "name": "Redeyes",
+    "hitpoints": 160
+  },
+  "11300": {
+    "name": "Strongbones",
+    "hitpoints": 200
   }
 }
