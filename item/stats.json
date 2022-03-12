@@ -862,15 +862,27 @@
   },
   "286": {
     "name": "Orange goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "287": {
     "name": "Blue goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "288": {
     "name": "Goblin mail",
     "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    },
     "ge_limit": 15
   },
   "290": {
@@ -17763,7 +17775,7 @@
     "weight": 0.002
   },
   "4622": {
-    "name": "Black mushroom ink",
+    "name": "Black dye",
     "weight": 0.01
   },
   "4623": {
@@ -25474,7 +25486,7 @@
     "weight": 0.907
   },
   "6465": {
-    "name": "Ring of charos(a)",
+    "name": "Ring of charos (a)",
     "weight": 0.005,
     "equipable": true,
     "equipment": {
@@ -34291,27 +34303,51 @@
   },
   "9054": {
     "name": "Red goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "9055": {
     "name": "Black goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "9056": {
     "name": "Yellow goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "9057": {
     "name": "Green goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "9058": {
     "name": "Purple goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "9059": {
     "name": "Pink goblin mail",
-    "weight": 3.628
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "9064": {
     "name": "Emerald lantern",
@@ -58919,67 +58955,119 @@
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21429": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21430": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21431": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21432": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21433": {
     "name": "Wilderness champion amulet",
     "weight": 0.01,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 2
+    }
   },
   "21434": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21435": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21436": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21437": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21438": {
     "name": "Wilderness cape",
     "weight": 0.453,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "drange": 2
+    }
   },
   "21439": {
     "name": "Champion's cape",
@@ -72098,6 +72186,7 @@
   },
   "25250": {
     "name": "Salve amulet(i)",
+    "weight": 0.007,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -73129,6 +73218,10 @@
       "dmagic": 8
     }
   },
+  "25578": {
+    "name": "Soaked page",
+    "ge_limit": 11000
+  },
   "25580": {
     "name": "Tackle box",
     "weight": 0.95
@@ -73370,6 +73463,10 @@
     "name": "Catfish",
     "weight": 0.12
   },
+  "25674": {
+    "name": "Ruined catfish",
+    "weight": 0.12
+  },
   "25684": {
     "name": "Barronite deposit",
     "weight": 0.2
@@ -73413,6 +73510,10 @@
   "25704": {
     "name": "Lithkren vault notes",
     "weight": 0.51
+  },
+  "25706": {
+    "name": "Dusty note",
+    "weight": 0.003
   },
   "25712": {
     "name": "Clan cloak",
@@ -73670,6 +73771,14 @@
       "aspeed": 5
     }
   },
+  "25742": {
+    "name": "Holy ornament kit",
+    "weight": 0.5
+  },
+  "25744": {
+    "name": "Sanguine ornament kit",
+    "weight": 0.5
+  },
   "25746": {
     "name": "Sanguine dust",
     "weight": 0.19
@@ -73761,11 +73870,13 @@
   },
   "25775": {
     "name": "Abyssal ashes",
-    "weight": 0.056
+    "weight": 0.056,
+    "ge_limit": 7500
   },
   "25778": {
     "name": "Infernal ashes",
-    "weight": 0.056
+    "weight": 0.056,
+    "ge_limit": 7500
   },
   "25781": {
     "name": "Ash sanctifier",
@@ -73958,6 +74069,10 @@
   "25837": {
     "name": "Slepey tablet",
     "weight": 2.0
+  },
+  "25838": {
+    "name": "Parasitic egg",
+    "weight": 0.19
   },
   "25840": {
     "name": "Banana hat",
@@ -75282,6 +75397,7 @@
   },
   "26168": {
     "name": "Group iron bracers",
+    "weight": 0.2,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -75384,6 +75500,7 @@
   },
   "26182": {
     "name": "Hardcore group iron bracers",
+    "weight": 0.2,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -75416,7 +75533,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 150,
+      "astab": 175,
       "aslash": 105,
       "str": 115,
       "aspeed": 5
@@ -75742,6 +75859,7 @@
   },
   "26374": {
     "name": "Zaryte crossbow",
+    "weight": 6.001,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -75757,6 +75875,7 @@
   },
   "26376": {
     "name": "Torva full helm (damaged)",
+    "weight": 2.0,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -75773,6 +75892,7 @@
   },
   "26378": {
     "name": "Torva platebody (damaged)",
+    "weight": 9.5,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -75806,6 +75926,7 @@
   },
   "26382": {
     "name": "Torva full helm",
+    "weight": 2.0,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -75822,6 +75943,7 @@
   },
   "26384": {
     "name": "Torva platebody",
+    "weight": 9.5,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -75853,8 +75975,538 @@
       "prayer": 1
     }
   },
+  "26390": {
+    "name": "Blood essence",
+    "ge_limit": 500
+  },
   "26392": {
     "name": "Blood essence (active)",
     "weight": 0.001
+  },
+  "26394": {
+    "name": "Bandosian components",
+    "weight": 1.0
+  },
+  "26417": {
+    "name": "Cabbage",
+    "weight": 10.0,
+    "ge_limit": 6000
+  },
+  "26419": {
+    "name": "Cabbage",
+    "weight": 10.0,
+    "ge_limit": 6000
+  },
+  "26424": {
+    "name": "Shattered banner",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "26427": {
+    "name": "Shattered hood (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26430": {
+    "name": "Shattered top (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26433": {
+    "name": "Shattered trousers (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "26436": {
+    "name": "Shattered boots (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "26439": {
+    "name": "Shattered hood (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26442": {
+    "name": "Shattered top (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26448": {
+    "name": "Shattered boots (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "26451": {
+    "name": "Shattered hood (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26454": {
+    "name": "Shattered top (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26460": {
+    "name": "Shattered boots (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "26463": {
+    "name": "Void knight top (or)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45
+    }
+  },
+  "26465": {
+    "name": "Void knight robe (or)",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30
+    }
+  },
+  "26467": {
+    "name": "Void knight gloves (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 6
+    }
+  },
+  "26473": {
+    "name": "Void mage helm (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "26475": {
+    "name": "Void ranger helm (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "26477": {
+    "name": "Void melee helm (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "26482": {
+    "name": "Abyssal whip (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aslash": 82,
+      "str": 82,
+      "aspeed": 4
+    }
+  },
+  "26484": {
+    "name": "Abyssal tentacle (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aslash": 90,
+      "str": 86,
+      "aspeed": 4
+    }
+  },
+  "26486": {
+    "name": "Rune crossbow (or)",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 90,
+      "aspeed": 6
+    }
+  },
+  "26488": {
+    "name": "Book of balance (or)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 4,
+      "arange": 4,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 4,
+      "dmagic": 4,
+      "drange": 4,
+      "prayer": 5
+    }
+  },
+  "26490": {
+    "name": "Book of darkness (or)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 10,
+      "prayer": 5
+    }
+  },
+  "26492": {
+    "name": "Book of law (or)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "arange": 10,
+      "prayer": 5
+    }
+  },
+  "26494": {
+    "name": "Book of war (or)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "str": 2,
+      "prayer": 5
+    }
+  },
+  "26496": {
+    "name": "Holy book (or)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "dstab": 8,
+      "dslash": 8,
+      "dcrush": 8,
+      "dmagic": 8,
+      "drange": 8,
+      "prayer": 5
+    }
+  },
+  "26498": {
+    "name": "Unholy book (or)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 8,
+      "aslash": 8,
+      "acrush": 8,
+      "amagic": 8,
+      "arange": 8,
+      "prayer": 5
+    }
+  },
+  "26507": {
+    "name": "Shattered relics steel trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26509": {
+    "name": "Shattered relics mithril trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26511": {
+    "name": "Shattered relics adamant trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "26513": {
+    "name": "Shattered relics rune trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26515": {
+    "name": "Shattered relics dragon trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26517": {
+    "name": "Shattered cane",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "26520": {
+    "name": "Cannon base (or)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {}
+  },
+  "26531": {
+    "name": "Mystic hat (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 4,
+      "dmagic": 4
+    }
+  },
+  "26533": {
+    "name": "Mystic robe top (or)",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 20,
+      "dmagic": 20
+    }
+  },
+  "26535": {
+    "name": "Mystic robe bottom (or)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 15,
+      "dmagic": 15
+    }
+  },
+  "26537": {
+    "name": "Mystic gloves (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "amagic": 3,
+      "dmagic": 3
+    }
+  },
+  "26539": {
+    "name": "Mystic boots (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": 3,
+      "dmagic": 3
+    }
+  },
+  "26544": {
+    "name": "Unidentified fragment (harvesting)",
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {}
+  },
+  "26545": {
+    "name": "Unidentified fragment (production)",
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {}
+  },
+  "26546": {
+    "name": "Unidentified fragment (skilling)",
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {}
+  },
+  "26547": {
+    "name": "Unidentified fragment (combat)",
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {}
+  },
+  "26548": {
+    "name": "Unidentified fragment (misc)",
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {}
+  },
+  "26549": {
+    "name": "Portable waystone",
+    "weight": 0.002,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "26551": {
+    "name": "Arcane grimoire",
+    "weight": 0.002,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 6,
+      "prayer": 3
+    }
+  },
+  "26566": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "26567": {
+    "name": "White goblin mail",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26569": {
+    "name": "Pharmakos berries",
+    "weight": 0.005
+  },
+  "26571": {
+    "name": "Ekeleshuun key",
+    "weight": 0.001
+  },
+  "26572": {
+    "name": "Narogoshuun key",
+    "weight": 0.001
+  },
+  "26573": {
+    "name": "Huzamogaarb key",
+    "weight": 0.001
+  },
+  "26574": {
+    "name": "Saragorgak key",
+    "weight": 0.001
+  },
+  "26575": {
+    "name": "Horogothgar key",
+    "weight": 0.001
+  },
+  "26576": {
+    "name": "Yurkolgokh key",
+    "weight": 0.001
+  },
+  "26579": {
+    "name": "Whitefish",
+    "weight": 0.35
+  },
+  "26581": {
+    "name": "Goblin potion(4)",
+    "weight": 0.035
+  },
+  "26583": {
+    "name": "Goblin potion(3)",
+    "weight": 0.03
+  },
+  "26585": {
+    "name": "Goblin potion(2)",
+    "weight": 0.025
+  },
+  "26587": {
+    "name": "Goblin potion(1)",
+    "weight": 0.02
+  },
+  "26589": {
+    "name": "Snothead's bone",
+    "weight": 0.001
+  },
+  "26590": {
+    "name": "Snailfeet's bone",
+    "weight": 0.001
+  },
+  "26591": {
+    "name": "Mosschin's bone",
+    "weight": 0.001
+  },
+  "26592": {
+    "name": "Redeyes' bone",
+    "weight": 0.001
+  },
+  "26593": {
+    "name": "Strongbones' bone",
+    "weight": 0.001
+  },
+  "26649": {
+    "name": "Skis",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
   }
 }
