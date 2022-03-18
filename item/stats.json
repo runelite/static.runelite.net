@@ -34224,7 +34224,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -34244,7 +34243,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -34263,7 +34261,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -34282,7 +34279,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -49754,7 +49750,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -49773,7 +49768,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -49792,7 +49786,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -49811,7 +49804,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -49830,7 +49822,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "astab": 7,
       "aslash": -1,
       "acrush": 25,
@@ -75997,8 +75988,14 @@
     "weight": 10.0,
     "ge_limit": 6000
   },
+  "26421": {
+    "name": "Shattered relics variety ornament kit",
+    "weight": 0.1,
+    "ge_limit": 5
+  },
   "26424": {
     "name": "Shattered banner",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -76007,6 +76004,7 @@
   },
   "26427": {
     "name": "Shattered hood (t1)",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -76014,6 +76012,7 @@
   },
   "26430": {
     "name": "Shattered top (t1)",
+    "weight": 0.906,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -76021,6 +76020,7 @@
   },
   "26433": {
     "name": "Shattered trousers (t1)",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -76028,6 +76028,7 @@
   },
   "26436": {
     "name": "Shattered boots (t1)",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -76035,6 +76036,7 @@
   },
   "26439": {
     "name": "Shattered hood (t2)",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -76042,13 +76044,23 @@
   },
   "26442": {
     "name": "Shattered top (t2)",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4
     }
   },
+  "26445": {
+    "name": "Shattered trousers (t2)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
   "26448": {
     "name": "Shattered boots (t2)",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -76056,6 +76068,7 @@
   },
   "26451": {
     "name": "Shattered hood (t3)",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -76063,13 +76076,23 @@
   },
   "26454": {
     "name": "Shattered top (t3)",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4
     }
   },
+  "26457": {
+    "name": "Shattered trousers (t3)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
   "26460": {
     "name": "Shattered boots (t3)",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -76114,6 +76137,34 @@
       "drange": 6
     }
   },
+  "26469": {
+    "name": "Elite void top (or)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45,
+      "prayer": 3
+    }
+  },
+  "26471": {
+    "name": "Elite void robe (or)",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "prayer": 3
+    }
+  },
   "26473": {
     "name": "Void mage helm (or)",
     "weight": 0.453,
@@ -76152,6 +76203,11 @@
       "dmagic": 6,
       "drange": 6
     }
+  },
+  "26479": {
+    "name": "Shattered relics void ornament kit",
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "26482": {
     "name": "Abyssal whip (or)",
@@ -76262,6 +76318,26 @@
       "prayer": 5
     }
   },
+  "26500": {
+    "name": "Shattered teleport scroll",
+    "weight": 0.1
+  },
+  "26503": {
+    "name": "Shattered relics bronze trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26505": {
+    "name": "Shattered relics iron trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
   "26507": {
     "name": "Shattered relics steel trophy",
     "weight": 1.0,
@@ -76305,6 +76381,7 @@
   },
   "26517": {
     "name": "Shattered cane",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -76313,9 +76390,26 @@
   },
   "26520": {
     "name": "Cannon base (or)",
+    "weight": 10.0
+  },
+  "26522": {
+    "name": "Cannon stand (or)",
+    "weight": 10.0
+  },
+  "26524": {
+    "name": "Cannon barrels (or)",
+    "weight": 10.0
+  },
+  "26526": {
+    "name": "Cannon furnace (or)",
     "weight": 10.0,
     "equipable": true,
     "equipment": {}
+  },
+  "26528": {
+    "name": "Shattered cannon ornament kit",
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "26531": {
     "name": "Mystic hat (or)",
@@ -76367,53 +76461,22 @@
       "dmagic": 3
     }
   },
-  "26544": {
-    "name": "Unidentified fragment (harvesting)",
-    "weight": 0.02,
-    "equipable": true,
-    "equipment": {}
+  "26541": {
+    "name": "Shattered relics mystic ornament kit",
+    "weight": 0.1,
+    "ge_limit": 5
   },
-  "26545": {
-    "name": "Unidentified fragment (production)",
-    "weight": 0.02,
-    "equipable": true,
-    "equipment": {}
+  "26554": {
+    "name": "Shattered relic hunter (t1) armour set",
+    "weight": 0.05
   },
-  "26546": {
-    "name": "Unidentified fragment (skilling)",
-    "weight": 0.02,
-    "equipable": true,
-    "equipment": {}
+  "26557": {
+    "name": "Shattered relic hunter (t2) armour set",
+    "weight": 0.05
   },
-  "26547": {
-    "name": "Unidentified fragment (combat)",
-    "weight": 0.02,
-    "equipable": true,
-    "equipment": {}
-  },
-  "26548": {
-    "name": "Unidentified fragment (misc)",
-    "weight": 0.02,
-    "equipable": true,
-    "equipment": {}
-  },
-  "26549": {
-    "name": "Portable waystone",
-    "weight": 0.002,
-    "equipable": true,
-    "equipment": {
-      "slot": 2
-    }
-  },
-  "26551": {
-    "name": "Arcane grimoire",
-    "weight": 0.002,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": 6,
-      "prayer": 3
-    }
+  "26560": {
+    "name": "Shattered relic hunter (t3) armour set",
+    "weight": 0.05
   },
   "26566": {
     "name": "Clue scroll (hard)",
@@ -76507,6 +76570,1003 @@
       "acrush": -50,
       "str": -10,
       "aspeed": 4
+    }
+  },
+  "26686": {
+    "name": "Maoma's med helm (broken)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 6,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -9,
+      "drange": 10,
+      "str": 1,
+      "prayer": 1
+    }
+  },
+  "26687": {
+    "name": "Maoma's full helm (broken)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 2,
+      "aslash": 3,
+      "acrush": 1,
+      "amagic": -13,
+      "arange": -7,
+      "dstab": 26,
+      "dslash": 29,
+      "dcrush": 27,
+      "dmagic": -9,
+      "drange": 38,
+      "str": 3,
+      "prayer": 2
+    }
+  },
+  "26688": {
+    "name": "Maoma's great helm (broken)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 6,
+      "aslash": 5,
+      "acrush": 4,
+      "amagic": -20,
+      "arange": -10,
+      "dstab": 38,
+      "dslash": 46,
+      "dcrush": 43,
+      "dmagic": -9,
+      "drange": 59,
+      "str": 5,
+      "prayer": 3
+    }
+  },
+  "26689": {
+    "name": "Calamity chest (broken)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 5,
+      "dslash": 7,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 5
+    }
+  },
+  "26690": {
+    "name": "Superior calamity chest (broken)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 52,
+      "dslash": 52,
+      "dcrush": 52,
+      "dmagic": 18,
+      "drange": 49
+    }
+  },
+  "26691": {
+    "name": "Elite calamity chest (broken)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 73,
+      "dslash": 73,
+      "dcrush": 73,
+      "dmagic": 32,
+      "drange": 67
+    }
+  },
+  "26692": {
+    "name": "Calamity breeches (broken)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 4,
+      "dmagic": 2,
+      "drange": 4
+    }
+  },
+  "26693": {
+    "name": "Superior calamity breeches (broken)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 36,
+      "dslash": 36,
+      "dcrush": 36,
+      "dmagic": 12,
+      "drange": 34
+    }
+  },
+  "26694": {
+    "name": "Elite calamity breeches (broken)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 58,
+      "dslash": 58,
+      "dcrush": 58,
+      "dmagic": 20,
+      "drange": 52
+    }
+  },
+  "26695": {
+    "name": "Centurion cuirass (broken)",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -40,
+      "dstab": 72,
+      "dslash": 91,
+      "dcrush": 70,
+      "dmagic": -10,
+      "drange": 7,
+      "str": 4
+    }
+  },
+  "26696": {
+    "name": "Wristbands of the arena (broken)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26699": {
+    "name": "Koriff's cowl (broken)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -7,
+      "arange": 5,
+      "dstab": -8,
+      "dslash": -10,
+      "dcrush": -6,
+      "dmagic": 6,
+      "drange": 6,
+      "prayer": 2
+    }
+  },
+  "26701": {
+    "name": "Saika's hood (broken)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "dstab": 5,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 2,
+      "drange": -8,
+      "prayer": 1
+    }
+  },
+  "26702": {
+    "name": "Saika's veil (broken)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -5,
+      "aslash": -3,
+      "acrush": -4,
+      "amagic": 4,
+      "arange": -2,
+      "dstab": 14,
+      "dslash": 12,
+      "dcrush": 15,
+      "dmagic": 4,
+      "drange": -8,
+      "prayer": 2
+    }
+  },
+  "26703": {
+    "name": "Saika's shroud (broken)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -10,
+      "aslash": -11,
+      "acrush": -8,
+      "amagic": 8,
+      "arange": -4,
+      "dstab": 19,
+      "dslash": 18,
+      "dcrush": 20,
+      "dmagic": 8,
+      "drange": -8,
+      "prayer": 3
+    }
+  },
+  "26707": {
+    "name": "Dragon claws ornament kit",
+    "weight": 0.5
+  },
+  "26708": {
+    "name": "Dragon claws (or)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 41,
+      "aslash": 57,
+      "acrush": -4,
+      "dstab": 13,
+      "dslash": 26,
+      "dcrush": 7,
+      "str": 56,
+      "aspeed": 4
+    }
+  },
+  "26709": {
+    "name": "Dragon warhammer ornament kit",
+    "weight": 0.5
+  },
+  "26710": {
+    "name": "Dragon warhammer (or)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -4,
+      "aslash": -4,
+      "acrush": 95,
+      "amagic": -4,
+      "str": 85,
+      "aspeed": 6
+    }
+  },
+  "26711": {
+    "name": "Heavy ballista ornament kit",
+    "weight": 0.5
+  },
+  "26712": {
+    "name": "Heavy ballista (or)",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 125,
+      "rstr": 15,
+      "aspeed": 7
+    }
+  },
+  "26713": {
+    "name": "Armadyl armour ornament kit",
+    "weight": 0.5
+  },
+  "26714": {
+    "name": "Armadyl helmet (or)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -5,
+      "aslash": -5,
+      "acrush": -5,
+      "amagic": -5,
+      "arange": 10,
+      "dstab": 6,
+      "dslash": 8,
+      "dcrush": 10,
+      "dmagic": 10,
+      "drange": 8,
+      "prayer": 1
+    }
+  },
+  "26715": {
+    "name": "Armadyl chestplate (or)",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": -7,
+      "aslash": -7,
+      "acrush": -7,
+      "amagic": -15,
+      "arange": 33,
+      "dstab": 56,
+      "dslash": 48,
+      "dcrush": 61,
+      "dmagic": 70,
+      "drange": 57,
+      "prayer": 1
+    }
+  },
+  "26716": {
+    "name": "Armadyl chainskirt (or)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "astab": -6,
+      "aslash": -6,
+      "acrush": -6,
+      "amagic": -10,
+      "arange": 20,
+      "dstab": 32,
+      "dslash": 26,
+      "dcrush": 34,
+      "dmagic": 40,
+      "drange": 33,
+      "prayer": 1
+    }
+  },
+  "26717": {
+    "name": "Bandos armour ornament kit",
+    "weight": 0.5
+  },
+  "26718": {
+    "name": "Bandos chestplate (or)",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": -10,
+      "dstab": 98,
+      "dslash": 93,
+      "dcrush": 105,
+      "dmagic": -6,
+      "drange": 133,
+      "str": 4,
+      "prayer": 1
+    }
+  },
+  "26719": {
+    "name": "Bandos tassets (or)",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 71,
+      "dslash": 63,
+      "dcrush": 66,
+      "dmagic": -4,
+      "drange": 93,
+      "str": 2,
+      "prayer": 1
+    }
+  },
+  "26720": {
+    "name": "Bandos boots (or)",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -5,
+      "arange": -3,
+      "dstab": 17,
+      "dslash": 18,
+      "dcrush": 19,
+      "drange": 15,
+      "prayer": 1
+    }
+  },
+  "26721": {
+    "name": "Centurion cuirass",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -40,
+      "dstab": 72,
+      "dslash": 91,
+      "dcrush": 70,
+      "dmagic": -10,
+      "drange": 7,
+      "str": 4
+    }
+  },
+  "26722": {
+    "name": "Centurion cuirass (l)",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -40,
+      "dstab": 72,
+      "dslash": 91,
+      "dcrush": 70,
+      "dmagic": -10,
+      "drange": 7,
+      "str": 4
+    }
+  },
+  "26723": {
+    "name": "Wristbands of the arena",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26724": {
+    "name": "Wristbands of the arena (l)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26725": {
+    "name": "Wristbands of the arena (c)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26726": {
+    "name": "Wristbands of the arena (cl)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26727": {
+    "name": "Wristbands of the arena (i)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 14,
+      "aslash": 13,
+      "acrush": 15,
+      "amagic": 7,
+      "arange": 13,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26728": {
+    "name": "Wristbands of the arena (il)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 14,
+      "aslash": 13,
+      "acrush": 15,
+      "amagic": 7,
+      "arange": 13,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26729": {
+    "name": "Wristbands of the arena (ic)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 14,
+      "aslash": 13,
+      "acrush": 15,
+      "amagic": 7,
+      "arange": 13,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26730": {
+    "name": "Wristbands of the arena (icl)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 14,
+      "aslash": 13,
+      "acrush": 15,
+      "amagic": 7,
+      "arange": 13,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26731": {
+    "name": "Saika's hood",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "dstab": 5,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 2,
+      "drange": -8,
+      "prayer": 1
+    }
+  },
+  "26732": {
+    "name": "Saika's hood (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "dstab": 5,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 2,
+      "drange": -8,
+      "prayer": 1
+    }
+  },
+  "26733": {
+    "name": "Saika's veil",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -5,
+      "aslash": -3,
+      "acrush": -4,
+      "amagic": 4,
+      "arange": -2,
+      "dstab": 14,
+      "dslash": 12,
+      "dcrush": 15,
+      "dmagic": 4,
+      "drange": -8,
+      "prayer": 2
+    }
+  },
+  "26734": {
+    "name": "Saika's veil (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -5,
+      "aslash": -3,
+      "acrush": -4,
+      "amagic": 4,
+      "arange": -2,
+      "dstab": 14,
+      "dslash": 12,
+      "dcrush": 15,
+      "dmagic": 4,
+      "drange": -8,
+      "prayer": 2
+    }
+  },
+  "26735": {
+    "name": "Saika's shroud",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -10,
+      "aslash": -11,
+      "acrush": -8,
+      "amagic": 8,
+      "arange": -4,
+      "dstab": 19,
+      "dslash": 18,
+      "dcrush": 20,
+      "dmagic": 8,
+      "drange": -8,
+      "prayer": 3
+    }
+  },
+  "26736": {
+    "name": "Saika's shroud (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -10,
+      "aslash": -11,
+      "acrush": -8,
+      "amagic": 8,
+      "arange": -4,
+      "dstab": 19,
+      "dslash": 18,
+      "dcrush": 20,
+      "dmagic": 8,
+      "drange": -8,
+      "prayer": 3
+    }
+  },
+  "26739": {
+    "name": "Koriff's cowl",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -7,
+      "arange": 5,
+      "dstab": -8,
+      "dslash": -10,
+      "dcrush": -6,
+      "dmagic": 6,
+      "drange": 6,
+      "prayer": 2
+    }
+  },
+  "26740": {
+    "name": "Koriff's cowl (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -7,
+      "arange": 5,
+      "dstab": -8,
+      "dslash": -10,
+      "dcrush": -6,
+      "dmagic": 6,
+      "drange": 6,
+      "prayer": 2
+    }
+  },
+  "26743": {
+    "name": "Maoma's med helm",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 6,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -9,
+      "drange": 10,
+      "str": 1,
+      "prayer": 1
+    }
+  },
+  "26744": {
+    "name": "Maoma's med helm (l)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 6,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -9,
+      "drange": 10,
+      "str": 1,
+      "prayer": 1
+    }
+  },
+  "26745": {
+    "name": "Maoma's full helm",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 2,
+      "aslash": 3,
+      "acrush": 1,
+      "amagic": -13,
+      "arange": -7,
+      "dstab": 26,
+      "dslash": 29,
+      "dcrush": 27,
+      "dmagic": -9,
+      "drange": 38,
+      "str": 3,
+      "prayer": 2
+    }
+  },
+  "26746": {
+    "name": "Maoma's full helm (l)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 2,
+      "aslash": 3,
+      "acrush": 1,
+      "amagic": -13,
+      "arange": -7,
+      "dstab": 26,
+      "dslash": 29,
+      "dcrush": 27,
+      "dmagic": -9,
+      "drange": 38,
+      "str": 3,
+      "prayer": 2
+    }
+  },
+  "26747": {
+    "name": "Maoma's great helm",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 6,
+      "aslash": 5,
+      "acrush": 4,
+      "amagic": -20,
+      "arange": -10,
+      "dstab": 38,
+      "dslash": 46,
+      "dcrush": 43,
+      "dmagic": -9,
+      "drange": 59,
+      "str": 5,
+      "prayer": 3
+    }
+  },
+  "26748": {
+    "name": "Maoma's great helm (l)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 6,
+      "aslash": 5,
+      "acrush": 4,
+      "amagic": -20,
+      "arange": -10,
+      "dstab": 38,
+      "dslash": 46,
+      "dcrush": 43,
+      "dmagic": -9,
+      "drange": 59,
+      "str": 5,
+      "prayer": 3
+    }
+  },
+  "26749": {
+    "name": "Calamity chest",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 5,
+      "dslash": 7,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 5
+    }
+  },
+  "26750": {
+    "name": "Calamity chest (l)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 5,
+      "dslash": 7,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 5
+    }
+  },
+  "26751": {
+    "name": "Superior calamity chest",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 52,
+      "dslash": 52,
+      "dcrush": 52,
+      "dmagic": 18,
+      "drange": 49
+    }
+  },
+  "26752": {
+    "name": "Superior calamity chest (l)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 52,
+      "dslash": 52,
+      "dcrush": 52,
+      "dmagic": 18,
+      "drange": 49
+    }
+  },
+  "26753": {
+    "name": "Elite calamity chest",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 73,
+      "dslash": 73,
+      "dcrush": 73,
+      "dmagic": 32,
+      "drange": 67
+    }
+  },
+  "26754": {
+    "name": "Elite calamity chest (l)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 73,
+      "dslash": 73,
+      "dcrush": 73,
+      "dmagic": 32,
+      "drange": 67
+    }
+  },
+  "26755": {
+    "name": "Calamity breeches",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 4,
+      "dmagic": 2,
+      "drange": 4
+    }
+  },
+  "26756": {
+    "name": "Calamity breeches (l)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 4,
+      "dmagic": 2,
+      "drange": 4
+    }
+  },
+  "26757": {
+    "name": "Superior calamity breeches",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 36,
+      "dslash": 36,
+      "dcrush": 36,
+      "dmagic": 12,
+      "drange": 34
+    }
+  },
+  "26758": {
+    "name": "Superior calamity breeches (l)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 36,
+      "dslash": 36,
+      "dcrush": 36,
+      "dmagic": 12,
+      "drange": 34
+    }
+  },
+  "26759": {
+    "name": "Elite calamity breeches",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 58,
+      "dslash": 58,
+      "dcrush": 58,
+      "dmagic": 20,
+      "drange": 52
+    }
+  },
+  "26760": {
+    "name": "Elite calamity breeches (l)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 58,
+      "dslash": 58,
+      "dcrush": 58,
+      "dmagic": 20,
+      "drange": 52
     }
   }
 }
