@@ -1,1 +1,5 @@
-{}
+{
+	"sysProps": {
+		"jogamp.gluegen.TestTempDirExec": "false"
+	}
+}
