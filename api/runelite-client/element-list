@@ -140,7 +140,6 @@ net.runelite.client.plugins.puzzlesolver.solver
 net.runelite.client.plugins.puzzlesolver.solver.heuristics
 net.runelite.client.plugins.puzzlesolver.solver.pathfinding
 net.runelite.client.plugins.pyramidplunder
-net.runelite.client.plugins.questlist
 net.runelite.client.plugins.raids
 net.runelite.client.plugins.raids.events
 net.runelite.client.plugins.raids.solver
