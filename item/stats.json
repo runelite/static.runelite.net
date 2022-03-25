@@ -890,7 +890,7 @@
     "weight": 0.907
   },
   "291": {
-    "name": "Notes",
+    "name": "Research notes",
     "weight": 0.028
   },
   "292": {
@@ -6783,6 +6783,10 @@
     "name": "Mind talisman",
     "weight": 0.015,
     "ge_limit": 11000
+  },
+  "1450": {
+    "name": "Blood talisman",
+    "weight": 0.015
   },
   "1452": {
     "name": "Chaos talisman",
@@ -21532,6 +21536,14 @@
       "slot": 0
     },
     "ge_limit": 40
+  },
+  "5549": {
+    "name": "Blood tiara",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "5553": {
     "name": "Rogue top",
@@ -76356,19 +76368,22 @@
   },
   "26511": {
     "name": "Shattered relics adamant trophy",
-    "weight": 1.0,
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "26513": {
     "name": "Shattered relics rune trophy",
-    "weight": 1.0,
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
-      "slot": 5
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "26515": {
@@ -76376,7 +76391,9 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 5
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "26517": {
@@ -77567,6 +77584,312 @@
       "dcrush": 58,
       "dmagic": 20,
       "drange": 52
+    }
+  },
+  "26784": {
+    "name": "Colossal pouch",
+    "weight": 1.0
+  },
+  "26786": {
+    "name": "Colossal pouch",
+    "weight": 1.0
+  },
+  "26788": {
+    "name": "Gold tiara",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26798": {
+    "name": "Catalytic talisman",
+    "weight": 0.02
+  },
+  "26801": {
+    "name": "Catalytic tiara",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26804": {
+    "name": "Elemental tiara",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26813": {
+    "name": "Abyssal needle",
+    "weight": 0.002
+  },
+  "26815": {
+    "name": "Ring of the elements",
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
+  },
+  "26818": {
+    "name": "Ring of the elements",
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
+  },
+  "26822": {
+    "name": "Abyssal lantern",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26824": {
+    "name": "Abyssal lantern (normal logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26826": {
+    "name": "Abyssal lantern (blue logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26828": {
+    "name": "Abyssal lantern (red logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26830": {
+    "name": "Abyssal lantern (white logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26832": {
+    "name": "Abyssal lantern (purple logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26834": {
+    "name": "Abyssal lantern (green logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26836": {
+    "name": "Abyssal lantern (oak logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26838": {
+    "name": "Abyssal lantern (willow logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26840": {
+    "name": "Abyssal lantern (maple logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26842": {
+    "name": "Abyssal lantern (yew logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26844": {
+    "name": "Abyssal lantern (blisterwood logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26846": {
+    "name": "Abyssal lantern (magic logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26848": {
+    "name": "Abyssal lantern (redwood logs)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "26850": {
+    "name": "Hat of the eye",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26852": {
+    "name": "Robe top of the eye",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26854": {
+    "name": "Robe bottoms of the eye",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "26856": {
+    "name": "Boots of the eye",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "26858": {
+    "name": "Hat of the eye (red)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26860": {
+    "name": "Robe top of the eye (red)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26862": {
+    "name": "Robe bottoms of the eye (red)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "26864": {
+    "name": "Hat of the eye (green)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26866": {
+    "name": "Robe top of the eye (green)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26868": {
+    "name": "Robe bottoms of the eye (green)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "26870": {
+    "name": "Hat of the eye (blue)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26872": {
+    "name": "Robe top of the eye (blue)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "26874": {
+    "name": "Robe bottoms of the eye (blue)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "26876": {
+    "name": "Atlax's diary",
+    "weight": 0.226
+  },
+  "26879": {
+    "name": "Guardian essence",
+    "equipable": true,
+    "equipment": {}
+  },
+  "26899": {
+    "name": "Greatish guardian",
+    "weight": 0.015
+  },
+  "26901": {
+    "name": "Abyssal protector",
+    "weight": 0.015
+  },
+  "26905": {
+    "name": "Abyssal incantation",
+    "weight": 0.05
+  },
+  "26908": {
+    "name": "Intricate pouch",
+    "weight": 0.396
+  },
+  "26910": {
+    "name": "Tarnished locket",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "26912": {
+    "name": "Lost bag",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "26914": {
+    "name": "Amulet of the eye",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
     }
   }
 }

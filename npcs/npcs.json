@@ -3013,7 +3013,7 @@
   },
   "1864": {
     "name": "Tree spirit",
-    "hitpoints": 86
+    "hitpoints": 85
   },
   "1865": {
     "name": "Tree spirit",
@@ -9047,9 +9047,21 @@
     "name": "Chaotic death spawn",
     "hitpoints": 50
   },
+  "6725": {
+    "name": "Rock Golem",
+    "hitpoints": 25
+  },
+  "6726": {
+    "name": "Rock Golem",
+    "hitpoints": 40
+  },
+  "6727": {
+    "name": "Rock Golem",
+    "hitpoints": 60
+  },
   "6728": {
     "name": "Rock Golem",
-    "hitpoints": 86
+    "hitpoints": 85
   },
   "6729": {
     "name": "Rock Golem",
@@ -9057,7 +9069,19 @@
   },
   "6730": {
     "name": "Rock Golem",
-    "hitpoints": 166
+    "hitpoints": 170
+  },
+  "6732": {
+    "name": "River Troll",
+    "hitpoints": 25
+  },
+  "6733": {
+    "name": "River Troll",
+    "hitpoints": 40
+  },
+  "6734": {
+    "name": "River Troll",
+    "hitpoints": 60
   },
   "6735": {
     "name": "River Troll",
@@ -9094,10 +9118,6 @@
   "6767": {
     "name": "Lizardman shaman",
     "hitpoints": 150
-  },
-  "6794": {
-    "name": "Monkey Archer",
-    "hitpoints": 50
   },
   "6795": {
     "name": "Pyrelord",
@@ -10217,7 +10237,7 @@
   },
   "7938": {
     "name": "Revenant dark beast",
-    "hitpoints": 136
+    "hitpoints": 140
   },
   "7939": {
     "name": "Revenant knight",
