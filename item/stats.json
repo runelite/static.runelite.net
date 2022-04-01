@@ -53020,7 +53020,8 @@
   },
   "13658": {
     "name": "Teleport card",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 500
   },
   "13660": {
     "name": "Chronicle",
@@ -58510,6 +58511,18 @@
     "name": "Lava staff upgrade kit",
     "weight": 0.5,
     "ge_limit": 50
+  },
+  "21205": {
+    "name": "Elder maul (Last Man Standing)",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "acrush": 135,
+      "amagic": -4,
+      "str": 147,
+      "aspeed": 6
+    }
   },
   "21209": {
     "name": "Birthday balloons",
@@ -67672,7 +67685,8 @@
     "equipable": true,
     "equipment": {
       "slot": 12
-    }
+    },
+    "ge_limit": 5
   },
   "23946": {
     "name": "Eternal teleport crystal",
@@ -77622,12 +77636,25 @@
       "slot": 0
     }
   },
+  "26807": {
+    "name": "Abyssal green dye",
+    "weight": 0.02
+  },
+  "26809": {
+    "name": "Abyssal blue dye",
+    "weight": 0.02
+  },
+  "26811": {
+    "name": "Abyssal red dye",
+    "weight": 0.02
+  },
   "26813": {
     "name": "Abyssal needle",
     "weight": 0.002
   },
   "26815": {
     "name": "Ring of the elements",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
@@ -77635,10 +77662,15 @@
   },
   "26818": {
     "name": "Ring of the elements",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 12
     }
+  },
+  "26820": {
+    "name": "Guardian's eye",
+    "weight": 0.5
   },
   "26822": {
     "name": "Abyssal lantern",
@@ -77754,6 +77786,7 @@
   },
   "26850": {
     "name": "Hat of the eye",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -77768,6 +77801,7 @@
   },
   "26854": {
     "name": "Robe bottoms of the eye",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -77775,6 +77809,7 @@
   },
   "26856": {
     "name": "Boots of the eye",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -77782,6 +77817,7 @@
   },
   "26858": {
     "name": "Hat of the eye (red)",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -77796,6 +77832,7 @@
   },
   "26862": {
     "name": "Robe bottoms of the eye (red)",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -77803,6 +77840,7 @@
   },
   "26864": {
     "name": "Hat of the eye (green)",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -77817,6 +77855,7 @@
   },
   "26868": {
     "name": "Robe bottoms of the eye (green)",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -77824,6 +77863,7 @@
   },
   "26870": {
     "name": "Hat of the eye (blue)",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -77838,6 +77878,7 @@
   },
   "26874": {
     "name": "Robe bottoms of the eye (blue)",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -77849,8 +77890,25 @@
   },
   "26879": {
     "name": "Guardian essence",
+    "weight": 0.402,
     "equipable": true,
     "equipment": {}
+  },
+  "26883": {
+    "name": "Weak cell",
+    "weight": 1.0
+  },
+  "26884": {
+    "name": "Medium cell",
+    "weight": 1.0
+  },
+  "26885": {
+    "name": "Strong cell",
+    "weight": 1.0
+  },
+  "26886": {
+    "name": "Overcharged cell",
+    "weight": 1.0
   },
   "26899": {
     "name": "Greatish guardian",
@@ -77860,9 +77918,23 @@
     "name": "Abyssal protector",
     "weight": 0.015
   },
+  "26903": {
+    "name": "Eye amulet",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {}
+  },
+  "26904": {
+    "name": "Strong cup of tea",
+    "weight": 0.15
+  },
   "26905": {
     "name": "Abyssal incantation",
     "weight": 0.05
+  },
+  "26906": {
+    "name": "Colossal pouch",
+    "weight": 1.0
   },
   "26908": {
     "name": "Intricate pouch",
