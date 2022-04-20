@@ -1,6 +1,5 @@
 {
 	"sysProps": {
 		"jogamp.gluegen.TestTempDirExec": "false"
-	},
-	"outageMessage": "OldSchool RuneScape is temporarily offline to apply this weeks update."
+	}
 }
