@@ -391,10 +391,6 @@
     "name": "Guard dog",
     "hitpoints": 49
   },
-  "132": {
-    "name": "Hobgoblin",
-    "hitpoints": 62
-  },
   "133": {
     "name": "Troll",
     "hitpoints": 120
@@ -1644,11 +1640,11 @@
     "hitpoints": 90
   },
   "797": {
-    "name": "Giant scarab",
+    "name": "Giant Scarab",
     "hitpoints": 130
   },
   "798": {
-    "name": "Giant scarab",
+    "name": "Giant Scarab",
     "hitpoints": 130
   },
   "799": {
@@ -2148,7 +2144,7 @@
     "hitpoints": 255
   },
   "1127": {
-    "name": "Giant scarab (hard)",
+    "name": "Giant Scarab (hard)",
     "hitpoints": 255
   },
   "1128": {
@@ -3573,7 +3569,7 @@
   },
   "2241": {
     "name": "Hobgoblin",
-    "hitpoints": 52
+    "hitpoints": 49
   },
   "2242": {
     "name": "Spiritual ranger",
@@ -4513,11 +4509,7 @@
   },
   "3049": {
     "name": "Hobgoblin",
-    "hitpoints": 29
-  },
-  "3050": {
-    "name": "Hobgoblin",
-    "hitpoints": 49
+    "hitpoints": 52
   },
   "3051": {
     "name": "Goblin",
@@ -4999,24 +4991,8 @@
     "name": "Anja",
     "hitpoints": 7
   },
-  "3286": {
-    "name": "Hobgoblin",
-    "hitpoints": 29
-  },
-  "3287": {
-    "name": "Hobgoblin",
-    "hitpoints": 29
-  },
-  "3288": {
-    "name": "Hobgoblin",
-    "hitpoints": 29
-  },
-  "3289": {
-    "name": "Hobgoblin",
-    "hitpoints": 29
-  },
   "3292": {
-    "name": "Al-Kharid warrior",
+    "name": "Al Kharid warrior",
     "hitpoints": 19
   },
   "3293": {
@@ -6051,32 +6027,24 @@
     "name": "Jackal",
     "hitpoints": 27
   },
-  "4186": {
-    "name": "Locust",
-    "hitpoints": 27
-  },
-  "4188": {
-    "name": "Plague frog",
-    "hitpoints": 10
-  },
   "4192": {
     "name": "Scarab swarm",
     "hitpoints": 25
   },
   "4195": {
-    "name": "Het",
+    "name": "Apparition",
     "hitpoints": 75
   },
   "4196": {
-    "name": "Apmeken",
+    "name": "Apparition",
     "hitpoints": 70
   },
   "4197": {
-    "name": "Scabaras",
+    "name": "Apparition",
     "hitpoints": 50
   },
   "4198": {
-    "name": "Crondis",
+    "name": "Apparition",
     "hitpoints": 60
   },
   "4210": {
@@ -6610,10 +6578,6 @@
   "4799": {
     "name": "Giant lobster",
     "hitpoints": 50
-  },
-  "4805": {
-    "name": "Hobgoblin",
-    "hitpoints": 29
   },
   "4813": {
     "name": "Icefiend",
@@ -8396,7 +8360,7 @@
     "hitpoints": 134
   },
   "6343": {
-    "name": "Giant scarab",
+    "name": "Giant Scarab",
     "hitpoints": 130
   },
   "6344": {
@@ -11895,6 +11859,10 @@
     "name": "Hespori",
     "hitpoints": 360
   },
+  "11227": {
+    "name": "Enraged Boar",
+    "hitpoints": 25
+  },
   "11238": {
     "name": "Dust devil",
     "hitpoints": 105
@@ -12030,5 +11998,45 @@
   "11300": {
     "name": "Strongbones",
     "hitpoints": 200
+  },
+  "11482": {
+    "name": "Champion of Scabaras",
+    "hitpoints": 600
+  },
+  "11483": {
+    "name": "Champion of Scabaras",
+    "hitpoints": 600
+  },
+  "11484": {
+    "name": "Scarab Swarm",
+    "hitpoints": 5
+  },
+  "11492": {
+    "name": "Menaphite Akh",
+    "hitpoints": 480
+  },
+  "11494": {
+    "name": "Menaphite Shadow",
+    "hitpoints": 50
+  },
+  "11508": {
+    "name": "Scarab mage",
+    "hitpoints": 120
+  },
+  "11529": {
+    "name": "Head Menaphite Guard",
+    "hitpoints": 180
+  },
+  "11584": {
+    "name": "Locust",
+    "hitpoints": 27
+  },
+  "11585": {
+    "name": "Locust",
+    "hitpoints": 27
+  },
+  "11586": {
+    "name": "Plague frog",
+    "hitpoints": 10
   }
 }
