@@ -306,7 +306,7 @@
   },
   "88": {
     "name": "Boots of lightness",
-    "weight": 0.3,
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -317,7 +317,7 @@
   },
   "89": {
     "name": "Boots of lightness",
-    "weight": -4.5,
+    "weight": -4.535,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -5989,7 +5989,7 @@
       "aslash": -4,
       "acrush": 18,
       "amagic": -4,
-      "str": 18,
+      "str": 16,
       "aspeed": 6
     },
     "ge_limit": 125
@@ -17967,7 +17967,7 @@
     "ge_limit": 11000
   },
   "4693": {
-    "name": "Full bucket",
+    "name": "Bucket of saltwater",
     "weight": 3.0
   },
   "4694": {
@@ -33493,6 +33493,18 @@
     },
     "ge_limit": 11000
   },
+  "8887": {
+    "name": "Zanik",
+    "weight": 0.001
+  },
+  "8888": {
+    "name": "Zanik (ham)",
+    "weight": 0.001
+  },
+  "8889": {
+    "name": "Zanik (showdown)",
+    "weight": 0.001
+  },
   "8901": {
     "name": "Black mask (10)",
     "weight": 10.0,
@@ -34231,78 +34243,20 @@
     "ge_limit": 13000
   },
   "9044": {
-    "name": "Pharaoh's sceptre (3)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    },
-    "ge_limit": 50
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "9046": {
-    "name": "Pharaoh's sceptre (2)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    }
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "9048": {
-    "name": "Pharaoh's sceptre (1)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    }
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "9050": {
     "name": "Pharaoh's sceptre",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    },
-    "ge_limit": 10000
+    "weight": 2.0
   },
   "9052": {
     "name": "Locust meat",
@@ -37643,7 +37597,7 @@
   },
   "10069": {
     "name": "Spotted cape",
-    "weight": 0.4,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -37655,7 +37609,7 @@
   },
   "10071": {
     "name": "Spottier cape",
-    "weight": 0.4,
+    "weight": 0.435,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -37667,7 +37621,7 @@
   },
   "10073": {
     "name": "Spotted cape",
-    "weight": -2.2,
+    "weight": -2.267,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -37679,7 +37633,7 @@
   },
   "10074": {
     "name": "Spottier cape",
-    "weight": -4.5,
+    "weight": -4.535,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -39962,7 +39916,7 @@
   },
   "10553": {
     "name": "Penance gloves",
-    "weight": 0.3,
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -39973,7 +39927,7 @@
   },
   "10554": {
     "name": "Penance gloves",
-    "weight": -4.5,
+    "weight": -4.535,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -41157,6 +41111,10 @@
       "aspeed": 5
     },
     "ge_limit": 8
+  },
+  "11062": {
+    "name": "Zanik (slice)",
+    "weight": 0.001
   },
   "11065": {
     "name": "Bracelet mould",
@@ -49757,94 +49715,24 @@
     }
   },
   "13074": {
-    "name": "Pharaoh's sceptre (8)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    }
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "13075": {
-    "name": "Pharaoh's sceptre (7)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    }
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "13076": {
-    "name": "Pharaoh's sceptre (6)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    }
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "13077": {
-    "name": "Pharaoh's sceptre (5)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    }
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "13078": {
-    "name": "Pharaoh's sceptre (4)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 7,
-      "aslash": -1,
-      "acrush": 25,
-      "amagic": 10,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 10,
-      "str": 32,
-      "aspeed": 4
-    }
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0
   },
   "13079": {
     "name": "Enchanted lyre(5)",
@@ -50993,7 +50881,7 @@
   },
   "13280": {
     "name": "Max cape",
-    "weight": 0.4,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -73245,15 +73133,11 @@
   },
   "25582": {
     "name": "Fish barrel",
-    "weight": 1.39,
-    "equipable": true,
-    "equipment": {}
+    "weight": 1.39
   },
   "25584": {
     "name": "Open fish barrel",
-    "weight": 1.39,
-    "equipable": true,
-    "equipment": {}
+    "weight": 1.39
   },
   "25585": {
     "name": "Fish sack barrel",
@@ -74683,6 +74567,18 @@
       "slot": 12
     }
   },
+  "25977": {
+    "name": "Osmumten's khopesh",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 150,
+      "aslash": 105,
+      "str": 115,
+      "aspeed": 5
+    }
+  },
   "25979": {
     "name": "Keris partisan",
     "weight": 2.267,
@@ -74694,6 +74590,7 @@
       "acrush": 57,
       "amagic": 2,
       "str": 45,
+      "prayer": 3,
       "aspeed": 4
     }
   },
@@ -75544,18 +75441,6 @@
       "prayer": 1
     }
   },
-  "26219": {
-    "name": "Osmumten's fang",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 175,
-      "aslash": 105,
-      "str": 115,
-      "aspeed": 5
-    }
-  },
   "26221": {
     "name": "Ancient ceremonial top",
     "weight": 0.9,
@@ -75563,7 +75448,8 @@
     "equipment": {
       "slot": 4,
       "prayer": 6
-    }
+    },
+    "ge_limit": 8
   },
   "26223": {
     "name": "Ancient ceremonial legs",
@@ -75572,7 +75458,8 @@
     "equipment": {
       "slot": 7,
       "prayer": 5
-    }
+    },
+    "ge_limit": 8
   },
   "26225": {
     "name": "Ancient ceremonial mask",
@@ -75581,7 +75468,8 @@
     "equipment": {
       "slot": 0,
       "prayer": 2
-    }
+    },
+    "ge_limit": 8
   },
   "26227": {
     "name": "Ancient ceremonial gloves",
@@ -75590,7 +75478,8 @@
     "equipment": {
       "slot": 9,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26229": {
     "name": "Ancient ceremonial boots",
@@ -75599,7 +75488,8 @@
     "equipment": {
       "slot": 10,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26233": {
     "name": "Ancient godsword",
@@ -76433,9 +76323,7 @@
   },
   "26526": {
     "name": "Cannon furnace (or)",
-    "weight": 10.0,
-    "equipable": true,
-    "equipment": {}
+    "weight": 10.0
   },
   "26528": {
     "name": "Shattered cannon ornament kit",
@@ -76587,6 +76475,10 @@
   },
   "26593": {
     "name": "Strongbones' bone",
+    "weight": 0.001
+  },
+  "26595": {
+    "name": "Zanik",
     "weight": 0.001
   },
   "26649": {
@@ -76784,7 +76676,7 @@
       "dslash": -10,
       "dcrush": -6,
       "dmagic": 6,
-      "drange": 6,
+      "drange": 3,
       "prayer": 2
     }
   },
@@ -76794,7 +76686,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 3,
+      "amagic": 6,
       "dstab": 5,
       "dslash": 5,
       "dcrush": 5,
@@ -76812,7 +76704,7 @@
       "astab": -5,
       "aslash": -3,
       "acrush": -4,
-      "amagic": 4,
+      "amagic": 8,
       "arange": -2,
       "dstab": 14,
       "dslash": 12,
@@ -76831,7 +76723,7 @@
       "astab": -10,
       "aslash": -11,
       "acrush": -8,
-      "amagic": 8,
+      "amagic": 11,
       "arange": -4,
       "dstab": 19,
       "dslash": 18,
@@ -77198,7 +77090,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 3,
+      "amagic": 6,
       "dstab": 5,
       "dslash": 5,
       "dcrush": 5,
@@ -77213,7 +77105,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 3,
+      "amagic": 6,
       "dstab": 5,
       "dslash": 5,
       "dcrush": 5,
@@ -77231,7 +77123,7 @@
       "astab": -5,
       "aslash": -3,
       "acrush": -4,
-      "amagic": 4,
+      "amagic": 8,
       "arange": -2,
       "dstab": 14,
       "dslash": 12,
@@ -77250,7 +77142,7 @@
       "astab": -5,
       "aslash": -3,
       "acrush": -4,
-      "amagic": 4,
+      "amagic": 8,
       "arange": -2,
       "dstab": 14,
       "dslash": 12,
@@ -77269,7 +77161,7 @@
       "astab": -10,
       "aslash": -11,
       "acrush": -8,
-      "amagic": 8,
+      "amagic": 11,
       "arange": -4,
       "dstab": 19,
       "dslash": 18,
@@ -77288,7 +77180,7 @@
       "astab": -10,
       "aslash": -11,
       "acrush": -8,
-      "amagic": 8,
+      "amagic": 11,
       "arange": -4,
       "dstab": 19,
       "dslash": 18,
@@ -77310,7 +77202,7 @@
       "dslash": -10,
       "dcrush": -6,
       "dmagic": 6,
-      "drange": 6,
+      "drange": 3,
       "prayer": 2
     }
   },
@@ -77326,7 +77218,7 @@
       "dslash": -10,
       "dcrush": -6,
       "dmagic": 6,
-      "drange": 6,
+      "drange": 3,
       "prayer": 2
     }
   },
@@ -77794,6 +77686,7 @@
   },
   "26852": {
     "name": "Robe top of the eye",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -77825,6 +77718,7 @@
   },
   "26860": {
     "name": "Robe top of the eye (red)",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -77848,6 +77742,7 @@
   },
   "26866": {
     "name": "Robe top of the eye (green)",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -77871,6 +77766,7 @@
   },
   "26872": {
     "name": "Robe top of the eye (blue)",
+    "weight": 0.6,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -77890,9 +77786,7 @@
   },
   "26879": {
     "name": "Guardian essence",
-    "weight": 0.402,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.402
   },
   "26883": {
     "name": "Weak cell",
@@ -77920,9 +77814,7 @@
   },
   "26903": {
     "name": "Eye amulet",
-    "weight": 0.25,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.25
   },
   "26904": {
     "name": "Strong cup of tea",
@@ -77962,6 +77854,237 @@
     "equipable": true,
     "equipment": {
       "slot": 2
+    }
+  },
+  "26916": {
+    "name": "Special hot sauce",
+    "weight": 0.1
+  },
+  "26917": {
+    "name": "Special super hot kebab",
+    "weight": 0.25
+  },
+  "26918": {
+    "name": "Secret report",
+    "weight": 0.005
+  },
+  "26919": {
+    "name": "Big bucket",
+    "weight": 2.0
+  },
+  "26920": {
+    "name": "Big bucket of camel milk",
+    "weight": 4.4
+  },
+  "26921": {
+    "name": "Big bucket of frozen camel milk",
+    "weight": 4.4
+  },
+  "26924": {
+    "name": "Magical cleaning potion",
+    "weight": 0.001
+  },
+  "26925": {
+    "name": "Cooler",
+    "weight": 1.0
+  },
+  "26926": {
+    "name": "Easter egg",
+    "weight": 0.5,
+    "ge_limit": 50
+  },
+  "26927": {
+    "name": "Melted easter egg",
+    "weight": 0.5
+  },
+  "26928": {
+    "name": "Ice cream easter egg",
+    "weight": 0.5
+  },
+  "26929": {
+    "name": "Blunt scimitars",
+    "weight": 6.0
+  },
+  "26930": {
+    "name": "Washing line",
+    "weight": 0.02
+  },
+  "26931": {
+    "name": "Tanning wheel",
+    "weight": 3.0
+  },
+  "26932": {
+    "name": "Vat (dirty)",
+    "weight": 10.0
+  },
+  "26933": {
+    "name": "Vat (cleaned)",
+    "weight": 10.0
+  },
+  "26934": {
+    "name": "Wooden pole",
+    "weight": 0.2
+  },
+  "26935": {
+    "name": "Churning machine",
+    "weight": 20.0
+  },
+  "26936": {
+    "name": "Frozen churning machine",
+    "weight": 20.0
+  },
+  "26937": {
+    "name": "Easter hat",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26939": {
+    "name": "Crate ring",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 12
+    }
+  },
+  "26942": {
+    "name": "Message",
+    "weight": 0.003
+  },
+  "26943": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "26944": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "26945": {
+    "name": "Pharaoh's sceptre (uncharged)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 7,
+      "aslash": -1,
+      "acrush": 25,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 32,
+      "aspeed": 4
+    }
+  },
+  "26948": {
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 7,
+      "aslash": -1,
+      "acrush": 25,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 32,
+      "aspeed": 4
+    }
+  },
+  "26950": {
+    "name": "Pharaoh's sceptre",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 7,
+      "aslash": -1,
+      "acrush": 25,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 32,
+      "aspeed": 4
+    }
+  },
+  "26952": {
+    "name": "Scarab mould",
+    "weight": 0.45
+  },
+  "26953": {
+    "name": "Scarab emblem",
+    "weight": 1.0
+  },
+  "26954": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
+  "26955": {
+    "name": "Chest",
+    "weight": 2.0
+  },
+  "26956": {
+    "name": "Scarab emblem",
+    "weight": 1.0
+  },
+  "26957": {
+    "name": "Human emblem",
+    "weight": 1.0
+  },
+  "26958": {
+    "name": "Baboon emblem",
+    "weight": 1.0
+  },
+  "26959": {
+    "name": "Crocodile emblem",
+    "weight": 1.0
+  },
+  "26960": {
+    "name": "Rusty key",
+    "weight": 0.01
+  },
+  "26961": {
+    "name": "Lily of the elid",
+    "weight": 0.02
+  },
+  "26962": {
+    "name": "Cure crate",
+    "weight": 5.0
+  },
+  "26963": {
+    "name": "Odd spectacles",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26965": {
+    "name": "Bottle of 'tonic'",
+    "weight": 0.5
+  },
+  "26967": {
+    "name": "Circlet of water (uncharged)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "26969": {
+    "name": "Circlet of water",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
     }
   }
 }
