@@ -11999,6 +11999,10 @@
     "name": "Strongbones",
     "hitpoints": 200
   },
+  "11462": {
+    "name": "Menaphite Shadow",
+    "hitpoints": 50
+  },
   "11482": {
     "name": "Champion of Scabaras",
     "hitpoints": 600
@@ -12014,10 +12018,6 @@
   "11492": {
     "name": "Menaphite Akh",
     "hitpoints": 480
-  },
-  "11494": {
-    "name": "Menaphite Shadow",
-    "hitpoints": 50
   },
   "11508": {
     "name": "Scarab mage",
