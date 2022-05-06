@@ -9946,6 +9946,7 @@
   },
   "2511": {
     "name": "Logs",
+    "weight": 1.36,
     "ge_limit": 15000
   },
   "2513": {
@@ -45453,10 +45454,6 @@
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
-  "12179": {
-    "name": "Clue scroll (easy)",
-    "weight": 0.02
-  },
   "12181": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
@@ -53952,10 +53949,6 @@
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
-  "19764": {
-    "name": "Clue scroll (medium)",
-    "weight": 0.02
-  },
   "19765": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
@@ -55964,10 +55957,12 @@
   },
   "20390": {
     "name": "Shark",
+    "weight": 0.65,
     "ge_limit": 10000
   },
   "20405": {
     "name": "Abyssal whip",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -55979,6 +55974,7 @@
   },
   "20407": {
     "name": "Dragon dagger",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -56006,6 +56002,7 @@
   },
   "20422": {
     "name": "Rune platelegs",
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -56021,6 +56018,7 @@
   },
   "20423": {
     "name": "Black d'hide body",
+    "weight": 6.803,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -56036,6 +56034,7 @@
   },
   "20425": {
     "name": "Mystic robe top",
+    "weight": 2.721,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -56288,6 +56287,7 @@
   },
   "20578": {
     "name": "Climbing boots",
+    "weight": 0.34,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -56339,6 +56339,7 @@
   },
   "20586": {
     "name": "Amulet of glory",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -56404,6 +56405,7 @@
   },
   "20598": {
     "name": "Ahrim's robetop",
+    "weight": 4.535,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -56418,6 +56420,7 @@
   },
   "20599": {
     "name": "Ahrim's robeskirt",
+    "weight": 11.339,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -56854,6 +56857,7 @@
   },
   "20784": {
     "name": "Dragon claws",
+    "weight": 5.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -58402,6 +58406,7 @@
   },
   "21205": {
     "name": "Elder maul (Last Man Standing)",
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -65614,6 +65619,7 @@
   },
   "23533": {
     "name": "Cooked karambwan",
+    "weight": 0.65,
     "ge_limit": 10000
   },
   "23543": {
@@ -65718,6 +65724,7 @@
   },
   "23591": {
     "name": "Helm of neitiznot",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -65752,6 +65759,7 @@
   },
   "23595": {
     "name": "Berserker ring",
+    "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -65762,6 +65770,7 @@
   },
   "23597": {
     "name": "Dragon defender",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -65780,6 +65789,7 @@
   },
   "23599": {
     "name": "Spirit shield",
+    "weight": 2.0,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -65794,6 +65804,7 @@
   },
   "23601": {
     "name": "Rune crossbow",
+    "weight": 6.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -65846,6 +65857,7 @@
   },
   "23611": {
     "name": "Armadyl crossbow",
+    "weight": 6.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -65857,6 +65869,7 @@
   },
   "23613": {
     "name": "Staff of the dead",
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -65922,6 +65935,7 @@
   },
   "23620": {
     "name": "Statius's warhammer",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -65935,6 +65949,7 @@
   },
   "23622": {
     "name": "Infernal cape",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -65954,6 +65969,7 @@
   },
   "23624": {
     "name": "Seers ring (i)",
+    "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12,
@@ -65978,6 +65994,7 @@
   },
   "23628": {
     "name": "Ghrazi rapier",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -65990,6 +66007,7 @@
   },
   "23630": {
     "name": "Heavy ballista",
+    "weight": 6.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -66002,6 +66020,7 @@
   },
   "23632": {
     "name": "Karil's leathertop",
+    "weight": 6.803,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -66017,6 +66036,7 @@
   },
   "23633": {
     "name": "Dharok's platelegs",
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -66128,6 +66148,7 @@
   },
   "23640": {
     "name": "Amulet of fury",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
@@ -66148,6 +66169,7 @@
   },
   "23642": {
     "name": "Blessed spirit shield",
+    "weight": 2.0,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -66162,6 +66184,7 @@
   },
   "23644": {
     "name": "Eternal boots",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 10,
@@ -66227,6 +66250,7 @@
   },
   "23653": {
     "name": "Ahrim's staff",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -69433,7 +69457,7 @@
   },
   "24372": {
     "name": "Twisted dragon trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -69447,7 +69471,7 @@
   },
   "24374": {
     "name": "Twisted rune trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -69461,7 +69485,7 @@
   },
   "24376": {
     "name": "Twisted adamant trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -70142,6 +70166,7 @@
   },
   "24650": {
     "name": "Logs",
+    "weight": 1.36,
     "ge_limit": 15000
   },
   "24652": {
@@ -71202,7 +71227,7 @@
   },
   "25042": {
     "name": "Trailblazer dragon trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -71216,7 +71241,7 @@
   },
   "25044": {
     "name": "Trailblazer rune trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -71230,7 +71255,7 @@
   },
   "25046": {
     "name": "Trailblazer adamant trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -73560,6 +73585,10 @@
       "aspeed": 4
     }
   },
+  "25730": {
+    "name": "Bandages",
+    "weight": 0.001
+  },
   "25731": {
     "name": "Holy sanguinesti staff",
     "weight": 1.5,
@@ -74586,7 +74615,7 @@
     "equipment": {
       "slot": 3,
       "astab": 58,
-      "aslash": 58,
+      "aslash": -2,
       "acrush": 57,
       "amagic": 2,
       "str": 45,
@@ -76272,7 +76301,7 @@
   },
   "26511": {
     "name": "Shattered relics adamant trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -76282,7 +76311,7 @@
   },
   "26513": {
     "name": "Shattered relics rune trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -76292,7 +76321,7 @@
   },
   "26515": {
     "name": "Shattered relics dragon trophy",
-    "weight": 1.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -77856,83 +77885,6 @@
       "slot": 2
     }
   },
-  "26916": {
-    "name": "Special hot sauce",
-    "weight": 0.1
-  },
-  "26917": {
-    "name": "Special super hot kebab",
-    "weight": 0.25
-  },
-  "26918": {
-    "name": "Secret report",
-    "weight": 0.005
-  },
-  "26919": {
-    "name": "Big bucket",
-    "weight": 2.0
-  },
-  "26920": {
-    "name": "Big bucket of camel milk",
-    "weight": 4.4
-  },
-  "26921": {
-    "name": "Big bucket of frozen camel milk",
-    "weight": 4.4
-  },
-  "26924": {
-    "name": "Magical cleaning potion",
-    "weight": 0.001
-  },
-  "26925": {
-    "name": "Cooler",
-    "weight": 1.0
-  },
-  "26926": {
-    "name": "Easter egg",
-    "weight": 0.5,
-    "ge_limit": 50
-  },
-  "26927": {
-    "name": "Melted easter egg",
-    "weight": 0.5
-  },
-  "26928": {
-    "name": "Ice cream easter egg",
-    "weight": 0.5
-  },
-  "26929": {
-    "name": "Blunt scimitars",
-    "weight": 6.0
-  },
-  "26930": {
-    "name": "Washing line",
-    "weight": 0.02
-  },
-  "26931": {
-    "name": "Tanning wheel",
-    "weight": 3.0
-  },
-  "26932": {
-    "name": "Vat (dirty)",
-    "weight": 10.0
-  },
-  "26933": {
-    "name": "Vat (cleaned)",
-    "weight": 10.0
-  },
-  "26934": {
-    "name": "Wooden pole",
-    "weight": 0.2
-  },
-  "26935": {
-    "name": "Churning machine",
-    "weight": 20.0
-  },
-  "26936": {
-    "name": "Frozen churning machine",
-    "weight": 20.0
-  },
   "26937": {
     "name": "Easter hat",
     "weight": 0.5,
@@ -78085,6 +78037,54 @@
     "equipable": true,
     "equipment": {
       "slot": 0
+    }
+  },
+  "26984": {
+    "name": "Lost bag",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "26986": {
+    "name": "Lost bag",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "26988": {
+    "name": "Lost bag",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "26990": {
+    "name": "Amulet of the eye",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "26992": {
+    "name": "Amulet of the eye",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "26994": {
+    "name": "Amulet of the eye",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
     }
   }
 }
