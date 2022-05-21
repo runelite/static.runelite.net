@@ -11423,10 +11423,6 @@
     "name": "Colossal Hydra",
     "hitpoints": 750
   },
-  "10435": {
-    "name": "Sourhog",
-    "hitpoints": 40
-  },
   "10436": {
     "name": "Sourhog",
     "hitpoints": 40
@@ -12002,6 +11998,10 @@
   "11462": {
     "name": "Menaphite Shadow",
     "hitpoints": 50
+  },
+  "11463": {
+    "name": "Reanimated hellhound",
+    "hitpoints": 35
   },
   "11482": {
     "name": "Champion of Scabaras",
