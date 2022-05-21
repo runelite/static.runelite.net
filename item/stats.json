@@ -26836,6 +26836,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": -1,
       "acrush": 7,
       "amagic": 4,
@@ -26853,6 +26854,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": -1,
       "acrush": 7,
       "amagic": 4,
@@ -26870,6 +26872,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": -1,
       "acrush": 7,
       "amagic": 4,
@@ -26887,6 +26890,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": -1,
       "acrush": 7,
       "amagic": 4,
@@ -26904,6 +26908,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": -1,
       "acrush": 7,
       "amagic": 4,
@@ -26921,6 +26926,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": -1,
       "acrush": 7,
       "amagic": 4,
@@ -26938,6 +26944,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "is2h": true,
       "aslash": -1,
       "acrush": 7,
       "amagic": 4,
@@ -37039,7 +37046,7 @@
   },
   "9921": {
     "name": "Skeleton boots",
-    "weight": 2.267,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -37047,7 +37054,7 @@
   },
   "9922": {
     "name": "Skeleton gloves",
-    "weight": 2.267,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -37055,7 +37062,7 @@
   },
   "9923": {
     "name": "Skeleton leggings",
-    "weight": 2.267,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -37063,7 +37070,7 @@
   },
   "9924": {
     "name": "Skeleton shirt",
-    "weight": 2.267,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -37071,7 +37078,7 @@
   },
   "9925": {
     "name": "Skeleton mask",
-    "weight": 2.267,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -39671,7 +39678,7 @@
   },
   "10507": {
     "name": "Reindeer hat",
-    "weight": 2.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -49343,7 +49350,7 @@
   },
   "12956": {
     "name": "Cow top",
-    "weight": 3.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -49351,7 +49358,7 @@
   },
   "12957": {
     "name": "Cow trousers",
-    "weight": 3.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -50518,7 +50525,7 @@
   },
   "13203": {
     "name": "Mask of balance",
-    "weight": 5.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -50924,7 +50931,7 @@
   },
   "13286": {
     "name": "Gravedigger boots",
-    "weight": 2.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -56776,10 +56783,6 @@
     "name": "Zamorak's unfermented wine",
     "weight": 1.5
   },
-  "20754": {
-    "name": "Giant key",
-    "weight": 0.015
-  },
   "20756": {
     "name": "Hill giant club",
     "weight": 3.628,
@@ -56998,7 +57001,7 @@
   },
   "20836": {
     "name": "Giant present",
-    "weight": 15.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -61958,7 +61961,7 @@
   },
   "22351": {
     "name": "Eggshell platebody",
-    "weight": 2.267,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -61966,7 +61969,7 @@
   },
   "22353": {
     "name": "Eggshell platelegs",
-    "weight": 1.814,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -62056,10 +62059,6 @@
     "name": "Bryophyta's essence",
     "weight": 0.001,
     "ge_limit": 100
-  },
-  "22374": {
-    "name": "Mossy key",
-    "weight": 0.001
   },
   "22376": {
     "name": "Puppadile",
@@ -65351,7 +65350,7 @@
   },
   "23446": {
     "name": "Giant easter egg",
-    "weight": 15.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -69201,12 +69200,10 @@
     "equipable": true,
     "equipment": {
       "slot": 5,
-      "amagic": -8,
-      "arange": -2,
       "dstab": 27,
       "dslash": 31,
       "dcrush": 29,
-      "dmagic": -1,
+      "dmagic": 5,
       "drange": 29
     }
   },
@@ -69216,12 +69213,10 @@
     "equipable": true,
     "equipment": {
       "slot": 5,
-      "amagic": -8,
-      "arange": -2,
       "dstab": 27,
       "dslash": 31,
       "dcrush": 29,
-      "dmagic": -1,
+      "dmagic": 5,
       "drange": 29
     }
   },
@@ -69792,7 +69787,7 @@
   },
   "24428": {
     "name": "Green gingerbread shield",
-    "weight": 3.175,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 5
@@ -69800,7 +69795,7 @@
   },
   "24430": {
     "name": "Red gingerbread shield",
-    "weight": 3.175,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 5
@@ -69808,7 +69803,7 @@
   },
   "24431": {
     "name": "Blue gingerbread shield",
-    "weight": 3.175,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 5
@@ -72371,7 +72366,7 @@
   },
   "25314": {
     "name": "Giant boulder",
-    "weight": 15.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -78085,6 +78080,158 @@
     "equipable": true,
     "equipment": {
       "slot": 2
+    }
+  },
+  "26996": {
+    "name": "Ensouled hellhound head",
+    "weight": 0.453
+  },
+  "26997": {
+    "name": "Ensouled hellhound head",
+    "weight": 0.453
+  },
+  "27000": {
+    "name": "Void knight top (l)(or)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45
+    }
+  },
+  "27001": {
+    "name": "Void knight robe (l)(or)",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30
+    }
+  },
+  "27002": {
+    "name": "Void knight gloves (l)(or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 6
+    }
+  },
+  "27003": {
+    "name": "Elite void top (l)(or)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45,
+      "prayer": 3
+    }
+  },
+  "27004": {
+    "name": "Elite void robe (l)(or)",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "prayer": 3
+    }
+  },
+  "27005": {
+    "name": "Void mage helm (l)(or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "27006": {
+    "name": "Void ranger helm (l)(or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "27007": {
+    "name": "Void melee helm (l)(or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "27008": {
+    "name": "Dragon defender (l)(t)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 25,
+      "aslash": 24,
+      "acrush": 23,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 25,
+      "dslash": 24,
+      "dcrush": 23,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 6
+    }
+  },
+  "27009": {
+    "name": "Rune defender (l)(t)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 20,
+      "aslash": 19,
+      "acrush": 18,
+      "amagic": -3,
+      "arange": -2,
+      "dstab": 20,
+      "dslash": 19,
+      "dcrush": 18,
+      "dmagic": -3,
+      "drange": -2,
+      "str": 5
     }
   }
 }
