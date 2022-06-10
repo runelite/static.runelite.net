@@ -320,7 +320,7 @@
     "hitpoints": 50
   },
   "101": {
-    "name": "Rock Crab",
+    "name": "Rocks",
     "hitpoints": 50
   },
   "102": {
@@ -328,7 +328,7 @@
     "hitpoints": 50
   },
   "103": {
-    "name": "Rock Crab",
+    "name": "Rocks",
     "hitpoints": 50
   },
   "104": {
@@ -4510,6 +4510,10 @@
   "3049": {
     "name": "Hobgoblin",
     "hitpoints": 52
+  },
+  "3050": {
+    "name": "Hobgoblin",
+    "hitpoints": 49
   },
   "3051": {
     "name": "Goblin",

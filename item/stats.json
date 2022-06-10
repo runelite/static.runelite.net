@@ -73236,7 +73236,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 6
+      "aspeed": 7
     }
   },
   "25606": {
@@ -77729,7 +77729,7 @@
     "weight": 0.6,
     "equipable": true,
     "equipment": {
-      "slot": 7
+      "slot": 10
     }
   },
   "26858": {
@@ -78232,6 +78232,74 @@
       "dmagic": -3,
       "drange": -2,
       "str": 5
+    }
+  },
+  "27010": {
+    "name": "Preform",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "27012": {
+    "name": "Double ammo mould",
+    "weight": 4.0
+  },
+  "27014": {
+    "name": "Kovac's grog",
+    "weight": 0.55
+  },
+  "27021": {
+    "name": "Colossal blade",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -4,
+      "aslash": 98,
+      "acrush": 65,
+      "amagic": -4,
+      "drange": -1,
+      "str": 100,
+      "aspeed": 6
+    }
+  },
+  "27023": {
+    "name": "Smiths tunic",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27025": {
+    "name": "Smiths trousers",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27027": {
+    "name": "Smiths boots",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27029": {
+    "name": "Smiths gloves",
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "27031": {
+    "name": "Smiths gloves (i)",
+    "equipable": true,
+    "equipment": {
+      "slot": 9
     }
   }
 }
