@@ -14,6 +14,8 @@ net.runelite.client.game.npcoverlay
 net.runelite.client.hiscore
 net.runelite.client.input
 net.runelite.client.menus
+net.runelite.client.party
+net.runelite.client.party.messages
 net.runelite.client.plugins
 net.runelite.client.plugins.account
 net.runelite.client.plugins.achievementdiary
@@ -205,4 +207,3 @@ net.runelite.client.ui.overlay.tooltip
 net.runelite.client.ui.overlay.worldmap
 net.runelite.client.ui.skin
 net.runelite.client.util
-net.runelite.client.ws
