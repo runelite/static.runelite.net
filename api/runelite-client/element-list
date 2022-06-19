@@ -15,6 +15,7 @@ net.runelite.client.hiscore
 net.runelite.client.input
 net.runelite.client.menus
 net.runelite.client.party
+net.runelite.client.party.events
 net.runelite.client.party.messages
 net.runelite.client.plugins
 net.runelite.client.plugins.account
