@@ -78240,20 +78240,29 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "27012": {
     "name": "Double ammo mould",
-    "weight": 4.0
+    "weight": 4.535
   },
   "27014": {
     "name": "Kovac's grog",
     "weight": 0.55
   },
+  "27017": {
+    "name": "Smithing catalyst",
+    "weight": 0.028
+  },
+  "27019": {
+    "name": "Ore pack",
+    "weight": 1.0
+  },
   "27021": {
     "name": "Colossal blade",
-    "weight": 3.0,
+    "weight": 30.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -78269,6 +78278,7 @@
   },
   "27023": {
     "name": "Smiths tunic",
+    "weight": 0.62,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -78276,6 +78286,7 @@
   },
   "27025": {
     "name": "Smiths trousers",
+    "weight": 0.71,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -78283,6 +78294,7 @@
   },
   "27027": {
     "name": "Smiths boots",
+    "weight": 0.42,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -78290,6 +78302,7 @@
   },
   "27029": {
     "name": "Smiths gloves",
+    "weight": 0.09,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -78297,9 +78310,38 @@
   },
   "27031": {
     "name": "Smiths gloves (i)",
+    "weight": 0.09,
     "equipable": true,
     "equipment": {
       "slot": 9
     }
+  },
+  "27035": {
+    "name": "Rainbow flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27037": {
+    "name": "Legendary red rose seed",
+    "weight": 0.05
+  },
+  "27038": {
+    "name": "Gorgeous orange lily seed",
+    "weight": 0.05
+  },
+  "27039": {
+    "name": "Beautiful yellow pansy seed",
+    "weight": 0.05
+  },
+  "27040": {
+    "name": "Tenacious indigo iris seed",
+    "weight": 0.05
+  },
+  "27041": {
+    "name": "Quality violet tulip seed",
+    "weight": 0.05
   }
 }
