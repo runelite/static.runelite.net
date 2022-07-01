@@ -74597,9 +74597,9 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 150,
-      "aslash": 105,
-      "str": 115,
+      "astab": 105,
+      "aslash": 75,
+      "str": 103,
       "aspeed": 5
     }
   },
@@ -78343,5 +78343,108 @@
   "27041": {
     "name": "Quality violet tulip seed",
     "weight": 0.05
+  },
+  "27042": {
+    "name": "Group iron helm (unranked)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 6,
+      "dslash": 7,
+      "dcrush": 5,
+      "dmagic": -1,
+      "drange": 6
+    }
+  },
+  "27044": {
+    "name": "Group iron platelegs (unranked)",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 11,
+      "dslash": 10,
+      "dcrush": 10,
+      "dmagic": -4,
+      "drange": 10
+    }
+  },
+  "27046": {
+    "name": "Group iron bracers (unranked)",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1
+    }
+  },
+  "27048": {
+    "name": "Group iron platebody (unranked)",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "27050": {
+    "name": "Group iron platebody (unranked)",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "27052": {
+    "name": "Group iron platebody (unranked)",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
+  },
+  "27054": {
+    "name": "Group iron platebody (unranked)",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 12,
+      "dmagic": -6,
+      "drange": 20
+    }
   }
 }
