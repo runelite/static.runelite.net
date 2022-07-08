@@ -11859,6 +11859,14 @@
     "name": "Hespori",
     "hitpoints": 360
   },
+  "11193": {
+    "name": "Flower",
+    "hitpoints": 10
+  },
+  "11198": {
+    "name": "Sergeant",
+    "hitpoints": 86
+  },
   "11227": {
     "name": "Enraged Boar",
     "hitpoints": 25

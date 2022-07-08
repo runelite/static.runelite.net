@@ -76519,21 +76519,198 @@
       "aspeed": 4
     }
   },
+  "26674": {
+    "name": "Slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26675": {
+    "name": "Black slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26676": {
+    "name": "Green slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26677": {
+    "name": "Red slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26678": {
+    "name": "Purple slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26679": {
+    "name": "Turquoise slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26680": {
+    "name": "Hydra slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26681": {
+    "name": "Twisted slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26682": {
+    "name": "Tztok slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26683": {
+    "name": "Vampyric slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26684": {
+    "name": "Tzkal slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "26685": {
+    "name": "Granite ring (i)",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 4,
+      "dmagic": -4,
+      "drange": 16
+    }
+  },
   "26686": {
     "name": "Maoma's med helm (broken)",
     "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": -6,
-      "arange": -3,
-      "dstab": 6,
-      "dslash": 10,
-      "dcrush": 8,
-      "dmagic": -9,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 6,
+      "amagic": -20,
+      "arange": -20,
+      "dmagic": -10,
       "drange": 10,
-      "str": 1,
-      "prayer": 1
+      "str": 1
     }
   },
   "26687": {
@@ -76542,18 +76719,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": 2,
-      "aslash": 3,
-      "acrush": 1,
-      "amagic": -13,
-      "arange": -7,
-      "dstab": 26,
-      "dslash": 29,
-      "dcrush": 27,
-      "dmagic": -9,
-      "drange": 38,
-      "str": 3,
-      "prayer": 2
+      "astab": 8,
+      "aslash": 8,
+      "acrush": 8,
+      "amagic": -40,
+      "arange": -40,
+      "dmagic": -15,
+      "drange": 15,
+      "str": 2
     }
   },
   "26688": {
@@ -76562,18 +76735,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": 6,
-      "aslash": 5,
-      "acrush": 4,
-      "amagic": -20,
-      "arange": -10,
-      "dstab": 38,
-      "dslash": 46,
-      "dcrush": 43,
-      "dmagic": -9,
-      "drange": 59,
-      "str": 5,
-      "prayer": 3
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": -60,
+      "arange": -60,
+      "dmagic": -25,
+      "drange": 25,
+      "str": 4
     }
   },
   "26689": {
@@ -76582,11 +76751,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 5,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 8,
+      "arange": 11,
+      "dstab": 6,
       "dslash": 7,
-      "dcrush": 6,
-      "dmagic": 4,
-      "drange": 5
+      "dcrush": 10,
+      "dmagic": 12,
+      "drange": 10
     }
   },
   "26690": {
@@ -76595,11 +76769,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 52,
-      "dslash": 52,
-      "dcrush": 52,
-      "dmagic": 18,
-      "drange": 49
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 12,
+      "arange": 16,
+      "dstab": 47,
+      "dslash": 51,
+      "dcrush": 54,
+      "dmagic": 28,
+      "drange": 48
     }
   },
   "26691": {
@@ -76608,11 +76787,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 73,
-      "dslash": 73,
-      "dcrush": 73,
-      "dmagic": 32,
-      "drange": 67
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 6,
+      "amagic": 16,
+      "arange": 21,
+      "dstab": 66,
+      "dslash": 63,
+      "dcrush": 66,
+      "dmagic": 36,
+      "drange": 64
     }
   },
   "26692": {
@@ -76621,11 +76805,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 3,
+      "astab": 2,
+      "aslash": 2,
+      "acrush": 2,
+      "amagic": 5,
+      "arange": 8,
+      "dstab": 4,
       "dslash": 5,
-      "dcrush": 4,
-      "dmagic": 2,
-      "drange": 4
+      "dcrush": 8,
+      "dmagic": 8,
+      "drange": 8
     }
   },
   "26693": {
@@ -76634,11 +76823,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 36,
-      "dslash": 36,
+      "astab": 3,
+      "aslash": 3,
+      "acrush": 3,
+      "amagic": 8,
+      "arange": 11,
+      "dstab": 32,
+      "dslash": 34,
       "dcrush": 36,
-      "dmagic": 12,
-      "drange": 34
+      "dmagic": 20,
+      "drange": 32
     }
   },
   "26694": {
@@ -76647,11 +76841,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 58,
-      "dslash": 58,
-      "dcrush": 58,
-      "dmagic": 20,
-      "drange": 52
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 11,
+      "arange": 14,
+      "dstab": 44,
+      "dslash": 43,
+      "dcrush": 44,
+      "dmagic": 24,
+      "drange": 44
     }
   },
   "26695": {
@@ -76688,20 +76887,74 @@
       "str": 12
     }
   },
+  "26697": {
+    "name": "Hardened wristbands of the arena (broken)",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 14,
+      "aslash": 13,
+      "acrush": 15,
+      "amagic": 7,
+      "arange": 13,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "26698": {
+    "name": "Koriff's headband (broken)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -20,
+      "aslash": -20,
+      "acrush": -20,
+      "amagic": -20,
+      "arange": 10,
+      "dstab": -10,
+      "dslash": -10,
+      "dcrush": -10,
+      "dmagic": 10
+    }
+  },
   "26699": {
     "name": "Koriff's cowl (broken)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": -7,
-      "arange": 5,
-      "dstab": -8,
-      "dslash": -10,
-      "dcrush": -6,
-      "dmagic": 6,
-      "drange": 3,
-      "prayer": 2
+      "astab": -40,
+      "aslash": -40,
+      "acrush": -40,
+      "amagic": -40,
+      "arange": 14,
+      "dstab": -15,
+      "dslash": -15,
+      "dcrush": -15,
+      "dmagic": 15
+    }
+  },
+  "26700": {
+    "name": "Koriff's coif (broken)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -60,
+      "aslash": -60,
+      "acrush": -60,
+      "amagic": -60,
+      "arange": 18,
+      "dstab": -25,
+      "dslash": -25,
+      "dcrush": -25,
+      "dmagic": 20
     }
   },
   "26701": {
@@ -76710,13 +76963,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 6,
-      "dstab": 5,
-      "dslash": 5,
-      "dcrush": 5,
-      "dmagic": 2,
-      "drange": -8,
-      "prayer": 1
+      "astab": -20,
+      "aslash": -20,
+      "acrush": -20,
+      "amagic": 10,
+      "arange": -2,
+      "dstab": 10,
+      "dslash": 10,
+      "dcrush": 10,
+      "drange": -10
     }
   },
   "26702": {
@@ -76725,17 +76980,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": -5,
-      "aslash": -3,
-      "acrush": -4,
-      "amagic": 8,
-      "arange": -2,
-      "dstab": 14,
-      "dslash": 12,
+      "astab": -40,
+      "aslash": -40,
+      "acrush": -40,
+      "amagic": 14,
+      "arange": -40,
+      "dstab": 15,
+      "dslash": 15,
       "dcrush": 15,
-      "dmagic": 4,
-      "drange": -8,
-      "prayer": 2
+      "drange": -15
     }
   },
   "26703": {
@@ -76744,17 +76997,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": -10,
-      "aslash": -11,
-      "acrush": -8,
-      "amagic": 11,
-      "arange": -4,
-      "dstab": 19,
-      "dslash": 18,
+      "astab": -60,
+      "aslash": -60,
+      "acrush": -60,
+      "amagic": 18,
+      "arange": -60,
+      "dstab": 20,
+      "dslash": 20,
       "dcrush": 20,
-      "dmagic": 8,
-      "drange": -8,
-      "prayer": 3
+      "drange": -25
     }
   },
   "26707": {
@@ -77114,13 +77365,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 6,
-      "dstab": 5,
-      "dslash": 5,
-      "dcrush": 5,
-      "dmagic": 2,
-      "drange": -8,
-      "prayer": 1
+      "astab": -20,
+      "aslash": -20,
+      "acrush": -20,
+      "amagic": 10,
+      "arange": -2,
+      "dstab": 10,
+      "dslash": 10,
+      "dcrush": 10,
+      "drange": -10
     }
   },
   "26732": {
@@ -77129,13 +77382,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 6,
-      "dstab": 5,
-      "dslash": 5,
-      "dcrush": 5,
-      "dmagic": 2,
-      "drange": -8,
-      "prayer": 1
+      "astab": -20,
+      "aslash": -20,
+      "acrush": -20,
+      "amagic": 10,
+      "arange": -2,
+      "dstab": 10,
+      "dslash": 10,
+      "dcrush": 10,
+      "drange": -10
     }
   },
   "26733": {
@@ -77144,17 +77399,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": -5,
-      "aslash": -3,
-      "acrush": -4,
-      "amagic": 8,
-      "arange": -2,
-      "dstab": 14,
-      "dslash": 12,
+      "astab": -40,
+      "aslash": -40,
+      "acrush": -40,
+      "amagic": 14,
+      "arange": -40,
+      "dstab": 15,
+      "dslash": 15,
       "dcrush": 15,
-      "dmagic": 4,
-      "drange": -8,
-      "prayer": 2
+      "drange": -15
     }
   },
   "26734": {
@@ -77163,17 +77416,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": -5,
-      "aslash": -3,
-      "acrush": -4,
-      "amagic": 8,
-      "arange": -2,
-      "dstab": 14,
-      "dslash": 12,
+      "astab": -40,
+      "aslash": -40,
+      "acrush": -40,
+      "amagic": 14,
+      "arange": -40,
+      "dstab": 15,
+      "dslash": 15,
       "dcrush": 15,
-      "dmagic": 4,
-      "drange": -8,
-      "prayer": 2
+      "drange": -15
     }
   },
   "26735": {
@@ -77182,17 +77433,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": -10,
-      "aslash": -11,
-      "acrush": -8,
-      "amagic": 11,
-      "arange": -4,
-      "dstab": 19,
-      "dslash": 18,
+      "astab": -60,
+      "aslash": -60,
+      "acrush": -60,
+      "amagic": 18,
+      "arange": -60,
+      "dstab": 20,
+      "dslash": 20,
       "dcrush": 20,
-      "dmagic": 8,
-      "drange": -8,
-      "prayer": 3
+      "drange": -25
     }
   },
   "26736": {
@@ -77201,17 +77450,49 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": -10,
-      "aslash": -11,
-      "acrush": -8,
-      "amagic": 11,
-      "arange": -4,
-      "dstab": 19,
-      "dslash": 18,
+      "astab": -60,
+      "aslash": -60,
+      "acrush": -60,
+      "amagic": 18,
+      "arange": -60,
+      "dstab": 20,
+      "dslash": 20,
       "dcrush": 20,
-      "dmagic": 8,
-      "drange": -8,
-      "prayer": 3
+      "drange": -25
+    }
+  },
+  "26737": {
+    "name": "Koriff's headband",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -20,
+      "aslash": -20,
+      "acrush": -20,
+      "amagic": -20,
+      "arange": 10,
+      "dstab": -10,
+      "dslash": -10,
+      "dcrush": -10,
+      "dmagic": 10
+    }
+  },
+  "26738": {
+    "name": "Koriff's headband (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -20,
+      "aslash": -20,
+      "acrush": -20,
+      "amagic": -20,
+      "arange": 10,
+      "dstab": -10,
+      "dslash": -10,
+      "dcrush": -10,
+      "dmagic": 10
     }
   },
   "26739": {
@@ -77220,14 +77501,15 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": -7,
-      "arange": 5,
-      "dstab": -8,
-      "dslash": -10,
-      "dcrush": -6,
-      "dmagic": 6,
-      "drange": 3,
-      "prayer": 2
+      "astab": -40,
+      "aslash": -40,
+      "acrush": -40,
+      "amagic": -40,
+      "arange": 14,
+      "dstab": -15,
+      "dslash": -15,
+      "dcrush": -15,
+      "dmagic": 15
     }
   },
   "26740": {
@@ -77236,14 +77518,49 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": -7,
-      "arange": 5,
-      "dstab": -8,
-      "dslash": -10,
-      "dcrush": -6,
-      "dmagic": 6,
-      "drange": 3,
-      "prayer": 2
+      "astab": -40,
+      "aslash": -40,
+      "acrush": -40,
+      "amagic": -40,
+      "arange": 14,
+      "dstab": -15,
+      "dslash": -15,
+      "dcrush": -15,
+      "dmagic": 15
+    }
+  },
+  "26741": {
+    "name": "Koriff's coif",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -60,
+      "aslash": -60,
+      "acrush": -60,
+      "amagic": -60,
+      "arange": 18,
+      "dstab": -25,
+      "dslash": -25,
+      "dcrush": -25,
+      "dmagic": 20
+    }
+  },
+  "26742": {
+    "name": "Koriff's coif (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -60,
+      "aslash": -60,
+      "acrush": -60,
+      "amagic": -60,
+      "arange": 18,
+      "dstab": -25,
+      "dslash": -25,
+      "dcrush": -25,
+      "dmagic": 20
     }
   },
   "26743": {
@@ -77252,15 +77569,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": -6,
-      "arange": -3,
-      "dstab": 6,
-      "dslash": 10,
-      "dcrush": 8,
-      "dmagic": -9,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 6,
+      "amagic": -20,
+      "arange": -20,
+      "dmagic": -10,
       "drange": 10,
-      "str": 1,
-      "prayer": 1
+      "str": 1
     }
   },
   "26744": {
@@ -77269,15 +77585,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": -6,
-      "arange": -3,
-      "dstab": 6,
-      "dslash": 10,
-      "dcrush": 8,
-      "dmagic": -9,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 6,
+      "amagic": -20,
+      "arange": -20,
+      "dmagic": -10,
       "drange": 10,
-      "str": 1,
-      "prayer": 1
+      "str": 1
     }
   },
   "26745": {
@@ -77286,18 +77601,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": 2,
-      "aslash": 3,
-      "acrush": 1,
-      "amagic": -13,
-      "arange": -7,
-      "dstab": 26,
-      "dslash": 29,
-      "dcrush": 27,
-      "dmagic": -9,
-      "drange": 38,
-      "str": 3,
-      "prayer": 2
+      "astab": 8,
+      "aslash": 8,
+      "acrush": 8,
+      "amagic": -40,
+      "arange": -40,
+      "dmagic": -15,
+      "drange": 15,
+      "str": 2
     }
   },
   "26746": {
@@ -77306,18 +77617,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": 2,
-      "aslash": 3,
-      "acrush": 1,
-      "amagic": -13,
-      "arange": -7,
-      "dstab": 26,
-      "dslash": 29,
-      "dcrush": 27,
-      "dmagic": -9,
-      "drange": 38,
-      "str": 3,
-      "prayer": 2
+      "astab": 8,
+      "aslash": 8,
+      "acrush": 8,
+      "amagic": -40,
+      "arange": -40,
+      "dmagic": -15,
+      "drange": 15,
+      "str": 2
     }
   },
   "26747": {
@@ -77326,18 +77633,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": 6,
-      "aslash": 5,
-      "acrush": 4,
-      "amagic": -20,
-      "arange": -10,
-      "dstab": 38,
-      "dslash": 46,
-      "dcrush": 43,
-      "dmagic": -9,
-      "drange": 59,
-      "str": 5,
-      "prayer": 3
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": -60,
+      "arange": -60,
+      "dmagic": -25,
+      "drange": 25,
+      "str": 4
     }
   },
   "26748": {
@@ -77346,18 +77649,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": 6,
-      "aslash": 5,
-      "acrush": 4,
-      "amagic": -20,
-      "arange": -10,
-      "dstab": 38,
-      "dslash": 46,
-      "dcrush": 43,
-      "dmagic": -9,
-      "drange": 59,
-      "str": 5,
-      "prayer": 3
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": -60,
+      "arange": -60,
+      "dmagic": -25,
+      "drange": 25,
+      "str": 4
     }
   },
   "26749": {
@@ -77366,11 +77665,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 5,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 8,
+      "arange": 11,
+      "dstab": 6,
       "dslash": 7,
-      "dcrush": 6,
-      "dmagic": 4,
-      "drange": 5
+      "dcrush": 10,
+      "dmagic": 12,
+      "drange": 10
     }
   },
   "26750": {
@@ -77379,11 +77683,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 5,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 8,
+      "arange": 11,
+      "dstab": 6,
       "dslash": 7,
-      "dcrush": 6,
-      "dmagic": 4,
-      "drange": 5
+      "dcrush": 10,
+      "dmagic": 12,
+      "drange": 10
     }
   },
   "26751": {
@@ -77392,11 +77701,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 52,
-      "dslash": 52,
-      "dcrush": 52,
-      "dmagic": 18,
-      "drange": 49
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 12,
+      "arange": 16,
+      "dstab": 47,
+      "dslash": 51,
+      "dcrush": 54,
+      "dmagic": 28,
+      "drange": 48
     }
   },
   "26752": {
@@ -77405,11 +77719,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 52,
-      "dslash": 52,
-      "dcrush": 52,
-      "dmagic": 18,
-      "drange": 49
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 12,
+      "arange": 16,
+      "dstab": 47,
+      "dslash": 51,
+      "dcrush": 54,
+      "dmagic": 28,
+      "drange": 48
     }
   },
   "26753": {
@@ -77418,11 +77737,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 73,
-      "dslash": 73,
-      "dcrush": 73,
-      "dmagic": 32,
-      "drange": 67
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 6,
+      "amagic": 16,
+      "arange": 21,
+      "dstab": 66,
+      "dslash": 63,
+      "dcrush": 66,
+      "dmagic": 36,
+      "drange": 64
     }
   },
   "26754": {
@@ -77431,11 +77755,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "dstab": 73,
-      "dslash": 73,
-      "dcrush": 73,
-      "dmagic": 32,
-      "drange": 67
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 6,
+      "amagic": 16,
+      "arange": 21,
+      "dstab": 66,
+      "dslash": 63,
+      "dcrush": 66,
+      "dmagic": 36,
+      "drange": 64
     }
   },
   "26755": {
@@ -77444,11 +77773,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 3,
+      "astab": 2,
+      "aslash": 2,
+      "acrush": 2,
+      "amagic": 5,
+      "arange": 8,
+      "dstab": 4,
       "dslash": 5,
-      "dcrush": 4,
-      "dmagic": 2,
-      "drange": 4
+      "dcrush": 8,
+      "dmagic": 8,
+      "drange": 8
     }
   },
   "26756": {
@@ -77457,11 +77791,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 3,
+      "astab": 2,
+      "aslash": 2,
+      "acrush": 2,
+      "amagic": 5,
+      "arange": 8,
+      "dstab": 4,
       "dslash": 5,
-      "dcrush": 4,
-      "dmagic": 2,
-      "drange": 4
+      "dcrush": 8,
+      "dmagic": 8,
+      "drange": 8
     }
   },
   "26757": {
@@ -77470,11 +77809,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 36,
-      "dslash": 36,
+      "astab": 3,
+      "aslash": 3,
+      "acrush": 3,
+      "amagic": 8,
+      "arange": 11,
+      "dstab": 32,
+      "dslash": 34,
       "dcrush": 36,
-      "dmagic": 12,
-      "drange": 34
+      "dmagic": 20,
+      "drange": 32
     }
   },
   "26758": {
@@ -77483,11 +77827,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 36,
-      "dslash": 36,
+      "astab": 3,
+      "aslash": 3,
+      "acrush": 3,
+      "amagic": 8,
+      "arange": 11,
+      "dstab": 32,
+      "dslash": 34,
       "dcrush": 36,
-      "dmagic": 12,
-      "drange": 34
+      "dmagic": 20,
+      "drange": 32
     }
   },
   "26759": {
@@ -77496,11 +77845,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 58,
-      "dslash": 58,
-      "dcrush": 58,
-      "dmagic": 20,
-      "drange": 52
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 11,
+      "arange": 14,
+      "dstab": 44,
+      "dslash": 43,
+      "dcrush": 44,
+      "dmagic": 24,
+      "drange": 44
     }
   },
   "26760": {
@@ -77509,11 +77863,285 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "dstab": 58,
-      "dslash": 58,
-      "dcrush": 58,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 11,
+      "arange": 14,
+      "dstab": 44,
+      "dslash": 43,
+      "dcrush": 44,
+      "dmagic": 24,
+      "drange": 44
+    }
+  },
+  "26761": {
+    "name": "Ring of suffering (i)",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 20,
+      "dslash": 20,
+      "dcrush": 20,
       "dmagic": 20,
-      "drange": 52
+      "drange": 20,
+      "prayer": 4
+    }
+  },
+  "26762": {
+    "name": "Ring of suffering (ri)",
+    "weight": 0.006,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 20,
+      "dslash": 20,
+      "dcrush": 20,
+      "dmagic": 20,
+      "drange": 20,
+      "prayer": 4
+    }
+  },
+  "26763": {
+    "name": "Salve amulet(i)",
+    "weight": 0.007,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "prayer": 3
+    }
+  },
+  "26764": {
+    "name": "Ring of the gods (i)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1,
+      "prayer": 8
+    }
+  },
+  "26765": {
+    "name": "Tyrannical ring (i)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "acrush": 8,
+      "dcrush": 8
+    }
+  },
+  "26766": {
+    "name": "Treasonous ring (i)",
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "astab": 8,
+      "dstab": 8
+    }
+  },
+  "26767": {
+    "name": "Seers ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "amagic": 12,
+      "dmagic": 12
+    }
+  },
+  "26768": {
+    "name": "Archers ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "arange": 8,
+      "drange": 8
+    }
+  },
+  "26769": {
+    "name": "Warrior ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "aslash": 8,
+      "dslash": 8
+    }
+  },
+  "26770": {
+    "name": "Berserker ring (i)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dcrush": 8,
+      "str": 8
+    }
+  },
+  "26771": {
+    "name": "Black mask (10) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26772": {
+    "name": "Black mask (9) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26773": {
+    "name": "Black mask (8) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26774": {
+    "name": "Black mask (7) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26775": {
+    "name": "Black mask (6) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26776": {
+    "name": "Black mask (5) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26777": {
+    "name": "Black mask (4) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26778": {
+    "name": "Black mask (3) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26779": {
+    "name": "Black mask (2) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26780": {
+    "name": "Black mask (1) (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26781": {
+    "name": "Black mask (i)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 9,
+      "dslash": 10,
+      "dcrush": 8,
+      "dmagic": -1,
+      "drange": 9
+    }
+  },
+  "26782": {
+    "name": "Salve amulet(ei)",
+    "weight": 0.007,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "prayer": 3
     }
   },
   "26784": {
@@ -78445,6 +79073,140 @@
       "dcrush": 12,
       "dmagic": -6,
       "drange": 20
+    }
+  },
+  "27086": {
+    "name": "Rune pouch",
+    "weight": 1.0
+  },
+  "27098": {
+    "name": "Elder maul ornament kit",
+    "weight": 0.5
+  },
+  "27100": {
+    "name": "Elder maul (or)",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "acrush": 135,
+      "amagic": -4,
+      "str": 147,
+      "aspeed": 6
+    }
+  },
+  "27110": {
+    "name": "Mithril gloves (wrapped)",
+    "weight": 0.226,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "amagic": 6,
+      "arange": 15,
+      "str": 6
+    }
+  },
+  "27111": {
+    "name": "Rune gloves (wrapped)",
+    "weight": 0.226,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 17,
+      "aslash": 17,
+      "acrush": 17,
+      "amagic": 7,
+      "arange": 17,
+      "str": 8
+    }
+  },
+  "27112": {
+    "name": "Barrows gloves (wrapped)",
+    "weight": 0.226,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 21,
+      "aslash": 21,
+      "acrush": 21,
+      "amagic": 9,
+      "arange": 21,
+      "str": 12
+    }
+  },
+  "27113": {
+    "name": "Elder chaos robes ornament kit",
+    "weight": 0.5
+  },
+  "27115": {
+    "name": "Elder chaos top (or)",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 10,
+      "dmagic": 8
+    }
+  },
+  "27117": {
+    "name": "Elder chaos robe (or)",
+    "weight": 0.18,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 6,
+      "dmagic": 6
+    }
+  },
+  "27119": {
+    "name": "Elder chaos hood (or)",
+    "weight": 0.18,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 5,
+      "dmagic": 4
+    }
+  },
+  "27121": {
+    "name": "Dagon'hai robes ornament kit",
+    "weight": 0.5
+  },
+  "27123": {
+    "name": "Dagon'hai hat (or)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 5,
+      "dmagic": 5,
+      "prayer": 2
+    }
+  },
+  "27125": {
+    "name": "Dagon'hai robe top (or)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 25,
+      "dmagic": 21,
+      "prayer": 2
+    }
+  },
+  "27127": {
+    "name": "Dagon'hai robe bottom (or)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 18,
+      "dmagic": 14,
+      "prayer": 2
     }
   }
 }
