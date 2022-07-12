@@ -1,1 +1,5 @@
-{}
+{
+  "ignoreDeadNpcs": [
+    965
+  ]
+}
