@@ -78945,32 +78945,12 @@
     }
   },
   "27035": {
-    "name": "Rainbow flower crown",
+    "name": "Flower crown",
     "weight": 0.056,
     "equipable": true,
     "equipment": {
       "slot": 0
     }
-  },
-  "27037": {
-    "name": "Legendary red rose seed",
-    "weight": 0.05
-  },
-  "27038": {
-    "name": "Gorgeous orange lily seed",
-    "weight": 0.05
-  },
-  "27039": {
-    "name": "Beautiful yellow pansy seed",
-    "weight": 0.05
-  },
-  "27040": {
-    "name": "Tenacious indigo iris seed",
-    "weight": 0.05
-  },
-  "27041": {
-    "name": "Quality violet tulip seed",
-    "weight": 0.05
   },
   "27042": {
     "name": "Group iron helm (unranked)",
@@ -79207,6 +79187,70 @@
       "amagic": 18,
       "dmagic": 14,
       "prayer": 2
+    }
+  },
+  "27141": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27143": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27145": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27147": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27149": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27151": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27153": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27155": {
+    "name": "Flower crown",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
     }
   }
 }
