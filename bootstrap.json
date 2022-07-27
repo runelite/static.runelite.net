@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.8.27.1.jar",
-                    "fromHash": "d9ea93e49fd249b32c48fa5c089b4943cac6da08416090ad063b35b938840d76",
-                    "hash": "c3c6945e1116529d435b9ceac40eafb1a0320fa8a87d2d03ef1eebac7a292363",
-                    "name": "client-1.8.28.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.8.27.1.jar-client-1.8.28.jar.apdiff.gz.jar",
-                    "size": 17351
+                    "from": "client-1.8.28.jar",
+                    "fromHash": "4ff1096bac2c00ccb02dbda5a9a798ecc1b56de854b1efe669a4fa30e246b4f5",
+                    "hash": "557fd228409b2a12c5ea2b7b6ff00e2f2382babcc819b9e3315d6b097d10713d",
+                    "name": "client-1.8.29.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.8.28.jar-client-1.8.29.jar.apdiff.gz.jar",
+                    "size": 15747
                 }
             ],
-            "hash": "4ff1096bac2c00ccb02dbda5a9a798ecc1b56de854b1efe669a4fa30e246b4f5",
-            "name": "client-1.8.28.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.8.28/client-1.8.28.jar",
-            "size": 6208075
+            "hash": "c5a22d7ea0e83aab3f13369c2d66a6ff0a0b726d7e2657940601de66c6a7a2cd",
+            "name": "client-1.8.29.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.8.29/client-1.8.29.jar",
+            "size": 6208192
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -397,10 +397,10 @@
             "size": 100205
         },
         {
-            "hash": "e6dd5f756509b1f90177a89586894d6e879303154303c59ab4f878b772ff3ab0",
-            "name": "client-patch-1.8.28.jar",
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.8.28/client-patch-1.8.28.jar",
-            "size": 781644
+            "hash": "f075e1fdbfb393c191e00328f1f71237e08e7a09f9e41e70b72d28b7e50f34fa",
+            "name": "client-patch-1.8.29.jar",
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.8.29/client-patch-1.8.29.jar",
+            "size": 801595
         },
         {
             "hash": "91dc5bba27af01d9b14e5d4b99b5d6b00247fb0a422acf49abb855f547137d28",
@@ -429,18 +429,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.8.27.1-runtime.jar",
-                    "fromHash": "ec1fb90276290cb587735ab8739956ac1d602e91f807a77c603f4534ab003669",
-                    "hash": "b6a66c370b1d9a998e1918240996cd42a8728977439e2fc0791681ce870b1312",
-                    "name": "runelite-api-1.8.28-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.8.27.1-runtime.jar-runelite-api-1.8.28-runtime.jar.apdiff.gz.jar",
-                    "size": 554
+                    "from": "runelite-api-1.8.28-runtime.jar",
+                    "fromHash": "df3db73680b6ac8ef27eee05e403506c014f69fe8eca0e9784a2428a73d4af37",
+                    "hash": "bb231b382fbf52ee83024c131180eeb7e27bef598198fc7bfed222cca7a60f59",
+                    "name": "runelite-api-1.8.29-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.8.28-runtime.jar-runelite-api-1.8.29-runtime.jar.apdiff.gz.jar",
+                    "size": 3925
                 }
             ],
-            "hash": "df3db73680b6ac8ef27eee05e403506c014f69fe8eca0e9784a2428a73d4af37",
-            "name": "runelite-api-1.8.28-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.8.28/runelite-api-1.8.28-runtime.jar",
-            "size": 236166
+            "hash": "7ce53951397d9fd5d7f3e6567eeb1b412c8e63a2903525e4f4918f1a05880738",
+            "name": "runelite-api-1.8.29-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.8.29/runelite-api-1.8.29-runtime.jar",
+            "size": 236232
         }
     ],
     "client": {
@@ -449,7 +449,7 @@
         "extension": "jar",
         "groupId": "net.runelite",
         "properties": {},
-        "version": "1.8.28"
+        "version": "1.8.29"
     },
     "clientJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
@@ -485,8 +485,8 @@
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "archive-patcher-applier-1.2.jar": "ce932f3eeeb31021ae4d62108fdab23e18b7efd79833e4cd050e2d78d78c3347",
         "autocomplete-3.1.1.jar": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
-        "client-1.8.28.jar": "4ff1096bac2c00ccb02dbda5a9a798ecc1b56de854b1efe669a4fa30e246b4f5",
-        "client-patch-1.8.28.jar": "e6dd5f756509b1f90177a89586894d6e879303154303c59ab4f878b772ff3ab0",
+        "client-1.8.29.jar": "c5a22d7ea0e83aab3f13369c2d66a6ff0a0b726d7e2657940601de66c6a7a2cd",
+        "client-patch-1.8.29.jar": "f075e1fdbfb393c191e00328f1f71237e08e7a09f9e41e70b72d28b7e50f34fa",
         "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008",
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
         "commons-text-1.2.jar": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b",
@@ -513,7 +513,7 @@
         "jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar": "75029af713b9df5ecd47a818ef32eb0909a95bb0dde7514cd6dc73e82900ed13",
         "jogl-rl-2.4.0-rc-20220318.jar": "f36a1ddfaa92f9a8eae83a37627aebd22cd927ab9e5c7f0cfe778810757a7b1f",
         "jopt-simple-5.0.1.jar": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
-        "jshell-1.8.28.jar": "47b9449d96ae86944d620b134ef04f6364512423e6bb613afdfcca025e38f1aa",
+        "jshell-1.8.29.jar": "6c6509bc40b56132a1cb8bae4d04d1f93c06076c25b6a67bceccf8881ebcce68",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
         "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
         "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
@@ -534,7 +534,7 @@
         "protobuf-javalite-3.21.1.jar": "101fd28d111ad1b95550ba45ab295cd1e8e8eb0676f66ed6705adba6042597ff",
         "rlawt-1.3.jar": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
-        "runelite-api-1.8.28.jar": "5fb0dec8786ea8fa0f6173f2ec264bfd788cbbfb1e2721304c632e2286fa2729",
+        "runelite-api-1.8.29.jar": "6b3e7ad18c0189441fffd24dc7c69d971a3cf3948ea99e40f7ecbca9f4dba7a6",
         "slf4j-api-1.7.25.jar": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
