@@ -397,7 +397,6 @@
         "jocl-1.0-macos-arm64.jar": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
         "jocl-1.0-macos-x64.jar": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
         "jocl-1.0.jar": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
-        "jogl-gldesktop-dbg-2.4.0-rc-20220318.jar": "12cb4a18958d3da1fb7def4800cd31a5a266e9da9ccbb6dca9efa1d1b9d953e0",
         "jopt-simple-5.0.1.jar": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
         "jshell-1.8.30.jar": "54b84a8203289fcce7f13e10d61c8ccae48b61ced5e074b1a0df4b59b4331742",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
@@ -445,7 +444,7 @@
     "launcherJvm11WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,nvldumdx.dll,nvd3dumx.dll,nvldumd.dll,nvd3dum.dll",
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -470,7 +469,7 @@
     "launcherJvm17WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,nvldumdx.dll,nvd3dumx.dll,nvldumd.dll,nvd3dum.dll",
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
