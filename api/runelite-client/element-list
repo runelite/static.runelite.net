@@ -154,7 +154,6 @@ net.runelite.client.plugins.roofremoval
 net.runelite.client.plugins.runecraft
 net.runelite.client.plugins.runenergy
 net.runelite.client.plugins.runepouch
-net.runelite.client.plugins.runepouch.config
 net.runelite.client.plugins.screenmarkers
 net.runelite.client.plugins.screenmarkers.ui
 net.runelite.client.plugins.screenshot
