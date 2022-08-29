@@ -54,7 +54,6 @@ net.runelite.client.plugins.corp
 net.runelite.client.plugins.crowdsourcing
 net.runelite.client.plugins.crowdsourcing.cooking
 net.runelite.client.plugins.crowdsourcing.dialogue
-net.runelite.client.plugins.crowdsourcing.movement
 net.runelite.client.plugins.crowdsourcing.music
 net.runelite.client.plugins.crowdsourcing.skilling
 net.runelite.client.plugins.crowdsourcing.thieving
