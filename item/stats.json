@@ -79185,6 +79185,7 @@
   },
   "27226": {
     "name": "Masori mask",
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -79200,6 +79201,7 @@
   },
   "27229": {
     "name": "Masori body",
+    "weight": 8.0,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -79231,7 +79233,7 @@
   },
   "27235": {
     "name": "Masori mask (f)",
-    "weight": 1.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -79265,7 +79267,7 @@
   },
   "27241": {
     "name": "Masori chaps (f)",
-    "weight": 8.0,
+    "weight": 8.5,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -79363,6 +79365,10 @@
     "equipment": {
       "slot": 1
     }
+  },
+  "27269": {
+    "name": "Armadylean plate",
+    "weight": 0.5
   },
   "27272": {
     "name": "Lily of the sands",
@@ -79558,5 +79564,9 @@
   "27354": {
     "name": "Elidinis' guardian",
     "weight": 0.015
+  },
+  "27355": {
+    "name": "Masori armour set (f)",
+    "weight": 0.05
   }
 }
