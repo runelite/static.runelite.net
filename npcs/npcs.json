@@ -4995,6 +4995,22 @@
     "name": "Anja",
     "hitpoints": 7
   },
+  "3286": {
+    "name": "Hobgoblin",
+    "hitpoints": 29
+  },
+  "3287": {
+    "name": "Hobgoblin",
+    "hitpoints": 29
+  },
+  "3288": {
+    "name": "Hobgoblin",
+    "hitpoints": 29
+  },
+  "3289": {
+    "name": "Hobgoblin",
+    "hitpoints": 29
+  },
   "3292": {
     "name": "Al Kharid warrior",
     "hitpoints": 19
@@ -5826,6 +5842,46 @@
   "4005": {
     "name": "Dark beast",
     "hitpoints": 220
+  },
+  "4043": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4044": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4045": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4046": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4047": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4048": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4049": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4050": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4051": {
+    "name": "Pirate",
+    "hitpoints": 52
+  },
+  "4052": {
+    "name": "Pirate",
+    "hitpoints": 52
   },
   "4067": {
     "name": "Black Knight Titan",
@@ -11187,10 +11243,6 @@
     "name": "Phosani's Nightmare",
     "hitpoints": 3200
   },
-  "9423": {
-    "name": "Phosani's Nightmare",
-    "hitpoints": 3200
-  },
   "9424": {
     "name": "Phosani's Nightmare",
     "hitpoints": 3200
@@ -12027,6 +12079,10 @@
     "name": "Scarab Swarm",
     "hitpoints": 5
   },
+  "11485": {
+    "name": "Shadow Rift",
+    "hitpoints": 20
+  },
   "11492": {
     "name": "Menaphite Akh",
     "hitpoints": 480
@@ -12050,5 +12106,161 @@
   "11586": {
     "name": "Plague frog",
     "hitpoints": 10
+  },
+  "11697": {
+    "name": "Scarab",
+    "hitpoints": 12
+  },
+  "11705": {
+    "name": "Crocodile",
+    "hitpoints": 30
+  },
+  "11709": {
+    "name": "Baboon Brawler",
+    "hitpoints": 4
+  },
+  "11710": {
+    "name": "Baboon Thrower",
+    "hitpoints": 4
+  },
+  "11711": {
+    "name": "Baboon Mage",
+    "hitpoints": 4
+  },
+  "11712": {
+    "name": "Baboon Brawler",
+    "hitpoints": 6
+  },
+  "11713": {
+    "name": "Baboon Thrower",
+    "hitpoints": 6
+  },
+  "11714": {
+    "name": "Baboon Mage",
+    "hitpoints": 6
+  },
+  "11715": {
+    "name": "Baboon Shaman",
+    "hitpoints": 16
+  },
+  "11716": {
+    "name": "Volatile Baboon",
+    "hitpoints": 8
+  },
+  "11717": {
+    "name": "Cursed Baboon",
+    "hitpoints": 10
+  },
+  "11718": {
+    "name": "Baboon Thrall",
+    "hitpoints": 2
+  },
+  "11719": {
+    "name": "Kephri",
+    "hitpoints": 80
+  },
+  "11720": {
+    "name": "Kephri",
+    "hitpoints": 80
+  },
+  "11721": {
+    "name": "Kephri",
+    "hitpoints": 80
+  },
+  "11722": {
+    "name": "Kephri",
+    "hitpoints": 80
+  },
+  "11723": {
+    "name": "Scarab Swarm",
+    "hitpoints": 10
+  },
+  "11724": {
+    "name": "Soldier Scarab",
+    "hitpoints": 40
+  },
+  "11725": {
+    "name": "Spitting Scarab",
+    "hitpoints": 40
+  },
+  "11726": {
+    "name": "Arcane Scarab",
+    "hitpoints": 40
+  },
+  "11727": {
+    "name": "Agile Scarab",
+    "hitpoints": 30
+  },
+  "11730": {
+    "name": "Zebak",
+    "hitpoints": 580
+  },
+  "11732": {
+    "name": "Zebak",
+    "hitpoints": 580
+  },
+  "11733": {
+    "name": "Zebak",
+    "hitpoints": 580
+  },
+  "11778": {
+    "name": "Ba-Ba",
+    "hitpoints": 380
+  },
+  "11779": {
+    "name": "Ba-Ba",
+    "hitpoints": 380
+  },
+  "11780": {
+    "name": "Ba-Ba",
+    "hitpoints": 380
+  },
+  "11781": {
+    "name": "Baboon",
+    "hitpoints": 35
+  },
+  "11789": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11790": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11791": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11792": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11793": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11794": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11795": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11796": {
+    "name": "Akkha",
+    "hitpoints": 400
+  },
+  "11797": {
+    "name": "Akkha's Shadow",
+    "hitpoints": 70
+  },
+  "11798": {
+    "name": "Akkha's Shadow",
+    "hitpoints": 70
+  },
+  "11799": {
+    "name": "Akkha's Shadow",
+    "hitpoints": 70
   }
 }

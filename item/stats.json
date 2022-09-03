@@ -56031,11 +56031,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 30,
-      "dstab": 55,
-      "dslash": 47,
-      "dcrush": 60,
-      "dmagic": 50,
-      "drange": 55
+      "dstab": 30,
+      "dslash": 38,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 50
     },
     "ge_limit": 70
   },
@@ -67770,13 +67770,7 @@
     "weight": 2.721,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "amagic": -10,
-      "arange": -10,
-      "dstab": 51,
-      "dslash": 54,
-      "dcrush": 53,
-      "drange": 80
+      "slot": 5
     }
   },
   "23995": {
@@ -74540,68 +74534,14 @@
     "name": "Hespori bark",
     "weight": 0.01
   },
-  "25969": {
-    "name": "Masori chestplate",
-    "weight": 4.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -4,
-      "arange": 33,
-      "dstab": 37,
-      "dslash": 35,
-      "dcrush": 38,
-      "dmagic": 25,
-      "drange": 33,
-      "prayer": 1
-    }
-  },
-  "25971": {
-    "name": "Masori chainskirt",
-    "weight": 1.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -2,
-      "arange": 20,
-      "dstab": 26,
-      "dslash": 24,
-      "dcrush": 29,
-      "dmagic": 19,
-      "drange": 22,
-      "prayer": 1
-    }
-  },
-  "25973": {
-    "name": "Masori amulet",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {
-      "slot": 2,
-      "arange": 10,
-      "rstr": 3,
-      "prayer": 1
-    }
-  },
   "25975": {
     "name": "Lightbearer",
     "weight": 0.05,
     "equipable": true,
     "equipment": {
       "slot": 12
-    }
-  },
-  "25977": {
-    "name": "Osmumten's khopesh",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 105,
-      "aslash": 75,
-      "str": 103,
-      "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "25979": {
     "name": "Keris partisan",
@@ -74620,73 +74560,31 @@
   },
   "25981": {
     "name": "Keris partisan of breaching",
-    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 3,
       "astab": 58,
-      "aslash": 58,
+      "aslash": -2,
       "acrush": 57,
       "amagic": 2,
       "str": 45,
+      "prayer": 3,
       "aspeed": 4
-    }
-  },
-  "25983": {
-    "name": "Elidinis' broken ward",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": 10,
-      "dstab": 18,
-      "dslash": 22,
-      "dcrush": 21,
-      "prayer": 4
     }
   },
   "25985": {
     "name": "Elidinis' ward",
-    "weight": 3.628,
+    "weight": 0.708,
     "equipable": true,
     "equipment": {
       "slot": 5,
-      "amagic": 25,
-      "dstab": 53,
-      "dslash": 55,
-      "dcrush": 73,
-      "dmagic": 2,
-      "drange": 52,
-      "mdmg": 5,
-      "prayer": 4
-    }
-  },
-  "25987": {
-    "name": "Tumeken's heka",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 25,
-      "arange": -4,
-      "dstab": 2,
+      "amagic": 5,
+      "dstab": 5,
       "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 20
-    }
-  },
-  "25989": {
-    "name": "Tumeken's heka (uncharged)",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 25,
-      "arange": -4,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 20
+      "dcrush": 9,
+      "drange": 6,
+      "mdmg": 3,
+      "prayer": 1
     }
   },
   "25990": {
@@ -75449,20 +75347,16 @@
       "drange": 1
     }
   },
-  "26217": {
-    "name": "Masori headdress",
-    "weight": 0.1,
+  "26219": {
+    "name": "Osmumten's fang",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -1,
-      "arange": 10,
-      "dstab": 3,
-      "dslash": 4,
-      "dcrush": 3,
-      "dmagic": 6,
-      "drange": 4,
-      "prayer": 1
+      "slot": 3,
+      "astab": 105,
+      "aslash": 75,
+      "str": 103,
+      "aspeed": 5
     }
   },
   "26221": {
@@ -75734,7 +75628,8 @@
   },
   "26340": {
     "name": "Ancient brew(4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "26342": {
     "name": "Ancient brew(3)",
@@ -78162,7 +78057,8 @@
   },
   "26798": {
     "name": "Catalytic talisman",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 40
   },
   "26801": {
     "name": "Catalytic tiara",
@@ -78170,7 +78066,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 40
   },
   "26804": {
     "name": "Elemental tiara",
@@ -79252,5 +79149,414 @@
     "equipment": {
       "slot": 0
     }
+  },
+  "27202": {
+    "name": "Menaphite remedy(4)",
+    "weight": 0.035
+  },
+  "27205": {
+    "name": "Menaphite remedy(3)",
+    "weight": 0.035
+  },
+  "27208": {
+    "name": "Menaphite remedy(2)",
+    "weight": 0.035
+  },
+  "27211": {
+    "name": "Menaphite remedy(1)",
+    "weight": 0.035
+  },
+  "27214": {
+    "name": "Scarab dung",
+    "weight": 0.38
+  },
+  "27221": {
+    "name": "Big banana",
+    "weight": 0.3
+  },
+  "27223": {
+    "name": "Eldritch ashes",
+    "weight": 0.05
+  },
+  "27225": {
+    "name": "Grain",
+    "weight": 0.5,
+    "ge_limit": 13000
+  },
+  "27226": {
+    "name": "Masori mask",
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -1,
+      "arange": 12,
+      "dstab": 3,
+      "dslash": 4,
+      "dcrush": 3,
+      "dmagic": 6,
+      "drange": 4,
+      "rstr": 2
+    }
+  },
+  "27229": {
+    "name": "Masori body",
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -4,
+      "arange": 43,
+      "dstab": 37,
+      "dslash": 35,
+      "dcrush": 38,
+      "dmagic": 25,
+      "drange": 33,
+      "rstr": 4
+    }
+  },
+  "27232": {
+    "name": "Masori chaps",
+    "weight": 7.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -2,
+      "arange": 27,
+      "dstab": 26,
+      "dslash": 24,
+      "dcrush": 29,
+      "dmagic": 19,
+      "drange": 22,
+      "rstr": 2
+    }
+  },
+  "27235": {
+    "name": "Masori mask (f)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -1,
+      "arange": 12,
+      "dstab": 8,
+      "dslash": 10,
+      "dcrush": 12,
+      "dmagic": 12,
+      "drange": 9,
+      "rstr": 2,
+      "prayer": 1
+    }
+  },
+  "27238": {
+    "name": "Masori body (f)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -4,
+      "arange": 43,
+      "dstab": 59,
+      "dslash": 52,
+      "dcrush": 64,
+      "dmagic": 74,
+      "drange": 60,
+      "rstr": 4,
+      "prayer": 1
+    }
+  },
+  "27241": {
+    "name": "Masori chaps (f)",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -2,
+      "arange": 27,
+      "dstab": 35,
+      "dslash": 30,
+      "dcrush": 39,
+      "dmagic": 46,
+      "drange": 37,
+      "rstr": 2,
+      "prayer": 1
+    }
+  },
+  "27246": {
+    "name": "Osmumten's fang (or)",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 105,
+      "aslash": 75,
+      "str": 103,
+      "aspeed": 5
+    }
+  },
+  "27251": {
+    "name": "Elidinis' ward (f)",
+    "weight": 3.708,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 25,
+      "dstab": 53,
+      "dslash": 55,
+      "dcrush": 73,
+      "dmagic": 2,
+      "drange": 52,
+      "mdmg": 5,
+      "prayer": 4
+    }
+  },
+  "27253": {
+    "name": "Elidinis' ward (or)",
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 25,
+      "dstab": 53,
+      "dslash": 55,
+      "dcrush": 73,
+      "dmagic": 2,
+      "drange": 52,
+      "mdmg": 5,
+      "prayer": 4
+    }
+  },
+  "27257": {
+    "name": "Icthlarin's shroud (tier 1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27259": {
+    "name": "Icthlarin's shroud (tier 2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27261": {
+    "name": "Icthlarin's shroud (tier 3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27263": {
+    "name": "Icthlarin's shroud (tier 4)",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27265": {
+    "name": "Icthlarin's shroud (tier 5)",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27267": {
+    "name": "Icthlarin's hood (tier 5)",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27272": {
+    "name": "Lily of the sands",
+    "weight": 0.003
+  },
+  "27275": {
+    "name": "Tumeken's shadow",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "amagic": 35,
+      "dmagic": 20,
+      "prayer": 1,
+      "aspeed": 5
+    }
+  },
+  "27277": {
+    "name": "Tumeken's shadow (uncharged)",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "amagic": 35,
+      "dmagic": 20,
+      "prayer": 1,
+      "aspeed": 5
+    }
+  },
+  "27279": {
+    "name": "Thread of elidinis",
+    "weight": 0.003
+  },
+  "27281": {
+    "name": "Divine rune pouch",
+    "weight": 0.878
+  },
+  "27287": {
+    "name": "Keris partisan of corruption",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 58,
+      "aslash": -2,
+      "acrush": 57,
+      "amagic": 2,
+      "str": 45,
+      "prayer": 3,
+      "aspeed": 4
+    }
+  },
+  "27289": {
+    "name": "Jewel of the sun",
+    "weight": 0.951
+  },
+  "27291": {
+    "name": "Keris partisan of the sun",
+    "weight": 3.218,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 58,
+      "aslash": -2,
+      "acrush": 57,
+      "amagic": 2,
+      "str": 45,
+      "prayer": 3,
+      "aspeed": 4
+    }
+  },
+  "27293": {
+    "name": "Cache of runes",
+    "weight": 0.489
+  },
+  "27295": {
+    "name": "Water container",
+    "weight": 2.0
+  },
+  "27296": {
+    "name": "Mirror",
+    "weight": 1.0
+  },
+  "27298": {
+    "name": "Maisa's message",
+    "weight": 0.003
+  },
+  "27299": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "27300": {
+    "name": "Akila's journal",
+    "weight": 0.51
+  },
+  "27302": {
+    "name": "Het's capture",
+    "weight": 0.51
+  },
+  "27304": {
+    "name": "Apmeken's capture",
+    "weight": 0.51
+  },
+  "27306": {
+    "name": "Scabaras' capture",
+    "weight": 0.51
+  },
+  "27308": {
+    "name": "Crondis' capture",
+    "weight": 0.51
+  },
+  "27310": {
+    "name": "The wardens",
+    "weight": 0.51
+  },
+  "27312": {
+    "name": "The jackal's torch",
+    "weight": 0.51
+  },
+  "27314": {
+    "name": "Supplies",
+    "weight": 4.989
+  },
+  "27315": {
+    "name": "Nectar (4)",
+    "weight": 0.453
+  },
+  "27317": {
+    "name": "Nectar (3)",
+    "weight": 0.453
+  },
+  "27319": {
+    "name": "Nectar (2)",
+    "weight": 0.453
+  },
+  "27321": {
+    "name": "Nectar (1)",
+    "weight": 0.453
+  },
+  "27323": {
+    "name": "Silk dressing (2)",
+    "weight": 0.453
+  },
+  "27325": {
+    "name": "Silk dressing (1)",
+    "weight": 0.453
+  },
+  "27327": {
+    "name": "Tears of elidinis (4)",
+    "weight": 0.453
+  },
+  "27329": {
+    "name": "Tears of elidinis (3)",
+    "weight": 0.453
+  },
+  "27331": {
+    "name": "Tears of elidinis (2)",
+    "weight": 0.453
+  },
+  "27333": {
+    "name": "Tears of elidinis (1)",
+    "weight": 0.453
+  },
+  "27335": {
+    "name": "Blessed crystal scarab (2)",
+    "weight": 0.453
+  },
+  "27337": {
+    "name": "Blessed crystal scarab (1)",
+    "weight": 0.453
+  },
+  "27339": {
+    "name": "Liquid adrenaline",
+    "weight": 0.453
+  },
+  "27343": {
+    "name": "Smelling salts (2)",
+    "weight": 0.453
+  },
+  "27345": {
+    "name": "Smelling salts (1)",
+    "weight": 0.453
+  },
+  "27347": {
+    "name": "Ambrosia",
+    "weight": 0.453
+  },
+  "27352": {
+    "name": "Tumeken's guardian",
+    "weight": 0.015
+  },
+  "27354": {
+    "name": "Elidinis' guardian",
+    "weight": 0.015
   }
 }
