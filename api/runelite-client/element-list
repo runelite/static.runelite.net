@@ -108,6 +108,7 @@ net.runelite.client.plugins.keyremapping
 net.runelite.client.plugins.kingdomofmiscellania
 net.runelite.client.plugins.kourendlibrary
 net.runelite.client.plugins.loginscreen
+net.runelite.client.plugins.logouttimer
 net.runelite.client.plugins.loottracker
 net.runelite.client.plugins.lowmemory
 net.runelite.client.plugins.menuentryswapper
