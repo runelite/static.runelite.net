@@ -9745,7 +9745,7 @@
   },
   "7397": {
     "name": "Insatiable Bloodveld",
-    "hitpoints": 380
+    "hitpoints": 290
   },
   "7398": {
     "name": "Insatiable mutated Bloodveld",
@@ -11639,6 +11639,22 @@
     "name": "Ice spider",
     "hitpoints": 65
   },
+  "10770": {
+    "name": "Xarpus",
+    "hitpoints": 6000
+  },
+  "10771": {
+    "name": "Xarpus",
+    "hitpoints": 6000
+  },
+  "10772": {
+    "name": "Xarpus",
+    "hitpoints": 6000
+  },
+  "10773": {
+    "name": "Xarpus",
+    "hitpoints": 6000
+  },
   "10888": {
     "name": "Bat",
     "hitpoints": 8
@@ -12106,5 +12122,13 @@
   "11586": {
     "name": "Plague frog",
     "hitpoints": 10
+  },
+  "11705": {
+    "name": "Crocodile",
+    "hitpoints": 30
+  },
+  "11781": {
+    "name": "Baboon",
+    "hitpoints": 35
   }
 }

@@ -7168,27 +7168,27 @@
   },
   "1555": {
     "name": "Pet kitten",
-    "weight": 0.015
+    "weight": 0.75
   },
   "1556": {
     "name": "Pet kitten",
-    "weight": 0.015
+    "weight": 0.75
   },
   "1557": {
     "name": "Pet kitten",
-    "weight": 0.015
+    "weight": 0.75
   },
   "1558": {
     "name": "Pet kitten",
-    "weight": 0.015
+    "weight": 0.75
   },
   "1559": {
     "name": "Pet kitten",
-    "weight": 0.015
+    "weight": 0.75
   },
   "1560": {
     "name": "Pet kitten",
-    "weight": 0.015
+    "weight": 0.75
   },
   "1561": {
     "name": "Pet cat",
@@ -7216,27 +7216,27 @@
   },
   "1567": {
     "name": "Pet cat",
-    "weight": 0.015
+    "weight": 2.5
   },
   "1568": {
     "name": "Pet cat",
-    "weight": 0.015
+    "weight": 2.5
   },
   "1569": {
     "name": "Pet cat",
-    "weight": 0.015
+    "weight": 2.5
   },
   "1570": {
     "name": "Pet cat",
-    "weight": 0.015
+    "weight": 2.5
   },
   "1571": {
     "name": "Pet cat",
-    "weight": 0.015
+    "weight": 2.5
   },
   "1572": {
     "name": "Pet cat",
-    "weight": 0.015
+    "weight": 2.5
   },
   "1573": {
     "name": "Doogle leaves",
@@ -11314,10 +11314,6 @@
   "2840": {
     "name": "Key (medium)",
     "weight": 0.01
-  },
-  "2841": {
-    "name": "Clue scroll (medium)",
-    "weight": 0.02
   },
   "2842": {
     "name": "Challenge scroll (medium)",
@@ -25735,27 +25731,27 @@
   },
   "6555": {
     "name": "Wily cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6556": {
     "name": "Wily cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6557": {
     "name": "Wily cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6558": {
     "name": "Wily cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6559": {
     "name": "Wily cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6560": {
     "name": "Wily cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6561": {
     "name": "Ahab's beer",
@@ -29830,23 +29826,23 @@
   },
   "7581": {
     "name": "Overgrown hellcat",
-    "weight": 0.015
+    "weight": 2.5
   },
   "7582": {
     "name": "Hell cat",
-    "weight": 0.015
+    "weight": 1.5
   },
   "7583": {
     "name": "Hell-kitten",
-    "weight": 0.015
+    "weight": 0.75
   },
   "7584": {
     "name": "Lazy hell cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "7585": {
     "name": "Wily hellcat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "7587": {
     "name": "Coffin",
@@ -48294,7 +48290,7 @@
     "weight": 0.015
   },
   "12727": {
-    "name": "Event rpg",
+    "name": "Goblin paint cannon",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -53974,10 +53970,6 @@
   },
   "19769": {
     "name": "Challenge scroll (medium)",
-    "weight": 0.02
-  },
-  "19770": {
-    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19771": {
@@ -72892,6 +72884,98 @@
     "name": "Runescroll of bloodbark",
     "weight": 0.015
   },
+  "25484": {
+    "name": "Webweaver bow (u)",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 85,
+      "rstr": 65,
+      "aspeed": 4
+    }
+  },
+  "25485": {
+    "name": "Webweaver bow",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 85,
+      "rstr": 65,
+      "aspeed": 4
+    }
+  },
+  "25486": {
+    "name": "Ursine chainmace (u)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 53,
+      "aslash": -2,
+      "acrush": 71,
+      "dslash": 1,
+      "str": 74,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "25487": {
+    "name": "Ursine chainmace",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 53,
+      "aslash": -2,
+      "acrush": 71,
+      "dslash": 1,
+      "str": 74,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "25488": {
+    "name": "Accursed sceptre (u)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "25489": {
+    "name": "Accursed sceptre",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "25490": {
+    "name": "Voidwaker",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 70,
+      "aslash": 80,
+      "acrush": -2,
+      "amagic": 5,
+      "dslash": 1,
+      "dmagic": 2,
+      "str": 75,
+      "aspeed": 4
+    }
+  },
   "25500": {
     "name": "Cursed banana",
     "weight": 0.1,
@@ -73909,6 +73993,10 @@
     "name": "Lizardman egg",
     "weight": 0.038
   },
+  "25810": {
+    "name": "Damp key",
+    "weight": 0.01
+  },
   "25811": {
     "name": "Broken redirector",
     "weight": 1.0
@@ -74560,6 +74648,7 @@
   },
   "25981": {
     "name": "Keris partisan of breaching",
+    "weight": 3.218,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -75122,19 +75211,19 @@
     "ge_limit": 6000
   },
   "26150": {
-    "name": "Combat potion(1)",
+    "name": "Combat potion(4)",
     "ge_limit": 2000
   },
   "26151": {
-    "name": "Combat potion(2)",
-    "ge_limit": 2000
-  },
-  "26152": {
     "name": "Combat potion(3)",
     "ge_limit": 2000
   },
+  "26152": {
+    "name": "Combat potion(2)",
+    "ge_limit": 2000
+  },
   "26153": {
-    "name": "Combat potion(4)",
+    "name": "Combat potion(1)",
     "ge_limit": 2000
   },
   "26154": {
@@ -79080,7 +79169,7 @@
     "weight": 1.814,
     "equipable": true,
     "equipment": {
-      "slot": 4,
+      "slot": 7,
       "amagic": 18,
       "dmagic": 14,
       "prayer": 2
@@ -79169,6 +79258,14 @@
   "27214": {
     "name": "Scarab dung",
     "weight": 0.38
+  },
+  "27216": {
+    "name": "Fossilised dung",
+    "weight": 0.38
+  },
+  "27219": {
+    "name": "Fang",
+    "weight": 0.6
   },
   "27221": {
     "name": "Big banana",
@@ -79363,7 +79460,7 @@
     "name": "Icthlarin's hood (tier 5)",
     "equipable": true,
     "equipment": {
-      "slot": 1
+      "slot": 0
     }
   },
   "27269": {
@@ -79408,8 +79505,17 @@
     "name": "Divine rune pouch",
     "weight": 0.878
   },
+  "27283": {
+    "name": "Breach of the scarab",
+    "weight": 0.951
+  },
+  "27285": {
+    "name": "Eye of the corruptor",
+    "weight": 0.951
+  },
   "27287": {
     "name": "Keris partisan of corruption",
+    "weight": 3.218,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79542,7 +79648,11 @@
     "weight": 0.453
   },
   "27339": {
-    "name": "Liquid adrenaline",
+    "name": "Liquid adrenaline (2)",
+    "weight": 0.453
+  },
+  "27341": {
+    "name": "Liquid adrenaline (1)",
     "weight": 0.453
   },
   "27343": {
@@ -79554,7 +79664,11 @@
     "weight": 0.453
   },
   "27347": {
-    "name": "Ambrosia",
+    "name": "Ambrosia (2)",
+    "weight": 0.453
+  },
+  "27349": {
+    "name": "Ambrosia (1)",
     "weight": 0.453
   },
   "27352": {
@@ -79568,5 +79682,266 @@
   "27355": {
     "name": "Masori armour set (f)",
     "weight": 0.05
+  },
+  "27359": {
+    "name": "Masori assembler (broken)",
+    "weight": 5.896
+  },
+  "27363": {
+    "name": "Masori assembler max cape",
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 8,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 8,
+      "drange": 2,
+      "rstr": 2
+    }
+  },
+  "27365": {
+    "name": "Masori assembler max cape (l)",
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 8,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 8,
+      "drange": 2,
+      "rstr": 2
+    }
+  },
+  "27366": {
+    "name": "Masori assembler max hood",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27368": {
+    "name": "Dawn scarab egg",
+    "weight": 0.01
+  },
+  "27369": {
+    "name": "Ancient key",
+    "weight": 0.01
+  },
+  "27370": {
+    "name": "Mask of rebirth",
+    "weight": 0.35,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27372": {
+    "name": "Masori crafting kit",
+    "weight": 0.5
+  },
+  "27374": {
+    "name": "Masori assembler",
+    "weight": 5.896,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 8,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 8,
+      "drange": 2,
+      "rstr": 2
+    }
+  },
+  "27376": {
+    "name": "Masori assembler (l)",
+    "weight": 5.896,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 8,
+      "dstab": 1,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 8,
+      "drange": 2,
+      "rstr": 2
+    }
+  },
+  "27382": {
+    "name": "Akkhito",
+    "weight": 0.015
+  },
+  "27383": {
+    "name": "Babi",
+    "weight": 0.015
+  },
+  "27384": {
+    "name": "Kephriti",
+    "weight": 0.015
+  },
+  "27385": {
+    "name": "Zebo",
+    "weight": 0.015
+  },
+  "27386": {
+    "name": "Tumeken's damaged guardian",
+    "weight": 0.015
+  },
+  "27387": {
+    "name": "Elidinis' damaged guardian",
+    "weight": 0.015
+  },
+  "27388": {
+    "name": "Adventurer's top (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27390": {
+    "name": "Adventurer's trousers (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27392": {
+    "name": "Adventurer's hood (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27394": {
+    "name": "Adventurer's boots (t1)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27396": {
+    "name": "Adventurer's top (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27398": {
+    "name": "Adventurer's trousers (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27400": {
+    "name": "Adventurer's hood (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27402": {
+    "name": "Adventurer's boots (t2)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27404": {
+    "name": "Adventurer's top (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27406": {
+    "name": "Adventurer's trousers (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27408": {
+    "name": "Adventurer's hood (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27410": {
+    "name": "Adventurer's boots (t3)",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27412": {
+    "name": "Adventurer's vambraces",
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "27414": {
+    "name": "Giant stopwatch",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "27416": {
+    "name": "Speedy teleport scroll",
+    "equipable": true,
+    "equipment": {}
+  },
+  "27418": {
+    "name": "Bronze speedrun trophy",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "27420": {
+    "name": "Silver speedrun trophy",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "27422": {
+    "name": "Gold speedrun trophy",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "27424": {
+    "name": "Platinum speedrun trophy",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "27426": {
+    "name": "Dynamite(p)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {}
   }
 }
