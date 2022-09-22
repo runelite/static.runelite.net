@@ -15720,8 +15720,8 @@
   "25488": "Accursed sceptre (u)",
   "25489": "Accursed sceptre",
   "25490": "Voidwaker",
-  "25491": "Toxic blowpipe (beta - dragon)",
-  "25492": "Black d'hide body (beta)",
+  "25491": "Accursed sceptre (au)",
+  "25492": "Accursed sceptre (a)",
   "25493": "Black d'hide chaps (beta)",
   "25494": "Black d'hide vambraces (beta)",
   "25495": "Crystal helm (beta)",
@@ -17012,5 +17012,13 @@
   "27420": "Silver speedrun trophy",
   "27422": "Gold speedrun trophy",
   "27424": "Platinum speedrun trophy",
-  "27426": "Dynamite(p)"
+  "27426": "Dynamite(p)",
+  "27427": "Clue scroll (special)",
+  "27428": "Hood of ruin",
+  "27430": "Robe top of ruin",
+  "27432": "Robe bottom of ruin",
+  "27434": "Gloves of ruin",
+  "27436": "Socks of ruin",
+  "27438": "Cloak of ruin",
+  "27440": "Infinite money bag"
 }
