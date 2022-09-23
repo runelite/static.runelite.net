@@ -1528,11 +1528,11 @@
   },
   "558": {
     "name": "Mind rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "559": {
     "name": "Body rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "560": {
     "name": "Death rune",
@@ -1540,19 +1540,19 @@
   },
   "561": {
     "name": "Nature rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "562": {
     "name": "Chaos rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "563": {
     "name": "Law rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "564": {
     "name": "Cosmic rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "565": {
     "name": "Blood rune",
@@ -35920,7 +35920,7 @@
   "9697": {
     "name": "Mind rune",
     "weight": 0.01,
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "9698": {
     "name": "Blank fire rune",
@@ -43153,11 +43153,11 @@
   },
   "11690": {
     "name": "Mind rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "11691": {
     "name": "Body rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "11692": {
     "name": "Death rune",
@@ -43165,19 +43165,19 @@
   },
   "11693": {
     "name": "Nature rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "11694": {
     "name": "Chaos rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "11695": {
     "name": "Law rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "11696": {
     "name": "Cosmic rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "11697": {
     "name": "Blood rune",
@@ -72917,7 +72917,6 @@
       "astab": 53,
       "aslash": -2,
       "acrush": 71,
-      "dslash": 1,
       "str": 74,
       "prayer": 2,
       "aspeed": 4
@@ -72932,7 +72931,6 @@
       "astab": 53,
       "aslash": -2,
       "acrush": 71,
-      "dslash": 1,
       "str": 74,
       "prayer": 2,
       "aspeed": 4
@@ -72972,7 +72970,29 @@
       "amagic": 5,
       "dslash": 1,
       "dmagic": 2,
-      "str": 75,
+      "str": 80,
+      "aspeed": 4
+    }
+  },
+  "25491": {
+    "name": "Accursed sceptre (au)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "25492": {
+    "name": "Accursed sceptre (a)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
       "aspeed": 4
     }
   },
@@ -79687,8 +79707,13 @@
     "name": "Masori assembler (broken)",
     "weight": 5.896
   },
+  "27361": {
+    "name": "Masori assembler max cape (broken)",
+    "weight": 5.896
+  },
   "27363": {
     "name": "Masori assembler max cape",
+    "weight": 5.896,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -79703,6 +79728,7 @@
   },
   "27365": {
     "name": "Masori assembler max cape (l)",
+    "weight": 5.896,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -79943,5 +79969,54 @@
     "weight": 1.36,
     "equipable": true,
     "equipment": {}
+  },
+  "27428": {
+    "name": "Hood of ruin",
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27430": {
+    "name": "Robe top of ruin",
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27432": {
+    "name": "Robe bottom of ruin",
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27434": {
+    "name": "Gloves of ruin",
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "27436": {
+    "name": "Socks of ruin",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27438": {
+    "name": "Cloak of ruin",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27440": {
+    "name": "Infinite money bag",
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
   }
 }
