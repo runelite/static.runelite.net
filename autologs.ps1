@@ -1,35 +1,77 @@
-$CLIENT_PATH="$env:USERPROFILE/.runelite/logs/client.log"
-$LAUNCHER_PATH="$env:USERPROFILE/.runelite/logs/launcher.log"
-if (-not(Test-Path -Path "$CLIENT_PATH" -PathType Leaf)) {
-	Write-Host "client.log not found."
+$LOG_FOLDER="$env:USERPROFILE\.runelite\logs"
+if (-not(Test-Path -Path "$LOG_FOLDER" -PathType Container)) {
+	Write-Host "Logs folder not found, expected $LOG_FOLDER"
 	exit -1
 }
 
-if (-not(Test-Path -Path "$LAUNCHER_PATH" -PathType Leaf)) {
-	Write-Host "launcher.log not found"
+$CLIENT_PATH="$LOG_FOLDER\client.log"
+$LAUNCHER_PATH="$LOG_FOLDER\launcher.log"
+
+$CLIENT_LOG_FOUND=$(Test-Path -Path "$CLIENT_PATH" -PathType Leaf)
+$LAUNCHER_LOG_FOUND=$(Test-Path -Path "$LAUNCHER_PATH" -PathType Leaf)
+if ((-not($CLIENT_LOG_FOUND)) -and (-not($LAUNCHER_LOG_FOUND))) {
+	Write-Host "client.log and launcher.log not found in logs folder."
 	exit -1
+}
+
+$MESSAGE_CONTENT="New autologs!"
+$MESSAGE_FILES=@()
+
+if ($CLIENT_LOG_FOUND) {
+	$MESSAGE_FILES += $CLIENT_PATH
+} else {
+	$MESSAGE_CONTENT="$MESSAGE_CONTENT client.log not found"
+}
+
+if ($LAUNCHER_LOG_FOUND) {
+	$MESSAGE_FILES += $LAUNCHER_PATH
+} else {
+	$MESSAGE_CONTENT="$MESSAGE_CONTENT launcher.log not found"
+}
+
+$JVM_CRASH_FILES = Get-ChildItem -File -Path "$LOG_FOLDER" -Filter "jvm_*"
+$MAX_JVM_CRASH_FILES = 5
+$NUM_JVM_CRASH_FILES = 0
+$CUTOFF = (Get-Date).AddDays(-1)
+foreach ($crash in $JVM_CRASH_FILES) {
+	if ($NUM_JVM_CRASH_FILES -ge $MAX_JVM_CRASH_FILES) {
+		break
+	}
+	if (($crash.LastWriteTime) -gt $CUTOFF) {
+		$MESSAGE_FILES += $crash.FullName
+		$NUM_JVM_CRASH_FILES += 1
+	}
 }
 
 $FORM_BOUNDARY = [System.Guid]::NewGuid().ToString();
 $LF = "`r`n"
 
-$CLIENT_B = [System.IO.File]::ReadAllBytes($CLIENT_PATH)
-$CLIENT_S = [System.Text.Encoding]::GetEncoding("UTF-8").GetString($CLIENT_B)
-$LAUNCHER_B = [System.IO.File]::ReadAllBytes($LAUNCHER_PATH)
-$LAUNCHER_S = [System.Text.Encoding]::GetEncoding("UTF-8").GetString($LAUNCHER_B)
-
 $BODY = (
 	"--$FORM_BOUNDARY",
-	"Content-Disposition: form-data; name=`"file[0]`"; filename=`"client.log`"",
-	"Content-Type: application/octet-stream$LF",
-	$CLIENT_S,
-	"--$FORM_BOUNDARY",
-	"Content-Disposition: form-data; name=`"file[1]`"; filename=`"launcher.log`"",
-	"Content-Type: application/octet-stream$LF",
-	$LAUNCHER_S,
-	"--$FORM_BOUNDARY--$LF"
+	"Content-Disposition: form-data; name=`"content`"$LF",
+	$MESSAGE_CONTENT,
+	""
 ) -join $LF
-Write-Host "$BODY"
+
+$FILE_COUNT = 0
+foreach ($FILE in $MESSAGE_FILES) {
+	$BODY += (
+		"--$FORM_BOUNDARY",
+		"Content-Disposition: form-data; name=`"file[$FILE_COUNT]`"; filename=`"$((Get-Item $FILE).Name)`"",
+		"Content-Type: application/octet-stream$LF",
+		[System.Text.Encoding]::GetEncoding("UTF-8").GetString([System.IO.File]::ReadAllBytes($FILE)),
+		""
+	) -join $LF
+	$FILE_COUNT += 1
+}
+
+$BODY += "$LF--$FORM_BOUNDARY--$LF"
+Write-Host $BODY
+
+Write-Host "Uploading the following files:"
+foreach ($FILE in $MESSAGE_FILES) {
+	Write-Host $FILE
+}
 
 $WEBHOOK = "https://api.runelite.net/autologs"
-Invoke-RestMethod -Uri $WEBHOOK -Method Post -ContentType "multipart/form-data; boundary=`"$FORM_BOUNDARY`"" -Body $BODY
+Invoke-RestMethod -Uri $WEBHOOK -Method Post -ContentType "multipart/form-data; boundary=`"$FORM_BOUNDARY`"" -Body $BODY | Out-Null
