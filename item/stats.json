@@ -1722,22 +1722,6 @@
     "name": "Locating crystal",
     "weight": 0.907
   },
-  "612": {
-    "name": "Locating crystal",
-    "weight": 0.907
-  },
-  "613": {
-    "name": "Locating crystal",
-    "weight": 0.907
-  },
-  "614": {
-    "name": "Locating crystal",
-    "weight": 0.907
-  },
-  "615": {
-    "name": "Locating crystal",
-    "weight": 0.907
-  },
   "616": {
     "name": "Beads of the dead",
     "weight": 0.01,
@@ -2066,10 +2050,6 @@
     "name": "Panning tray",
     "weight": 0.085
   },
-  "678": {
-    "name": "Panning tray",
-    "weight": 0.141
-  },
   "679": {
     "name": "Panning tray",
     "weight": 0.17
@@ -2287,11 +2267,6 @@
   "739": {
     "name": "Bravery potion",
     "weight": 0.025
-  },
-  "740": {
-    "name": "Blue hat",
-    "weight": 0.453,
-    "ge_limit": 150
   },
   "741": {
     "name": "Chunk of crystal",
@@ -2575,6 +2550,18 @@
     "name": "War ship",
     "weight": 0.4
   },
+  "796": {
+    "name": "Exploding vial",
+    "weight": 0.025
+  },
+  "797": {
+    "name": "Herb bowl",
+    "weight": 0.453
+  },
+  "798": {
+    "name": "Grinder",
+    "weight": 0.453
+  },
   "800": {
     "name": "Bronze thrownaxe",
     "equipable": true,
@@ -2760,14 +2747,6 @@
       "aspeed": 3
     },
     "ge_limit": 11000
-  },
-  "818": {
-    "name": "Poisoned dart(p)",
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 3
-    }
   },
   "819": {
     "name": "Bronze dart tip",
@@ -3371,10 +3350,6 @@
       "rstr": 7
     }
   },
-  "943": {
-    "name": "Worm",
-    "weight": 0.003
-  },
   "945": {
     "name": "Throwing rope",
     "weight": 0.907
@@ -3440,10 +3415,6 @@
     "weight": 0.02,
     "ge_limit": 13000
   },
-  "972": {
-    "name": "Papyrus",
-    "ge_limit": 13000
-  },
   "973": {
     "name": "Charcoal",
     "weight": 0.005,
@@ -3461,10 +3432,6 @@
       "aspeed": 5
     },
     "ge_limit": 15
-  },
-  "977": {
-    "name": "Cooking pot",
-    "weight": 0.001
   },
   "981": {
     "name": "Disk of returning",
@@ -5142,15 +5109,6 @@
     },
     "ge_limit": 125
   },
-  "1235": {
-    "name": "Poisoned dagger(p)",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 4
-    }
-  },
   "1237": {
     "name": "Bronze spear",
     "weight": 2.267,
@@ -6597,22 +6555,6 @@
       "aspeed": 5
     }
   },
-  "1411": {
-    "name": "Farmer's fork",
-    "weight": 2.267
-  },
-  "1413": {
-    "name": "Halberd",
-    "weight": 4.535
-  },
-  "1415": {
-    "name": "Warhammer",
-    "weight": 1.814
-  },
-  "1417": {
-    "name": "Javelin",
-    "weight": 1.36
-  },
   "1419": {
     "name": "Scythe",
     "weight": 3.175,
@@ -6815,11 +6757,6 @@
   "1464": {
     "name": "Archery ticket",
     "ge_limit": 18000
-  },
-  "1465": {
-    "name": "Weapon poison",
-    "weight": 0.02,
-    "ge_limit": 2000
   },
   "1466": {
     "name": "Sea slug",
@@ -8252,10 +8189,6 @@
     "weight": 0.1,
     "ge_limit": 11000
   },
-  "1867": {
-    "name": "Burnt pitta bread",
-    "weight": 0.08
-  },
   "1869": {
     "name": "Chopped tomato",
     "weight": 0.2,
@@ -8927,11 +8860,6 @@
     "name": "Raw crunchies",
     "weight": 0.4
   },
-  "2203": {
-    "name": "Rock-climbing boots",
-    "weight": 0.3,
-    "ge_limit": 0
-  },
   "2205": {
     "name": "Worm crunchies",
     "weight": 0.25,
@@ -9550,11 +9478,6 @@
     "name": "Wig",
     "weight": 0.01
   },
-  "2422": {
-    "name": "Blue partyhat",
-    "weight": 0.056,
-    "ge_limit": 5
-  },
   "2423": {
     "name": "Key print",
     "weight": 0.01
@@ -9949,11 +9872,6 @@
     "weight": 1.36,
     "ge_limit": 15000
   },
-  "2513": {
-    "name": "Dragon chainbody",
-    "weight": 6.803,
-    "ge_limit": 70
-  },
   "2514": {
     "name": "Raw shrimps",
     "weight": 0.12,
@@ -9991,10 +9909,6 @@
   "2528": {
     "name": "Lamp",
     "weight": 0.1
-  },
-  "2529": {
-    "name": "Dead orb",
-    "weight": 5.0
   },
   "2530": {
     "name": "Bones",
@@ -11268,10 +11182,6 @@
     "weight": 0.02
   },
   "2827": {
-    "name": "Clue scroll (medium)",
-    "weight": 0.02
-  },
-  "2829": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
@@ -13033,22 +12943,6 @@
     "name": "Big book of bangs",
     "weight": 0.226
   },
-  "3231": {
-    "name": "Symbol",
-    "weight": 0.001
-  },
-  "3233": {
-    "name": "Symbol",
-    "weight": 0.001
-  },
-  "3235": {
-    "name": "Symbol",
-    "weight": 0.001
-  },
-  "3237": {
-    "name": "Symbol",
-    "weight": 0.001
-  },
   "3239": {
     "name": "Bark",
     "weight": 1.0,
@@ -14041,10 +13935,6 @@
     "weight": 0.02
   },
   "3548": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "3550": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
@@ -15075,6 +14965,10 @@
       "slot": 2
     }
   },
+  "3893": {
+    "name": "Stool",
+    "weight": 5.0
+  },
   "3894": {
     "name": "Awful anthem",
     "weight": 0.005
@@ -15141,10 +15035,6 @@
     "name": "Eye of gnome",
     "weight": 0.007
   },
-  "4010": {
-    "name": "Monkey magic",
-    "weight": 0.007
-  },
   "4012": {
     "name": "Monkey nuts",
     "weight": 0.007,
@@ -15159,10 +15049,6 @@
     "name": "Banana stew",
     "weight": 0.25,
     "ge_limit": 6000
-  },
-  "4018": {
-    "name": "Monkey wrench",
-    "weight": 9.525
   },
   "4020": {
     "name": "M'amulet mould",
@@ -15881,29 +15767,15 @@
     },
     "ge_limit": 70
   },
-  "4178": {
-    "name": "Abyssal whip",
-    "weight": 0.453,
-    "ge_limit": 70
-  },
   "4179": {
     "name": "Stick",
     "weight": 0.01
-  },
-  "4180": {
-    "name": "Dragon platelegs",
-    "weight": 6.803,
-    "ge_limit": 70
   },
   "4181": {
     "name": "Mouth grip",
     "weight": 0.001,
     "equipable": true,
     "equipment": {}
-  },
-  "4182": {
-    "name": "Goutweed",
-    "weight": 0.007
   },
   "4183": {
     "name": "Star amulet",
@@ -15989,10 +15861,6 @@
       "slot": 12
     }
   },
-  "4203": {
-    "name": "Journal",
-    "weight": 0.01
-  },
   "4204": {
     "name": "Letter",
     "weight": 0.001
@@ -16028,10 +15896,6 @@
   "4237": {
     "name": "Nettle-water",
     "weight": 0.907
-  },
-  "4238": {
-    "name": "Puddle of slime",
-    "weight": 0.453
   },
   "4239": {
     "name": "Nettle tea",
@@ -17134,6 +16998,7 @@
   },
   "4498": {
     "name": "Rope",
+    "weight": 0.005,
     "ge_limit": 250
   },
   "4500": {
@@ -17451,35 +17316,6 @@
     },
     "ge_limit": 125
   },
-  "4558": {
-    "name": "Blue sweets",
-    "weight": 0.01
-  },
-  "4559": {
-    "name": "Deep blue sweets",
-    "weight": 0.01
-  },
-  "4560": {
-    "name": "White sweets",
-    "weight": 0.01
-  },
-  "4561": {
-    "name": "Purple sweets",
-    "weight": 0.01,
-    "ge_limit": 10000
-  },
-  "4562": {
-    "name": "Red sweets",
-    "weight": 0.01
-  },
-  "4563": {
-    "name": "Green sweets",
-    "weight": 0.01
-  },
-  "4564": {
-    "name": "Pink sweets",
-    "weight": 0.01
-  },
   "4565": {
     "name": "Easter basket",
     "weight": 0.1,
@@ -17531,10 +17367,6 @@
   },
   "4571": {
     "name": "Book page 3",
-    "weight": 0.002
-  },
-  "4572": {
-    "name": "Pages",
     "weight": 0.002
   },
   "4573": {
@@ -17664,11 +17496,6 @@
     "weight": 0.03,
     "ge_limit": 15
   },
-  "4595": {
-    "name": "Karidian disguise",
-    "weight": 0.1,
-    "ge_limit": 15
-  },
   "4597": {
     "name": "Note",
     "weight": 0.02
@@ -17699,10 +17526,6 @@
     "ge_limit": 125
   },
   "4601": {
-    "name": "Ugthanki dung",
-    "weight": 0.4
-  },
-  "4602": {
     "name": "Ugthanki dung",
     "weight": 0.4
   },
@@ -17791,10 +17614,6 @@
     "name": "Bandit's brew",
     "weight": 0.55,
     "ge_limit": 2000
-  },
-  "4653": {
-    "name": "Fire",
-    "weight": 0.028
   },
   "4654": {
     "name": "Etchings",
@@ -17957,11 +17776,6 @@
   "4691": {
     "name": "Sphinx's token",
     "weight": 0.8
-  },
-  "4692": {
-    "name": "Gold leaf",
-    "weight": 0.02,
-    "ge_limit": 11000
   },
   "4693": {
     "name": "Bucket of saltwater",
@@ -18580,11 +18394,6 @@
   "4837": {
     "name": "Necromancy book",
     "weight": 1.0
-  },
-  "4838": {
-    "name": "Cup of tea",
-    "weight": 0.15,
-    "ge_limit": 2000
   },
   "4839": {
     "name": "Ogre gate key",
@@ -20555,10 +20364,6 @@
     },
     "ge_limit": 150
   },
-  "5054": {
-    "name": "Dwarf",
-    "weight": 10.0
-  },
   "5056": {
     "name": "Dwarven battleaxe",
     "weight": 2.0
@@ -20616,10 +20421,6 @@
     "weight": 0.002
   },
   "5072": {
-    "name": "Bird nest",
-    "weight": 0.002
-  },
-  "5073": {
     "name": "Bird nest",
     "weight": 0.002
   },
@@ -21615,30 +21416,6 @@
     "name": "Mystic jewel",
     "weight": 0.002
   },
-  "5562": {
-    "name": "Gear",
-    "weight": 0.453
-  },
-  "5563": {
-    "name": "Gear",
-    "weight": 0.453
-  },
-  "5564": {
-    "name": "Gear",
-    "weight": 0.453
-  },
-  "5565": {
-    "name": "Gear",
-    "weight": 0.453
-  },
-  "5566": {
-    "name": "Gear",
-    "weight": 0.453
-  },
-  "5567": {
-    "name": "Gear",
-    "weight": 0.453
-  },
   "5568": {
     "name": "Tile",
     "weight": 0.453
@@ -22506,15 +22283,6 @@
     },
     "ge_limit": 125
   },
-  "5684": {
-    "name": "Poison dagger(p+)",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 4
-    }
-  },
   "5686": {
     "name": "Iron dagger(p++)",
     "weight": 0.453,
@@ -22642,15 +22410,6 @@
       "aspeed": 4
     },
     "ge_limit": 125
-  },
-  "5702": {
-    "name": "Poison dagger(p++)",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 4
-    }
   },
   "5704": {
     "name": "Bronze spear(p+)",
@@ -23667,10 +23426,6 @@
     "weight": 0.001,
     "ge_limit": 11000
   },
-  "6053": {
-    "name": "Spirit roots",
-    "weight": 0.001
-  },
   "6055": {
     "name": "Weeds",
     "weight": 0.007,
@@ -23798,10 +23553,6 @@
   },
   "6083": {
     "name": "Tarnished key",
-    "weight": 0.01
-  },
-  "6084": {
-    "name": "Worn key",
     "weight": 0.01
   },
   "6085": {
@@ -25707,27 +25458,27 @@
   },
   "6549": {
     "name": "Lazy cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6550": {
     "name": "Lazy cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6551": {
     "name": "Lazy cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6552": {
     "name": "Lazy cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6553": {
     "name": "Lazy cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6554": {
     "name": "Lazy cat",
-    "weight": 0.015
+    "weight": 0.75
   },
   "6555": {
     "name": "Wily cat",
@@ -25752,10 +25503,6 @@
   "6560": {
     "name": "Wily cat",
     "weight": 0.75
-  },
-  "6561": {
-    "name": "Ahab's beer",
-    "weight": 0.55
   },
   "6562": {
     "name": "Mud battlestaff",
@@ -26317,16 +26064,8 @@
     "name": "Hand mirror",
     "weight": 0.01
   },
-  "6640": {
-    "name": "Red crystal",
-    "weight": 0.015
-  },
   "6641": {
     "name": "Yellow crystal",
-    "weight": 0.015
-  },
-  "6642": {
-    "name": "Green crystal",
     "weight": 0.015
   },
   "6643": {
@@ -26335,10 +26074,6 @@
   },
   "6644": {
     "name": "Blue crystal",
-    "weight": 0.015
-  },
-  "6645": {
-    "name": "Magenta crystal",
     "weight": 0.015
   },
   "6646": {
@@ -26441,15 +26176,15 @@
   },
   "6670": {
     "name": "Fishbowl",
-    "weight": 0.015
+    "weight": 2.267
   },
   "6671": {
     "name": "Fishbowl",
-    "weight": 0.015
+    "weight": 2.267
   },
   "6672": {
     "name": "Fishbowl",
-    "weight": 0.015
+    "weight": 2.267
   },
   "6673": {
     "name": "Fishbowl and net",
@@ -26562,10 +26297,6 @@
     "name": "Karamthulhu",
     "weight": 0.001
   },
-  "6717": {
-    "name": "Karamthulhu",
-    "weight": 0.001
-  },
   "6718": {
     "name": "Fever spider body",
     "weight": 0.8
@@ -26591,7 +26322,7 @@
   },
   "6722": {
     "name": "Zombie head",
-    "weight": 2.721
+    "weight": 1.0
   },
   "6724": {
     "name": "Seercull",
@@ -27005,10 +26736,6 @@
     "weight": 0.001,
     "ge_limit": 6000
   },
-  "6796": {
-    "name": "Lamp",
-    "weight": 0.1
-  },
   "6798": {
     "name": "Earth warrior champion scroll",
     "weight": 0.001
@@ -27047,10 +26774,6 @@
   },
   "6807": {
     "name": "Zombie champion scroll",
-    "weight": 0.001
-  },
-  "6808": {
-    "name": "Leon's champion scroll",
     "weight": 0.001
   },
   "6809": {
@@ -27094,10 +26817,6 @@
   "6819": {
     "name": "Large pouch",
     "weight": 1.0
-  },
-  "6820": {
-    "name": "Relic",
-    "weight": 0.001
   },
   "6821": {
     "name": "Orb",
@@ -27477,10 +27196,6 @@
     "name": "Roll",
     "weight": 0.02
   },
-  "6964": {
-    "name": "Coins",
-    "weight": 9.071
-  },
   "6965": {
     "name": "Square sandwich",
     "weight": 0.02
@@ -27488,16 +27203,6 @@
   "6966": {
     "name": "Prison key",
     "weight": 0.01
-  },
-  "6967": {
-    "name": "Dragon med helm",
-    "weight": 1.36,
-    "ge_limit": 8
-  },
-  "6969": {
-    "name": "Shark",
-    "weight": 0.65,
-    "ge_limit": 10000
   },
   "6970": {
     "name": "Pyramid top",
@@ -27944,10 +27649,6 @@
     "name": "Broken cannon",
     "weight": 32.0
   },
-  "7147": {
-    "name": "Cannon balls",
-    "weight": 0.005
-  },
   "7148": {
     "name": "Repair plank",
     "weight": 0.005
@@ -27955,16 +27656,6 @@
   "7149": {
     "name": "Canister",
     "weight": 0.005
-  },
-  "7155": {
-    "name": "Rope",
-    "weight": 1.36,
-    "ge_limit": 250
-  },
-  "7156": {
-    "name": "Tinderbox",
-    "weight": 0.035,
-    "ge_limit": 40
   },
   "7157": {
     "name": "Braindeath 'rum'",
@@ -28159,15 +27850,6 @@
     "weight": 1.5,
     "ge_limit": 11000
   },
-  "7226": {
-    "name": "Burnt chompy",
-    "weight": 1.0
-  },
-  "7228": {
-    "name": "Cooked chompy",
-    "weight": 1.0,
-    "ge_limit": 100
-  },
   "7230": {
     "name": "Skewered chompy",
     "weight": 2.5
@@ -28225,6 +27907,10 @@
     "weight": 0.02
   },
   "7254": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7255": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
@@ -29032,10 +28718,6 @@
     "name": "Symptoms list",
     "weight": 0.01
   },
-  "7413": {
-    "name": "Bird nest",
-    "weight": 0.002
-  },
   "7414": {
     "name": "Paddle",
     "weight": 0.02,
@@ -29447,11 +29129,6 @@
       "str": 12
     }
   },
-  "7463": {
-    "name": "Cornflour",
-    "weight": 0.5,
-    "ge_limit": 15
-  },
   "7464": {
     "name": "Book on chickens",
     "weight": 0.07
@@ -29459,11 +29136,6 @@
   "7465": {
     "name": "Vanilla pod",
     "weight": 0.003
-  },
-  "7466": {
-    "name": "Cornflour",
-    "weight": 0.003,
-    "ge_limit": 15
   },
   "7468": {
     "name": "Pot of cornflour",
@@ -30425,11 +30097,6 @@
     "weight": 0.55,
     "ge_limit": 2000
   },
-  "7750": {
-    "name": "Moonlight mead",
-    "weight": 0.55,
-    "ge_limit": 2000
-  },
   "7752": {
     "name": "Cider",
     "weight": 0.55,
@@ -30439,6 +30106,10 @@
     "name": "Chef's delight",
     "weight": 0.55,
     "ge_limit": 2000
+  },
+  "7758": {
+    "name": "Rusty sword",
+    "weight": 2.267
   },
   "7759": {
     "name": "Toy soldier",
@@ -30586,18 +30257,6 @@
     "equipable": true,
     "equipment": {
       "slot": 2
-    }
-  },
-  "7804": {
-    "name": "Ancient mjolnir",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "acrush": 11,
-      "str": 14,
-      "aspeed": 6
     }
   },
   "7806": {
@@ -31191,10 +30850,6 @@
     "weight": 5.0,
     "ge_limit": 50
   },
-  "7957": {
-    "name": "White apron",
-    "ge_limit": 150
-  },
   "7958": {
     "name": "Mining prop",
     "weight": 0.01
@@ -31258,10 +30913,6 @@
   "7973": {
     "name": "Beam",
     "weight": 0.01
-  },
-  "7974": {
-    "name": "Servant bell",
-    "weight": 0.028
   },
   "7975": {
     "name": "Crawling hand",
@@ -31905,34 +31556,6 @@
     "weight": 1.0,
     "ge_limit": 500
   },
-  "8534": {
-    "name": "Oak lectern",
-    "weight": 1.0
-  },
-  "8536": {
-    "name": "Eagle lectern",
-    "weight": 1.0
-  },
-  "8538": {
-    "name": "Demon lectern",
-    "weight": 1.0
-  },
-  "8540": {
-    "name": "Teak eagle lectern",
-    "weight": 1.0
-  },
-  "8542": {
-    "name": "Teak demon lectern",
-    "weight": 1.0
-  },
-  "8544": {
-    "name": "Mahogany eagle",
-    "weight": 1.0
-  },
-  "8546": {
-    "name": "Mahogany demon",
-    "weight": 1.0
-  },
   "8548": {
     "name": "Wood dining table",
     "weight": 1.0,
@@ -32122,61 +31745,6 @@
     "name": "Gilded wardrobe",
     "weight": 1.0,
     "ge_limit": 500
-  },
-  "8624": {
-    "name": "Crystal ball",
-    "weight": 1.0,
-    "ge_limit": 500
-  },
-  "8626": {
-    "name": "Elemental sphere",
-    "weight": 1.0,
-    "ge_limit": 500
-  },
-  "8628": {
-    "name": "Crystal of power",
-    "weight": 1.0,
-    "ge_limit": 500
-  },
-  "8630": {
-    "name": "Globe",
-    "weight": 1.0
-  },
-  "8632": {
-    "name": "Ornamental globe",
-    "weight": 1.0
-  },
-  "8634": {
-    "name": "Lunar globe",
-    "weight": 1.0
-  },
-  "8636": {
-    "name": "Celestial globe",
-    "weight": 1.0
-  },
-  "8638": {
-    "name": "Armillary sphere",
-    "weight": 1.0
-  },
-  "8640": {
-    "name": "Small orrery",
-    "weight": 1.0
-  },
-  "8642": {
-    "name": "Large orrery",
-    "weight": 1.0
-  },
-  "8644": {
-    "name": "Oak telescope",
-    "weight": 1.0
-  },
-  "8646": {
-    "name": "Teak telescope",
-    "weight": 1.0
-  },
-  "8648": {
-    "name": "Mahogany telescope",
-    "weight": 1.0
   },
   "8650": {
     "name": "Banner",
@@ -33332,14 +32900,6 @@
     "name": "Shot",
     "weight": 0.453
   },
-  "8858": {
-    "name": "18lb shot",
-    "weight": 8.164
-  },
-  "8859": {
-    "name": "22lb shot",
-    "weight": 9.979
-  },
   "8860": {
     "name": "One barrel",
     "weight": 4.535,
@@ -33496,18 +33056,6 @@
       "rstr": 49
     },
     "ge_limit": 11000
-  },
-  "8887": {
-    "name": "Zanik",
-    "weight": 0.001
-  },
-  "8888": {
-    "name": "Zanik (ham)",
-    "weight": 0.001
-  },
-  "8889": {
-    "name": "Zanik (showdown)",
-    "weight": 0.001
   },
   "8901": {
     "name": "Black mask (10)",
@@ -34024,10 +33572,6 @@
     "name": "Brewin' guide",
     "weight": 0.001
   },
-  "8990": {
-    "name": "Brewin' guide",
-    "weight": 0.001
-  },
   "8991": {
     "name": "Blue navy slacks",
     "weight": 0.003,
@@ -34246,22 +33790,6 @@
     "weight": 0.01,
     "ge_limit": 13000
   },
-  "9044": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
-  "9046": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
-  "9048": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
-  "9050": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
   "9052": {
     "name": "Locust meat",
     "weight": 0.003,
@@ -34437,7 +33965,7 @@
   },
   "9075": {
     "name": "Astral rune",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "9076": {
     "name": "Lunar ore",
@@ -34685,14 +34213,6 @@
       "slot": 12,
       "amagic": 2,
       "dmagic": 2
-    }
-  },
-  "9106": {
-    "name": "Astral tiara",
-    "weight": 1.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 0
     }
   },
   "9139": {
@@ -35575,10 +35095,6 @@
     "name": "Dossier",
     "weight": 0.003
   },
-  "9591": {
-    "name": "Broken cauldron",
-    "weight": 0.003
-  },
   "9592": {
     "name": "Magic glue",
     "weight": 2.5
@@ -35590,10 +35106,6 @@
   "9594": {
     "name": "Ground mud runes",
     "weight": 0.15
-  },
-  "9595": {
-    "name": "Hazelmere's book",
-    "weight": 0.51
   },
   "9625": {
     "name": "Crystal saw",
@@ -35748,16 +35260,6 @@
   "9658": {
     "name": "Tome of experience (1)",
     "weight": 1.0
-  },
-  "9659": {
-    "name": "Bucket of water",
-    "weight": 3.0,
-    "ge_limit": 13000
-  },
-  "9660": {
-    "name": "Bucket",
-    "weight": 1.0,
-    "ge_limit": 13000
   },
   "9665": {
     "name": "Torch",
@@ -35987,10 +35489,6 @@
   "9715": {
     "name": "Slashed book",
     "weight": 0.113
-  },
-  "9716": {
-    "name": "Rock",
-    "weight": 0.001
   },
   "9717": {
     "name": "Beaten book",
@@ -37028,10 +36526,6 @@
     "name": "Farming manual",
     "weight": 0.5
   },
-  "9904": {
-    "name": "Sailing book",
-    "weight": 0.001
-  },
   "9920": {
     "name": "Jack lantern mask",
     "weight": 0.003,
@@ -37613,7 +37107,7 @@
   },
   "10071": {
     "name": "Spottier cape",
-    "weight": 0.435,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -39991,10 +39485,6 @@
     "name": "Queen help book",
     "weight": 0.02
   },
-  "10563": {
-    "name": "No eggs",
-    "weight": 0.02
-  },
   "10564": {
     "name": "Granite body",
     "weight": 22.679,
@@ -40010,6 +39500,10 @@
       "drange": 97
     },
     "ge_limit": 70
+  },
+  "10566": {
+    "name": "Fire cape",
+    "weight": 1.814
   },
   "10567": {
     "name": "Healer icon",
@@ -40263,10 +39757,6 @@
     },
     "ge_limit": 70
   },
-  "10829": {
-    "name": "Documents",
-    "weight": 0.453
-  },
   "10830": {
     "name": "Royal decree",
     "weight": 0.453
@@ -40286,10 +39776,6 @@
   "10834": {
     "name": "Hefty tax bag",
     "weight": 5.443
-  },
-  "10835": {
-    "name": "Bulging taxbag",
-    "weight": 7.257
   },
   "10836": {
     "name": "Silly jester hat",
@@ -41040,18 +40526,9 @@
     "name": "Key",
     "weight": 0.001
   },
-  "11044": {
-    "name": "Rotten barrel",
-    "weight": 0.001
-  },
   "11045": {
     "name": "Rotten barrel",
     "weight": 0.001
-  },
-  "11046": {
-    "name": "Rope",
-    "weight": 0.001,
-    "ge_limit": 250
   },
   "11048": {
     "name": "Armour shard",
@@ -41115,10 +40592,6 @@
       "aspeed": 5
     },
     "ge_limit": 8
-  },
-  "11062": {
-    "name": "Zanik (slice)",
-    "weight": 0.001
   },
   "11065": {
     "name": "Bracelet mould",
@@ -41563,26 +41036,6 @@
   "11159": {
     "name": "Hunter kit",
     "weight": 0.4
-  },
-  "11164": {
-    "name": "Restored shield",
-    "weight": 5.443
-  },
-  "11165": {
-    "name": "Phoenix crossbow",
-    "weight": 3.628,
-    "equipable": true,
-    "equipment": {}
-  },
-  "11167": {
-    "name": "Phoenix crossbow",
-    "weight": 3.628,
-    "equipable": true,
-    "equipment": {}
-  },
-  "11169": {
-    "name": "Newspaper",
-    "weight": 0.02
   },
   "11171": {
     "name": "Newspaper",
@@ -42708,14 +42161,6 @@
     },
     "ge_limit": 70
   },
-  "11427": {
-    "name": "Fish vial",
-    "weight": 0.003
-  },
-  "11428": {
-    "name": "Fish vial",
-    "weight": 0.003
-  },
   "11429": {
     "name": "Attack mix(2)",
     "weight": 0.075,
@@ -42956,10 +42401,6 @@
     "weight": 0.045,
     "ge_limit": 2000
   },
-  "11525": {
-    "name": "Feather",
-    "ge_limit": 30000
-  },
   "11640": {
     "name": "Book of knowledge",
     "weight": 1.0
@@ -43155,41 +42596,17 @@
     "name": "Mind rune",
     "ge_limit": 18000
   },
-  "11691": {
-    "name": "Body rune",
-    "ge_limit": 18000
-  },
   "11692": {
     "name": "Death rune",
     "ge_limit": 25000
-  },
-  "11693": {
-    "name": "Nature rune",
-    "ge_limit": 18000
   },
   "11694": {
     "name": "Chaos rune",
     "ge_limit": 18000
   },
-  "11695": {
-    "name": "Law rune",
-    "ge_limit": 18000
-  },
-  "11696": {
-    "name": "Cosmic rune",
-    "ge_limit": 18000
-  },
   "11697": {
     "name": "Blood rune",
     "ge_limit": 25000
-  },
-  "11698": {
-    "name": "Soul rune",
-    "ge_limit": 25000
-  },
-  "11699": {
-    "name": "Astral rune",
-    "ge_limit": 10000
   },
   "11704": {
     "name": "Raw pheasant",
@@ -43933,10 +43350,6 @@
       "slot": 0
     }
   },
-  "11848": {
-    "name": "Rancid turkey",
-    "weight": 0.17
-  },
   "11850": {
     "name": "Graceful hood",
     "weight": 0.6,
@@ -44409,6 +43822,10 @@
     "name": "Slice of birthday cake",
     "weight": 0.1
   },
+  "11918": {
+    "name": "Birthday present",
+    "weight": 0.1
+  },
   "11919": {
     "name": "Cow mask",
     "weight": 0.09,
@@ -44778,6 +44195,10 @@
     "name": "Holiday tool",
     "weight": 0.001
   },
+  "11997": {
+    "name": "Easter",
+    "weight": 0.453
+  },
   "11998": {
     "name": "Smoke battlestaff",
     "weight": 2.267,
@@ -44850,10 +44271,6 @@
     "ge_limit": 4
   },
   "12009": {
-    "name": "Soft clay pack",
-    "weight": 4.535
-  },
-  "12010": {
     "name": "Soft clay pack",
     "weight": 4.535
   },
@@ -48549,10 +47966,6 @@
     "name": "Nest box (empty)",
     "weight": 1.6
   },
-  "12793": {
-    "name": "Nest box (seeds)",
-    "weight": 1.6
-  },
   "12794": {
     "name": "Nest box (ring)",
     "weight": 1.6
@@ -48885,7 +48298,7 @@
   },
   "12835": {
     "name": "Community pumpkin",
-    "weight": 0.04
+    "weight": 20.0
   },
   "12845": {
     "name": "Grim reaper hood",
@@ -49344,6 +48757,10 @@
       "str": 6
     }
   },
+  "12955": {
+    "name": "Free to play starter pack",
+    "weight": 0.001
+  },
   "12956": {
     "name": "Cow top",
     "weight": 1.0,
@@ -49713,26 +49130,6 @@
       "drange": 30,
       "prayer": 3
     }
-  },
-  "13074": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
-  "13075": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
-  "13076": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
-  "13077": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
-  },
-  "13078": {
-    "name": "Pharaoh's sceptre",
-    "weight": 2.0
   },
   "13079": {
     "name": "Enchanted lyre(5)",
@@ -50423,7 +49820,7 @@
   },
   "13188": {
     "name": "Diango's claws",
-    "weight": 2.0
+    "weight": 1.0
   },
   "13190": {
     "name": "Old school bond",
@@ -50526,6 +49923,10 @@
     "equipment": {
       "slot": 0
     }
+  },
+  "13205": {
+    "name": "Rotten egg",
+    "weight": 1.814
   },
   "13215": {
     "name": "Tiger toy",
@@ -50719,10 +50120,6 @@
   "13247": {
     "name": "Hellpuppy",
     "weight": 0.015
-  },
-  "13248": {
-    "name": "Key master's key",
-    "weight": 0.01
   },
   "13250": {
     "name": "Plant pot pack",
@@ -52886,14 +52283,6 @@
     },
     "ge_limit": 8
   },
-  "13653": {
-    "name": "Bird nest",
-    "weight": 0.002
-  },
-  "13654": {
-    "name": "Nest box (seeds)",
-    "weight": 1.6
-  },
   "13655": {
     "name": "Gnome child hat",
     "weight": 0.113,
@@ -53314,10 +52703,6 @@
       "slot": 1
     }
   },
-  "19558": {
-    "name": "Nieve",
-    "weight": 0.001
-  },
   "19559": {
     "name": "Elysian spirit shield",
     "weight": 0.2,
@@ -53337,10 +52722,6 @@
   },
   "19566": {
     "name": "Bronze key",
-    "weight": 0.01
-  },
-  "19567": {
-    "name": "Combat scarred key",
     "weight": 0.01
   },
   "19568": {
@@ -56296,46 +55677,6 @@
     },
     "ge_limit": 200
   },
-  "20582": {
-    "name": "Adamant gloves",
-    "weight": 0.226,
-    "equipable": true,
-    "equipment": {
-      "slot": 9,
-      "astab": 7,
-      "aslash": 7,
-      "acrush": 7,
-      "amagic": 4,
-      "arange": 7,
-      "dstab": 7,
-      "dslash": 7,
-      "dcrush": 7,
-      "dmagic": 4,
-      "drange": 7,
-      "str": 7
-    }
-  },
-  "20585": {
-    "name": "Amulet of power",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {
-      "slot": 2,
-      "astab": 6,
-      "aslash": 6,
-      "acrush": 6,
-      "amagic": 6,
-      "arange": 6,
-      "dstab": 6,
-      "dslash": 6,
-      "dcrush": 6,
-      "dmagic": 6,
-      "drange": 6,
-      "str": 6,
-      "prayer": 1
-    },
-    "ge_limit": 125
-  },
   "20586": {
     "name": "Amulet of glory",
     "weight": 0.01,
@@ -57879,11 +57220,6 @@
       "aspeed": 4
     }
   },
-  "21060": {
-    "name": "Bandos godsword",
-    "weight": 10.0,
-    "ge_limit": 8
-  },
   "21061": {
     "name": "Graceful hood",
     "weight": 0.6,
@@ -58312,6 +57648,10 @@
     },
     "ge_limit": 10000
   },
+  "21186": {
+    "name": "Fire max cape",
+    "weight": 0.453
+  },
   "21187": {
     "name": "Rock golem",
     "weight": 0.015
@@ -58440,6 +57780,14 @@
       "slot": 0
     }
   },
+  "21253": {
+    "name": "Farmer's strawhat",
+    "weight": 0.907
+  },
+  "21254": {
+    "name": "Farmer's strawhat",
+    "weight": 0.907
+  },
   "21255": {
     "name": "Slayer's staff (e)",
     "weight": 1.95,
@@ -58563,6 +57911,10 @@
       "slot": 0
     }
   },
+  "21284": {
+    "name": "Infernal max cape",
+    "weight": 0.453
+  },
   "21285": {
     "name": "Infernal max cape",
     "weight": 0.453,
@@ -58619,6 +57971,10 @@
       "prayer": 2
     }
   },
+  "21297": {
+    "name": "Infernal cape",
+    "weight": 1.814
+  },
   "21298": {
     "name": "Obsidian helmet",
     "weight": 3.628,
@@ -58666,6 +58022,10 @@
   "21307": {
     "name": "Rogue's equipment crate",
     "weight": 0.453
+  },
+  "21313": {
+    "name": "Purple rainbow strand",
+    "weight": 0.01
   },
   "21314": {
     "name": "Rainbow scarf",
@@ -59052,10 +58412,6 @@
     "name": "Teak bird house",
     "weight": 0.453,
     "ge_limit": 250
-  },
-  "21524": {
-    "name": "Clue scroll (elite)",
-    "weight": 0.02
   },
   "21525": {
     "name": "Clue scroll (elite)",
@@ -60570,10 +59926,6 @@
     "name": "Dragon key piece",
     "weight": 0.001
   },
-  "22092": {
-    "name": "Dragon key",
-    "weight": 0.001
-  },
   "22093": {
     "name": "Ancient key",
     "weight": 0.001
@@ -61177,6 +60529,10 @@
       "drange": 19
     }
   },
+  "22191": {
+    "name": "Useful rock",
+    "weight": 1.36
+  },
   "22192": {
     "name": "Maple bird house",
     "weight": 0.453,
@@ -61713,6 +61069,10 @@
     "name": "Champion's lamp",
     "weight": 0.18
   },
+  "22321": {
+    "name": "Rotten cabbage",
+    "weight": 1.814
+  },
   "22322": {
     "name": "Avernic defender",
     "weight": 0.453,
@@ -62002,10 +61362,6 @@
     "name": "Shayzien favour certificate",
     "weight": 0.01
   },
-  "22366": {
-    "name": "Cyan crystal",
-    "weight": 0.001
-  },
   "22367": {
     "name": "Kourend favour certificate",
     "weight": 0.01
@@ -62260,6 +61616,10 @@
       "aspeed": 5
     }
   },
+  "22437": {
+    "name": "Rotten carrot",
+    "weight": 1.814
+  },
   "22438": {
     "name": "Justiciar armour set",
     "weight": 0.05,
@@ -62444,15 +61804,9 @@
       "aspeed": 4
     }
   },
-  "22519": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
-  },
-  "22520": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
+  "22541": {
+    "name": "Rotten strawberry",
+    "weight": 1.814
   },
   "22542": {
     "name": "Viggora's chainmace (u)",
@@ -62880,17 +62234,20 @@
   },
   "22664": {
     "name": "Scythe of vitur",
+    "weight": 3.175,
     "equipable": true,
     "equipment": {}
   },
   "22665": {
     "name": "Armadyl godsword",
+    "weight": 10.0,
     "equipable": true,
     "equipment": {},
     "ge_limit": 8
   },
   "22666": {
     "name": "Rubber chicken",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {}
   },
@@ -63252,10 +62609,6 @@
   "22777": {
     "name": "Arceuus favour certificate",
     "weight": 0.01
-  },
-  "22778": {
-    "name": "Dark altar",
-    "weight": 0.001
   },
   "22780": {
     "name": "Wyrm bones",
@@ -63883,7 +63236,7 @@
   },
   "23069": {
     "name": "Mysterious orb",
-    "weight": 0.001
+    "weight": 0.02
   },
   "23070": {
     "name": "Treasure scroll",
@@ -65099,7 +64452,7 @@
       "dmagic": -6,
       "drange": 40
     },
-    "ge_limit": 70
+    "ge_limit": 8
   },
   "23369": {
     "name": "Black platebody (h2)",
@@ -65115,7 +64468,7 @@
       "dmagic": -6,
       "drange": 40
     },
-    "ge_limit": 70
+    "ge_limit": 8
   },
   "23372": {
     "name": "Black platebody (h3)",
@@ -65131,7 +64484,7 @@
       "dmagic": -6,
       "drange": 40
     },
-    "ge_limit": 70
+    "ge_limit": 8
   },
   "23375": {
     "name": "Black platebody (h4)",
@@ -65147,7 +64500,7 @@
       "dmagic": -6,
       "drange": 40
     },
-    "ge_limit": 70
+    "ge_limit": 8
   },
   "23378": {
     "name": "Black platebody (h5)",
@@ -65163,7 +64516,7 @@
       "dmagic": -6,
       "drange": 40
     },
-    "ge_limit": 70
+    "ge_limit": 8
   },
   "23381": {
     "name": "Leather body (g)",
@@ -65533,10 +64886,6 @@
     "equipable": true,
     "equipment": {}
   },
-  "23489": {
-    "name": "Wine of zamorak",
-    "ge_limit": 11000
-  },
   "23495": {
     "name": "Sraracha",
     "weight": 0.015
@@ -65818,34 +65167,6 @@
       "mdmg": 2
     }
   },
-  "23605": {
-    "name": "Imbued zamorak cape",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 1,
-      "amagic": 15,
-      "dstab": 3,
-      "dslash": 3,
-      "dcrush": 3,
-      "dmagic": 15,
-      "mdmg": 2
-    }
-  },
-  "23607": {
-    "name": "Imbued saradomin cape",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 1,
-      "amagic": 15,
-      "dstab": 3,
-      "dslash": 3,
-      "dcrush": 3,
-      "dmagic": 15,
-      "mdmg": 2
-    }
-  },
   "23611": {
     "name": "Armadyl crossbow",
     "weight": 6.0,
@@ -66107,7 +65428,7 @@
   },
   "23638": {
     "name": "Guthan's helm",
-    "weight": 1.814,
+    "weight": 2.721,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -66551,14 +65872,6 @@
     "name": "Magenta crystal",
     "weight": 0.001
   },
-  "23782": {
-    "name": "Black crystal",
-    "weight": 0.001
-  },
-  "23783": {
-    "name": "Green crystal",
-    "weight": 0.001
-  },
   "23784": {
     "name": "Fractured crystal",
     "weight": 0.001
@@ -66751,11 +66064,6 @@
   "23838": {
     "name": "Phren bark",
     "weight": 1.0
-  },
-  "23839": {
-    "name": "Vial",
-    "weight": 0.015,
-    "ge_limit": 13000
   },
   "23840": {
     "name": "Corrupted helm (basic)",
@@ -69416,11 +68724,6 @@
       "slot": 0
     }
   },
-  "24367": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
-  },
   "24370": {
     "name": "Twisted slayer helmet",
     "weight": 2.267,
@@ -69765,11 +69068,6 @@
       "mdmg": 15,
       "aspeed": 5
     }
-  },
-  "24426": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
   },
   "24428": {
     "name": "Green gingerbread shield",
@@ -70853,6 +70151,18 @@
       "slot": 0
     }
   },
+  "24859": {
+    "name": "Warrior path starter kit",
+    "weight": 10.0
+  },
+  "24860": {
+    "name": "Wizard path starter kit",
+    "weight": 10.0
+  },
+  "24861": {
+    "name": "Ranger path starter kit",
+    "weight": 10.0
+  },
   "24862": {
     "name": "Karamjan monkey",
     "weight": 0.01,
@@ -71020,16 +70330,6 @@
     "name": "Ice plateau teleport",
     "ge_limit": 10000
   },
-  "24971": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
-  },
-  "24973": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
-  },
   "24975": {
     "name": "Headless head",
     "weight": 0.1,
@@ -71077,16 +70377,6 @@
   "24988": {
     "name": "Pink candy",
     "weight": 0.01
-  },
-  "24994": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
-  },
-  "24996": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
   },
   "25001": {
     "name": "Trailblazer hood (t3)",
@@ -71319,7 +70609,7 @@
   },
   "25066": {
     "name": "Infernal axe (or)",
-    "weight": 1.814,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -71452,19 +70742,9 @@
     "weight": 0.1,
     "ge_limit": 6
   },
-  "25106": {
-    "name": "Extradimensional bag",
-    "equipable": true,
-    "equipment": {
-      "slot": 1
-    }
-  },
-  "25108": {
-    "name": "Extradimensional bag",
-    "equipable": true,
-    "equipment": {
-      "slot": 1
-    }
+  "25117": {
+    "name": "League tomato",
+    "weight": 0.08
   },
   "25129": {
     "name": "Beekeeper's hat",
@@ -72336,10 +71616,6 @@
       "prayer": 3
     }
   },
-  "25280": {
-    "name": "Essence pack",
-    "weight": 4.535
-  },
   "25282": {
     "name": "Sled",
     "weight": 1.0,
@@ -72352,7 +71628,7 @@
   },
   "25314": {
     "name": "Giant boulder",
-    "weight": 1.0,
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -72499,7 +71775,7 @@
   },
   "25371": {
     "name": "Infernal axe (uncharged)",
-    "weight": 1.814,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -72878,11 +72154,13 @@
   },
   "25478": {
     "name": "Runescroll of swampbark",
-    "weight": 0.015
+    "weight": 0.015,
+    "ge_limit": 50
   },
   "25481": {
     "name": "Runescroll of bloodbark",
-    "weight": 0.015
+    "weight": 0.015,
+    "ge_limit": 50
   },
   "25484": {
     "name": "Webweaver bow (u)",
@@ -73023,7 +72301,7 @@
   },
   "25515": {
     "name": "Dharok's platebody",
-    "weight": 1.814,
+    "weight": 9.979,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -73098,10 +72376,6 @@
   },
   "25533": {
     "name": "Soft clay pack",
-    "weight": 4.535
-  },
-  "25535": {
-    "name": "Essence pack",
     "weight": 4.535
   },
   "25537": {
@@ -73424,7 +72698,7 @@
   },
   "25648": {
     "name": "Elaborate lockbox",
-    "weight": 10.0
+    "weight": 1.0
   },
   "25649": {
     "name": "Elaborate lockbox",
@@ -73432,7 +72706,7 @@
   },
   "25650": {
     "name": "Ornate lockbox",
-    "weight": 20.0
+    "weight": 1.0
   },
   "25651": {
     "name": "Ornate lockbox",
@@ -73533,6 +72807,14 @@
   "25706": {
     "name": "Dusty note",
     "weight": 0.003
+  },
+  "25710": {
+    "name": "Stool",
+    "weight": 5.0
+  },
+  "25711": {
+    "name": "Stool",
+    "weight": 5.0
   },
   "25712": {
     "name": "Clan cloak",
@@ -74047,7 +73329,7 @@
   },
   "25818": {
     "name": "Book of the dead",
-    "weight": 1.0,
+    "weight": 0.2,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -75228,22 +74510,27 @@
   },
   "26149": {
     "name": "Tuna",
+    "weight": 0.4,
     "ge_limit": 6000
   },
   "26150": {
     "name": "Combat potion(4)",
+    "weight": 0.035,
     "ge_limit": 2000
   },
   "26151": {
     "name": "Combat potion(3)",
+    "weight": 0.03,
     "ge_limit": 2000
   },
   "26152": {
     "name": "Combat potion(2)",
+    "weight": 0.025,
     "ge_limit": 2000
   },
   "26153": {
     "name": "Combat potion(1)",
+    "weight": 0.02,
     "ge_limit": 2000
   },
   "26154": {
@@ -75622,10 +74909,6 @@
       "prayer": 1
     }
   },
-  "26247": {
-    "name": "Pumpkin pie",
-    "weight": 0.45
-  },
   "26254": {
     "name": "Saucepan",
     "weight": 2.0,
@@ -75792,6 +75075,10 @@
     "name": "Ancient hilt",
     "weight": 2.5
   },
+  "26372": {
+    "name": "Nihil horn",
+    "weight": 0.006
+  },
   "26374": {
     "name": "Zaryte crossbow",
     "weight": 6.001,
@@ -75810,7 +75097,7 @@
   },
   "26376": {
     "name": "Torva full helm (damaged)",
-    "weight": 2.0,
+    "weight": 2.721,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -75827,7 +75114,7 @@
   },
   "26378": {
     "name": "Torva platebody (damaged)",
-    "weight": 9.5,
+    "weight": 9.979,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -75844,7 +75131,7 @@
   },
   "26380": {
     "name": "Torva platelegs (damaged)",
-    "weight": 9.0,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -75861,7 +75148,7 @@
   },
   "26382": {
     "name": "Torva full helm",
-    "weight": 2.0,
+    "weight": 2.721,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -75878,7 +75165,7 @@
   },
   "26384": {
     "name": "Torva platebody",
-    "weight": 9.5,
+    "weight": 9.979,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -75895,7 +75182,7 @@
   },
   "26386": {
     "name": "Torva platelegs",
-    "weight": 9.0,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -75920,17 +75207,7 @@
   },
   "26394": {
     "name": "Bandosian components",
-    "weight": 1.0
-  },
-  "26417": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
-  },
-  "26419": {
-    "name": "Cabbage",
-    "weight": 10.0,
-    "ge_limit": 6000
+    "weight": 0.095
   },
   "26421": {
     "name": "Shattered relics variety ornament kit",
@@ -75956,7 +75233,7 @@
   },
   "26430": {
     "name": "Shattered top (t1)",
-    "weight": 0.906,
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -76343,15 +75620,15 @@
   },
   "26522": {
     "name": "Cannon stand (or)",
-    "weight": 10.0
+    "weight": 0.907
   },
   "26524": {
     "name": "Cannon barrels (or)",
-    "weight": 10.0
+    "weight": 15.0
   },
   "26526": {
     "name": "Cannon furnace (or)",
-    "weight": 10.0
+    "weight": 5.0
   },
   "26528": {
     "name": "Shattered cannon ornament kit",
@@ -76505,10 +75782,6 @@
     "name": "Strongbones' bone",
     "weight": 0.001
   },
-  "26595": {
-    "name": "Zanik",
-    "weight": 0.001
-  },
   "26649": {
     "name": "Skis",
     "weight": 2.0,
@@ -76522,6 +75795,26 @@
       "str": -10,
       "aspeed": 4
     }
+  },
+  "26651": {
+    "name": "Loot key",
+    "weight": 0.01
+  },
+  "26652": {
+    "name": "Loot key",
+    "weight": 0.01
+  },
+  "26653": {
+    "name": "Loot key",
+    "weight": 0.01
+  },
+  "26654": {
+    "name": "Loot key",
+    "weight": 0.01
+  },
+  "26655": {
+    "name": "Loot key",
+    "weight": 0.01
   },
   "26674": {
     "name": "Slayer helmet (i)",
@@ -78162,7 +77455,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 10000
   },
   "26798": {
     "name": "Catalytic talisman",
@@ -78870,7 +78164,7 @@
   },
   "27010": {
     "name": "Preform",
-    "weight": 3.0,
+    "weight": 3.628,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79084,7 +78378,7 @@
   },
   "27110": {
     "name": "Mithril gloves (wrapped)",
-    "weight": 0.226,
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -79098,7 +78392,7 @@
   },
   "27111": {
     "name": "Rune gloves (wrapped)",
-    "weight": 0.226,
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -79112,7 +78406,7 @@
   },
   "27112": {
     "name": "Barrows gloves (wrapped)",
-    "weight": 0.226,
+    "weight": 0.25,
     "equipable": true,
     "equipment": {
       "slot": 9,
@@ -79401,6 +78695,7 @@
   },
   "27246": {
     "name": "Osmumten's fang (or)",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79409,6 +78704,10 @@
       "str": 103,
       "aspeed": 5
     }
+  },
+  "27248": {
+    "name": "Cursed phalanx",
+    "weight": 1.0
   },
   "27251": {
     "name": "Elidinis' ward (f)",
@@ -79428,6 +78727,7 @@
   },
   "27253": {
     "name": "Elidinis' ward (or)",
+    "weight": 3.708,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -79441,8 +78741,13 @@
       "prayer": 4
     }
   },
+  "27255": {
+    "name": "Menaphite ornament kit",
+    "weight": 0.562
+  },
   "27257": {
     "name": "Icthlarin's shroud (tier 1)",
+    "weight": 0.305,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -79450,6 +78755,7 @@
   },
   "27259": {
     "name": "Icthlarin's shroud (tier 2)",
+    "weight": 0.305,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -79457,6 +78763,7 @@
   },
   "27261": {
     "name": "Icthlarin's shroud (tier 3)",
+    "weight": 0.305,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -79464,6 +78771,7 @@
   },
   "27263": {
     "name": "Icthlarin's shroud (tier 4)",
+    "weight": 0.305,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -79471,6 +78779,7 @@
   },
   "27265": {
     "name": "Icthlarin's shroud (tier 5)",
+    "weight": 0.305,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -79478,6 +78787,7 @@
   },
   "27267": {
     "name": "Icthlarin's hood (tier 5)",
+    "weight": 0.21,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -79709,11 +79019,11 @@
   },
   "27361": {
     "name": "Masori assembler max cape (broken)",
-    "weight": 5.896
+    "weight": 0.453
   },
   "27363": {
     "name": "Masori assembler max cape",
-    "weight": 5.896,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -79728,7 +79038,7 @@
   },
   "27365": {
     "name": "Masori assembler max cape (l)",
-    "weight": 5.896,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1,
@@ -79799,6 +79109,26 @@
       "rstr": 2
     }
   },
+  "27377": {
+    "name": "Remnant of akkha",
+    "weight": 0.19
+  },
+  "27378": {
+    "name": "Remnant of ba-ba",
+    "weight": 0.19
+  },
+  "27379": {
+    "name": "Remnant of kephri",
+    "weight": 0.19
+  },
+  "27380": {
+    "name": "Remnant of zebak",
+    "weight": 0.19
+  },
+  "27381": {
+    "name": "Ancient remnant",
+    "weight": 0.19
+  },
   "27382": {
     "name": "Akkhito",
     "weight": 0.015
@@ -79825,6 +79155,7 @@
   },
   "27388": {
     "name": "Adventurer's top (t1)",
+    "weight": 0.9,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -79832,6 +79163,7 @@
   },
   "27390": {
     "name": "Adventurer's trousers (t1)",
+    "weight": 0.9,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -79839,6 +79171,7 @@
   },
   "27392": {
     "name": "Adventurer's hood (t1)",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -79846,6 +79179,7 @@
   },
   "27394": {
     "name": "Adventurer's boots (t1)",
+    "weight": 0.7,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -79853,6 +79187,7 @@
   },
   "27396": {
     "name": "Adventurer's top (t2)",
+    "weight": 0.9,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -79860,6 +79195,7 @@
   },
   "27398": {
     "name": "Adventurer's trousers (t2)",
+    "weight": 0.9,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -79867,6 +79203,7 @@
   },
   "27400": {
     "name": "Adventurer's hood (t2)",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -79874,6 +79211,7 @@
   },
   "27402": {
     "name": "Adventurer's boots (t2)",
+    "weight": 0.7,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -79881,6 +79219,7 @@
   },
   "27404": {
     "name": "Adventurer's top (t3)",
+    "weight": 0.9,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -79888,6 +79227,7 @@
   },
   "27406": {
     "name": "Adventurer's trousers (t3)",
+    "weight": 0.9,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -79895,6 +79235,7 @@
   },
   "27408": {
     "name": "Adventurer's hood (t3)",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -79902,6 +79243,7 @@
   },
   "27410": {
     "name": "Adventurer's boots (t3)",
+    "weight": 0.7,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -79909,6 +79251,7 @@
   },
   "27412": {
     "name": "Adventurer's vambraces",
+    "weight": 0.4,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -79916,20 +79259,27 @@
   },
   "27414": {
     "name": "Giant stopwatch",
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
       "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
       "aspeed": 4
     }
   },
   "27416": {
     "name": "Speedy teleport scroll",
+    "weight": 0.02,
     "equipable": true,
     "equipment": {}
   },
   "27418": {
     "name": "Bronze speedrun trophy",
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79939,6 +79289,7 @@
   },
   "27420": {
     "name": "Silver speedrun trophy",
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79948,6 +79299,7 @@
   },
   "27422": {
     "name": "Gold speedrun trophy",
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79957,6 +79309,7 @@
   },
   "27424": {
     "name": "Platinum speedrun trophy",
+    "weight": 15.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79970,8 +79323,13 @@
     "equipable": true,
     "equipment": {}
   },
+  "27427": {
+    "name": "Clue scroll (special)",
+    "weight": 0.02
+  },
   "27428": {
     "name": "Hood of ruin",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0
@@ -79979,6 +79337,7 @@
   },
   "27430": {
     "name": "Robe top of ruin",
+    "weight": 2.721,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -79986,6 +79345,7 @@
   },
   "27432": {
     "name": "Robe bottom of ruin",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 7
@@ -79993,6 +79353,7 @@
   },
   "27434": {
     "name": "Gloves of ruin",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 9
@@ -80000,6 +79361,7 @@
   },
   "27436": {
     "name": "Socks of ruin",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 10
@@ -80007,6 +79369,7 @@
   },
   "27438": {
     "name": "Cloak of ruin",
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -80014,9 +79377,114 @@
   },
   "27440": {
     "name": "Infinite money bag",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 1
+    }
+  },
+  "27442": {
+    "name": "Adventurer's cape",
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27444": {
+    "name": "Graceful hood",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27446": {
+    "name": "Graceful hood",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27447": {
+    "name": "Graceful cape",
+    "weight": 0.8,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27449": {
+    "name": "Graceful cape",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27450": {
+    "name": "Graceful top",
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27452": {
+    "name": "Graceful top",
+    "weight": -5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27453": {
+    "name": "Graceful legs",
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27455": {
+    "name": "Graceful legs",
+    "weight": -6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27456": {
+    "name": "Graceful gloves",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "27458": {
+    "name": "Graceful gloves",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "27459": {
+    "name": "Graceful boots",
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27461": {
+    "name": "Graceful boots",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
     }
   }
 }
