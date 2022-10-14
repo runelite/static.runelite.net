@@ -7995,6 +7995,10 @@
     "name": "Rock lobster",
     "hitpoints": 150
   },
+  "5945": {
+    "name": "Rock",
+    "hitpoints": 150
+  },
   "5946": {
     "name": "Suspicious water",
     "hitpoints": 100
@@ -8954,6 +8958,10 @@
   "6594": {
     "name": "Ent",
     "hitpoints": 105
+  },
+  "6595": {
+    "name": "Prifddinas guard",
+    "hitpoints": 800
   },
   "6596": {
     "name": "Zombie",
@@ -11187,19 +11195,11 @@
     "name": "Monstrous Basilisk",
     "hitpoints": 170
   },
-  "9289": {
-    "name": "The Jormungand",
-    "hitpoints": 600
-  },
   "9290": {
     "name": "The Jormungand",
     "hitpoints": 600
   },
   "9291": {
-    "name": "The Jormungand",
-    "hitpoints": 600
-  },
-  "9292": {
     "name": "The Jormungand",
     "hitpoints": 600
   },
@@ -11358,6 +11358,14 @@
   "9609": {
     "name": "Seagull",
     "hitpoints": 10
+  },
+  "9612": {
+    "name": "Nail beast",
+    "hitpoints": 55
+  },
+  "9613": {
+    "name": "Nail beast",
+    "hitpoints": 75
   },
   "9727": {
     "name": "Vampyre Juvinate",
