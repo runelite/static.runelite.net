@@ -79284,6 +79284,10 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
       "aspeed": 4
     }
   },
@@ -79294,6 +79298,10 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
       "aspeed": 4
     }
   },
@@ -79304,6 +79312,10 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
       "aspeed": 4
     }
   },
@@ -79314,6 +79326,10 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
       "aspeed": 4
     }
   },
@@ -79486,5 +79502,9 @@
     "equipment": {
       "slot": 10
     }
+  },
+  "27462": {
+    "name": "Fresh start helper",
+    "weight": 1.814
   }
 }
