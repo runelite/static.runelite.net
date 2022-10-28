@@ -79506,5 +79506,161 @@
   "27462": {
     "name": "Fresh start helper",
     "weight": 1.814
+  },
+  "27463": {
+    "name": "Treat cauldron",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27465": {
+    "name": "Treat cauldron",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27467": {
+    "name": "Treat cauldron",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27469": {
+    "name": "Treat cauldron",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27471": {
+    "name": "Treat cauldron",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27473": {
+    "name": "Witch hat",
+    "weight": 0.028,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27475": {
+    "name": "Witch top",
+    "weight": 0.028,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27477": {
+    "name": "Witch robes",
+    "weight": 0.028,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27479": {
+    "name": "Witch boots",
+    "weight": 0.028,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27481": {
+    "name": "Witch cape",
+    "weight": 0.028,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27483": {
+    "name": "Terrifying charm",
+    "weight": 0.09,
+    "equipable": true,
+    "equipment": {
+      "slot": 13
+    }
+  },
+  "27485": {
+    "name": "Bruised banana",
+    "weight": 0.028
+  },
+  "27488": {
+    "name": "Smelly sock",
+    "weight": 0.03
+  },
+  "27491": {
+    "name": "Spooky egg",
+    "weight": 0.02
+  },
+  "27494": {
+    "name": "Old wool",
+    "weight": 0.02
+  },
+  "27497": {
+    "name": "Halloween wig",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27501": {
+    "name": "Halloween wig",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27503": {
+    "name": "Halloween wig",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27505": {
+    "name": "Halloween wig",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27507": {
+    "name": "Halloween wig",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27509": {
+    "name": "Divine rune pouch (l)",
+    "weight": 0.878
+  },
+  "27599": {
+    "name": "Halloween wig",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   }
 }
