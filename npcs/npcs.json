@@ -5740,7 +5740,7 @@
     "hitpoints": 150
   },
   "3959": {
-    "name": "Jungle savage",
+    "name": "Tormented Warrior",
     "hitpoints": 90
   },
   "3962": {
@@ -10216,7 +10216,7 @@
     "hitpoints": 450
   },
   "7894": {
-    "name": "Sand Snake",
+    "name": "Sand Snake (hard)",
     "hitpoints": 180
   },
   "7895": {
@@ -12122,5 +12122,13 @@
   "11781": {
     "name": "Baboon",
     "hitpoints": 35
+  },
+  "11934": {
+    "name": "Hero",
+    "hitpoints": 82
+  },
+  "11935": {
+    "name": "Hero",
+    "hitpoints": 82
   }
 }
