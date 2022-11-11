@@ -2183,7 +2183,7 @@
     "weight": 0.02
   },
   "716": {
-    "name": "Bull roarer",
+    "name": "Bullroarer",
     "weight": 0.02
   },
   "717": {
@@ -2231,7 +2231,7 @@
     "weight": 0.012
   },
   "729": {
-    "name": "Shamans tome",
+    "name": "Shaman's tome",
     "weight": 0.51
   },
   "730": {
@@ -17783,27 +17783,27 @@
   },
   "4694": {
     "name": "Steam rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "4695": {
     "name": "Mist rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "4696": {
     "name": "Dust rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "4697": {
     "name": "Smoke rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "4698": {
     "name": "Mud rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "4699": {
     "name": "Lava rune",
-    "ge_limit": 12000
+    "ge_limit": 18000
   },
   "4700": {
     "name": "Sapphire lantern",
@@ -59237,7 +59237,7 @@
   },
   "21880": {
     "name": "Wrath rune",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "21882": {
     "name": "Dragon armour set (lg)",
@@ -60560,7 +60560,7 @@
   },
   "22208": {
     "name": "Wrath rune",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "22209": {
     "name": "Extended super antifire(4)",
@@ -74753,7 +74753,8 @@
       "aslash": 75,
       "str": 103,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "26221": {
     "name": "Ancient ceremonial top",
@@ -79259,7 +79260,7 @@
   },
   "27414": {
     "name": "Giant stopwatch",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79279,7 +79280,7 @@
   },
   "27418": {
     "name": "Bronze speedrun trophy",
-    "weight": 15.0,
+    "weight": 0.75,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79293,7 +79294,7 @@
   },
   "27420": {
     "name": "Silver speedrun trophy",
-    "weight": 15.0,
+    "weight": 0.75,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79307,7 +79308,7 @@
   },
   "27422": {
     "name": "Gold speedrun trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -79321,7 +79322,7 @@
   },
   "27424": {
     "name": "Platinum speedrun trophy",
-    "weight": 15.0,
+    "weight": 1.5,
     "equipable": true,
     "equipment": {
       "slot": 3,
