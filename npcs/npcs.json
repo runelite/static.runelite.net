@@ -4879,18 +4879,6 @@
     "name": "Farmer",
     "hitpoints": 12
   },
-  "3245": {
-    "name": "Farmer",
-    "hitpoints": 12
-  },
-  "3250": {
-    "name": "Farmer",
-    "hitpoints": 12
-  },
-  "3251": {
-    "name": "Farmer",
-    "hitpoints": 12
-  },
   "3252": {
     "name": "Thief",
     "hitpoints": 17
@@ -4912,7 +4900,7 @@
     "hitpoints": 30
   },
   "3260": {
-    "name": "Warrior woman",
+    "name": "Warrior",
     "hitpoints": 20
   },
   "3261": {
@@ -12123,6 +12111,42 @@
     "name": "Baboon",
     "hitpoints": 35
   },
+  "11918": {
+    "name": "Farmer",
+    "hitpoints": 12
+  },
+  "11919": {
+    "name": "Farmer",
+    "hitpoints": 12
+  },
+  "11920": {
+    "name": "Farmer",
+    "hitpoints": 12
+  },
+  "11921": {
+    "name": "Farmer",
+    "hitpoints": 12
+  },
+  "11925": {
+    "name": "Warrior",
+    "hitpoints": 20
+  },
+  "11926": {
+    "name": "Warrior",
+    "hitpoints": 20
+  },
+  "11927": {
+    "name": "Warrior",
+    "hitpoints": 20
+  },
+  "11928": {
+    "name": "Warrior",
+    "hitpoints": 20
+  },
+  "11929": {
+    "name": "Warrior",
+    "hitpoints": 20
+  },
   "11934": {
     "name": "Hero",
     "hitpoints": 82
@@ -12130,5 +12154,13 @@
   "11935": {
     "name": "Hero",
     "hitpoints": 82
+  },
+  "11955": {
+    "name": "Tribeswoman",
+    "hitpoints": 39
+  },
+  "11956": {
+    "name": "Tribeswoman",
+    "hitpoints": 39
   }
 }
