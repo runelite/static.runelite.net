@@ -1,1 +1,6 @@
-{}
+{
+	"outageMessage": "OldSchool RuneScape is temporarily offline.",
+	"outageLinks": {
+		"OSRS Twitter": "https://twitter.com/OldSchoolRS"
+	}
+}
