@@ -6163,10 +6163,6 @@
     "name": "Sigmund",
     "hitpoints": 60
   },
-  "4331": {
-    "name": "Black Knight",
-    "hitpoints": 42
-  },
   "4342": {
     "name": "Sir Lucan",
     "hitpoints": 105
@@ -10855,18 +10851,6 @@
     "name": "Iorwerth Archer",
     "hitpoints": 105
   },
-  "8799": {
-    "name": "Knight of Ardougne",
-    "hitpoints": 52
-  },
-  "8800": {
-    "name": "Knight of Ardougne",
-    "hitpoints": 52
-  },
-  "8801": {
-    "name": "Knight of Ardougne",
-    "hitpoints": 52
-  },
   "8847": {
     "name": "Essyllt",
     "hitpoints": 320
@@ -10892,10 +10876,6 @@
     "hitpoints": 66
   },
   "8854": {
-    "name": "Knight of Ardougne",
-    "hitpoints": 52
-  },
-  "8855": {
     "name": "Knight of Ardougne",
     "hitpoints": 52
   },
@@ -12111,6 +12091,14 @@
     "name": "Baboon",
     "hitpoints": 35
   },
+  "11892": {
+    "name": "White Knight",
+    "hitpoints": 52
+  },
+  "11902": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
+  },
   "11918": {
     "name": "Farmer",
     "hitpoints": 12
@@ -12154,6 +12142,34 @@
   "11935": {
     "name": "Hero",
     "hitpoints": 82
+  },
+  "11936": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
+  },
+  "11948": {
+    "name": "White Knight",
+    "hitpoints": 52
+  },
+  "11949": {
+    "name": "White Knight",
+    "hitpoints": 52
+  },
+  "11950": {
+    "name": "White Knight",
+    "hitpoints": 52
+  },
+  "11951": {
+    "name": "White Knight",
+    "hitpoints": 55
+  },
+  "11952": {
+    "name": "Black Knight",
+    "hitpoints": 42
+  },
+  "11953": {
+    "name": "Black Knight",
+    "hitpoints": 42
   },
   "11955": {
     "name": "Tribeswoman",
