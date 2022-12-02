@@ -79616,6 +79616,194 @@
     "name": "Divine rune pouch (l)",
     "weight": 0.878
   },
+  "27511": {
+    "name": "Kasonde's journal",
+    "weight": 0.51
+  },
+  "27513": {
+    "name": "Word translations",
+    "weight": 0.028
+  },
+  "27515": {
+    "name": "Dirty note",
+    "weight": 0.028
+  },
+  "27516": {
+    "name": "Dirty note",
+    "weight": 0.028
+  },
+  "27517": {
+    "name": "Dirty note",
+    "weight": 0.028
+  },
+  "27518": {
+    "name": "Warning note",
+    "weight": 0.028
+  },
+  "27519": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
+  "27520": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
+  "27521": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
+  "27522": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
+  "27523": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27524": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27525": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27526": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27527": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27528": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27529": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27530": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27531": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27532": {
+    "name": "Compass",
+    "weight": 0.05
+  },
+  "27533": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27534": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27535": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27536": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27537": {
+    "name": "Wood carving",
+    "weight": 0.05
+  },
+  "27543": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "27544": {
+    "name": "Ghommal's lucky penny",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 13
+    }
+  },
+  "27550": {
+    "name": "Ghommal's avernic defender 5",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 30,
+      "aslash": 29,
+      "acrush": 28,
+      "amagic": -5,
+      "arange": -4,
+      "dstab": 30,
+      "dslash": 29,
+      "dcrush": 28,
+      "dmagic": -5,
+      "drange": -4,
+      "str": 8
+    }
+  },
+  "27551": {
+    "name": "Ghommal's avernic defender 5 (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 30,
+      "aslash": 29,
+      "acrush": 28,
+      "amagic": -5,
+      "arange": -4,
+      "dstab": 30,
+      "dslash": 29,
+      "dcrush": 28,
+      "dmagic": -5,
+      "drange": -4,
+      "str": 8
+    }
+  },
+  "27552": {
+    "name": "Ghommal's avernic defender 6",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 30,
+      "aslash": 29,
+      "acrush": 28,
+      "amagic": -5,
+      "arange": -4,
+      "dstab": 30,
+      "dslash": 29,
+      "dcrush": 28,
+      "dmagic": -5,
+      "drange": -4,
+      "str": 8
+    }
+  },
+  "27553": {
+    "name": "Ghommal's avernic defender 6 (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 30,
+      "aslash": 29,
+      "acrush": 28,
+      "amagic": -5,
+      "arange": -4,
+      "dstab": 30,
+      "dslash": 29,
+      "dcrush": 28,
+      "dmagic": -5,
+      "drange": -4,
+      "str": 8
+    }
+  },
   "27599": {
     "name": "Halloween wig",
     "weight": 0.25,
