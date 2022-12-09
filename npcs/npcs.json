@@ -4367,14 +4367,6 @@
     "name": "Tortured soul",
     "hitpoints": 51
   },
-  "3010": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "3011": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
   "3014": {
     "name": "Man",
     "hitpoints": 7
@@ -4935,10 +4927,6 @@
     "name": "Guard",
     "hitpoints": 22
   },
-  "3272": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
   "3273": {
     "name": "Guard",
     "hitpoints": 22
@@ -5005,11 +4993,11 @@
   },
   "3293": {
     "name": "Paladin",
-    "hitpoints": 66
+    "hitpoints": 57
   },
   "3294": {
     "name": "Paladin",
-    "hitpoints": 66
+    "hitpoints": 57
   },
   "3295": {
     "name": "Hero",
@@ -6251,10 +6239,6 @@
     "name": "Ogre shaman",
     "hitpoints": 1
   },
-  "4385": {
-    "name": "Blue dragon",
-    "hitpoints": 105
-  },
   "4387": {
     "name": "Ogre shaman",
     "hitpoints": 1
@@ -7014,6 +6998,26 @@
   "5244": {
     "name": "Snake",
     "hitpoints": 36
+  },
+  "5258": {
+    "name": "Duke",
+    "hitpoints": 130
+  },
+  "5259": {
+    "name": "Oipuis",
+    "hitpoints": 130
+  },
+  "5260": {
+    "name": "Uyoro",
+    "hitpoints": 130
+  },
+  "5261": {
+    "name": "Ouhai",
+    "hitpoints": 130
+  },
+  "5262": {
+    "name": "Uodai",
+    "hitpoints": 130
   },
   "5263": {
     "name": "Padulah",
@@ -10419,10 +10423,6 @@
     "name": "Green dragon",
     "hitpoints": 75
   },
-  "8083": {
-    "name": "Blue dragon",
-    "hitpoints": 105
-  },
   "8084": {
     "name": "Black dragon",
     "hitpoints": 190
@@ -10430,10 +10430,6 @@
   "8085": {
     "name": "Black dragon",
     "hitpoints": 190
-  },
-  "8086": {
-    "name": "Steel dragon",
-    "hitpoints": 210
   },
   "8087": {
     "name": "Brutal red dragon",
@@ -10494,10 +10490,6 @@
   "8149": {
     "name": "White Knight",
     "hitpoints": 52
-  },
-  "8150": {
-    "name": "Paladin",
-    "hitpoints": 66
   },
   "8177": {
     "name": "Galvek",
@@ -10873,7 +10865,7 @@
   },
   "8853": {
     "name": "Paladin",
-    "hitpoints": 66
+    "hitpoints": 57
   },
   "8854": {
     "name": "Knight of Ardougne",
@@ -12095,9 +12087,41 @@
     "name": "White Knight",
     "hitpoints": 52
   },
+  "11901": {
+    "name": "Paladin",
+    "hitpoints": 57
+  },
   "11902": {
     "name": "Knight of Ardougne",
     "hitpoints": 52
+  },
+  "11911": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11912": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11913": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11914": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11915": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11916": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11917": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "11918": {
     "name": "Farmer",
@@ -12114,6 +12138,18 @@
   "11921": {
     "name": "Farmer",
     "hitpoints": 12
+  },
+  "11922": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11923": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11924": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "11925": {
     "name": "Warrior",
@@ -12135,6 +12171,22 @@
     "name": "Warrior",
     "hitpoints": 20
   },
+  "11930": {
+    "name": "Paladin",
+    "hitpoints": 57
+  },
+  "11931": {
+    "name": "Paladin",
+    "hitpoints": 57
+  },
+  "11932": {
+    "name": "Paladin",
+    "hitpoints": 57
+  },
+  "11933": {
+    "name": "Paladin",
+    "hitpoints": 57
+  },
   "11934": {
     "name": "Hero",
     "hitpoints": 82
@@ -12146,6 +12198,42 @@
   "11936": {
     "name": "Knight of Ardougne",
     "hitpoints": 52
+  },
+  "11937": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11938": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11939": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11942": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11943": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11944": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11945": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11946": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "11947": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "11948": {
     "name": "White Knight",
@@ -12170,6 +12258,10 @@
   "11953": {
     "name": "Black Knight",
     "hitpoints": 42
+  },
+  "11954": {
+    "name": "Tribesman",
+    "hitpoints": 39
   },
   "11955": {
     "name": "Tribeswoman",
