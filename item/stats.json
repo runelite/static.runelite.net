@@ -31056,7 +31056,7 @@
   },
   "8010": {
     "name": "Camelot teleport",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "8011": {
     "name": "Ardougne teleport",
@@ -79143,7 +79143,7 @@
     "weight": 0.7,
     "equipable": true,
     "equipment": {
-      "slot": 7
+      "slot": 10
     }
   },
   "27396": {
@@ -79175,7 +79175,7 @@
     "weight": 0.7,
     "equipable": true,
     "equipment": {
-      "slot": 7
+      "slot": 10
     }
   },
   "27404": {
@@ -79207,7 +79207,7 @@
     "weight": 0.7,
     "equipable": true,
     "equipment": {
-      "slot": 7
+      "slot": 10
     }
   },
   "27412": {
@@ -79234,9 +79234,7 @@
   },
   "27416": {
     "name": "Speedy teleport scroll",
-    "weight": 0.02,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.02
   },
   "27418": {
     "name": "Bronze speedrun trophy",
@@ -79296,9 +79294,7 @@
   },
   "27426": {
     "name": "Dynamite(p)",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {}
+    "weight": 1.36
   },
   "27427": {
     "name": "Clue scroll (special)",
