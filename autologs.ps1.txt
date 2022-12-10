@@ -59,7 +59,7 @@ foreach ($FILE in $MESSAGE_FILES) {
 		"--$FORM_BOUNDARY",
 		"Content-Disposition: form-data; name=`"file[$FILE_COUNT]`"; filename=`"$((Get-Item $FILE).Name)`"",
 		"Content-Type: application/octet-stream$LF",
-		[System.Text.Encoding]::GetEncoding("UTF-8").GetString([System.IO.File]::ReadAllBytes($FILE)),
+		(Get-Content -Encoding "ASCII" -Path "$FILE" -Raw),
 		""
 	) -join $LF
 	$FILE_COUNT += 1
@@ -74,4 +74,6 @@ foreach ($FILE in $MESSAGE_FILES) {
 }
 
 $WEBHOOK = "https://api.runelite.net/autologs"
-Invoke-RestMethod -Uri $WEBHOOK -Method Post -ContentType "multipart/form-data; boundary=`"$FORM_BOUNDARY`"" -Body $BODY | Out-Null
+$RESPONSE = Invoke-RestMethod -Uri $WEBHOOK -Method Post -ContentType "multipart/form-data; boundary=`"$FORM_BOUNDARY`"" -Body $BODY
+
+Write-Host "`r`n`r`nDone! MID = $($RESPONSE.id)"
