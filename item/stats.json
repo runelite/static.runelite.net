@@ -78760,7 +78760,8 @@
   },
   "27272": {
     "name": "Lily of the sands",
-    "weight": 0.003
+    "weight": 0.003,
+    "ge_limit": 13000
   },
   "27275": {
     "name": "Tumeken's shadow",
@@ -79798,6 +79799,180 @@
       "dmagic": -5,
       "drange": -4,
       "str": 8
+    }
+  },
+  "27554": {
+    "name": "Perfect gingerbread",
+    "weight": 0.05
+  },
+  "27555": {
+    "name": "Broken gingerbread",
+    "weight": 0.05
+  },
+  "27556": {
+    "name": "Very broken gingerbread",
+    "weight": 0.05
+  },
+  "27557": {
+    "name": "Shattered gingerbread",
+    "weight": 0.05
+  },
+  "27558": {
+    "name": "Sack of coal",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27559": {
+    "name": "Snowball",
+    "weight": 0.03
+  },
+  "27560": {
+    "name": "Golden snowball",
+    "weight": 0.05
+  },
+  "27561": {
+    "name": "Light beer",
+    "weight": 0.55
+  },
+  "27562": {
+    "name": "Mulled pine",
+    "weight": 0.55
+  },
+  "27563": {
+    "name": "Eggnog",
+    "weight": 0.55
+  },
+  "27564": {
+    "name": "Santa's list",
+    "weight": 0.003,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27566": {
+    "name": "Christmas jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27568": {
+    "name": "Snow goggles & hat",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27570": {
+    "name": "Sack of coal",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27572": {
+    "name": "Festive nutcracker top",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27574": {
+    "name": "Festive nutcracker trousers",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27576": {
+    "name": "Festive nutcracker hat",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27578": {
+    "name": "Festive nutcracker boots",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27580": {
+    "name": "Festive nutcracker staff",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -50,
+      "aslash": -100,
+      "acrush": -100,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "27582": {
+    "name": "Sweet nutcracker top",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27583": {
+    "name": "Sweet nutcracker trousers",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27584": {
+    "name": "Sweet nutcracker hat",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27585": {
+    "name": "Sweet nutcracker boots",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27586": {
+    "name": "Sweet nutcracker staff",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -50,
+      "aslash": -100,
+      "acrush": -100,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "27588": {
+    "name": "Festive games crown",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
     }
   },
   "27599": {
