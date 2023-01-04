@@ -1,16 +1,6 @@
 {
     "artifacts": [
         {
-            "diffs": [
-                {
-                    "from": "client-1.9.5.jar",
-                    "fromHash": "ee44991a696fd0d39cb3f1571283034ae4e79f973708edf5d2933a7b05164176",
-                    "hash": "89014b15ba9c6182154561e22074b0022575ebd5b2671524ab71736aaaf50696",
-                    "name": "client-1.9.6.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.9.5.jar-client-1.9.6.jar.apdiff.gz.jar",
-                    "size": 33243
-                }
-            ],
             "hash": "00cf4af66cd4554471a9fb5a697a8122b39add58ab6c2d7f96bce84902f18d17",
             "name": "client-1.9.6.jar",
             "path": "https://repo.runelite.net/net/runelite/client/1.9.6/client-1.9.6.jar",
@@ -317,16 +307,6 @@
             "size": 681590
         },
         {
-            "diffs": [
-                {
-                    "from": "runelite-api-1.9.5-runtime.jar",
-                    "fromHash": "2971723af61f00b9aa742e9dc603f721bef4b1288718d067ada79257b59776b0",
-                    "hash": "aa3ad50745656143b9f54fc469f5d68966ece5b9cefcfbcaf50c77b0c56829b8",
-                    "name": "runelite-api-1.9.6-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.9.5-runtime.jar-runelite-api-1.9.6-runtime.jar.apdiff.gz.jar",
-                    "size": 1785
-                }
-            ],
             "hash": "d884a36fe5391278f5a1b9a52fac9d73c135031fc6e05dbf784b1bbad48b0407",
             "name": "runelite-api-1.9.6-runtime.jar",
             "path": "https://repo.runelite.net/net/runelite/runelite-api/1.9.6/runelite-api-1.9.6-runtime.jar",
@@ -358,6 +338,7 @@
     ],
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
