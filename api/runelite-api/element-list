@@ -11,3 +11,4 @@ net.runelite.api.model
 net.runelite.api.overlay
 net.runelite.api.vars
 net.runelite.api.widgets
+net.runelite.api.worldmap
