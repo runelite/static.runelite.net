@@ -59197,7 +59197,7 @@
   },
   "21880": {
     "name": "Wrath rune",
-    "ge_limit": 15000
+    "ge_limit": 25000
   },
   "21882": {
     "name": "Dragon armour set (lg)",
@@ -60520,7 +60520,7 @@
   },
   "22208": {
     "name": "Wrath rune",
-    "ge_limit": 15000
+    "ge_limit": 25000
   },
   "22209": {
     "name": "Extended super antifire(4)",
@@ -69280,7 +69280,7 @@
   "24589": {
     "name": "Blighted manta ray",
     "weight": 0.4,
-    "ge_limit": 12000
+    "ge_limit": 10000
   },
   "24592": {
     "name": "Blighted anglerfish",
@@ -74986,15 +74986,18 @@
   },
   "26342": {
     "name": "Ancient brew(3)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "26344": {
     "name": "Ancient brew(2)",
-    "weight": 0.025
+    "weight": 0.025,
+    "ge_limit": 2000
   },
   "26346": {
     "name": "Ancient brew(1)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 2000
   },
   "26348": {
     "name": "Nexling",
@@ -79577,6 +79580,14 @@
       "slot": 0
     }
   },
+  "27499": {
+    "name": "Halloween wig",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
   "27501": {
     "name": "Halloween wig",
     "weight": 0.25,
@@ -79801,22 +79812,6 @@
       "str": 8
     }
   },
-  "27554": {
-    "name": "Perfect gingerbread",
-    "weight": 0.05
-  },
-  "27555": {
-    "name": "Broken gingerbread",
-    "weight": 0.05
-  },
-  "27556": {
-    "name": "Very broken gingerbread",
-    "weight": 0.05
-  },
-  "27557": {
-    "name": "Shattered gingerbread",
-    "weight": 0.05
-  },
   "27558": {
     "name": "Sack of coal",
     "weight": 0.05,
@@ -79824,26 +79819,6 @@
     "equipment": {
       "slot": 1
     }
-  },
-  "27559": {
-    "name": "Snowball",
-    "weight": 0.03
-  },
-  "27560": {
-    "name": "Golden snowball",
-    "weight": 0.05
-  },
-  "27561": {
-    "name": "Light beer",
-    "weight": 0.55
-  },
-  "27562": {
-    "name": "Mulled pine",
-    "weight": 0.55
-  },
-  "27563": {
-    "name": "Eggnog",
-    "weight": 0.55
   },
   "27564": {
     "name": "Santa's list",
@@ -79915,9 +79890,9 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": -50,
+      "astab": -100,
       "aslash": -100,
-      "acrush": -100,
+      "acrush": -50,
       "str": -10,
       "aspeed": 4
     }
@@ -79960,9 +79935,9 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": -50,
+      "astab": -100,
       "aslash": -100,
-      "acrush": -100,
+      "acrush": -50,
       "str": -10,
       "aspeed": 4
     }
@@ -79975,12 +79950,176 @@
       "slot": 0
     }
   },
+  "27590": {
+    "name": "Muphin",
+    "weight": 0.015
+  },
+  "27592": {
+    "name": "Muphin",
+    "weight": 0.015
+  },
+  "27593": {
+    "name": "Muphin",
+    "weight": 0.015
+  },
+  "27595": {
+    "name": "Dusty scroll",
+    "weight": 0.003
+  },
+  "27596": {
+    "name": "Tullia's letter",
+    "weight": 0.003
+  },
+  "27597": {
+    "name": "Ancient map",
+    "weight": 0.003
+  },
+  "27598": {
+    "name": "Strange cipher",
+    "weight": 0.003
+  },
   "27599": {
-    "name": "Halloween wig",
-    "weight": 0.25,
+    "name": "Strange list",
+    "weight": 0.003
+  },
+  "27600": {
+    "name": "Duke note",
+    "weight": 0.003
+  },
+  "27601": {
+    "name": "Numbers note",
+    "weight": 0.003
+  },
+  "27602": {
+    "name": "Settlements note",
+    "weight": 0.003
+  },
+  "27603": {
+    "name": "Lever handle",
+    "weight": 1.0
+  },
+  "27604": {
+    "name": "Icy chest",
+    "weight": 0.5
+  },
+  "27605": {
+    "name": "Jewel shard",
+    "weight": 0.025
+  },
+  "27606": {
+    "name": "Jewel shard",
+    "weight": 0.025
+  },
+  "27607": {
+    "name": "Ancient jewel",
+    "weight": 0.05
+  },
+  "27608": {
+    "name": "Icy key",
+    "weight": 0.01
+  },
+  "27610": {
+    "name": "Venator bow",
+    "weight": 4.5,
     "equipable": true,
     "equipment": {
-      "slot": 0
+      "slot": 3,
+      "is2h": true,
+      "arange": 90,
+      "rstr": 25,
+      "aspeed": 5
     }
+  },
+  "27612": {
+    "name": "Venator bow (uncharged)",
+    "weight": 4.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 90,
+      "rstr": 25,
+      "aspeed": 5
+    }
+  },
+  "27614": {
+    "name": "Venator shard",
+    "ge_limit": 8
+  },
+  "27616": {
+    "name": "Ancient essence",
+    "ge_limit": 300000
+  },
+  "27622": {
+    "name": "Frozen cache",
+    "weight": 0.489
+  },
+  "27624": {
+    "name": "Ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "27626": {
+    "name": "Ancient sceptre (l)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "27627": {
+    "name": "Ancient icon",
+    "weight": 0.02
+  },
+  "27629": {
+    "name": "Forgotten brew(4)",
+    "weight": 0.035
+  },
+  "27632": {
+    "name": "Forgotten brew(3)",
+    "weight": 0.035
+  },
+  "27635": {
+    "name": "Forgotten brew(2)",
+    "weight": 0.035
+  },
+  "27638": {
+    "name": "Forgotten brew(1)",
+    "weight": 0.035
+  },
+  "27641": {
+    "name": "Saturated heart",
+    "weight": 0.45
+  },
+  "27643": {
+    "name": "Charged ice",
+    "weight": 0.19
   }
 }

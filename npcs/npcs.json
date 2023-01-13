@@ -6419,6 +6419,10 @@
     "name": "Spider",
     "hitpoints": 2
   },
+  "4568": {
+    "name": "Assassin",
+    "hitpoints": 400
+  },
   "4634": {
     "name": "Rowdy slave",
     "hitpoints": 16
@@ -12270,5 +12274,53 @@
   "11956": {
     "name": "Tribeswoman",
     "hitpoints": 39
+  },
+  "12046": {
+    "name": "Evelot",
+    "hitpoints": 160
+  },
+  "12047": {
+    "name": "Evelot",
+    "hitpoints": 160
+  },
+  "12061": {
+    "name": "Assassin",
+    "hitpoints": 400
+  },
+  "12062": {
+    "name": "Assassin",
+    "hitpoints": 400
+  },
+  "12073": {
+    "name": "Strange Creature",
+    "hitpoints": 550
+  },
+  "12074": {
+    "name": "Strange Creature",
+    "hitpoints": 550
+  },
+  "12075": {
+    "name": "Strange Creature",
+    "hitpoints": 550
+  },
+  "12076": {
+    "name": "Strange Creature",
+    "hitpoints": 550
+  },
+  "12077": {
+    "name": "Phantom Muspah",
+    "hitpoints": 850
+  },
+  "12078": {
+    "name": "Phantom Muspah",
+    "hitpoints": 850
+  },
+  "12079": {
+    "name": "Phantom Muspah",
+    "hitpoints": 75
+  },
+  "12080": {
+    "name": "Phantom Muspah",
+    "hitpoints": 850
   }
 }
