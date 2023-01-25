@@ -1,10 +1,5 @@
 {
   "props": {
     "outdatedLauncherWarning": true
-  },
-	"outageMessage": "OldSchool RuneScape is temporarily offline.",
-	"outageLinks": {
-		"OSRS Twitter": "https://twitter.com/OldSchoolRS",
-		"Game Status": "https://secure.runescape.com/m=news/game-status-information-centre?oldschool=1"
-	}
+  }
 }
