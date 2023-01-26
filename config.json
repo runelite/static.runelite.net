@@ -1,5 +1,12 @@
 {
   "props": {
     "outdatedLauncherWarning": true
-  }
+  },
+  "ignoreDeadNpcs": [
+    11993
+  ],
+  "resetDeadOnChangeNpcs": [
+    12002,
+    11995
+  ]
 }
