@@ -57983,10 +57983,6 @@
     "name": "Rogue's equipment crate",
     "weight": 0.453
   },
-  "21313": {
-    "name": "Purple rainbow strand",
-    "weight": 0.01
-  },
   "21314": {
     "name": "Rainbow scarf",
     "weight": 0.01,
@@ -61830,7 +61826,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "amagic": 20,
+      "amagic": 15,
       "dmagic": 20,
       "aspeed": 4
     },
@@ -61842,7 +61838,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "amagic": 20,
+      "amagic": 15,
       "dmagic": 20,
       "aspeed": 4
     }
@@ -72122,118 +72118,6 @@
     "weight": 0.015,
     "ge_limit": 50
   },
-  "25484": {
-    "name": "Webweaver bow (u)",
-    "weight": 3.175,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 85,
-      "rstr": 65,
-      "aspeed": 4
-    }
-  },
-  "25485": {
-    "name": "Webweaver bow",
-    "weight": 3.175,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 85,
-      "rstr": 65,
-      "aspeed": 4
-    }
-  },
-  "25486": {
-    "name": "Ursine chainmace (u)",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 53,
-      "aslash": -2,
-      "acrush": 71,
-      "str": 74,
-      "prayer": 2,
-      "aspeed": 4
-    }
-  },
-  "25487": {
-    "name": "Ursine chainmace",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 53,
-      "aslash": -2,
-      "acrush": 71,
-      "str": 74,
-      "prayer": 2,
-      "aspeed": 4
-    }
-  },
-  "25488": {
-    "name": "Accursed sceptre (u)",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 22,
-      "dmagic": 20,
-      "aspeed": 4
-    }
-  },
-  "25489": {
-    "name": "Accursed sceptre",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 22,
-      "dmagic": 20,
-      "aspeed": 4
-    }
-  },
-  "25490": {
-    "name": "Voidwaker",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 70,
-      "aslash": 80,
-      "acrush": -2,
-      "amagic": 5,
-      "dslash": 1,
-      "dmagic": 2,
-      "str": 80,
-      "aspeed": 4
-    }
-  },
-  "25491": {
-    "name": "Accursed sceptre (au)",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 22,
-      "dmagic": 20,
-      "aspeed": 4
-    }
-  },
-  "25492": {
-    "name": "Accursed sceptre (a)",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 22,
-      "dmagic": 20,
-      "aspeed": 4
-    }
-  },
   "25500": {
     "name": "Cursed banana",
     "weight": 0.1,
@@ -75171,7 +75055,7 @@
   },
   "26394": {
     "name": "Bandosian components",
-    "weight": 0.095
+    "weight": 1.095
   },
   "26421": {
     "name": "Shattered relics variety ornament kit",
@@ -80121,5 +80005,179 @@
   "27643": {
     "name": "Charged ice",
     "weight": 0.19
+  },
+  "27645": {
+    "name": "Mystic cards",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -20,
+      "aspeed": 3
+    }
+  },
+  "27648": {
+    "name": "Venenatis spiderling",
+    "weight": 0.015
+  },
+  "27649": {
+    "name": "Callisto cub",
+    "weight": 0.015
+  },
+  "27650": {
+    "name": "Vet'ion jr.",
+    "weight": 0.015
+  },
+  "27651": {
+    "name": "Vet'ion jr.",
+    "weight": 0.015
+  },
+  "27652": {
+    "name": "Webweaver bow (u)",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 85,
+      "rstr": 65,
+      "aspeed": 4
+    }
+  },
+  "27655": {
+    "name": "Webweaver bow",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 85,
+      "rstr": 65,
+      "aspeed": 4
+    }
+  },
+  "27657": {
+    "name": "Ursine chainmace (u)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 53,
+      "aslash": -2,
+      "acrush": 71,
+      "str": 74,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "27660": {
+    "name": "Ursine chainmace",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 53,
+      "aslash": -2,
+      "acrush": 71,
+      "str": 74,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "27662": {
+    "name": "Accursed sceptre (u)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "27665": {
+    "name": "Accursed sceptre",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "27667": {
+    "name": "Claws of callisto",
+    "weight": 2.0
+  },
+  "27670": {
+    "name": "Fangs of venenatis",
+    "weight": 2.0
+  },
+  "27673": {
+    "name": "Skull of vet'ion",
+    "weight": 2.0
+  },
+  "27676": {
+    "name": "Accursed sceptre (au)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "27679": {
+    "name": "Accursed sceptre (a)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "27681": {
+    "name": "Voidwaker hilt",
+    "weight": 0.514
+  },
+  "27684": {
+    "name": "Voidwaker blade",
+    "weight": 0.9
+  },
+  "27687": {
+    "name": "Voidwaker gem",
+    "weight": 0.3
+  },
+  "27690": {
+    "name": "Voidwaker",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 70,
+      "aslash": 80,
+      "acrush": -2,
+      "amagic": 5,
+      "dslash": 1,
+      "dmagic": 2,
+      "str": 80,
+      "aspeed": 4
+    }
+  },
+  "27693": {
+    "name": "Ore pack",
+    "weight": 1.0
+  },
+  "27695": {
+    "name": "Dragon pickaxe (broken)",
+    "weight": 2.0
   }
 }

@@ -191,6 +191,26 @@
     "name": "Zombie",
     "hitpoints": 30
   },
+  "64": {
+    "name": "Zombie",
+    "hitpoints": 30
+  },
+  "65": {
+    "name": "Zombie",
+    "hitpoints": 30
+  },
+  "66": {
+    "name": "Zombie",
+    "hitpoints": 30
+  },
+  "67": {
+    "name": "Zombie",
+    "hitpoints": 30
+  },
+  "68": {
+    "name": "Zombie",
+    "hitpoints": 30
+  },
   "69": {
     "name": "Summoned Zombie",
     "hitpoints": 22
@@ -390,6 +410,10 @@
   "131": {
     "name": "Guard dog",
     "hitpoints": 49
+  },
+  "132": {
+    "name": "Hobgoblin",
+    "hitpoints": 62
   },
   "133": {
     "name": "Troll",
@@ -3569,7 +3593,7 @@
   },
   "2241": {
     "name": "Hobgoblin",
-    "hitpoints": 49
+    "hitpoints": 52
   },
   "2242": {
     "name": "Spiritual ranger",
@@ -3773,27 +3797,27 @@
   },
   "2501": {
     "name": "Zombie",
-    "hitpoints": 30
+    "hitpoints": 40
   },
   "2502": {
     "name": "Zombie",
-    "hitpoints": 30
+    "hitpoints": 40
   },
   "2503": {
     "name": "Zombie",
-    "hitpoints": 30
+    "hitpoints": 40
   },
   "2504": {
     "name": "Zombie",
-    "hitpoints": 40
+    "hitpoints": 50
   },
   "2505": {
     "name": "Zombie",
-    "hitpoints": 40
+    "hitpoints": 50
   },
   "2506": {
     "name": "Zombie",
-    "hitpoints": 40
+    "hitpoints": 50
   },
   "2507": {
     "name": "Zombie",
@@ -4501,7 +4525,7 @@
   },
   "3049": {
     "name": "Hobgoblin",
-    "hitpoints": 52
+    "hitpoints": 29
   },
   "3050": {
     "name": "Hobgoblin",
@@ -6608,7 +6632,7 @@
     "hitpoints": 70
   },
   "4799": {
-    "name": "Giant lobster",
+    "name": "Giant Lobster",
     "hitpoints": 50
   },
   "4813": {
@@ -6966,10 +6990,6 @@
   "5220": {
     "name": "Thief",
     "hitpoints": 17
-  },
-  "5223": {
-    "name": "Sigmund",
-    "hitpoints": 70
   },
   "5237": {
     "name": "Skeleton",
@@ -8889,11 +8909,11 @@
   },
   "6503": {
     "name": "Callisto",
-    "hitpoints": 255
+    "hitpoints": 1000
   },
   "6504": {
     "name": "Venenatis",
-    "hitpoints": 255
+    "hitpoints": 850
   },
   "6505": {
     "name": "Chaos Elemental",
@@ -8997,18 +9017,18 @@
   },
   "6609": {
     "name": "Callisto",
-    "hitpoints": 255
+    "hitpoints": 1000
   },
   "6610": {
     "name": "Venenatis",
-    "hitpoints": 255
+    "hitpoints": 850
   },
   "6611": {
     "name": "Vet'ion",
     "hitpoints": 255
   },
   "6612": {
-    "name": "Vet'ion Reborn",
+    "name": "Vet'ion",
     "hitpoints": 255
   },
   "6613": {
@@ -9041,7 +9061,7 @@
   },
   "6624": {
     "name": "Energy sprite",
-    "hitpoints": 62
+    "hitpoints": 60
   },
   "6698": {
     "name": "Ghost guard",
@@ -9845,19 +9865,15 @@
   },
   "7485": {
     "name": "Zombie",
-    "hitpoints": 65
+    "hitpoints": 68
   },
   "7486": {
     "name": "Zombie",
-    "hitpoints": 50
-  },
-  "7487": {
-    "name": "Zombie",
-    "hitpoints": 71
+    "hitpoints": 65
   },
   "7488": {
     "name": "Zombie",
-    "hitpoints": 68
+    "hitpoints": 71
   },
   "7513": {
     "name": "Derwen",
@@ -12275,6 +12291,38 @@
     "name": "Tribeswoman",
     "hitpoints": 39
   },
+  "11989": {
+    "name": "Grizzly bear",
+    "hitpoints": 75
+  },
+  "11990": {
+    "name": "Poison spider",
+    "hitpoints": 73
+  },
+  "11992": {
+    "name": "Artio",
+    "hitpoints": 450
+  },
+  "11994": {
+    "name": "Calvar'ion",
+    "hitpoints": 150
+  },
+  "11995": {
+    "name": "Calvar'ion",
+    "hitpoints": 150
+  },
+  "11998": {
+    "name": "Spindel",
+    "hitpoints": 515
+  },
+  "12000": {
+    "name": "Venenatis' Spiderling",
+    "hitpoints": 5
+  },
+  "12001": {
+    "name": "Spindel's Spiderling",
+    "hitpoints": 5
+  },
   "12046": {
     "name": "Evelot",
     "hitpoints": 160
@@ -12291,6 +12339,10 @@
     "name": "Assassin",
     "hitpoints": 400
   },
+  "12063": {
+    "name": "Strange Creature",
+    "hitpoints": 550
+  },
   "12073": {
     "name": "Strange Creature",
     "hitpoints": 550
@@ -12301,7 +12353,7 @@
   },
   "12075": {
     "name": "Strange Creature",
-    "hitpoints": 550
+    "hitpoints": 75
   },
   "12076": {
     "name": "Strange Creature",
@@ -12319,8 +12371,16 @@
     "name": "Phantom Muspah",
     "hitpoints": 75
   },
-  "12080": {
-    "name": "Phantom Muspah",
-    "hitpoints": 850
+  "12081": {
+    "name": "Strange Creature",
+    "hitpoints": 550
+  },
+  "12107": {
+    "name": "Skeleton Hellhound",
+    "hitpoints": 30
+  },
+  "12108": {
+    "name": "Greater Skeleton Hellhound",
+    "hitpoints": 30
   }
 }
