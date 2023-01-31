@@ -8,5 +8,10 @@
   "resetDeadOnChangeNpcs": [
     12002,
     11995
-  ]
+  ],
+	"outageMessage": "OldSchool RuneScape is temporarily offline for maintenance which should last approximately 3 hours. They expect it to be complete by 11:30 GMT (6:30 AM EST).",
+	"outageLinks": {
+		"OSRS Twitter": "https://twitter.com/OldSchoolRS",
+		"Game Status": "https://secure.runescape.com/m=news/game-status-information-centre?oldschool=1"
+	}
 }
