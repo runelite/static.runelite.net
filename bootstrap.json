@@ -468,5 +468,29 @@
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+    ],
+    "updates": [
+        {
+            "arch": "amd64",
+            "hash": "71273283cceb6b2a22d087264c8dd2dc11d044544190513bd2e4601f21a8264b",
+            "minimumVersion": "2.6.0",
+            "name": "RuneLiteSetup.exe",
+            "os": "windows",
+            "rollout": 1,
+            "size": 29319384,
+            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLiteSetup.exe",
+            "version": "2.6.1"
+        },
+        {
+            "arch": "x86",
+            "hash": "e1e80469ffba23013bf44dcedc81bea78b32626f64adb91ae5943146354933ba",
+            "minimumVersion": "2.6.0",
+            "name": "RuneLiteSetup32.exe",
+            "os": "windows",
+            "rollout": 1,
+            "size": 25226792,
+            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLiteSetup32.exe",
+            "version": "2.6.1"
+        }
     ]
 }
