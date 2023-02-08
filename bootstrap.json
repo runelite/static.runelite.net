@@ -491,6 +491,28 @@
             "size": 25226792,
             "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLiteSetup32.exe",
             "version": "2.6.1"
+        },
+        {
+            "arch": "aarch64",
+            "hash": "d656ab0d2d6c7f9da082277c908b0e29ee04049582c86bf466224040fd545a45",
+            "minimumVersion": "2.6.0",
+            "name": "RuneLite-aarch64.dmg",
+            "os": "mac",
+            "rollout": 1,
+            "size": 37270255,
+            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLite-aarch64.dmg",
+            "version": "2.6.1"
+        },
+        {
+            "arch": "x86_64",
+            "hash": "a5528041951e98047be5e3ff217fbe912351d857db24b9ff065e2d5f42539b11",
+            "minimumVersion": "2.6.0",
+            "name": "RuneLite-x64.dmg",
+            "os": "mac",
+            "rollout": 1,
+            "size": 35138946,
+            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLite-x64.dmg",
+            "version": "2.6.1"
         }
     ]
 }
