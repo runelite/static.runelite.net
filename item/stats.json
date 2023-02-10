@@ -73011,7 +73011,7 @@
   "25769": {
     "name": "Vile ashes",
     "weight": 0.056,
-    "ge_limit": 150
+    "ge_limit": 3000
   },
   "25772": {
     "name": "Malicious ashes",
@@ -80130,7 +80130,7 @@
       "slot": 3,
       "amagic": 22,
       "dmagic": 20,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "27679": {
@@ -80141,7 +80141,7 @@
       "slot": 3,
       "amagic": 22,
       "dmagic": 20,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "27681": {
@@ -80179,5 +80179,531 @@
   "27695": {
     "name": "Dragon pickaxe (broken)",
     "weight": 2.0
+  },
+  "27697": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "27699": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27701": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "27703": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27705": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "27707": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27709": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "27711": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27713": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "27715": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27717": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "27719": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27721": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "27723": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27725": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "27727": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27729": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "27731": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27733": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "27735": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27737": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "27739": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27741": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "27743": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27745": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "27747": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27749": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "27751": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27753": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "27755": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27757": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "27759": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27761": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "27763": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27765": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "27767": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27769": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "27771": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27773": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "27775": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "27777": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "27779": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27785": {
+    "name": "Thammaron's sceptre (au)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 15,
+      "dmagic": 20,
+      "aspeed": 5
+    }
+  },
+  "27788": {
+    "name": "Thammaron's sceptre (a)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 15,
+      "dmagic": 20,
+      "aspeed": 5
+    }
   }
 }
