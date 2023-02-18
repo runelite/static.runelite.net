@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.9.9.jar",
-                    "fromHash": "b17d4dcafe9a23000b31b99ef51086484e488acb00fcae94d12760a53a762247",
-                    "hash": "9ddf9a6b55553d8348b48f9b567d4b9bb393faba481422c1d4789f4ecd70263f",
-                    "name": "client-1.9.10.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.9.9.jar-client-1.9.10.jar.apdiff.gz.jar",
-                    "size": 28776
+                    "from": "client-1.9.10.jar",
+                    "fromHash": "3d5a3fa9fa04dc0135ec6d89190809a20a5b8bfad7a2bd85584acbbb97f94b0a",
+                    "hash": "a4b5ad497a3cbf0c247e2301035553c1ec437cb87267d30cfb6e22408297da8a",
+                    "name": "client-1.9.11.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.9.10.jar-client-1.9.11.jar.apdiff.gz.jar",
+                    "size": 114532
                 }
             ],
-            "hash": "3d5a3fa9fa04dc0135ec6d89190809a20a5b8bfad7a2bd85584acbbb97f94b0a",
-            "name": "client-1.9.10.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.9.10/client-1.9.10.jar",
-            "size": 6327093
+            "hash": "063ce9d18b2c9be821405e8d9c98aa391f5980b92c40dd7b348ab293c048eed2",
+            "name": "client-1.9.11.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.9.11/client-1.9.11.jar",
+            "size": 6364495
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -287,16 +287,16 @@
             "size": 100205
         },
         {
-            "hash": "78374a040e21a76fb26b4972b3b3478403d2d0736441d6d237e6c481db6abd75",
-            "name": "client-patch-1.9.10.jar",
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.9.10/client-patch-1.9.10.jar",
-            "size": 935617
+            "hash": "2f405759f8363c7a2ef96f8fb0297912ddf50a9c7a4942391e6f458e3a3c3de7",
+            "name": "client-patch-1.9.11.jar",
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.9.11/client-patch-1.9.11.jar",
+            "size": 935616
         },
         {
-            "hash": "b65cf207eab44dac2b93095cded92577c19eb870c5cfefbeb18361d480fd6628",
-            "name": "http-api-1.1.8.jar",
-            "path": "https://repo.runelite.net/net/runelite/arn/http-api/1.1.8/http-api-1.1.8.jar",
-            "size": 46307
+            "hash": "bc7453cf007b297f30ce85c940f28a4ffb804fe6f3b78530537e6cfef2f0e5d2",
+            "name": "http-api-1.2.3.jar",
+            "path": "https://repo.runelite.net/net/runelite/arn/http-api/1.2.3/http-api-1.2.3.jar",
+            "size": 47747
         },
         {
             "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
@@ -319,18 +319,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.9.9-runtime.jar",
-                    "fromHash": "73dc0c15d1993098fc6aabba51a3a94f5b3caa154bbc1444d74d19a37b86d171",
-                    "hash": "14a8175ad5228f02bd99ed88f8b515f36d5c4430d92386dd7b812b7d4472700a",
-                    "name": "runelite-api-1.9.10-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.9.9-runtime.jar-runelite-api-1.9.10-runtime.jar.apdiff.gz.jar",
-                    "size": 449
+                    "from": "runelite-api-1.9.10-runtime.jar",
+                    "fromHash": "33abb685f5817219e3dafd466ce3ef453055efd0e71c0089d7ffc38965a2dafe",
+                    "hash": "85f3cc6df53b5233060c91733f3ba6ce10645464687383d779bd7ba8864862e3",
+                    "name": "runelite-api-1.9.11-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.9.10-runtime.jar-runelite-api-1.9.11-runtime.jar.apdiff.gz.jar",
+                    "size": 415
                 }
             ],
-            "hash": "33abb685f5817219e3dafd466ce3ef453055efd0e71c0089d7ffc38965a2dafe",
-            "name": "runelite-api-1.9.10-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.9.10/runelite-api-1.9.10-runtime.jar",
-            "size": 237038
+            "hash": "d1a009b56687535fdf45329c70e274ab2b4f47b8da156c22dc559c5dd2ef9337",
+            "name": "runelite-api-1.9.11-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.9.11/runelite-api-1.9.11-runtime.jar",
+            "size": 237040
         }
     ],
     "client": {
@@ -339,7 +339,7 @@
         "extension": "jar",
         "groupId": "net.runelite",
         "properties": {},
-        "version": "1.9.10"
+        "version": "1.9.11"
     },
     "clientJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
@@ -358,7 +358,7 @@
     ],
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -376,15 +376,15 @@
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "archive-patcher-applier-1.2.jar": "ce932f3eeeb31021ae4d62108fdab23e18b7efd79833e4cd050e2d78d78c3347",
         "autocomplete-3.1.1.jar": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
-        "client-1.9.10.jar": "3d5a3fa9fa04dc0135ec6d89190809a20a5b8bfad7a2bd85584acbbb97f94b0a",
-        "client-patch-1.9.10.jar": "78374a040e21a76fb26b4972b3b3478403d2d0736441d6d237e6c481db6abd75",
+        "client-1.9.11.jar": "063ce9d18b2c9be821405e8d9c98aa391f5980b92c40dd7b348ab293c048eed2",
+        "client-patch-1.9.11.jar": "2f405759f8363c7a2ef96f8fb0297912ddf50a9c7a4942391e6f458e3a3c3de7",
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
         "commons-text-1.2.jar": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b",
         "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
         "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
         "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
-        "http-api-1.1.8.jar": "b65cf207eab44dac2b93095cded92577c19eb870c5cfefbeb18361d480fd6628",
+        "http-api-1.2.3.jar": "bc7453cf007b297f30ce85c940f28a4ffb804fe6f3b78530537e6cfef2f0e5d2",
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
         "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
         "jna-platform-5.9.0.jar": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
@@ -392,7 +392,7 @@
         "jocl-1.0-macos-x64.jar": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
         "jocl-1.0.jar": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
         "jopt-simple-5.0.1.jar": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
-        "jshell-1.9.10.jar": "a28ffb1129d752528a761e749a9e81c1602b504fcab73eb6eb1688cdd5622c9a",
+        "jshell-1.9.11.jar": "29f0b670782ebd5f607d8062a63cfd6f5a264622cb89bd38aa22480a64427e32",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
         "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
         "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
@@ -413,7 +413,7 @@
         "protobuf-javalite-3.21.12.jar": "cf678ab3fbc992f4b4654a86c03557c21904d635202b67688fcb2eca442c2d40",
         "rlawt-1.3.jar": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
-        "runelite-api-1.9.10.jar": "0f139443ce2c7cbb2ab40039560c00ae7f3ba8ca4f63b6dea4676e46d5c69415",
+        "runelite-api-1.9.11.jar": "559c4c2832993d100f724c14746ad3f0580810cf37013ce49f46c0a7a9fe0e72",
         "slf4j-api-1.7.25.jar": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
@@ -438,7 +438,7 @@
     "launcherJvm11WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -463,7 +463,7 @@
     "launcherJvm17WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
