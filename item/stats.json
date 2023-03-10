@@ -6392,7 +6392,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 10,
+      "astab": 7,
       "aslash": -1,
       "acrush": 28,
       "amagic": 12,
@@ -43029,7 +43029,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 7,
+      "astab": 10,
       "aslash": -1,
       "acrush": 40,
       "amagic": 14,
@@ -47751,6 +47751,14 @@
   "12744": {
     "name": "Magic imp box pack",
     "weight": 5.896
+  },
+  "12746": {
+    "name": "Archaic emblem (tier 1)",
+    "weight": 0.1
+  },
+  "12751": {
+    "name": "Archaic emblem (tier 5)",
+    "weight": 0.1
   },
   "12757": {
     "name": "Blue dark bow paint",
@@ -57763,7 +57771,7 @@
       "dcrush": 1,
       "dmagic": 10,
       "str": 35,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "21257": {
@@ -74650,6 +74658,10 @@
     },
     "ge_limit": 8
   },
+  "26231": {
+    "name": "Nihil shard",
+    "ge_limit": 30000
+  },
   "26233": {
     "name": "Ancient godsword",
     "weight": 10.0,
@@ -80704,6 +80716,183 @@
       "amagic": 15,
       "dmagic": 20,
       "aspeed": 5
+    }
+  },
+  "27794": {
+    "name": "Cracked cake tin",
+    "weight": 0.1
+  },
+  "27795": {
+    "name": "Prized cake tin",
+    "weight": 0.1
+  },
+  "27796": {
+    "name": "Promissory note",
+    "weight": 0.02
+  },
+  "27797": {
+    "name": "Special cake",
+    "weight": 0.3
+  },
+  "27798": {
+    "name": "Varrock cake",
+    "weight": 0.15
+  },
+  "27799": {
+    "name": "Gnome cake",
+    "weight": 0.35
+  },
+  "27800": {
+    "name": "Goblin cake",
+    "weight": 0.3
+  },
+  "27801": {
+    "name": "Dwarf cake",
+    "weight": 0.45
+  },
+  "27802": {
+    "name": "Gnome child backpack",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27804": {
+    "name": "Cake hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27806": {
+    "name": "Bob the cat slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27808": {
+    "name": "Jad slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "27810": {
+    "name": "Dragon candle dagger",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "27812": {
+    "name": "10th birthday cape",
+    "weight": 0.003,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "27814": {
+    "name": "Jad plush",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27816": {
+    "name": "Stray dog plush",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27818": {
+    "name": "Gnome child plush",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "27820": {
+    "name": "10th birthday balloons",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "27822": {
+    "name": "Oldschool jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27823": {
+    "name": "Oldschool jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27824": {
+    "name": "Oldschool jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27825": {
+    "name": "Oldschool jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27826": {
+    "name": "Oldschool jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27827": {
+    "name": "Oldschool jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "27828": {
+    "name": "Silver partyhat",
+    "weight": 0.056,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
     }
   }
 }
