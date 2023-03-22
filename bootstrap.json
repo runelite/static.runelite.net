@@ -361,15 +361,13 @@
         "-XX:+DisableAttachMechanism",
         "-Xmx512m",
         "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+        "-XX:CompileThreshold=1500"
     ],
     "clientJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
     ],
     "clientJvm9Arguments": [
@@ -464,8 +462,7 @@
         "-Drunelite.launcher.nojvm=true",
         "-Xmx512m",
         "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+        "-XX:CompileThreshold=1500"
     ],
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
@@ -473,7 +470,6 @@
         "-Xmx512m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
     ],
     "launcherJvm17WindowsArguments": [
@@ -482,53 +478,6 @@
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
         "-Xmx512m",
         "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
-    ],
-    "updates": [
-        {
-            "arch": "amd64",
-            "hash": "71273283cceb6b2a22d087264c8dd2dc11d044544190513bd2e4601f21a8264b",
-            "minimumVersion": "2.6.0",
-            "name": "RuneLiteSetup.exe",
-            "os": "windows",
-            "rollout": 1,
-            "size": 29319384,
-            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLiteSetup.exe",
-            "version": "2.6.1"
-        },
-        {
-            "arch": "x86",
-            "hash": "e1e80469ffba23013bf44dcedc81bea78b32626f64adb91ae5943146354933ba",
-            "minimumVersion": "2.6.0",
-            "name": "RuneLiteSetup32.exe",
-            "os": "windows",
-            "rollout": 1,
-            "size": 25226792,
-            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLiteSetup32.exe",
-            "version": "2.6.1"
-        },
-        {
-            "arch": "aarch64",
-            "hash": "d656ab0d2d6c7f9da082277c908b0e29ee04049582c86bf466224040fd545a45",
-            "minimumVersion": "2.6.0",
-            "name": "RuneLite-aarch64.dmg",
-            "os": "mac",
-            "rollout": 1,
-            "size": 37270255,
-            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLite-aarch64.dmg",
-            "version": "2.6.1"
-        },
-        {
-            "arch": "x86_64",
-            "hash": "a5528041951e98047be5e3ff217fbe912351d857db24b9ff065e2d5f42539b11",
-            "minimumVersion": "2.6.0",
-            "name": "RuneLite-x64.dmg",
-            "os": "mac",
-            "rollout": 1,
-            "size": 35138946,
-            "url": "https://github.com/runelite/launcher/releases/download/2.6.1/RuneLite-x64.dmg",
-            "version": "2.6.1"
-        }
+        "-XX:CompileThreshold=1500"
     ]
 }
