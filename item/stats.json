@@ -66879,6 +66879,10 @@
     "name": "Crystal tool seed",
     "ge_limit": 100
   },
+  "23956": {
+    "name": "Crystal armour seed",
+    "ge_limit": 100
+  },
   "23959": {
     "name": "Enhanced crystal teleport seed",
     "ge_limit": 100
@@ -80696,6 +80700,20 @@
       "slot": 0
     }
   },
+  "27783": {
+    "name": "Diamond speedrun trophy",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
   "27785": {
     "name": "Thammaron's sceptre (au)",
     "weight": 0.198,
@@ -80718,37 +80736,9 @@
       "aspeed": 5
     }
   },
-  "27794": {
-    "name": "Cracked cake tin",
-    "weight": 0.1
-  },
-  "27795": {
-    "name": "Prized cake tin",
-    "weight": 0.1
-  },
-  "27796": {
-    "name": "Promissory note",
-    "weight": 0.02
-  },
-  "27797": {
-    "name": "Special cake",
-    "weight": 0.3
-  },
   "27798": {
     "name": "Varrock cake",
     "weight": 0.15
-  },
-  "27799": {
-    "name": "Gnome cake",
-    "weight": 0.35
-  },
-  "27800": {
-    "name": "Goblin cake",
-    "weight": 0.3
-  },
-  "27801": {
-    "name": "Dwarf cake",
-    "weight": 0.45
   },
   "27802": {
     "name": "Gnome child backpack",
@@ -80893,6 +80883,483 @@
     "equipable": true,
     "equipment": {
       "slot": 0
+    }
+  },
+  "27831": {
+    "name": "Vesta's chainbody",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": 9,
+      "aslash": 9,
+      "acrush": 9,
+      "amagic": -32,
+      "arange": -15,
+      "dstab": 74,
+      "dslash": 81,
+      "dcrush": 89,
+      "dmagic": -18,
+      "drange": 95,
+      "str": 6
+    }
+  },
+  "27832": {
+    "name": "Vesta's plateskirt",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "astab": 7,
+      "aslash": 7,
+      "acrush": 7,
+      "amagic": -30,
+      "arange": -12,
+      "dstab": 55,
+      "dslash": 64,
+      "dcrush": 67,
+      "dmagic": -15,
+      "drange": 71,
+      "str": 3
+    }
+  },
+  "27833": {
+    "name": "Statius's full helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 3,
+      "aslash": 3,
+      "acrush": 5,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 52,
+      "dslash": 50,
+      "dcrush": 47,
+      "dmagic": -1,
+      "drange": 55,
+      "str": 3
+    }
+  },
+  "27834": {
+    "name": "Statius's platebody",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 7,
+      "amagic": -38,
+      "arange": -17,
+      "dstab": 102,
+      "dslash": 97,
+      "dcrush": 94,
+      "dmagic": -16,
+      "drange": 105,
+      "str": 5,
+      "prayer": 1
+    }
+  },
+  "27835": {
+    "name": "Statius's platelegs",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "astab": 3,
+      "aslash": 3,
+      "acrush": 5,
+      "amagic": -30,
+      "arange": -12,
+      "dstab": 73,
+      "dslash": 71,
+      "dcrush": 68,
+      "dmagic": -14,
+      "drange": 95,
+      "str": 3,
+      "prayer": 1
+    }
+  },
+  "27836": {
+    "name": "Morrigan's coif",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -5,
+      "arange": 13,
+      "dstab": 8,
+      "dslash": 11,
+      "dcrush": 14,
+      "dmagic": 8,
+      "drange": 12
+    }
+  },
+  "27837": {
+    "name": "Morrigan's leather body",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 36,
+      "dstab": 61,
+      "dslash": 53,
+      "dcrush": 66,
+      "dmagic": 75,
+      "drange": 62
+    }
+  },
+  "27838": {
+    "name": "Morrigan's leather chaps",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -10,
+      "arange": 23,
+      "dstab": 35,
+      "dslash": 29,
+      "dcrush": 37,
+      "dmagic": 46,
+      "drange": 35
+    }
+  },
+  "27839": {
+    "name": "Zuriel's hood",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 8,
+      "arange": -2,
+      "dstab": 20,
+      "dslash": 16,
+      "dcrush": 22,
+      "dmagic": 8
+    }
+  },
+  "27840": {
+    "name": "Zuriel's robe top",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 35,
+      "arange": -10,
+      "dstab": 63,
+      "dslash": 45,
+      "dcrush": 74,
+      "dmagic": 35
+    }
+  },
+  "27841": {
+    "name": "Zuriel's robe bottom",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 25,
+      "arange": -7,
+      "dstab": 38,
+      "dslash": 35,
+      "dcrush": 44,
+      "dmagic": 25
+    }
+  },
+  "27842": {
+    "name": "Vesta's chainbody (c)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": 7,
+      "aslash": 7,
+      "acrush": 7,
+      "amagic": -28,
+      "arange": -14,
+      "dstab": 25,
+      "dslash": 32,
+      "dcrush": 34,
+      "dmagic": -10,
+      "drange": 30,
+      "str": 2
+    }
+  },
+  "27843": {
+    "name": "Vesta's plateskirt (c)",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": -24,
+      "arange": -12,
+      "dstab": 22,
+      "dslash": 20,
+      "dcrush": 18,
+      "dmagic": -9,
+      "drange": 22,
+      "str": 2
+    }
+  },
+  "27844": {
+    "name": "Statius's full helm (c)",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": 3,
+      "aslash": 3,
+      "acrush": 4,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 17,
+      "dslash": 20,
+      "dcrush": 14,
+      "dmagic": -1,
+      "drange": 18
+    }
+  },
+  "27845": {
+    "name": "Statius's platebody (c)",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 7,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 50,
+      "dslash": 46,
+      "dcrush": 44,
+      "dmagic": -12,
+      "drange": 45
+    }
+  },
+  "27846": {
+    "name": "Statius's platelegs (c)",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "astab": 3,
+      "aslash": 3,
+      "acrush": 5,
+      "amagic": -26,
+      "arange": -13,
+      "dstab": 25,
+      "dslash": 23,
+      "dcrush": 21,
+      "dmagic": -10,
+      "drange": 22
+    }
+  },
+  "27847": {
+    "name": "Morrigan's coif (c)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -4,
+      "arange": 7,
+      "dstab": 4,
+      "dslash": 5,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 6
+    }
+  },
+  "27848": {
+    "name": "Morrigan's leather body (c)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -13,
+      "arange": 16,
+      "dstab": 27,
+      "dslash": 20,
+      "dcrush": 24,
+      "dmagic": 30,
+      "drange": 28
+    }
+  },
+  "27849": {
+    "name": "Morrigan's leather chaps (c)",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -8,
+      "arange": 12,
+      "dstab": 18,
+      "dslash": 15,
+      "dcrush": 16,
+      "dmagic": 20,
+      "drange": 19
+    }
+  },
+  "27850": {
+    "name": "Zuriel's hood (c)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 4,
+      "arange": -1,
+      "dstab": 13,
+      "dslash": 11,
+      "dcrush": 14,
+      "dmagic": 5
+    }
+  },
+  "27851": {
+    "name": "Zuriel's robe top (c)",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 15,
+      "arange": -8,
+      "dstab": 43,
+      "dslash": 39,
+      "dcrush": 47,
+      "dmagic": 22
+    }
+  },
+  "27852": {
+    "name": "Zuriel's robe bottom (c)",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 10,
+      "arange": -6,
+      "dstab": 21,
+      "dslash": 20,
+      "dcrush": 23,
+      "dmagic": 14
+    }
+  },
+  "27853": {
+    "name": "Dark bow (bh)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 105,
+      "aspeed": 9
+    }
+  },
+  "27855": {
+    "name": "Barrelchest anchor (bh)",
+    "weight": 30.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -2,
+      "aslash": 10,
+      "acrush": 92,
+      "str": 100,
+      "aspeed": 6
+    }
+  },
+  "27857": {
+    "name": "Dragon mace (bh)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 44,
+      "aslash": -2,
+      "acrush": 64,
+      "str": 55,
+      "prayer": 5,
+      "aspeed": 4
+    }
+  },
+  "27859": {
+    "name": "Dragon longsword (bh)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 62,
+      "aslash": 75,
+      "acrush": -2,
+      "dslash": 3,
+      "dcrush": 2,
+      "str": 71,
+      "aspeed": 5
+    }
+  },
+  "27861": {
+    "name": "Abyssal dagger (bh)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 85,
+      "aslash": 40,
+      "acrush": -4,
+      "amagic": 1,
+      "dmagic": 1,
+      "str": 75,
+      "aspeed": 4
+    }
+  },
+  "27863": {
+    "name": "Abyssal dagger (bhp)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 85,
+      "aslash": 40,
+      "acrush": -4,
+      "amagic": 1,
+      "dmagic": 1,
+      "str": 75,
+      "aspeed": 4
+    }
+  },
+  "27865": {
+    "name": "Abyssal dagger (bhp+)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 85,
+      "aslash": 40,
+      "acrush": -4,
+      "amagic": 1,
+      "dmagic": 1,
+      "str": 75,
+      "aspeed": 4
+    }
+  },
+  "27867": {
+    "name": "Abyssal dagger (bhp++)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 85,
+      "aslash": 40,
+      "acrush": -4,
+      "amagic": 1,
+      "dmagic": 1,
+      "str": 75,
+      "aspeed": 4
     }
   }
 }
