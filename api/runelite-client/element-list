@@ -25,6 +25,7 @@ net.runelite.client.plugins.agility
 net.runelite.client.plugins.ammo
 net.runelite.client.plugins.animsmoothing
 net.runelite.client.plugins.antidrag
+net.runelite.client.plugins.aprilfools
 net.runelite.client.plugins.attackstyles
 net.runelite.client.plugins.bank
 net.runelite.client.plugins.banktags
