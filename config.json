@@ -1,4 +1,8 @@
 {
+  "ignoreDeadNpcs": [
+    6600,
+    6601
+  ],
   "props": {
     "outdatedLauncherWarning": true,
     "outdatedLauncherJava8": true,
