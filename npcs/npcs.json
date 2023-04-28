@@ -5248,7 +5248,7 @@
     "hitpoints": 38
   },
   "3544": {
-    "name": "Desert snake",
+    "name": "Snake",
     "hitpoints": 6
   },
   "3549": {
@@ -12291,11 +12291,11 @@
     "name": "Artio",
     "hitpoints": 450
   },
-  "11994": {
+  "11993": {
     "name": "Calvar'ion",
     "hitpoints": 150
   },
-  "11995": {
+  "11994": {
     "name": "Calvar'ion",
     "hitpoints": 150
   },
