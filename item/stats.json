@@ -10011,7 +10011,7 @@
     "equipment": {
       "slot": 12
     },
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "2554": {
     "name": "Ring of dueling(7)",
@@ -14137,6 +14137,10 @@
   "3618": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
+  },
+  "3667": {
+    "name": "Boss helper tool",
+    "weight": 1.814
   },
   "3678": {
     "name": "Flamtaer hammer",
@@ -46081,7 +46085,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 42,
+      "astab": 40,
       "aslash": -2,
       "acrush": 60,
       "str": 55,
@@ -64850,6 +64854,10 @@
     "equipable": true,
     "equipment": {}
   },
+  "23490": {
+    "name": "Larran's key",
+    "ge_limit": 250
+  },
   "23495": {
     "name": "Sraracha",
     "weight": 0.015
@@ -72130,6 +72138,139 @@
     "weight": 0.015,
     "ge_limit": 50
   },
+  "25484": {
+    "name": "Soulreaper axe",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 28,
+      "aslash": 134,
+      "acrush": 66,
+      "str": 115,
+      "aspeed": 5
+    }
+  },
+  "25485": {
+    "name": "Ring of true blood",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "str": 12
+    }
+  },
+  "25486": {
+    "name": "Ring of true ice",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "amagic": 15,
+      "mdmg": 2
+    }
+  },
+  "25487": {
+    "name": "Ring of true smoke",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "arange": 10,
+      "rstr": 2
+    }
+  },
+  "25488": {
+    "name": "Ring of true shadow",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "aslash": 12,
+      "str": 4
+    }
+  },
+  "25489": {
+    "name": "Blood ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "25490": {
+    "name": "Ice ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "25491": {
+    "name": "Smoke ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "25492": {
+    "name": "Shadow ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
   "25500": {
     "name": "Cursed banana",
     "weight": 0.1,
@@ -74756,7 +74897,7 @@
     }
   },
   "26245": {
-    "name": "Virtus robe bottoms",
+    "name": "Virtus robe bottom",
     "weight": 3.79,
     "equipable": true,
     "equipment": {
@@ -75475,7 +75616,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "26520": {
@@ -79179,7 +79320,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "27424": {
@@ -79193,7 +79334,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "27426": {
@@ -80132,7 +80273,8 @@
   },
   "27670": {
     "name": "Fangs of venenatis",
-    "weight": 2.0
+    "weight": 2.0,
+    "ge_limit": 8
   },
   "27673": {
     "name": "Skull of vet'ion",
@@ -80711,7 +80853,7 @@
       "aslash": -100,
       "acrush": -50,
       "str": -10,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "27785": {
@@ -80994,7 +81136,8 @@
       "dslash": 11,
       "dcrush": 14,
       "dmagic": 8,
-      "drange": 12
+      "drange": 12,
+      "rstr": 4
     }
   },
   "27837": {
@@ -81009,7 +81152,8 @@
       "dslash": 53,
       "dcrush": 66,
       "dmagic": 75,
-      "drange": 62
+      "drange": 62,
+      "rstr": 6
     }
   },
   "27838": {
@@ -81024,7 +81168,8 @@
       "dslash": 29,
       "dcrush": 37,
       "dmagic": 46,
-      "drange": 35
+      "drange": 35,
+      "rstr": 6
     }
   },
   "27839": {
@@ -81075,9 +81220,9 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "astab": 7,
-      "aslash": 7,
-      "acrush": 7,
+      "astab": 8,
+      "aslash": 8,
+      "acrush": 8,
       "amagic": -28,
       "arange": -14,
       "dstab": 25,
@@ -81085,7 +81230,7 @@
       "dcrush": 34,
       "dmagic": -10,
       "drange": 30,
-      "str": 2
+      "str": 5
     }
   },
   "27843": {
@@ -81094,9 +81239,9 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "astab": 5,
-      "aslash": 5,
-      "acrush": 5,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 6,
       "amagic": -24,
       "arange": -12,
       "dstab": 22,
@@ -81112,7 +81257,7 @@
     "weight": 2.721,
     "equipable": true,
     "equipment": {
-      "slot": 4,
+      "slot": 0,
       "astab": 3,
       "aslash": 3,
       "acrush": 4,
@@ -81122,7 +81267,8 @@
       "dslash": 20,
       "dcrush": 14,
       "dmagic": -1,
-      "drange": 18
+      "drange": 18,
+      "str": 2
     }
   },
   "27845": {
@@ -81140,7 +81286,8 @@
       "dslash": 46,
       "dcrush": 44,
       "dmagic": -12,
-      "drange": 45
+      "drange": 45,
+      "str": 4
     }
   },
   "27846": {
@@ -81158,7 +81305,8 @@
       "dslash": 23,
       "dcrush": 21,
       "dmagic": -10,
-      "drange": 22
+      "drange": 22,
+      "str": 2
     }
   },
   "27847": {
@@ -81168,12 +81316,13 @@
     "equipment": {
       "slot": 0,
       "amagic": -4,
-      "arange": 7,
+      "arange": 13,
       "dstab": 4,
       "dslash": 5,
       "dcrush": 6,
       "dmagic": 4,
-      "drange": 6
+      "drange": 6,
+      "rstr": 2
     }
   },
   "27848": {
@@ -81183,12 +81332,13 @@
     "equipment": {
       "slot": 4,
       "amagic": -13,
-      "arange": 16,
+      "arange": 36,
       "dstab": 27,
       "dslash": 20,
       "dcrush": 24,
       "dmagic": 30,
-      "drange": 28
+      "drange": 28,
+      "rstr": 4
     }
   },
   "27849": {
@@ -81198,12 +81348,13 @@
     "equipment": {
       "slot": 7,
       "amagic": -8,
-      "arange": 12,
+      "arange": 23,
       "dstab": 18,
       "dslash": 15,
       "dcrush": 16,
       "dmagic": 20,
-      "drange": 19
+      "drange": 19,
+      "rstr": 4
     }
   },
   "27850": {
@@ -81212,7 +81363,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 4,
+      "amagic": 5,
       "arange": -1,
       "dstab": 13,
       "dslash": 11,
@@ -81226,7 +81377,7 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": 15,
+      "amagic": 25,
       "arange": -8,
       "dstab": 43,
       "dslash": 39,
@@ -81240,7 +81391,7 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": 10,
+      "amagic": 18,
       "arange": -6,
       "dstab": 21,
       "dslash": 20,
@@ -81361,5 +81512,74 @@
       "str": 75,
       "aspeed": 4
     }
+  },
+  "27871": {
+    "name": "Giant bronze dagger",
+    "weight": 30.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 4,
+      "aslash": 2,
+      "acrush": -4,
+      "amagic": 1,
+      "dmagic": 1,
+      "str": 3,
+      "aspeed": 4
+    }
+  },
+  "27873": {
+    "name": "Eastfloor spade",
+    "weight": 1.814
+  },
+  "27875": {
+    "name": "Nest hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27877": {
+    "name": "Nest hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "27878": {
+    "name": "Easter egg",
+    "weight": 0.2,
+    "ge_limit": 50
+  },
+  "27880": {
+    "name": "Warm easter egg",
+    "weight": 0.2
+  },
+  "27882": {
+    "name": "Easter egg half",
+    "weight": 0.1
+  },
+  "27884": {
+    "name": "Egg mould",
+    "weight": 0.141
+  },
+  "27886": {
+    "name": "Dusted egg mould",
+    "weight": 0.17
+  },
+  "27888": {
+    "name": "Hot egg mould",
+    "weight": 0.17
+  },
+  "27890": {
+    "name": "Bucket of freezing milk",
+    "weight": 2.2
+  },
+  "27892": {
+    "name": "Easter chocolate dust",
+    "weight": 0.15
   }
 }
