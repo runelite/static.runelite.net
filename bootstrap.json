@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.9.16.jar",
-                    "fromHash": "63b4347e0efd7c4f1d0e28a9e59129d3543b351466785d1eba65b22b07cd0bc0",
-                    "hash": "a35be31e5d663f9d783a754854567994d84eb25457bd8fcc7d6d347760028509",
-                    "name": "client-1.10.0.1.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.9.16.jar-client-1.10.0.1.jar.apdiff.gz.jar",
-                    "size": 21742
+                    "from": "client-1.10.0.1.jar",
+                    "fromHash": "3296c0305208bb2b1a158ed892450c667ba7f4310861e9d0eba5a5871f9b63d3",
+                    "hash": "d6e24b272d57e7f7d3656551ff75ebec63e99a5c7c2f73bb9aefb0adabdb6e40",
+                    "name": "client-1.10.0.2.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.10.0.1.jar-client-1.10.0.2.jar.apdiff.gz.jar",
+                    "size": 11015
                 }
             ],
-            "hash": "3296c0305208bb2b1a158ed892450c667ba7f4310861e9d0eba5a5871f9b63d3",
-            "name": "client-1.10.0.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.0.1/client-1.10.0.1.jar",
-            "size": 6379292
+            "hash": "197d3fe839145762a4e0b5cad502e244a7c1ac2592c59e96cacd226db4d0c9b9",
+            "name": "client-1.10.0.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.10.0.2/client-1.10.0.2.jar",
+            "size": 6379302
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -287,10 +287,10 @@
             "size": 100205
         },
         {
-            "hash": "fface6a986fe48da0290800e92a0e1489d25d8c028294934c7596b5e53e1cfa7",
-            "name": "client-patch-1.10.0.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.0.1/client-patch-1.10.0.1.jar",
-            "size": 936207
+            "hash": "87c3eb0b6a745e8a436669007d58a8ab9f5df61d7d8d5e50159a1cbc28ec833e",
+            "name": "client-patch-1.10.0.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.0.2/client-patch-1.10.0.2.jar",
+            "size": 936249
         },
         {
             "hash": "bc7453cf007b297f30ce85c940f28a4ffb804fe6f3b78530537e6cfef2f0e5d2",
@@ -319,17 +319,17 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.9.16-runtime.jar",
-                    "fromHash": "1a34444c96b455093e477b9e95814a308e6632566b65cbada18f8f5760d202f8",
-                    "hash": "06f69b779bb7d543a8d0a8492568430f8d66c2e03b0b12225b188634fdbae442",
-                    "name": "runelite-api-1.10.0.1-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.9.16-runtime.jar-runelite-api-1.10.0.1-runtime.jar.apdiff.gz.jar",
-                    "size": 2227
+                    "from": "runelite-api-1.10.0.1-runtime.jar",
+                    "fromHash": "530676de34b6fee7f68a5e1a46d28df6de880c4a7069a8f1a8451c2fa174b69e",
+                    "hash": "bf065eae0ddc43478875f63d5ed03d052961680d2d961aeced198d0af14c840d",
+                    "name": "runelite-api-1.10.0.2-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.0.1-runtime.jar-runelite-api-1.10.0.2-runtime.jar.apdiff.gz.jar",
+                    "size": 409
                 }
             ],
-            "hash": "530676de34b6fee7f68a5e1a46d28df6de880c4a7069a8f1a8451c2fa174b69e",
-            "name": "runelite-api-1.10.0.1-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.0.1/runelite-api-1.10.0.1-runtime.jar",
+            "hash": "e59f4bc777acd987d3dd64cdf5e763849c887f836e84acda83dea8b082ebb5f4",
+            "name": "runelite-api-1.10.0.2-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.0.2/runelite-api-1.10.0.2-runtime.jar",
             "size": 231937
         }
     ],
@@ -410,5 +410,5 @@
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
-    "version": "1.10.0.1"
+    "version": "1.10.0.2"
 }
