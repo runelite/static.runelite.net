@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.10.0.5.jar",
-                    "fromHash": "abd266d0f350b007127c6cd3527b5230c4f9a0dd7310f4eaf9550c17f5e52bcf",
-                    "hash": "50c768c8f84ff2a6b69e5b2cb10c4bf970f88c6c05707dc3657aef50f654f707",
-                    "name": "client-1.10.0.6.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.0.5.jar-client-1.10.0.6.jar.apdiff.gz.jar",
-                    "size": 11633
+                    "from": "client-1.10.0.6.jar",
+                    "fromHash": "019c0ba6eabc809d2b241d9531a032d857f7cef62e3ab5919834e4426d4def0c",
+                    "hash": "a15ce534c53d8870a8ee13c2e9a44a41cfa7b370f8c51aee569d5ce4656dddc4",
+                    "name": "client-1.10.0.7.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.10.0.6.jar-client-1.10.0.7.jar.apdiff.gz.jar",
+                    "size": 10945
                 }
             ],
-            "hash": "019c0ba6eabc809d2b241d9531a032d857f7cef62e3ab5919834e4426d4def0c",
-            "name": "client-1.10.0.6.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.0.6/client-1.10.0.6.jar",
-            "size": 6379334
+            "hash": "dae5a60ab99a2d89fbbfea86c8a1a486cd52375dcc21ee17042bbef0e2c7b2f6",
+            "name": "client-1.10.0.7.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.10.0.7/client-1.10.0.7.jar",
+            "size": 6379325
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -287,10 +287,10 @@
             "size": 100205
         },
         {
-            "hash": "581d1df5b71faaaf23d4dc8678cd975b063ed4edea362999b424dfadb85ef06b",
-            "name": "client-patch-1.10.0.6.jar",
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.0.6/client-patch-1.10.0.6.jar",
-            "size": 930490
+            "hash": "bc3232aa25b332e5242f260e178f324adf9280e44fd66d765675b02d91781b2e",
+            "name": "client-patch-1.10.0.7.jar",
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.0.7/client-patch-1.10.0.7.jar",
+            "size": 938952
         },
         {
             "hash": "bc7453cf007b297f30ce85c940f28a4ffb804fe6f3b78530537e6cfef2f0e5d2",
@@ -319,18 +319,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.10.0.5-runtime.jar",
-                    "fromHash": "6548f55a24bfb71beca600935ff38fd56c6a1f7033dd424e60fc538edb1725a8",
-                    "hash": "b012243596a7cea175739ccca74bd02e201742e4803a909dfa9eb7e82c874eea",
-                    "name": "runelite-api-1.10.0.6-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.0.5-runtime.jar-runelite-api-1.10.0.6-runtime.jar.apdiff.gz.jar",
-                    "size": 407
+                    "from": "runelite-api-1.10.0.6-runtime.jar",
+                    "fromHash": "46eabe0ac2c96a0709efb22e98a46043ec2311c23382db3dd0356a1ea5ad8680",
+                    "hash": "b680438466c9414685d1ba9edfb50619658aae8fb82b2140808efa3e9fb4cc28",
+                    "name": "runelite-api-1.10.0.7-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.0.6-runtime.jar-runelite-api-1.10.0.7-runtime.jar.apdiff.gz.jar",
+                    "size": 1294
                 }
             ],
-            "hash": "46eabe0ac2c96a0709efb22e98a46043ec2311c23382db3dd0356a1ea5ad8680",
-            "name": "runelite-api-1.10.0.6-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.0.6/runelite-api-1.10.0.6-runtime.jar",
-            "size": 231938
+            "hash": "a585b038ef6169787cb8d9bfb0314977f75daacadbeb9b98f6e06703d20deed4",
+            "name": "runelite-api-1.10.0.7-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.0.7/runelite-api-1.10.0.7-runtime.jar",
+            "size": 231963
         }
     ],
     "clientJvm17Arguments": [
@@ -410,5 +410,5 @@
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
-    "version": "1.10.0.6"
+    "version": "1.10.0.7"
 }
