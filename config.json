@@ -1,7 +1,1 @@
-{
-  "props": {
-    "outdatedLauncherWarning": true,
-    "outdatedLauncherJava8": true,
-    "java8Brownout": true
-  }
-}
+{}
