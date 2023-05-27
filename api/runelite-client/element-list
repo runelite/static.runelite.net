@@ -71,7 +71,6 @@ net.runelite.client.plugins.entityhider
 net.runelite.client.plugins.examine
 net.runelite.client.plugins.experiencedrop
 net.runelite.client.plugins.fairyring
-net.runelite.client.plugins.feed
 net.runelite.client.plugins.fishing
 net.runelite.client.plugins.fps
 net.runelite.client.plugins.friendlist
