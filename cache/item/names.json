@@ -15714,10 +15714,10 @@
   "25481": "Runescroll of bloodbark",
   "25482": "Runescroll of bloodbark",
   "25484": "Soulreaper axe",
-  "25485": "Ring of true blood",
-  "25486": "Ring of true ice",
-  "25487": "Ring of true smoke",
-  "25488": "Ring of true shadow",
+  "25485": "Ultor ring",
+  "25486": "Magus ring",
+  "25487": "Ventor ring",
+  "25488": "Bellator ring",
   "25489": "Blood ancient sceptre",
   "25490": "Ice ancient sceptre",
   "25491": "Smoke ancient sceptre",
@@ -17414,5 +17414,8 @@
   "28124": "Colourful jumper",
   "28125": "Colourful jumper",
   "28126": "Poet's jacket",
-  "28128": "Love crossbow"
+  "28128": "Love crossbow",
+  "28130": "Strange icon",
+  "28132": "Dusty lamp",
+  "28133": "Crypt map"
 }
