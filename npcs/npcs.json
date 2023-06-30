@@ -652,7 +652,7 @@
     "hitpoints": 37
   },
   "302": {
-    "name": "Donny the Lad",
+    "name": "Donny the lad",
     "hitpoints": 37
   },
   "303": {
@@ -2083,17 +2083,21 @@
     "name": "Cave horror",
     "hitpoints": 55
   },
+  "1060": {
+    "name": "Angry bear",
+    "hitpoints": 200
+  },
   "1061": {
     "name": "Angry unicorn",
-    "hitpoints": 50
+    "hitpoints": 200
   },
   "1062": {
     "name": "Angry giant rat",
-    "hitpoints": 50
+    "hitpoints": 200
   },
   "1065": {
     "name": "Angry goblin",
-    "hitpoints": 50
+    "hitpoints": 200
   },
   "1066": {
     "name": "Fear reaper",
@@ -2528,7 +2532,7 @@
     "hitpoints": 157
   },
   "1443": {
-    "name": "Jungle demon",
+    "name": "Jungle Demon",
     "hitpoints": 170
   },
   "1447": {
@@ -2608,11 +2612,11 @@
     "hitpoints": 25
   },
   "1558": {
-    "name": "Earth Wizard",
+    "name": "Earth wizard",
     "hitpoints": 25
   },
   "1559": {
-    "name": "Air Wizard",
+    "name": "Air wizard",
     "hitpoints": 25
   },
   "1603": {
@@ -2944,7 +2948,7 @@
     "hitpoints": 120
   },
   "1782": {
-    "name": "Scarab swarm",
+    "name": "Scarab Swarm",
     "hitpoints": 25
   },
   "1792": {
@@ -3776,15 +3780,15 @@
     "hitpoints": 2
   },
   "2498": {
-    "name": "Flesh crawler",
+    "name": "Flesh Crawler",
     "hitpoints": 25
   },
   "2499": {
-    "name": "Flesh crawler",
+    "name": "Flesh Crawler",
     "hitpoints": 25
   },
   "2500": {
-    "name": "Flesh crawler",
+    "name": "Flesh Crawler",
     "hitpoints": 25
   },
   "2501": {
@@ -5100,7 +5104,7 @@
     "hitpoints": 123
   },
   "3361": {
-    "name": "Kourend guard",
+    "name": "Guard",
     "hitpoints": 800
   },
   "3400": {
@@ -6080,7 +6084,7 @@
     "hitpoints": 27
   },
   "4192": {
-    "name": "Scarab swarm",
+    "name": "Scarab Swarm",
     "hitpoints": 25
   },
   "4195": {
@@ -7252,15 +7256,15 @@
     "hitpoints": 190
   },
   "5615": {
-    "name": "Swamp Snake",
+    "name": "Swamp snake",
     "hitpoints": 120
   },
   "5616": {
-    "name": "Swamp Snake",
+    "name": "Swamp snake",
     "hitpoints": 125
   },
   "5617": {
-    "name": "Swamp Snake",
+    "name": "Swamp snake",
     "hitpoints": 130
   },
   "5625": {
@@ -7800,7 +7804,7 @@
     "hitpoints": 250
   },
   "5776": {
-    "name": "Queen Spawn",
+    "name": "Queen spawn",
     "hitpoints": 45
   },
   "5779": {
@@ -8340,7 +8344,7 @@
     "hitpoints": 135
   },
   "6321": {
-    "name": "Jungle demon (hard)",
+    "name": "Jungle Demon (hard)",
     "hitpoints": 255
   },
   "6322": {
@@ -8376,7 +8380,7 @@
     "hitpoints": 255
   },
   "6330": {
-    "name": "Dad",
+    "name": "Dad (hard)",
     "hitpoints": 240
   },
   "6331": {
@@ -8580,7 +8584,7 @@
     "hitpoints": 45
   },
   "6382": {
-    "name": "Jungle demon",
+    "name": "Jungle Demon",
     "hitpoints": 170
   },
   "6383": {
@@ -8895,13 +8899,17 @@
     "name": "Kalphite Queen",
     "hitpoints": 255
   },
+  "6502": {
+    "name": "King Black Dragon",
+    "hitpoints": 240
+  },
   "6503": {
     "name": "Callisto",
-    "hitpoints": 1000
+    "hitpoints": 255
   },
   "6504": {
     "name": "Venenatis",
-    "hitpoints": 850
+    "hitpoints": 255
   },
   "6505": {
     "name": "Chaos Elemental",
@@ -9104,27 +9112,27 @@
     "hitpoints": 170
   },
   "6732": {
-    "name": "River Troll",
+    "name": "River troll",
     "hitpoints": 25
   },
   "6733": {
-    "name": "River Troll",
+    "name": "River troll",
     "hitpoints": 40
   },
   "6734": {
-    "name": "River Troll",
+    "name": "River troll",
     "hitpoints": 60
   },
   "6735": {
-    "name": "River Troll",
+    "name": "River troll",
     "hitpoints": 85
   },
   "6736": {
-    "name": "River Troll",
+    "name": "River troll",
     "hitpoints": 120
   },
   "6737": {
-    "name": "River Troll",
+    "name": "River troll",
     "hitpoints": 170
   },
   "6739": {
@@ -9316,7 +9324,7 @@
     "hitpoints": 8
   },
   "7018": {
-    "name": "Reanimated Goblin",
+    "name": "Reanimated goblin",
     "hitpoints": 5
   },
   "7019": {
