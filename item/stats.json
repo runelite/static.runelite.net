@@ -72172,7 +72172,7 @@
     }
   },
   "25487": {
-    "name": "Ventor ring",
+    "name": "Venator ring",
     "weight": 0.012,
     "equipable": true,
     "equipment": {
@@ -72187,8 +72187,8 @@
     "equipable": true,
     "equipment": {
       "slot": 12,
-      "aslash": 12,
-      "str": 4
+      "aslash": 20,
+      "str": 6
     }
   },
   "25489": {
@@ -74878,6 +74878,7 @@
       "dslash": 14,
       "dcrush": 16,
       "dmagic": 6,
+      "mdmg": 1,
       "prayer": 1
     }
   },
@@ -74893,6 +74894,7 @@
       "dslash": 38,
       "dcrush": 56,
       "dmagic": 31,
+      "mdmg": 1,
       "prayer": 2
     }
   },
@@ -74908,6 +74910,7 @@
       "dslash": 28,
       "dcrush": 34,
       "dmagic": 22,
+      "mdmg": 1,
       "prayer": 1
     }
   },
@@ -82867,13 +82870,17 @@
     "name": "Log basket",
     "weight": 1.39,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1
+    }
   },
   "28142": {
     "name": "Open log basket",
     "weight": 1.39,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1
+    }
   },
   "28143": {
     "name": "Forestry basket",
@@ -82966,7 +82973,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 4,
+      "acrush": 2,
+      "dslash": 1,
+      "str": 5,
+      "aspeed": 5
     }
   },
   "28199": {
@@ -82975,7 +82988,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 5,
+      "acrush": 3,
+      "dslash": 1,
+      "str": 7,
+      "aspeed": 5
     }
   },
   "28202": {
@@ -82984,7 +83003,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 8,
+      "acrush": 6,
+      "dslash": 1,
+      "str": 9,
+      "aspeed": 5
     }
   },
   "28205": {
@@ -82993,7 +83018,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 10,
+      "acrush": 8,
+      "dslash": 1,
+      "str": 12,
+      "aspeed": 5
     }
   },
   "28208": {
@@ -83002,7 +83033,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 12,
+      "acrush": 10,
+      "dslash": 1,
+      "str": 13,
+      "aspeed": 5
     }
   },
   "28211": {
@@ -83011,7 +83048,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 17,
+      "acrush": 15,
+      "dslash": 1,
+      "str": 19,
+      "aspeed": 5
     }
   },
   "28214": {
@@ -83020,7 +83063,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 26,
+      "acrush": 24,
+      "dslash": 1,
+      "str": 29,
+      "aspeed": 5
     }
   },
   "28217": {
@@ -83029,7 +83078,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
     }
   },
   "28220": {
@@ -83038,7 +83093,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
     }
   },
   "28223": {
@@ -83047,7 +83108,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
     }
   },
   "28226": {
@@ -83056,7 +83123,13 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
     }
   },
   "28229": {
