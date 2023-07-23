@@ -442,5 +442,18 @@
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
+    "updates": [
+        {
+            "arch": "x86",
+            "hash": "3e79a0aa4d09ff8782e8ca7a30b4948abb935eacdce8b71d6263fb92e1d25e79",
+            "minimumVersion": "2.6.0",
+            "name": "RuneLiteSetup32.exe",
+            "os": "windows",
+            "rollout": 0.1,
+            "size": 25299936,
+            "url": "https://github.com/runelite/launcher/releases/download/2.6.7/RuneLiteSetup32.exe",
+            "version": "2.6.7"
+        }
+    ],
     "version": "1.10.8.3"
 }
