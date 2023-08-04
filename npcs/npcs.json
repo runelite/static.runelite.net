@@ -2299,6 +2299,30 @@
     "name": "Arzinian Avatar of Magic",
     "hitpoints": 70
   },
+  "1241": {
+    "name": "Evil creature",
+    "hitpoints": 1
+  },
+  "1244": {
+    "name": "Evil creature",
+    "hitpoints": 1
+  },
+  "1247": {
+    "name": "Evil creature",
+    "hitpoints": 1
+  },
+  "1250": {
+    "name": "Evil creature",
+    "hitpoints": 1
+  },
+  "1253": {
+    "name": "Evil creature",
+    "hitpoints": 1
+  },
+  "1256": {
+    "name": "Evil creature",
+    "hitpoints": 1
+  },
   "1261": {
     "name": "Ram",
     "hitpoints": 8
@@ -12414,5 +12438,201 @@
   "12108": {
     "name": "Greater Skeleton Hellhound",
     "hitpoints": 30
+  },
+  "12166": {
+    "name": "Duke Sucellus",
+    "hitpoints": 440
+  },
+  "12167": {
+    "name": "Duke Sucellus",
+    "hitpoints": 440
+  },
+  "12191": {
+    "name": "Duke Sucellus",
+    "hitpoints": 440
+  },
+  "12192": {
+    "name": "Duke Sucellus",
+    "hitpoints": 440
+  },
+  "12193": {
+    "name": "Duke Sucellus",
+    "hitpoints": 360
+  },
+  "12194": {
+    "name": "Duke Sucellus",
+    "hitpoints": 360
+  },
+  "12195": {
+    "name": "Duke Sucellus",
+    "hitpoints": 360
+  },
+  "12196": {
+    "name": "Duke Sucellus",
+    "hitpoints": 440
+  },
+  "12204": {
+    "name": "The Whisperer",
+    "hitpoints": 900
+  },
+  "12205": {
+    "name": "The Whisperer",
+    "hitpoints": 900
+  },
+  "12206": {
+    "name": "The Whisperer",
+    "hitpoints": 660
+  },
+  "12207": {
+    "name": "The Whisperer",
+    "hitpoints": 660
+  },
+  "12214": {
+    "name": "The Leviathan",
+    "hitpoints": 900
+  },
+  "12215": {
+    "name": "The Leviathan",
+    "hitpoints": 720
+  },
+  "12219": {
+    "name": "The Leviathan",
+    "hitpoints": 720
+  },
+  "12223": {
+    "name": "Vardorvis",
+    "hitpoints": 700
+  },
+  "12224": {
+    "name": "Vardorvis",
+    "hitpoints": 500
+  },
+  "12228": {
+    "name": "Vardorvis",
+    "hitpoints": 500
+  },
+  "12236": {
+    "name": "Ancient Guardian",
+    "hitpoints": 100
+  },
+  "12237": {
+    "name": "Ancient Guardian",
+    "hitpoints": 100
+  },
+  "12248": {
+    "name": "Shadow Keeper",
+    "hitpoints": 100
+  },
+  "12254": {
+    "name": "Ghost",
+    "hitpoints": 25
+  },
+  "12262": {
+    "name": "Kasonde",
+    "hitpoints": 240
+  },
+  "12263": {
+    "name": "Kasonde",
+    "hitpoints": 240
+  },
+  "12300": {
+    "name": "Mysterious Figure",
+    "hitpoints": 450
+  },
+  "12301": {
+    "name": "Mysterious Figure",
+    "hitpoints": 450
+  },
+  "12325": {
+    "name": "Karil the Tainted",
+    "hitpoints": 100
+  },
+  "12328": {
+    "name": "The Forsaken Assassin",
+    "hitpoints": 200
+  },
+  "12329": {
+    "name": "Ketla the Unworthy",
+    "hitpoints": 200
+  },
+  "12330": {
+    "name": "Ketla the Unworthy",
+    "hitpoints": 1
+  },
+  "12331": {
+    "name": "Kasonde the Craven",
+    "hitpoints": 200
+  },
+  "12332": {
+    "name": "Kasonde the Craven",
+    "hitpoints": 200
+  },
+  "12333": {
+    "name": "Persten the Deceitful",
+    "hitpoints": 200
+  },
+  "12335": {
+    "name": "Wighted Leech",
+    "hitpoints": 5
+  },
+  "12353": {
+    "name": "Jhallan",
+    "hitpoints": 1500
+  },
+  "12354": {
+    "name": "Jhallan",
+    "hitpoints": 1500
+  },
+  "12360": {
+    "name": "Scarred lesser demon",
+    "hitpoints": 100
+  },
+  "12362": {
+    "name": "Scarred lesser demon",
+    "hitpoints": 100
+  },
+  "12364": {
+    "name": "Scarred lesser demon",
+    "hitpoints": 100
+  },
+  "12366": {
+    "name": "Abyssal leech",
+    "hitpoints": 30
+  },
+  "12379": {
+    "name": "Scarred hellhound",
+    "hitpoints": 25
+  },
+  "12386": {
+    "name": "Scarred black demon",
+    "hitpoints": 157
+  },
+  "12388": {
+    "name": "Scarred greater demon",
+    "hitpoints": 87
+  },
+  "12390": {
+    "name": "Scarred lesser demon",
+    "hitpoints": 79
+  },
+  "12391": {
+    "name": "Abyssal leech",
+    "hitpoints": 20
+  },
+  "12392": {
+    "name": "Abyssal walker",
+    "hitpoints": 120
+  },
+  "12393": {
+    "name": "Abyssal leech",
+    "hitpoints": 50
+  },
+  "12425": {
+    "name": "Vardorvis",
+    "hitpoints": 500
+  },
+  "12426": {
+    "name": "Vardorvis",
+    "hitpoints": 700
   }
 }
