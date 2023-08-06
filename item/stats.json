@@ -42663,7 +42663,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "11710": {
@@ -47857,7 +47857,7 @@
     "ge_limit": 10000
   },
   "12776": {
-    "name": "Carrallangar teleport",
+    "name": "Carrallanger teleport",
     "ge_limit": 10000
   },
   "12777": {
@@ -72138,139 +72138,6 @@
     "weight": 0.015,
     "ge_limit": 50
   },
-  "25484": {
-    "name": "Soulreaper axe",
-    "weight": 3.175,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 28,
-      "aslash": 134,
-      "acrush": 66,
-      "str": 121,
-      "aspeed": 5
-    }
-  },
-  "25485": {
-    "name": "Ultor ring",
-    "weight": 0.012,
-    "equipable": true,
-    "equipment": {
-      "slot": 12,
-      "str": 12
-    }
-  },
-  "25486": {
-    "name": "Magus ring",
-    "weight": 0.012,
-    "equipable": true,
-    "equipment": {
-      "slot": 12,
-      "amagic": 15,
-      "mdmg": 2
-    }
-  },
-  "25487": {
-    "name": "Venator ring",
-    "weight": 0.012,
-    "equipable": true,
-    "equipment": {
-      "slot": 12,
-      "arange": 10,
-      "rstr": 2
-    }
-  },
-  "25488": {
-    "name": "Bellator ring",
-    "weight": 0.012,
-    "equipable": true,
-    "equipment": {
-      "slot": 12,
-      "aslash": 20,
-      "str": 6
-    }
-  },
-  "25489": {
-    "name": "Blood ancient sceptre",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 20,
-      "aslash": -1,
-      "acrush": 50,
-      "amagic": 20,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 15,
-      "str": 60,
-      "mdmg": 5,
-      "prayer": -1,
-      "aspeed": 4
-    }
-  },
-  "25490": {
-    "name": "Ice ancient sceptre",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 20,
-      "aslash": -1,
-      "acrush": 50,
-      "amagic": 20,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 15,
-      "str": 60,
-      "mdmg": 5,
-      "prayer": -1,
-      "aspeed": 4
-    }
-  },
-  "25491": {
-    "name": "Smoke ancient sceptre",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 20,
-      "aslash": -1,
-      "acrush": 50,
-      "amagic": 20,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 15,
-      "str": 60,
-      "mdmg": 5,
-      "prayer": -1,
-      "aspeed": 4
-    }
-  },
-  "25492": {
-    "name": "Shadow ancient sceptre",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 20,
-      "aslash": -1,
-      "acrush": 50,
-      "amagic": 20,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 1,
-      "dmagic": 15,
-      "str": 60,
-      "mdmg": 5,
-      "prayer": -1,
-      "aspeed": 4
-    }
-  },
   "25500": {
     "name": "Cursed banana",
     "weight": 0.1,
@@ -82940,7 +82807,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 0
     }
   },
   "28175": {
@@ -83167,5 +83034,839 @@
   "28237": {
     "name": "Beaver",
     "weight": 0.015
+  },
+  "28238": {
+    "name": "Blood ancient sceptre (broken)",
+    "weight": 2.267
+  },
+  "28240": {
+    "name": "Smoke ancient sceptre (broken)",
+    "weight": 2.267
+  },
+  "28242": {
+    "name": "Ice ancient sceptre (broken)",
+    "weight": 2.267
+  },
+  "28244": {
+    "name": "Shadow ancient sceptre (broken)",
+    "weight": 2.267
+  },
+  "28246": {
+    "name": "Wisp",
+    "weight": 0.015
+  },
+  "28248": {
+    "name": "Butch",
+    "weight": 0.015
+  },
+  "28250": {
+    "name": "Baron",
+    "weight": 0.015
+  },
+  "28252": {
+    "name": "Lil'viathan",
+    "weight": 0.015
+  },
+  "28254": {
+    "name": "Sanguine torva full helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -5,
+      "arange": -5,
+      "dstab": 59,
+      "dslash": 60,
+      "dcrush": 62,
+      "dmagic": -2,
+      "drange": 57,
+      "str": 8,
+      "prayer": 1
+    }
+  },
+  "28256": {
+    "name": "Sanguine torva platebody",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": -14,
+      "dstab": 117,
+      "dslash": 111,
+      "dcrush": 117,
+      "dmagic": -11,
+      "drange": 142,
+      "str": 6,
+      "prayer": 1
+    }
+  },
+  "28258": {
+    "name": "Sanguine torva platelegs",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -24,
+      "arange": -11,
+      "dstab": 87,
+      "dslash": 78,
+      "dcrush": 79,
+      "dmagic": -9,
+      "drange": 102,
+      "str": 4,
+      "prayer": 1
+    }
+  },
+  "28260": {
+    "name": "Blood ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28262": {
+    "name": "Ice ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28264": {
+    "name": "Smoke ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28266": {
+    "name": "Shadow ancient sceptre",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28268": {
+    "name": "Blood quartz",
+    "weight": 0.02
+  },
+  "28270": {
+    "name": "Ice quartz",
+    "weight": 0.02
+  },
+  "28272": {
+    "name": "Shadow quartz",
+    "weight": 0.02
+  },
+  "28274": {
+    "name": "Smoke quartz",
+    "weight": 0.02
+  },
+  "28276": {
+    "name": "Chromium ingot",
+    "weight": 3.0
+  },
+  "28279": {
+    "name": "Bellator vestige",
+    "weight": 0.004
+  },
+  "28281": {
+    "name": "Magus vestige",
+    "weight": 0.004
+  },
+  "28283": {
+    "name": "Venator vestige",
+    "weight": 0.004
+  },
+  "28285": {
+    "name": "Ultor vestige",
+    "weight": 0.004
+  },
+  "28287": {
+    "name": "Ultor icon",
+    "weight": 0.006
+  },
+  "28289": {
+    "name": "Venator icon",
+    "weight": 0.006
+  },
+  "28291": {
+    "name": "Magus icon",
+    "weight": 0.006
+  },
+  "28293": {
+    "name": "Bellator icon",
+    "weight": 0.006
+  },
+  "28295": {
+    "name": "Berserker icon",
+    "weight": 0.002
+  },
+  "28298": {
+    "name": "Archer icon",
+    "weight": 0.002
+  },
+  "28301": {
+    "name": "Warrior icon",
+    "weight": 0.002
+  },
+  "28304": {
+    "name": "Seers icon",
+    "weight": 0.002
+  },
+  "28307": {
+    "name": "Ultor ring",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "str": 12
+    }
+  },
+  "28310": {
+    "name": "Venator ring",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "arange": 10,
+      "rstr": 2
+    }
+  },
+  "28313": {
+    "name": "Magus ring",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "amagic": 15,
+      "mdmg": 2
+    }
+  },
+  "28316": {
+    "name": "Bellator ring",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "aslash": 20,
+      "str": 6
+    }
+  },
+  "28319": {
+    "name": "Executioner's axe head",
+    "weight": 0.001
+  },
+  "28321": {
+    "name": "Eye of the duke",
+    "weight": 0.001
+  },
+  "28323": {
+    "name": "Siren's staff",
+    "weight": 0.001
+  },
+  "28325": {
+    "name": "Leviathan's lure",
+    "weight": 0.001
+  },
+  "28327": {
+    "name": "Ring of shadows",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 5,
+      "arange": 4,
+      "dmagic": 5,
+      "str": 2,
+      "prayer": 2
+    }
+  },
+  "28329": {
+    "name": "Ring of shadows (uncharged)",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 5,
+      "arange": 4,
+      "dmagic": 5,
+      "str": 2,
+      "prayer": 2
+    }
+  },
+  "28330": {
+    "name": "Strangled tablet",
+    "weight": 0.5
+  },
+  "28331": {
+    "name": "Sirenic tablet",
+    "weight": 0.5
+  },
+  "28332": {
+    "name": "Scarred tablet",
+    "weight": 0.5
+  },
+  "28333": {
+    "name": "Frozen tablet",
+    "weight": 0.5
+  },
+  "28334": {
+    "name": "Awakener's orb",
+    "weight": 0.4,
+    "ge_limit": 55
+  },
+  "28336": {
+    "name": "Ancient blood ornament kit",
+    "weight": 0.5
+  },
+  "28338": {
+    "name": "Soulreaper axe",
+    "weight": 2.825,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 28,
+      "aslash": 134,
+      "acrush": 66,
+      "str": 121,
+      "aspeed": 5
+    }
+  },
+  "28341": {
+    "name": "Musca mushroom",
+    "weight": 0.01
+  },
+  "28343": {
+    "name": "Holos mushroom",
+    "weight": 0.01
+  },
+  "28345": {
+    "name": "Arder mushroom",
+    "weight": 0.01
+  },
+  "28347": {
+    "name": "Resper mushroom",
+    "weight": 0.01
+  },
+  "28350": {
+    "name": "Musca-holos poison",
+    "weight": 0.05
+  },
+  "28351": {
+    "name": "Arder-musca poison",
+    "weight": 0.05
+  },
+  "28352": {
+    "name": "Musca-resper poison",
+    "weight": 0.05
+  },
+  "28353": {
+    "name": "Holos-arder poison",
+    "weight": 0.05
+  },
+  "28354": {
+    "name": "Resper-holos poison",
+    "weight": 0.05
+  },
+  "28355": {
+    "name": "Arder-resper poison",
+    "weight": 0.05
+  },
+  "28356": {
+    "name": "Blackstone fragment",
+    "weight": 0.5
+  },
+  "28357": {
+    "name": "Blackstone fragment",
+    "weight": 0.5
+  },
+  "28360": {
+    "name": "Strange icon",
+    "weight": 0.028
+  },
+  "28361": {
+    "name": "Icon segment",
+    "weight": 0.028
+  },
+  "28362": {
+    "name": "Icon segment",
+    "weight": 0.028
+  },
+  "28363": {
+    "name": "Very long rope",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {}
+  },
+  "28364": {
+    "name": "Basic shadow torch",
+    "weight": 0.5
+  },
+  "28365": {
+    "name": "Superior shadow torch",
+    "weight": 0.5
+  },
+  "28366": {
+    "name": "Perfected shadow torch",
+    "weight": 0.5
+  },
+  "28367": {
+    "name": "Shadow blocker",
+    "weight": 3.0
+  },
+  "28368": {
+    "name": "Revitalising idol",
+    "weight": 3.0
+  },
+  "28369": {
+    "name": "Anima portal",
+    "weight": 3.0
+  },
+  "28370": {
+    "name": "Shadow key",
+    "weight": 0.01
+  },
+  "28371": {
+    "name": "Shadow key",
+    "weight": 0.01
+  },
+  "28372": {
+    "name": "Shadow key",
+    "weight": 0.01
+  },
+  "28373": {
+    "name": "Shadow key",
+    "weight": 0.01
+  },
+  "28374": {
+    "name": "Shadow key",
+    "weight": 0.01
+  },
+  "28375": {
+    "name": "Anima portal schematic",
+    "weight": 0.004
+  },
+  "28376": {
+    "name": "Revitalising idol schematic",
+    "weight": 0.004
+  },
+  "28377": {
+    "name": "Shadow blocker schematic",
+    "weight": 0.004
+  },
+  "28378": {
+    "name": "Basic shadow torch schematic",
+    "weight": 0.004
+  },
+  "28379": {
+    "name": "Superior shadow torch schematic",
+    "weight": 0.004
+  },
+  "28380": {
+    "name": "Perfected shadow torch schematic",
+    "weight": 0.004
+  },
+  "28381": {
+    "name": "Perfected shadow torch schematic",
+    "weight": 0.004
+  },
+  "28382": {
+    "name": "Potion note",
+    "weight": 0.028
+  },
+  "28383": {
+    "name": "Strange potion",
+    "weight": 0.025
+  },
+  "28384": {
+    "name": "Korbal herb",
+    "weight": 0.007
+  },
+  "28385": {
+    "name": "Argian berries",
+    "weight": 0.007
+  },
+  "28386": {
+    "name": "Unfinished serum",
+    "weight": 0.056
+  },
+  "28387": {
+    "name": "Unfinished serum",
+    "weight": 0.056
+  },
+  "28388": {
+    "name": "Strangler serum",
+    "weight": 0.056
+  },
+  "28389": {
+    "name": "Temple key",
+    "weight": 0.012
+  },
+  "28390": {
+    "name": "Barricade",
+    "weight": 5.0
+  },
+  "28392": {
+    "name": "Satchel",
+    "weight": 0.15
+  },
+  "28393": {
+    "name": "Detonator",
+    "weight": 0.056
+  },
+  "28394": {
+    "name": "Tatty page",
+    "weight": 0.003
+  },
+  "28395": {
+    "name": "Tatty page",
+    "weight": 0.003
+  },
+  "28396": {
+    "name": "Tatty page",
+    "weight": 0.003
+  },
+  "28397": {
+    "name": "Tatty page",
+    "weight": 0.003
+  },
+  "28398": {
+    "name": "Tatty page",
+    "weight": 0.003
+  },
+  "28399": {
+    "name": "Tatty page",
+    "weight": 0.003
+  },
+  "28400": {
+    "name": "Tatty page",
+    "weight": 0.003
+  },
+  "28401": {
+    "name": "Mucky note",
+    "weight": 0.003
+  },
+  "28404": {
+    "name": "Vardorvis' medallion",
+    "weight": 0.5
+  },
+  "28405": {
+    "name": "Perseriya's medallion",
+    "weight": 0.5
+  },
+  "28406": {
+    "name": "Sucellus' medallion",
+    "weight": 0.5
+  },
+  "28407": {
+    "name": "Whisperer's medallion",
+    "weight": 0.5
+  },
+  "28408": {
+    "name": "Hair clip",
+    "weight": 0.001
+  },
+  "28409": {
+    "name": "Ancient lamp",
+    "weight": 0.1
+  },
+  "28410": {
+    "name": "Dr banikan",
+    "weight": 0.001
+  },
+  "28412": {
+    "name": "Prisoner's letter",
+    "weight": 0.003
+  },
+  "28413": {
+    "name": "Knife",
+    "weight": 0.453,
+    "ge_limit": 40
+  },
+  "28414": {
+    "name": "Chisel",
+    "weight": 0.453,
+    "ge_limit": 40
+  },
+  "28415": {
+    "name": "Lockpick",
+    "weight": 0.01,
+    "ge_limit": 250
+  },
+  "28416": {
+    "name": "Sapphire key",
+    "weight": 0.02
+  },
+  "28417": {
+    "name": "Emerald key",
+    "weight": 0.02
+  },
+  "28418": {
+    "name": "Ruby key",
+    "weight": 0.02
+  },
+  "28419": {
+    "name": "Diamond key",
+    "weight": 0.02
+  },
+  "28420": {
+    "name": "Dragonstone key",
+    "weight": 0.02
+  },
+  "28421": {
+    "name": "Onyx key",
+    "weight": 0.02
+  },
+  "28422": {
+    "name": "Rations",
+    "weight": 0.001
+  },
+  "28423": {
+    "name": "Requisition note",
+    "weight": 0.003
+  },
+  "28424": {
+    "name": "Grid note",
+    "weight": 0.003
+  },
+  "28425": {
+    "name": "Code converter",
+    "weight": 0.003
+  },
+  "28426": {
+    "name": "Magic lantern",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "28427": {
+    "name": "Strange slider",
+    "weight": 0.003
+  },
+  "28428": {
+    "name": "Library note",
+    "weight": 0.003
+  },
+  "28429": {
+    "name": "Warning letter",
+    "weight": 0.003
+  },
+  "28430": {
+    "name": "Odd key",
+    "weight": 0.012
+  },
+  "28431": {
+    "name": "Orders note",
+    "weight": 0.003
+  },
+  "28432": {
+    "name": "Refugees note",
+    "weight": 0.003
+  },
+  "28433": {
+    "name": "Request note",
+    "weight": 0.003
+  },
+  "28434": {
+    "name": "Prayer note",
+    "weight": 0.003
+  },
+  "28435": {
+    "name": "Thank you note",
+    "weight": 0.003
+  },
+  "28436": {
+    "name": "Protest note",
+    "weight": 0.003
+  },
+  "28437": {
+    "name": "Evacuation note",
+    "weight": 0.003
+  },
+  "28438": {
+    "name": "Old tablet",
+    "weight": 0.1
+  },
+  "28439": {
+    "name": "Damp tablet",
+    "weight": 0.1
+  },
+  "28440": {
+    "name": "Damp tablet",
+    "weight": 0.1
+  },
+  "28441": {
+    "name": "Slimy key",
+    "weight": 0.01
+  },
+  "28442": {
+    "name": "Gunpowder",
+    "weight": 0.001
+  },
+  "28443": {
+    "name": "Scarred scraps",
+    "weight": 0.001
+  },
+  "28444": {
+    "name": "Withered note",
+    "weight": 0.001
+  },
+  "28445": {
+    "name": "Earth nerve",
+    "weight": 0.1
+  },
+  "28446": {
+    "name": "Water nerve",
+    "weight": 0.1
+  },
+  "28447": {
+    "name": "Fire nerve",
+    "weight": 0.1
+  },
+  "28448": {
+    "name": "Air nerve",
+    "weight": 0.1
+  },
+  "28449": {
+    "name": "Mind nerve",
+    "weight": 0.1
+  },
+  "28450": {
+    "name": "Soul nerve",
+    "weight": 0.1
+  },
+  "28451": {
+    "name": "Nature nerve",
+    "weight": 0.1
+  },
+  "28452": {
+    "name": "Smoke nerve",
+    "weight": 0.1
+  },
+  "28453": {
+    "name": "Blood nerve",
+    "weight": 0.1
+  },
+  "28454": {
+    "name": "Law nerve",
+    "weight": 0.1
+  },
+  "28455": {
+    "name": "Cosmic nerve",
+    "weight": 0.1
+  },
+  "28456": {
+    "name": "Astral nerve",
+    "weight": 0.1
+  },
+  "28457": {
+    "name": "Wrath nerve",
+    "weight": 0.1
+  },
+  "28458": {
+    "name": "Dust nerve",
+    "weight": 0.1
+  },
+  "28459": {
+    "name": "Steam nerve",
+    "weight": 0.1
+  },
+  "28460": {
+    "name": "Lava nerve",
+    "weight": 0.1
+  },
+  "28461": {
+    "name": "Abyssal observations",
+    "weight": 0.001
+  },
+  "28462": {
+    "name": "Crimson fibre",
+    "weight": 0.001
+  },
+  "28463": {
+    "name": "Radiant fibre",
+    "weight": 0.001
+  },
+  "28464": {
+    "name": "Illuminating lure",
+    "weight": 0.001
+  },
+  "28465": {
+    "name": "Slimy tablet",
+    "weight": 0.1
+  },
+  "28466": {
+    "name": "Slimy tablet",
+    "weight": 0.1
+  },
+  "28468": {
+    "name": "Gooey note",
+    "weight": 0.05
+  },
+  "28469": {
+    "name": "Gooey note",
+    "weight": 0.05
   }
 }
