@@ -11225,6 +11225,10 @@
     "name": "Key (medium)",
     "weight": 0.01
   },
+  "2841": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2842": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
@@ -44866,6 +44870,10 @@
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
+  "12179": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
   "12181": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
@@ -53293,6 +53301,10 @@
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19764": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19765": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
@@ -53311,6 +53323,10 @@
   },
   "19769": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19770": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19771": {
@@ -83216,7 +83232,8 @@
   },
   "28276": {
     "name": "Chromium ingot",
-    "weight": 3.0
+    "weight": 3.0,
+    "ge_limit": 8
   },
   "28279": {
     "name": "Bellator vestige",
@@ -83372,7 +83389,7 @@
   "28334": {
     "name": "Awakener's orb",
     "weight": 0.4,
-    "ge_limit": 55
+    "ge_limit": 50
   },
   "28336": {
     "name": "Ancient blood ornament kit",
@@ -83861,11 +83878,19 @@
     "name": "Slimy tablet",
     "weight": 0.1
   },
+  "28467": {
+    "name": "Slimy tablet",
+    "weight": 0.1
+  },
   "28468": {
     "name": "Gooey note",
     "weight": 0.05
   },
   "28469": {
+    "name": "Gooey note",
+    "weight": 0.05
+  },
+  "28470": {
     "name": "Gooey note",
     "weight": 0.05
   }

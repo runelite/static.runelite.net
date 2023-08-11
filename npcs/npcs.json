@@ -3817,27 +3817,27 @@
   },
   "2501": {
     "name": "Zombie",
-    "hitpoints": 40
+    "hitpoints": 30
   },
   "2502": {
     "name": "Zombie",
-    "hitpoints": 40
+    "hitpoints": 30
   },
   "2503": {
     "name": "Zombie",
-    "hitpoints": 40
+    "hitpoints": 30
   },
   "2504": {
     "name": "Zombie",
-    "hitpoints": 50
+    "hitpoints": 40
   },
   "2505": {
     "name": "Zombie",
-    "hitpoints": 50
+    "hitpoints": 40
   },
   "2506": {
     "name": "Zombie",
-    "hitpoints": 50
+    "hitpoints": 40
   },
   "2507": {
     "name": "Zombie",
@@ -9885,15 +9885,19 @@
   },
   "7485": {
     "name": "Zombie",
-    "hitpoints": 68
+    "hitpoints": 65
   },
   "7486": {
     "name": "Zombie",
-    "hitpoints": 65
+    "hitpoints": 50
+  },
+  "7487": {
+    "name": "Zombie",
+    "hitpoints": 71
   },
   "7488": {
     "name": "Zombie",
-    "hitpoints": 71
+    "hitpoints": 68
   },
   "7513": {
     "name": "Derwen",
@@ -10586,10 +10590,6 @@
   "8248": {
     "name": "Ranis Drakan",
     "hitpoints": 400
-  },
-  "8251": {
-    "name": "Vyrewatch",
-    "hitpoints": 75
   },
   "8252": {
     "name": "Vyrewatch",
@@ -11343,11 +11343,19 @@
     "name": "Vanstrom Klause",
     "hitpoints": 750
   },
+  "9568": {
+    "name": "Vanstrom Klause",
+    "hitpoints": 750
+  },
   "9569": {
     "name": "Vanstrom Klause",
     "hitpoints": 750
   },
   "9570": {
+    "name": "Vanstrom Klause",
+    "hitpoints": 750
+  },
+  "9571": {
     "name": "Vanstrom Klause",
     "hitpoints": 750
   },
@@ -11366,6 +11374,10 @@
   "9613": {
     "name": "Nail beast",
     "hitpoints": 75
+  },
+  "9632": {
+    "name": "Vanstrom Klause",
+    "hitpoints": 750
   },
   "9727": {
     "name": "Vampyre Juvinate",
@@ -12343,6 +12355,14 @@
     "name": "Spindel's Spiderling",
     "hitpoints": 5
   },
+  "12026": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12027": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
   "12046": {
     "name": "Evelot",
     "hitpoints": 160
@@ -12354,6 +12374,34 @@
   "12048": {
     "name": "Hazeel Cultist",
     "hitpoints": 25
+  },
+  "12049": {
+    "name": "Clivet",
+    "hitpoints": 25
+  },
+  "12054": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12055": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12056": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12057": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12058": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12059": {
+    "name": "General Khazard",
+    "hitpoints": 170
   },
   "12061": {
     "name": "Assassin",
@@ -12419,6 +12467,10 @@
     "name": "Alomone",
     "hitpoints": 25
   },
+  "12095": {
+    "name": "Clivet",
+    "hitpoints": 25
+  },
   "12096": {
     "name": "Hazeel Cultist",
     "hitpoints": 25
@@ -12457,15 +12509,15 @@
   },
   "12193": {
     "name": "Duke Sucellus",
-    "hitpoints": 360
+    "hitpoints": 200
   },
   "12194": {
     "name": "Duke Sucellus",
-    "hitpoints": 360
+    "hitpoints": 200
   },
   "12195": {
     "name": "Duke Sucellus",
-    "hitpoints": 360
+    "hitpoints": 200
   },
   "12196": {
     "name": "Duke Sucellus",
@@ -12510,14 +12562,6 @@
   "12228": {
     "name": "Vardorvis",
     "hitpoints": 500
-  },
-  "12236": {
-    "name": "Ancient Guardian",
-    "hitpoints": 100
-  },
-  "12237": {
-    "name": "Ancient Guardian",
-    "hitpoints": 100
   },
   "12248": {
     "name": "Shadow Keeper",
@@ -12575,6 +12619,14 @@
     "name": "Wighted Leech",
     "hitpoints": 5
   },
+  "12336": {
+    "name": "Ancient Guardian",
+    "hitpoints": 100
+  },
+  "12337": {
+    "name": "Ancient Guardian",
+    "hitpoints": 100
+  },
   "12353": {
     "name": "Jhallan",
     "hitpoints": 1500
@@ -12595,9 +12647,45 @@
     "name": "Scarred lesser demon",
     "hitpoints": 100
   },
+  "12365": {
+    "name": "Lesser demon",
+    "hitpoints": 80
+  },
   "12366": {
     "name": "Abyssal leech",
     "hitpoints": 30
+  },
+  "12369": {
+    "name": "Crimson sanguisphera",
+    "hitpoints": 20
+  },
+  "12370": {
+    "name": "Radiant sanguisphera",
+    "hitpoints": 20
+  },
+  "12372": {
+    "name": "Abyssal antibody",
+    "hitpoints": 50
+  },
+  "12373": {
+    "name": "Scarred greater demon",
+    "hitpoints": 180
+  },
+  "12374": {
+    "name": "Scarred hellhound",
+    "hitpoints": 25
+  },
+  "12376": {
+    "name": "Lesser demon",
+    "hitpoints": 40
+  },
+  "12377": {
+    "name": "Scarred imp",
+    "hitpoints": 25
+  },
+  "12378": {
+    "name": "Scarred lesser demon",
+    "hitpoints": 70
   },
   "12379": {
     "name": "Scarred hellhound",
@@ -12610,6 +12698,10 @@
   "12388": {
     "name": "Scarred greater demon",
     "hitpoints": 87
+  },
+  "12389": {
+    "name": "Lesser demon",
+    "hitpoints": 79
   },
   "12390": {
     "name": "Scarred lesser demon",
