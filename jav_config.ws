@@ -1,9 +1,9 @@
 title=Old School RuneScape
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://oldschool193.runescape.com/
+codebase=http://oldschool144.runescape.com/
 cachedir=oldschool
 storebase=0
-initial_jar=gamepack_5529803.jar
+initial_jar=gamepack_9918086.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
@@ -14,7 +14,7 @@ other_sub_version=2
 browsercontrol_win_x86_jar=browsercontrol_0_-1928975093.jar
 browsercontrol_win_amd64_jar=browsercontrol_1_1674545273.jar
 gedigesturl=https://secure.runescape.com/m=itemdb_oldschool/g=oldscape/digest.csv
-download=2307037
+download=2346601
 window_preferredwidth=800
 window_preferredheight=600
 advert_height=96
@@ -45,27 +45,27 @@ msg=err_get_file=Error getting file
 msg=new_version=Update available! You can now launch the client directly from the OldSchool website.\nGet the new version from the link on the OldSchool homepage: http://oldschool.runescape.com/
 msg=new_version_linktext=Open OldSchool Homepage
 msg=new_version_link=http://oldschool.runescape.com/
-param=8=true
-param=18=
-param=13=.runescape.com
-param=20=https://social.auth.jagex.com/
-param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
-param=5=1
-param=7=0
 param=10=5
-param=12=493
-param=25=215
+param=7=0
+param=11=https://auth.jagex.com/
 param=17=http://www.runescape.com/g=oldscape/slr.ws?order=LPWM
-param=6=0
+param=12=444
+param=2=https://payments.jagex.com/
+param=5=1
+param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
 param=15=0
-param=3=true
+param=28=https://account.jagex.com/
+param=20=https://social.auth.jagex.com/
+param=6=0
+param=16=false
 param=4=1
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
+param=3=true
+param=13=.runescape.com
+param=8=true
+param=25=216
 param=14=0
-param=28=https://account.jagex.com/
-param=16=false
+param=18=
 param=21=0
-param=2=https://payments.jagex.com/
-param=11=https://auth.jagex.com/
-runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/215.2/vanilla-215.2.jar
+runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/216/vanilla-216.jar
 runelite.worldparam=12
