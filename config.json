@@ -13,10 +13,5 @@
     "2.1.0",
     "2.1.3"
   ],
-  "updateRollout": 1.0,
-	"outageMessage": "OldSchool RuneScape is temporarily offline for unexpected maintenance.",
-	"outageLinks": {
-		"OSRS Twitter": "https://twitter.com/OldSchoolRS",
-		"Game Status": "https://secure.runescape.com/m=news/game-status-information-centre?oldschool=1"
-	}
+  "updateRollout": 1.0
 }
