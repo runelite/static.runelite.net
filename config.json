@@ -16,5 +16,10 @@
   "updateRollout": 1.0,
   "props": {
     "runelite.discord.enable": false
+  },
+  "outageMessage": "OldSchool RuneScape is temporarily offline for maintenance prior to the launch of DMM.",
+  "outageLinks": {
+    "OSRS Twitter": "https://twitter.com/OldSchoolRS",
+    "Game Status": "https://secure.runescape.com/m=news/game-status-information-centre?oldschool=1"
   }
 }
