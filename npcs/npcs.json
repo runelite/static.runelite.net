@@ -375,10 +375,6 @@
     "name": "Big Wolf",
     "hitpoints": 74
   },
-  "110": {
-    "name": "Wolf",
-    "hitpoints": 34
-  },
   "112": {
     "name": "Wild dog",
     "hitpoints": 62
@@ -394,10 +390,6 @@
   "115": {
     "name": "Big Wolf",
     "hitpoints": 74
-  },
-  "116": {
-    "name": "Wolf",
-    "hitpoints": 34
   },
   "117": {
     "name": "Wolf",
@@ -2011,6 +2003,10 @@
     "name": "Sigmund",
     "hitpoints": 60
   },
+  "995": {
+    "name": "Guard",
+    "hitpoints": 30
+  },
   "1024": {
     "name": "Zygomite",
     "hitpoints": 75
@@ -2258,10 +2254,6 @@
   "1211": {
     "name": "Khazard Guard",
     "hitpoints": 25
-  },
-  "1213": {
-    "name": "General Khazard",
-    "hitpoints": 170
   },
   "1224": {
     "name": "Bouncer",
@@ -11339,6 +11331,26 @@
     "name": "Iorwerth Warrior",
     "hitpoints": 105
   },
+  "9560": {
+    "name": "Kroy",
+    "hitpoints": 209
+  },
+  "9561": {
+    "name": "Damien Leucurte",
+    "hitpoints": 217
+  },
+  "9562": {
+    "name": "Damien Leucurte",
+    "hitpoints": 217
+  },
+  "9563": {
+    "name": "Damien Leucurte",
+    "hitpoints": 217
+  },
+  "9564": {
+    "name": "Damien Leucurte",
+    "hitpoints": 217
+  },
   "9567": {
     "name": "Vanstrom Klause",
     "hitpoints": 750
@@ -11458,14 +11470,6 @@
   "9763": {
     "name": "Vyrewatch Sentinel",
     "hitpoints": 150
-  },
-  "9773": {
-    "name": "Kroy",
-    "hitpoints": 209
-  },
-  "9774": {
-    "name": "Damien Leucurte",
-    "hitpoints": 217
   },
   "10374": {
     "name": "Hill Giant",
@@ -12355,14 +12359,6 @@
     "name": "Spindel's Spiderling",
     "hitpoints": 5
   },
-  "12026": {
-    "name": "General Khazard",
-    "hitpoints": 170
-  },
-  "12027": {
-    "name": "General Khazard",
-    "hitpoints": 170
-  },
   "12046": {
     "name": "Evelot",
     "hitpoints": 160
@@ -12378,30 +12374,6 @@
   "12049": {
     "name": "Clivet",
     "hitpoints": 25
-  },
-  "12054": {
-    "name": "General Khazard",
-    "hitpoints": 170
-  },
-  "12055": {
-    "name": "General Khazard",
-    "hitpoints": 170
-  },
-  "12056": {
-    "name": "General Khazard",
-    "hitpoints": 170
-  },
-  "12057": {
-    "name": "General Khazard",
-    "hitpoints": 170
-  },
-  "12058": {
-    "name": "General Khazard",
-    "hitpoints": 170
-  },
-  "12059": {
-    "name": "General Khazard",
-    "hitpoints": 170
   },
   "12061": {
     "name": "Assassin",
@@ -12587,10 +12559,6 @@
     "name": "Mysterious Figure",
     "hitpoints": 450
   },
-  "12325": {
-    "name": "Karil the Tainted",
-    "hitpoints": 100
-  },
   "12328": {
     "name": "The Forsaken Assassin",
     "hitpoints": 200
@@ -12726,5 +12694,89 @@
   "12426": {
     "name": "Vardorvis",
     "hitpoints": 700
+  },
+  "12439": {
+    "name": "Dagannoth Rex",
+    "hitpoints": 750
+  },
+  "12440": {
+    "name": "King Black Dragon",
+    "hitpoints": 250
+  },
+  "12441": {
+    "name": "Dagannoth Supreme",
+    "hitpoints": 750
+  },
+  "12442": {
+    "name": "Dagannoth Prime",
+    "hitpoints": 750
+  },
+  "12443": {
+    "name": "Kree'arra",
+    "hitpoints": 350
+  },
+  "12444": {
+    "name": "General Graardor",
+    "hitpoints": 1000
+  },
+  "12445": {
+    "name": "Commander Zilyana",
+    "hitpoints": 500
+  },
+  "12446": {
+    "name": "K'ril Tsutsaroth",
+    "hitpoints": 1000
+  },
+  "12447": {
+    "name": "Dharok the Wretched",
+    "hitpoints": 200
+  },
+  "12448": {
+    "name": "Porazdir",
+    "hitpoints": 320
+  },
+  "12449": {
+    "name": "Justiciar Zachariah",
+    "hitpoints": 320
+  },
+  "12450": {
+    "name": "Derwen",
+    "hitpoints": 320
+  },
+  "12451": {
+    "name": "Greater abyssal demon",
+    "hitpoints": 750
+  },
+  "12452": {
+    "name": "Giant goblin",
+    "hitpoints": 750
+  },
+  "12453": {
+    "name": "Flaming pyrelord",
+    "hitpoints": 750
+  },
+  "12454": {
+    "name": "Cave abomination",
+    "hitpoints": 750
+  },
+  "12455": {
+    "name": "Jal-ImKot",
+    "hitpoints": 750
+  },
+  "12456": {
+    "name": "Malevolent Mage",
+    "hitpoints": 500
+  },
+  "12457": {
+    "name": "Vitreous warped Jelly",
+    "hitpoints": 500
+  },
+  "12458": {
+    "name": "Sulphur Lizard",
+    "hitpoints": 500
+  },
+  "12459": {
+    "name": "Night beast",
+    "hitpoints": 500
   }
 }

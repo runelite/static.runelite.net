@@ -83135,7 +83135,7 @@
     }
   },
   "28260": {
-    "name": "Blood ancient sceptre",
+    "name": "Blood ancient sceptre (l)",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -83893,5 +83893,365 @@
   "28470": {
     "name": "Gooey note",
     "weight": 0.05
+  },
+  "28473": {
+    "name": "Blood ancient sceptre (l)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28474": {
+    "name": "Ice ancient sceptre (l)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28475": {
+    "name": "Smoke ancient sceptre (l)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28476": {
+    "name": "Shadow ancient sceptre (l)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "mdmg": 5,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "28480": {
+    "name": "Sigil of sustenance",
+    "weight": 0.4
+  },
+  "28481": {
+    "name": "Sigil of sustenance",
+    "weight": 0.4
+  },
+  "28483": {
+    "name": "Sigil of the alchemaniac",
+    "weight": 0.4
+  },
+  "28484": {
+    "name": "Sigil of the alchemaniac",
+    "weight": 0.4
+  },
+  "28489": {
+    "name": "Sigil of resistance",
+    "weight": 0.4
+  },
+  "28490": {
+    "name": "Sigil of resistance",
+    "weight": 0.4
+  },
+  "28492": {
+    "name": "Sigil of agile fortune",
+    "weight": 0.4
+  },
+  "28493": {
+    "name": "Sigil of agile fortune",
+    "weight": 0.4
+  },
+  "28495": {
+    "name": "Sigil of the food master",
+    "weight": 0.4
+  },
+  "28496": {
+    "name": "Sigil of the food master",
+    "weight": 0.4
+  },
+  "28498": {
+    "name": "Sigil of the well-fed",
+    "weight": 0.4
+  },
+  "28499": {
+    "name": "Sigil of the well-fed",
+    "weight": 0.4
+  },
+  "28501": {
+    "name": "Sigil of the infernal chef",
+    "weight": 0.4
+  },
+  "28502": {
+    "name": "Sigil of the infernal chef",
+    "weight": 0.4
+  },
+  "28504": {
+    "name": "Sigil of the infernal smith",
+    "weight": 0.4
+  },
+  "28505": {
+    "name": "Sigil of the infernal smith",
+    "weight": 0.4
+  },
+  "28507": {
+    "name": "Sigil of the lightbearer",
+    "weight": 0.4
+  },
+  "28508": {
+    "name": "Sigil of the lightbearer",
+    "weight": 0.4
+  },
+  "28510": {
+    "name": "Sigil of the bloodhound",
+    "weight": 0.4
+  },
+  "28511": {
+    "name": "Sigil of the bloodhound",
+    "weight": 0.4
+  },
+  "28513": {
+    "name": "Sigil of precision",
+    "weight": 0.4
+  },
+  "28514": {
+    "name": "Sigil of precision",
+    "weight": 0.4
+  },
+  "28516": {
+    "name": "Sigil of the augmented thrall",
+    "weight": 0.4
+  },
+  "28517": {
+    "name": "Sigil of the augmented thrall",
+    "weight": 0.4
+  },
+  "28519": {
+    "name": "Sigil of faith",
+    "weight": 0.4
+  },
+  "28520": {
+    "name": "Sigil of faith",
+    "weight": 0.4
+  },
+  "28522": {
+    "name": "Sigil of titanium",
+    "weight": 0.4
+  },
+  "28523": {
+    "name": "Sigil of titanium",
+    "weight": 0.4
+  },
+  "28525": {
+    "name": "Sigil of the ninja",
+    "weight": 0.4
+  },
+  "28526": {
+    "name": "Sigil of the ninja",
+    "weight": 0.4
+  },
+  "28528": {
+    "name": "Sigil of woodcraft",
+    "weight": 0.4
+  },
+  "28529": {
+    "name": "Sigil of woodcraft",
+    "weight": 0.4
+  },
+  "28531": {
+    "name": "Corrupted voidwaker",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 56,
+      "aslash": 64,
+      "acrush": -2,
+      "amagic": 4,
+      "dslash": 1,
+      "dmagic": 2,
+      "str": 64,
+      "aspeed": 4
+    }
+  },
+  "28534": {
+    "name": "Corrupted dragon claws",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 33,
+      "aslash": 46,
+      "acrush": -4,
+      "dstab": 11,
+      "dslash": 21,
+      "dcrush": 6,
+      "str": 45,
+      "aspeed": 4
+    }
+  },
+  "28537": {
+    "name": "Corrupted armadyl godsword",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 106,
+      "acrush": 64,
+      "str": 106,
+      "prayer": 7,
+      "aspeed": 6
+    }
+  },
+  "28540": {
+    "name": "Corrupted twisted bow",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 56,
+      "rstr": 2,
+      "aspeed": 6
+    }
+  },
+  "28543": {
+    "name": "Corrupted scythe of vitur",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 56,
+      "aslash": 88,
+      "acrush": 24,
+      "amagic": -6,
+      "dstab": -2,
+      "dslash": 7,
+      "dcrush": 8,
+      "str": 60,
+      "aspeed": 5
+    }
+  },
+  "28545": {
+    "name": "Corrupted scythe of vitur (uncharged)",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 40,
+      "aslash": 60,
+      "acrush": 8,
+      "amagic": -6,
+      "dstab": -2,
+      "dslash": 5,
+      "str": 40,
+      "aspeed": 5
+    }
+  },
+  "28547": {
+    "name": "Corrupted tumeken's shadow",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "amagic": 35,
+      "dmagic": 20,
+      "prayer": 1,
+      "aspeed": 5
+    }
+  },
+  "28549": {
+    "name": "Corrupted tumeken's shadow (uncharged)",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "amagic": 35,
+      "dmagic": 20,
+      "prayer": 1,
+      "aspeed": 5
+    }
+  },
+  "28551": {
+    "name": "Quest lamp",
+    "weight": 0.1
+  },
+  "28552": {
+    "name": "Quest lamp",
+    "weight": 0.1
+  },
+  "28553": {
+    "name": "Quest lamp",
+    "weight": 0.1
+  },
+  "28554": {
+    "name": "Quest lamp",
+    "weight": 0.1
+  },
+  "28561": {
+    "name": "Trinket of vengeance",
+    "weight": 1.0
+  },
+  "28564": {
+    "name": "Trinket of fairies",
+    "weight": 1.0
+  },
+  "28567": {
+    "name": "Trinket of advanced weaponry",
+    "weight": 1.0
+  },
+  "28570": {
+    "name": "Trinket of undead",
+    "weight": 1.0
   }
 }
