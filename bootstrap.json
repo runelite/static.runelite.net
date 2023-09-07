@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.10.10.4.jar",
-                    "fromHash": "e9e09505afc06e95bd2cec813884b8d91639a7b43ad1a67b7b1ecf518027860f",
-                    "hash": "e4c02c4851e705c0b686c46637b9134251c5345c9eac7c59304ebcf199aa59e4",
-                    "name": "client-1.10.11.1.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.10.4.jar-client-1.10.11.1.jar.apdiff.gz.jar",
-                    "size": 26745
+                    "from": "client-1.10.11.1.jar",
+                    "fromHash": "333d14a9a171af003775579bb031ad720a5d7ca385a291421f8359d4a227f178",
+                    "hash": "32712682f622dbfb98f85a0bd38487fc46f3a32df5785dfb221053eaaf7375bd",
+                    "name": "client-1.10.11.2.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.10.11.1.jar-client-1.10.11.2.jar.apdiff.gz.jar",
+                    "size": 30655
                 }
             ],
-            "hash": "333d14a9a171af003775579bb031ad720a5d7ca385a291421f8359d4a227f178",
-            "name": "client-1.10.11.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.11.1/client-1.10.11.1.jar",
-            "size": 6429983
+            "hash": "7bed8123e6e2a2d7419c95e8428eb4d4f6b76bd7f4da825f00da948650c4b1a6",
+            "name": "client-1.10.11.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.10.11.2/client-1.10.11.2.jar",
+            "size": 6429917
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -287,10 +287,10 @@
             "size": 238152
         },
         {
-            "hash": "c594ff0d61230f365b83dd59e278801ca9f95b08f8038e5c2b6564743ce4814b",
-            "name": "client-patch-1.10.11.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.11.1/client-patch-1.10.11.1.jar",
-            "size": 974403
+            "hash": "b83d2192b59ec7edb92e91330f71490c720012ec0b92a1a70ecd41c7307590ba",
+            "name": "client-patch-1.10.11.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.11.2/client-patch-1.10.11.2.jar",
+            "size": 980258
         },
         {
             "hash": "2b4b536743472f61b72e1dcd391e7699595b5764a6b4204866c8291145642ed2",
@@ -319,29 +319,29 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.10.10.4-runtime.jar",
-                    "fromHash": "cd3b7b5dd9ea2c3098d0f60b2ff873c73d60cc7a24fb52bcdaf71753d6be1cc7",
-                    "hash": "3e98ae680c92bf0e2cdd6c76f67d896a7f43f22d25a367e1d8d98154eb03a36a",
-                    "name": "runelite-api-1.10.11.1-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.10.4-runtime.jar-runelite-api-1.10.11.1-runtime.jar.apdiff.gz.jar",
-                    "size": 420
+                    "from": "runelite-api-1.10.11.1-runtime.jar",
+                    "fromHash": "1f151458fa9e17cb596f43ded6e4b576ae4cfa2c0e4e02a5ed1c08d8fdf43b72",
+                    "hash": "62c329e7339b9a144881246689ac05543f832c4556069b7d87e829ec284f5341",
+                    "name": "runelite-api-1.10.11.2-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.11.1-runtime.jar-runelite-api-1.10.11.2-runtime.jar.apdiff.gz.jar",
+                    "size": 1134
                 }
             ],
-            "hash": "1f151458fa9e17cb596f43ded6e4b576ae4cfa2c0e4e02a5ed1c08d8fdf43b72",
-            "name": "runelite-api-1.10.11.1-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.11.1/runelite-api-1.10.11.1-runtime.jar",
-            "size": 240252
+            "hash": "86a9e19ec068dec1c53dadf0023a758b8b2087f6919919c5417f899197364cc9",
+            "name": "runelite-api-1.10.11.2-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.11.2/runelite-api-1.10.11.2-runtime.jar",
+            "size": 240327
         }
     ],
     "clientJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
     "clientJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
@@ -349,13 +349,13 @@
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
     "clientJvmArguments": [
         "-XX:+DisableAttachMechanism",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "-Xincgc",
@@ -365,7 +365,7 @@
     "launcherArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "-Xincgc",
@@ -375,7 +375,7 @@
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
@@ -383,21 +383,21 @@
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
     "launcherJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
@@ -406,7 +406,7 @@
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
-        "-Xmx512m",
+        "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
     ],
@@ -423,5 +423,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.10.11.1"
+    "version": "1.10.11.2"
 }
