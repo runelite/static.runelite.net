@@ -42648,6 +42648,10 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -100,
+      "str": -100,
       "aspeed": 4
     }
   },
@@ -56162,8 +56166,8 @@
       "slot": 3,
       "astab": -100,
       "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "acrush": -100,
+      "str": -100,
       "aspeed": 4
     }
   },
@@ -69251,8 +69255,8 @@
       "slot": 3,
       "astab": -100,
       "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "acrush": -100,
+      "str": -100,
       "aspeed": 4
     }
   },
@@ -79854,8 +79858,8 @@
       "slot": 3,
       "astab": -100,
       "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "acrush": -100,
+      "str": -100,
       "aspeed": 4
     }
   },
@@ -79899,8 +79903,8 @@
       "slot": 3,
       "astab": -100,
       "aslash": -100,
-      "acrush": -50,
-      "str": -10,
+      "acrush": -100,
+      "str": -100,
       "aspeed": 4
     }
   },
@@ -82794,6 +82798,10 @@
     "name": "Ritual mulch",
     "weight": 0.056
   },
+  "28157": {
+    "name": "Forester's ration",
+    "ge_limit": 6000
+  },
   "28163": {
     "name": "Clothes pouch",
     "weight": 1.0
@@ -83974,6 +83982,14 @@
       "aspeed": 4
     }
   },
+  "28477": {
+    "name": "Sigil of sustenance",
+    "weight": 0.4
+  },
+  "28478": {
+    "name": "Sigil of sustenance",
+    "weight": 0.4
+  },
   "28480": {
     "name": "Sigil of sustenance",
     "weight": 0.4
@@ -83988,6 +84004,14 @@
   },
   "28484": {
     "name": "Sigil of the alchemaniac",
+    "weight": 0.4
+  },
+  "28486": {
+    "name": "Sigil of the hunter",
+    "weight": 0.4
+  },
+  "28487": {
+    "name": "Sigil of the hunter",
     "weight": 0.4
   },
   "28489": {
@@ -84253,5 +84277,69 @@
   "28570": {
     "name": "Trinket of undead",
     "weight": 1.0
+  },
+  "28573": {
+    "name": "Chest key",
+    "weight": 0.01
+  },
+  "28574": {
+    "name": "Strongroom key",
+    "weight": 0.01
+  },
+  "28575": {
+    "name": "Crystal chime seed",
+    "weight": 0.01
+  },
+  "28577": {
+    "name": "Crystal chime",
+    "weight": 1.0
+  },
+  "28579": {
+    "name": "Yewnock's notes",
+    "weight": 0.02
+  },
+  "28583": {
+    "name": "Warped sceptre (uncharged)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 12,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 12,
+      "aspeed": 4
+    }
+  },
+  "28585": {
+    "name": "Warped sceptre",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 12,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 12,
+      "aspeed": 4
+    }
+  },
+  "28587": {
+    "name": "Magic lamp (strength)",
+    "weight": 0.1
+  },
+  "28588": {
+    "name": "Magic lamp (slayer)",
+    "weight": 0.1
+  },
+  "28589": {
+    "name": "Magic lamp (thieving)",
+    "weight": 0.1
+  },
+  "28590": {
+    "name": "Magic lamp (magic)",
+    "weight": 0.1
   }
 }

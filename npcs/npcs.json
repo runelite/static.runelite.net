@@ -2292,27 +2292,27 @@
     "hitpoints": 70
   },
   "1241": {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "hitpoints": 1
   },
   "1244": {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "hitpoints": 1
   },
   "1247": {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "hitpoints": 1
   },
   "1250": {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "hitpoints": 1
   },
   "1253": {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "hitpoints": 1
   },
   "1256": {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "hitpoints": 1
   },
   "1261": {
@@ -4818,6 +4818,10 @@
   "3167": {
     "name": "Spiritual ranger",
     "hitpoints": 89
+  },
+  "3168": {
+    "name": "Spiritual mage",
+    "hitpoints": 86
   },
   "3169": {
     "name": "Aviansie",
@@ -7966,6 +7970,10 @@
   "5908": {
     "name": "Abyssal Sire",
     "hitpoints": 400
+  },
+  "5912": {
+    "name": "Tentacle",
+    "hitpoints": 255
   },
   "5914": {
     "name": "Respiratory system",
@@ -12551,6 +12559,18 @@
     "name": "Kasonde",
     "hitpoints": 240
   },
+  "12288": {
+    "name": "Strangled Bear",
+    "hitpoints": 100
+  },
+  "12289": {
+    "name": "Strangled Boar",
+    "hitpoints": 40
+  },
+  "12290": {
+    "name": "Strangled Lynx",
+    "hitpoints": 50
+  },
   "12300": {
     "name": "Mysterious Figure",
     "hitpoints": 450
@@ -12778,5 +12798,69 @@
   "12459": {
     "name": "Night beast",
     "hitpoints": 500
+  },
+  "12464": {
+    "name": "Mutated Terrorbird",
+    "hitpoints": 320
+  },
+  "12490": {
+    "name": "Warped Tortoise",
+    "hitpoints": 200
+  },
+  "12491": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12492": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12493": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12494": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12495": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12496": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12497": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12498": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 150
+  },
+  "12499": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 200
+  },
+  "12500": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 200
+  },
+  "12501": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 200
+  },
+  "12502": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 200
+  },
+  "12503": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 200
+  },
+  "12504": {
+    "name": "Warped Terrorbird",
+    "hitpoints": 200
   }
 }
