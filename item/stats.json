@@ -66327,7 +66327,7 @@
       "is2h": true,
       "arange": 118,
       "rstr": 88,
-      "prayer": 1,
+      "prayer": 2,
       "aspeed": 5
     }
   },
@@ -66744,7 +66744,7 @@
       "is2h": true,
       "arange": 118,
       "rstr": 88,
-      "prayer": 1,
+      "prayer": 2,
       "aspeed": 5
     }
   },
@@ -82843,7 +82843,7 @@
     }
   },
   "28177": {
-    "name": "Axe handle",
+    "name": "Felling axe handle",
     "weight": 0.907
   },
   "28183": {
@@ -83479,9 +83479,7 @@
   },
   "28363": {
     "name": "Very long rope",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {}
+    "weight": 1.814
   },
   "28364": {
     "name": "Basic shadow torch",
@@ -84341,5 +84339,9 @@
   "28590": {
     "name": "Magic lamp (magic)",
     "weight": 0.1
+  },
+  "28591": {
+    "name": "Tainted essence chunk",
+    "weight": 0.04
   }
 }

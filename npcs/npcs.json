@@ -12091,6 +12091,38 @@
     "name": "Strongbones",
     "hitpoints": 200
   },
+  "11418": {
+    "name": "Null",
+    "hitpoints": 50
+  },
+  "11419": {
+    "name": "Null",
+    "hitpoints": 50
+  },
+  "11420": {
+    "name": "Null",
+    "hitpoints": 100
+  },
+  "11421": {
+    "name": "Null",
+    "hitpoints": 100
+  },
+  "11422": {
+    "name": "Null",
+    "hitpoints": 200
+  },
+  "11423": {
+    "name": "Null",
+    "hitpoints": 200
+  },
+  "11424": {
+    "name": "Null",
+    "hitpoints": 400
+  },
+  "11425": {
+    "name": "Null",
+    "hitpoints": 400
+  },
   "11462": {
     "name": "Menaphite Shadow",
     "hitpoints": 50
@@ -12802,6 +12834,10 @@
   "12464": {
     "name": "Mutated Terrorbird",
     "hitpoints": 320
+  },
+  "12465": {
+    "name": "Mutated Tortoise",
+    "hitpoints": 440
   },
   "12490": {
     "name": "Warped Tortoise",
