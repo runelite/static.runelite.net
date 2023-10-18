@@ -77,6 +77,7 @@ net.runelite.client.plugins.friendlist
 net.runelite.client.plugins.friendnotes
 net.runelite.client.plugins.gpu
 net.runelite.client.plugins.gpu.config
+net.runelite.client.plugins.gpu.regions
 net.runelite.client.plugins.gpu.template
 net.runelite.client.plugins.grandexchange
 net.runelite.client.plugins.grounditems
