@@ -3,34 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.10.14.2.jar",
-                    "fromHash": "cc3f159cc2c696dcd6146379268cc0696270ae1d29fab61881b1e4abd752850f",
-                    "hash": "7401f3d251bd18fca29f3e649b2c747791700cc2b4b6c72a566b64107eef011e",
-                    "name": "client-1.10.14.3.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.14.2.jar-client-1.10.14.3.jar.apdiff.gz.jar",
-                    "size": 26315
-                },
-                {
-                    "from": "client-1.10.14.1.jar",
-                    "fromHash": "4245fb68dc271ef7b4b5124ebf966024bebbc2aaae302a85e562f6fd6fa03280",
-                    "hash": "8ad6f37651bcd0a836185e5585e1e8e23b3dae5a6d7f09d5c6920be234d7422e",
-                    "name": "client-1.10.14.3.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.14.1.jar-client-1.10.14.3.jar.apdiff.gz.jar",
-                    "size": 26544
-                },
-                {
-                    "from": "client-1.10.14.jar",
-                    "fromHash": "cf0b65b21843ab091a1cb5efe54e1bedf18f710d109c694f6ddbc10631397362",
-                    "hash": "6c58966caeb70c62ce7d269d574d312b3e0fa750298268a7d9ea8acdcad2acc8",
-                    "name": "client-1.10.14.3.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.14.jar-client-1.10.14.3.jar.apdiff.gz.jar",
-                    "size": 58010
+                    "from": "client-1.10.14.3.jar",
+                    "fromHash": "f9aae91638987dbff6b191627152ca3a50a7e00854b3f7ee04840c15b251cdae",
+                    "hash": "7a11e953bff3ab5482c79798bddbaa04b5f43ad02b5c621524419265c47d46d4",
+                    "name": "client-1.10.14.4.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.10.14.3.jar-client-1.10.14.4.jar.apdiff.gz.jar",
+                    "size": 30952
                 }
             ],
-            "hash": "f9aae91638987dbff6b191627152ca3a50a7e00854b3f7ee04840c15b251cdae",
-            "name": "client-1.10.14.3.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.14.3/client-1.10.14.3.jar",
-            "size": 6444673
+            "hash": "911b166f81821d44dfd453da621131d77375039669d128ffbab89a796fa2d7db",
+            "name": "client-1.10.14.4.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.10.14.4/client-1.10.14.4.jar",
+            "size": 6445199
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -303,10 +287,10 @@
             "size": 238152
         },
         {
-            "hash": "634861d588032146cf88a34c82d28ddcc34b880b35dc9842f0c76806dd4a8eeb",
-            "name": "client-patch-1.10.14.3.jar",
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.14.3/client-patch-1.10.14.3.jar",
-            "size": 958357
+            "hash": "131c6065630f311555d98bbadbf02e061cb806000a43a4462dd69a9f4d04da70",
+            "name": "client-patch-1.10.14.4.jar",
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.14.4/client-patch-1.10.14.4.jar",
+            "size": 958356
         },
         {
             "hash": "2b4b536743472f61b72e1dcd391e7699595b5764a6b4204866c8291145642ed2",
@@ -335,33 +319,17 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.10.14.2-runtime.jar",
-                    "fromHash": "6a0bf9043d026912e27354a6792d4279736b7ade3e6d3935ed81990227701009",
-                    "hash": "544895b88ad19c0aee9c5eee2c0e3ccb617523e49ed4a50cff702c6991d71553",
-                    "name": "runelite-api-1.10.14.3-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.14.2-runtime.jar-runelite-api-1.10.14.3-runtime.jar.apdiff.gz.jar",
-                    "size": 3531
-                },
-                {
-                    "from": "runelite-api-1.10.14.1-runtime.jar",
-                    "fromHash": "448ffcff5e7801f0f894bf29fec02f699be3c52f6ea7c69168a3f6c6d4c1e990",
-                    "hash": "92d7e7216f0453b9e7dabe738a8c467bfc3b033dc53f773ef96855bd786647ac",
-                    "name": "runelite-api-1.10.14.3-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.14.1-runtime.jar-runelite-api-1.10.14.3-runtime.jar.apdiff.gz.jar",
-                    "size": 3539
-                },
-                {
-                    "from": "runelite-api-1.10.14-runtime.jar",
-                    "fromHash": "884d42bdb9c3c312eda20404e549c67825247c14a8ea1ae40fdea7b4c01a2b9c",
-                    "hash": "80fb5609b619ec73ebf69a1b9c58bca14827e908511581efcd98b6b4d1e286bc",
-                    "name": "runelite-api-1.10.14.3-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.14-runtime.jar-runelite-api-1.10.14.3-runtime.jar.apdiff.gz.jar",
-                    "size": 5038
+                    "from": "runelite-api-1.10.14.3-runtime.jar",
+                    "fromHash": "d90c69cd01d373bf4ec12b81d0d55787651833146095e60716d8d3ae8962c5b2",
+                    "hash": "e71aa0b798f6841d71278548c3cae200571be93595ca77595b8309fbe2606ddf",
+                    "name": "runelite-api-1.10.14.4-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.14.3-runtime.jar-runelite-api-1.10.14.4-runtime.jar.apdiff.gz.jar",
+                    "size": 414
                 }
             ],
-            "hash": "d90c69cd01d373bf4ec12b81d0d55787651833146095e60716d8d3ae8962c5b2",
-            "name": "runelite-api-1.10.14.3-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.14.3/runelite-api-1.10.14.3-runtime.jar",
+            "hash": "11e374b9955f609e6b25ce12a1b77ff010d16538c9f173090d684653d7eeefe3",
+            "name": "runelite-api-1.10.14.4-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.14.4/runelite-api-1.10.14.4-runtime.jar",
             "size": 241699
         }
     ],
@@ -455,5 +423,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.10.14.3"
+    "version": "1.10.14.4"
 }
