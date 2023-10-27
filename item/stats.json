@@ -23345,30 +23345,6 @@
     "weight": 0.007,
     "ge_limit": 11000
   },
-  "6020": {
-    "name": "Leaves",
-    "weight": 0.028
-  },
-  "6022": {
-    "name": "Oak leaves",
-    "weight": 0.028
-  },
-  "6024": {
-    "name": "Willow leaves",
-    "weight": 0.028
-  },
-  "6026": {
-    "name": "Yew leaves",
-    "weight": 0.028
-  },
-  "6028": {
-    "name": "Maple leaves",
-    "weight": 0.028
-  },
-  "6030": {
-    "name": "Magic leaves",
-    "weight": 0.028
-  },
   "6032": {
     "name": "Compost",
     "weight": 3.0,
@@ -69320,7 +69296,8 @@
   },
   "24592": {
     "name": "Blighted anglerfish",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 10000
   },
   "24595": {
     "name": "Blighted karambwan",
@@ -74767,7 +74744,8 @@
       "dmagic": 6,
       "mdmg": 1,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26243": {
     "name": "Virtus robe top",
@@ -78485,7 +78463,8 @@
   },
   "27202": {
     "name": "Menaphite remedy(4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "27205": {
     "name": "Menaphite remedy(3)",
@@ -80066,7 +80045,8 @@
   },
   "27629": {
     "name": "Forgotten brew(4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "27632": {
     "name": "Forgotten brew(3)",
@@ -80154,7 +80134,8 @@
       "str": 74,
       "prayer": 2,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "27660": {
     "name": "Ursine chainmace",
@@ -82859,8 +82840,8 @@
     "weight": 0.05
   },
   "28196": {
-    "name": "Bronze 2h axe",
-    "weight": 1.36,
+    "name": "Bronze felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82874,8 +82855,8 @@
     }
   },
   "28199": {
-    "name": "Iron 2h axe",
-    "weight": 1.36,
+    "name": "Iron felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82889,8 +82870,8 @@
     }
   },
   "28202": {
-    "name": "Steel 2h axe",
-    "weight": 1.36,
+    "name": "Steel felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82904,8 +82885,8 @@
     }
   },
   "28205": {
-    "name": "Black 2h axe",
-    "weight": 1.36,
+    "name": "Black felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82919,8 +82900,8 @@
     }
   },
   "28208": {
-    "name": "Mithril 2h axe",
-    "weight": 1.36,
+    "name": "Mithril felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82934,8 +82915,8 @@
     }
   },
   "28211": {
-    "name": "Adamant 2h axe",
-    "weight": 1.36,
+    "name": "Adamant felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82949,8 +82930,8 @@
     }
   },
   "28214": {
-    "name": "Rune 2h axe",
-    "weight": 1.36,
+    "name": "Rune felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82964,22 +82945,22 @@
     }
   },
   "28217": {
-    "name": "Dragon 2h axe",
-    "weight": 1.36,
+    "name": "Dragon felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 38,
-      "acrush": 32,
+      "astab": -3,
+      "aslash": 60,
+      "acrush": 51,
       "dslash": 1,
-      "str": 42,
-      "aspeed": 5
+      "str": 67,
+      "aspeed": 7
     }
   },
   "28220": {
-    "name": "Crystal 2h axe",
+    "name": "Crystal felling axe",
     "weight": 1.36,
     "equipable": true,
     "equipment": {
@@ -82994,8 +82975,8 @@
     }
   },
   "28223": {
-    "name": "Crystal 2h axe",
-    "weight": 1.36,
+    "name": "Crystal felling axe (inactive)",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -83009,8 +82990,8 @@
     }
   },
   "28226": {
-    "name": "3rd age 2h axe",
-    "weight": 1.36,
+    "name": "3rd age felling axe",
+    "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -84343,5 +84324,140 @@
   "28591": {
     "name": "Tainted essence chunk",
     "weight": 0.04
+  },
+  "28601": {
+    "name": "Cobweb cape",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "28603": {
+    "name": "Spider hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28605": {
+    "name": "Spider hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28607": {
+    "name": "Spider hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28609": {
+    "name": "Spider hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28611": {
+    "name": "Spider hat",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28613": {
+    "name": "Cape pouch",
+    "weight": 1.0
+  },
+  "28616": {
+    "name": "Pheasant cape",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "28618": {
+    "name": "Pheasant boots",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "28620": {
+    "name": "Pheasant hat",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28622": {
+    "name": "Pheasant legs",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "28626": {
+    "name": "Fox whistle",
+    "weight": 0.005
+  },
+  "28630": {
+    "name": "Twitcher's gloves",
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "28648": {
+    "name": "Mulch",
+    "weight": 0.35
+  },
+  "28649": {
+    "name": "Mulch",
+    "weight": 0.35
+  },
+  "28650": {
+    "name": "Packed mulch",
+    "weight": 0.35
+  },
+  "28655": {
+    "name": "Petal garland",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28663": {
+    "name": "Golden pheasant egg",
+    "weight": 0.2
+  },
+  "28669": {
+    "name": "Pheasant",
+    "weight": 0.015
+  },
+  "28670": {
+    "name": "Fox",
+    "weight": 0.015
+  },
+  "28671": {
+    "name": "Web cloak",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
   }
 }
