@@ -6191,6 +6191,10 @@
     "name": "Sigmund",
     "hitpoints": 60
   },
+  "4331": {
+    "name": "Black Knight",
+    "hitpoints": 42
+  },
   "4342": {
     "name": "Sir Lucan",
     "hitpoints": 105
@@ -6271,11 +6275,11 @@
     "name": "Enclave guard",
     "hitpoints": 80
   },
-  "4383": {
+  "4382": {
     "name": "Ogre shaman",
     "hitpoints": 1
   },
-  "4384": {
+  "4383": {
     "name": "Ogre shaman",
     "hitpoints": 1
   },
@@ -6650,6 +6654,14 @@
   "4799": {
     "name": "Giant Lobster",
     "hitpoints": 50
+  },
+  "4800": {
+    "name": "Giant Lobster",
+    "hitpoints": 50
+  },
+  "4805": {
+    "name": "Hobgoblin",
+    "hitpoints": 29
   },
   "4813": {
     "name": "Icefiend",
@@ -11331,6 +11343,14 @@
     "name": "Infernal pyrelord",
     "hitpoints": 184
   },
+  "9483": {
+    "name": "Giant rat",
+    "hitpoints": 5
+  },
+  "9488": {
+    "name": "Chicken",
+    "hitpoints": 3
+  },
   "9502": {
     "name": "Iorwerth Warrior",
     "hitpoints": 105
@@ -11398,6 +11418,10 @@
   "9632": {
     "name": "Vanstrom Klause",
     "hitpoints": 750
+  },
+  "9635": {
+    "name": "Gadderanks",
+    "hitpoints": 20
   },
   "9727": {
     "name": "Vampyre Juvinate",
@@ -11523,11 +11547,19 @@
     "name": "Headless Beast",
     "hitpoints": 100
   },
+  "10494": {
+    "name": "Chicken",
+    "hitpoints": 3
+  },
   "10495": {
     "name": "Chicken",
     "hitpoints": 3
   },
   "10496": {
+    "name": "Chicken",
+    "hitpoints": 3
+  },
+  "10497": {
     "name": "Chicken",
     "hitpoints": 3
   },
@@ -11671,6 +11703,10 @@
     "name": "Ice spider",
     "hitpoints": 65
   },
+  "10728": {
+    "name": "Woman",
+    "hitpoints": 7
+  },
   "10888": {
     "name": "Bat",
     "hitpoints": 8
@@ -11742,6 +11778,18 @@
   "10989": {
     "name": "Barbarian Warlord",
     "hitpoints": 80
+  },
+  "11053": {
+    "name": "Woman",
+    "hitpoints": 7
+  },
+  "11054": {
+    "name": "Woman",
+    "hitpoints": 7
+  },
+  "11057": {
+    "name": "Man",
+    "hitpoints": 7
   },
   "11058": {
     "name": "Man",
@@ -11846,6 +11894,10 @@
   "11088": {
     "name": "Necromancer",
     "hitpoints": 80
+  },
+  "11092": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "11093": {
     "name": "Head Guard",
@@ -12159,6 +12211,18 @@
     "name": "Head Menaphite Guard",
     "hitpoints": 180
   },
+  "11581": {
+    "name": "Crocodile",
+    "hitpoints": 62
+  },
+  "11582": {
+    "name": "Crocodile",
+    "hitpoints": 62
+  },
+  "11583": {
+    "name": "Jackal",
+    "hitpoints": 27
+  },
   "11584": {
     "name": "Locust",
     "hitpoints": 27
@@ -12367,6 +12431,10 @@
     "name": "Tribeswoman",
     "hitpoints": 39
   },
+  "11976": {
+    "name": "Alomone",
+    "hitpoints": 25
+  },
   "11989": {
     "name": "Grizzly bear",
     "hitpoints": 75
@@ -12391,6 +12459,10 @@
     "name": "Spindel",
     "hitpoints": 515
   },
+  "11999": {
+    "name": "Poison spider",
+    "hitpoints": 64
+  },
   "12000": {
     "name": "Venenatis' Spiderling",
     "hitpoints": 5
@@ -12398,6 +12470,26 @@
   "12001": {
     "name": "Spindel's Spiderling",
     "hitpoints": 5
+  },
+  "12003": {
+    "name": "Desert Lizard",
+    "hitpoints": 25
+  },
+  "12004": {
+    "name": "Small Lizard",
+    "hitpoints": 15
+  },
+  "12019": {
+    "name": "Khazard Guard",
+    "hitpoints": 25
+  },
+  "12020": {
+    "name": "Khazard Guard",
+    "hitpoints": 25
+  },
+  "12021": {
+    "name": "Khazard Guard",
+    "hitpoints": 25
   },
   "12046": {
     "name": "Evelot",
@@ -12467,6 +12559,10 @@
     "name": "Phantom Muspah",
     "hitpoints": 850
   },
+  "12084": {
+    "name": "Snake",
+    "hitpoints": 6
+  },
   "12092": {
     "name": "Alomone",
     "hitpoints": 25
@@ -12503,22 +12599,6 @@
     "name": "Greater Skeleton Hellhound",
     "hitpoints": 30
   },
-  "12166": {
-    "name": "Duke Sucellus",
-    "hitpoints": 440
-  },
-  "12167": {
-    "name": "Duke Sucellus",
-    "hitpoints": 440
-  },
-  "12191": {
-    "name": "Duke Sucellus",
-    "hitpoints": 440
-  },
-  "12192": {
-    "name": "Duke Sucellus",
-    "hitpoints": 440
-  },
   "12193": {
     "name": "Duke Sucellus",
     "hitpoints": 200
@@ -12531,18 +12611,6 @@
     "name": "Duke Sucellus",
     "hitpoints": 200
   },
-  "12196": {
-    "name": "Duke Sucellus",
-    "hitpoints": 440
-  },
-  "12204": {
-    "name": "The Whisperer",
-    "hitpoints": 900
-  },
-  "12205": {
-    "name": "The Whisperer",
-    "hitpoints": 900
-  },
   "12206": {
     "name": "The Whisperer",
     "hitpoints": 660
@@ -12551,10 +12619,6 @@
     "name": "The Whisperer",
     "hitpoints": 660
   },
-  "12214": {
-    "name": "The Leviathan",
-    "hitpoints": 900
-  },
   "12215": {
     "name": "The Leviathan",
     "hitpoints": 720
@@ -12562,10 +12626,6 @@
   "12219": {
     "name": "The Leviathan",
     "hitpoints": 720
-  },
-  "12223": {
-    "name": "Vardorvis",
-    "hitpoints": 700
   },
   "12224": {
     "name": "Vardorvis",
@@ -12743,10 +12803,6 @@
     "name": "Vardorvis",
     "hitpoints": 500
   },
-  "12426": {
-    "name": "Vardorvis",
-    "hitpoints": 700
-  },
   "12439": {
     "name": "Dagannoth Rex",
     "hitpoints": 750
@@ -12830,6 +12886,14 @@
   "12459": {
     "name": "Night beast",
     "hitpoints": 500
+  },
+  "12460": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "12462": {
+    "name": "Guard",
+    "hitpoints": 800
   },
   "12464": {
     "name": "Mutated Terrorbird",
