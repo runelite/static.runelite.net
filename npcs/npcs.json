@@ -11635,6 +11635,10 @@
     "name": "Undead Zealot",
     "hitpoints": 28
   },
+  "10623": {
+    "name": "Unbound JalTok-Jad",
+    "hitpoints": 525
+  },
   "10654": {
     "name": "Ancient Guardian",
     "hitpoints": 40
@@ -12962,5 +12966,29 @@
   "12504": {
     "name": "Warped Terrorbird",
     "hitpoints": 200
+  },
+  "12565": {
+    "name": "Bloodthirsty basilisk",
+    "hitpoints": 255
+  },
+  "12568": {
+    "name": "Bloodthirsty Bloodveld",
+    "hitpoints": 435
+  },
+  "12569": {
+    "name": "Bloodthirsty mutated Bloodveld",
+    "hitpoints": 615
+  },
+  "12571": {
+    "name": "Bloodthirsty warped Jelly",
+    "hitpoints": 220
+  },
+  "12576": {
+    "name": "Bloodthirsty kurask",
+    "hitpoints": 405
+  },
+  "12581": {
+    "name": "Bloodthirsty abyssal demon",
+    "hitpoints": 600
   }
 }
