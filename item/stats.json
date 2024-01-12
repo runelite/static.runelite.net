@@ -49261,10 +49261,6 @@
       "drange": 27
     }
   },
-  "13382": {
-    "name": "Shayzien medpack",
-    "weight": 0.2
-  },
   "13383": {
     "name": "Xerician fabric",
     "weight": 0.06,
@@ -49425,10 +49421,6 @@
   "13418": {
     "name": "Servery stew",
     "weight": 1.5
-  },
-  "13419": {
-    "name": "Sulphurous fertiliser",
-    "weight": 3.05
   },
   "13420": {
     "name": "Gricoller's fertiliser",
@@ -49721,46 +49713,6 @@
     "name": "Book of arcane knowledge",
     "weight": 0.2
   },
-  "13514": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13515": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13516": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13517": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13518": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13519": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13520": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13521": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13522": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
-  "13523": {
-    "name": "Dark manuscript",
-    "weight": 0.006
-  },
   "13524": {
     "name": "Rada's census",
     "weight": 0.51
@@ -49816,130 +49768,6 @@
   "13537": {
     "name": "Transportation incantations",
     "weight": 0.51
-  },
-  "13538": {
-    "name": "Shayzien supply gloves (1)",
-    "weight": 0.226
-  },
-  "13539": {
-    "name": "Shayzien supply boots (1)",
-    "weight": 1.36
-  },
-  "13540": {
-    "name": "Shayzien supply helm (1)",
-    "weight": 2.721
-  },
-  "13541": {
-    "name": "Shayzien supply greaves (1)",
-    "weight": 9.071
-  },
-  "13542": {
-    "name": "Shayzien supply platebody (1)",
-    "weight": 9.979
-  },
-  "13543": {
-    "name": "Shayzien supply gloves (2)",
-    "weight": 0.226
-  },
-  "13544": {
-    "name": "Shayzien supply boots (2)",
-    "weight": 1.36
-  },
-  "13545": {
-    "name": "Shayzien supply helm (2)",
-    "weight": 2.721
-  },
-  "13546": {
-    "name": "Shayzien supply greaves (2)",
-    "weight": 9.071
-  },
-  "13547": {
-    "name": "Shayzien supply platebody (2)",
-    "weight": 9.979
-  },
-  "13548": {
-    "name": "Shayzien supply gloves (3)",
-    "weight": 0.226
-  },
-  "13549": {
-    "name": "Shayzien supply boots (3)",
-    "weight": 1.36
-  },
-  "13550": {
-    "name": "Shayzien supply helm (3)",
-    "weight": 2.721
-  },
-  "13551": {
-    "name": "Shayzien supply greaves (3)",
-    "weight": 9.071
-  },
-  "13552": {
-    "name": "Shayzien supply platebody (3)",
-    "weight": 9.979
-  },
-  "13553": {
-    "name": "Shayzien supply gloves (4)",
-    "weight": 0.226
-  },
-  "13554": {
-    "name": "Shayzien supply boots (4)",
-    "weight": 1.36
-  },
-  "13555": {
-    "name": "Shayzien supply helm (4)",
-    "weight": 2.721
-  },
-  "13556": {
-    "name": "Shayzien supply greaves (4)",
-    "weight": 9.071
-  },
-  "13557": {
-    "name": "Shayzien supply platebody (4)",
-    "weight": 9.979
-  },
-  "13558": {
-    "name": "Shayzien supply gloves (5)",
-    "weight": 0.226
-  },
-  "13559": {
-    "name": "Shayzien supply boots (5)",
-    "weight": 1.36
-  },
-  "13560": {
-    "name": "Shayzien supply helm (5)",
-    "weight": 2.721
-  },
-  "13561": {
-    "name": "Shayzien supply greaves (5)",
-    "weight": 9.071
-  },
-  "13562": {
-    "name": "Shayzien supply platebody (5)",
-    "weight": 9.979
-  },
-  "13563": {
-    "name": "Shayzien supply crate",
-    "weight": 0.4
-  },
-  "13565": {
-    "name": "Shayzien supply set (1)",
-    "weight": 6.0
-  },
-  "13566": {
-    "name": "Shayzien supply set (2)",
-    "weight": 6.0
-  },
-  "13567": {
-    "name": "Shayzien supply set (3)",
-    "weight": 6.0
-  },
-  "13568": {
-    "name": "Shayzien supply set (4)",
-    "weight": 6.0
-  },
-  "13569": {
-    "name": "Shayzien supply set (5)",
-    "weight": 6.0
   },
   "13571": {
     "name": "Volcanic sulphur",
@@ -54150,10 +53978,6 @@
     "name": "Smelly journal",
     "weight": 0.01
   },
-  "20799": {
-    "name": "Kindling",
-    "weight": 0.76
-  },
   "20800": {
     "name": "Empty gourd vial",
     "weight": 0.01
@@ -54407,10 +54231,6 @@
   "20884": {
     "name": "Keystone crystal",
     "weight": 0.907
-  },
-  "20885": {
-    "name": "Cavern grubs",
-    "weight": 0.01
   },
   "20886": {
     "name": "Creature keeper's journal",
@@ -55007,10 +54827,6 @@
     "name": "Dexterous prayer scroll",
     "weight": 0.015,
     "ge_limit": 5
-  },
-  "21036": {
-    "name": "Mallignum root plank",
-    "weight": 0.8
   },
   "21043": {
     "name": "Kodai insignia",
@@ -56781,10 +56597,6 @@
   "21758": {
     "name": "Royal accord of twill",
     "weight": 0.003
-  },
-  "21759": {
-    "name": "Hosidius favour certificate",
-    "weight": 0.01
   },
   "21760": {
     "name": "Kharedst's memoirs",
@@ -59187,14 +58999,6 @@
     "name": "Oculus orb",
     "weight": 0.001
   },
-  "22365": {
-    "name": "Shayzien favour certificate",
-    "weight": 0.01
-  },
-  "22367": {
-    "name": "Kourend favour certificate",
-    "weight": 0.01
-  },
   "22368": {
     "name": "Bryophyta's staff (uncharged)",
     "weight": 1.5,
@@ -60378,10 +60182,6 @@
     "name": "Hydra bonemeal",
     "weight": 1.8
   },
-  "22760": {
-    "name": "Lovakengj favour certificate",
-    "weight": 0.01
-  },
   "22761": {
     "name": "Dinh's hammer",
     "weight": 0.907
@@ -60441,10 +60241,6 @@
   "22775": {
     "name": "Ancient letter",
     "weight": 0.003
-  },
-  "22777": {
-    "name": "Arceuus favour certificate",
-    "weight": 0.01
   },
   "22780": {
     "name": "Wyrm bones",
@@ -68487,55 +68283,6 @@
     "weight": 0.1,
     "ge_limit": 6
   },
-  "25102": {
-    "name": "Fairy mushroom",
-    "weight": 0.002,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25110": {
-    "name": "Trailblazer axe",
-    "weight": 0.907,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": -2,
-      "aslash": 38,
-      "acrush": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
-    }
-  },
-  "25112": {
-    "name": "Trailblazer pickaxe",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 38,
-      "aslash": -2,
-      "acrush": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
-    }
-  },
-  "25114": {
-    "name": "Trailblazer harpoon",
-    "weight": 0.907,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 38,
-      "aslash": 32,
-      "dslash": 1,
-      "str": 42,
-      "aspeed": 5
-    }
-  },
   "25117": {
     "name": "League tomato",
     "weight": 0.08
@@ -69762,7 +69509,8 @@
       "dslash": 31,
       "dcrush": 38,
       "dmagic": 17
-    }
+    },
+    "ge_limit": 70
   },
   "25419": {
     "name": "Urium remains",
@@ -71111,7 +70859,8 @@
   },
   "25859": {
     "name": "Enhanced crystal weapon seed",
-    "weight": 0.018
+    "weight": 0.018,
+    "ge_limit": 70
   },
   "25862": {
     "name": "Bow of faerdhinen (inactive)",
@@ -73360,16 +73109,6 @@
     "name": "Shattered relics mystic ornament kit",
     "weight": 0.1,
     "ge_limit": 5
-  },
-  "26551": {
-    "name": "Arcane grimoire",
-    "weight": 0.3,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": 6,
-      "prayer": 3
-    }
   },
   "26554": {
     "name": "Shattered relic hunter (t1) armour set",
@@ -82332,7 +82071,8 @@
   },
   "28705": {
     "name": "Trailblazer reloaded home teleport scroll",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "28708": {
     "name": "Trailblazer reloaded rejuvenation pool scroll",
@@ -82490,13 +82230,7 @@
     "weight": 1.5,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "28759": {
@@ -82504,13 +82238,7 @@
     "weight": 1.5,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "28761": {
@@ -82518,13 +82246,7 @@
     "weight": 1.5,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
-      "aspeed": 4
+      "slot": 5
     }
   },
   "28763": {
@@ -82532,54 +82254,7 @@
     "weight": 1.5,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": -100,
-      "aslash": -100,
-      "acrush": -50,
-      "str": -10,
-      "aspeed": 4
-    }
-  },
-  "28765": {
-    "name": "Globetrotter pendant",
-    "weight": 0.002,
-    "equipable": true,
-    "equipment": {
-      "slot": 2
-    }
-  },
-  "28767": {
-    "name": "Banker's note",
-    "weight": 0.001
-  },
-  "28769": {
-    "name": "Guardian horn",
-    "weight": 0.2
-  },
-  "28771": {
-    "name": "Sage's greaves",
-    "equipable": true,
-    "equipment": {
-      "slot": 10
-    }
-  },
-  "28773": {
-    "name": "Sage's axe",
-    "weight": 0.34,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 3
-    }
-  },
-  "28775": {
-    "name": "Ruinous powers",
-    "weight": 0.3,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "prayer": -1
+      "slot": 5
     }
   },
   "28777": {
@@ -82593,5 +82268,13 @@
   "28783": {
     "name": "Trailblazer reloaded relic hunter (t3) armour set",
     "weight": 0.05
+  },
+  "28788": {
+    "name": "Snowglobe helmet",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   }
 }
