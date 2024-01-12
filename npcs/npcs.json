@@ -1003,6 +1003,10 @@
     "name": "Kraken",
     "hitpoints": 255
   },
+  "496": {
+    "name": "Whirlpool",
+    "hitpoints": 255
+  },
   "498": {
     "name": "Smoke devil",
     "hitpoints": 185
@@ -3965,7 +3969,7 @@
   },
   "2585": {
     "name": "Abyssal guardian",
-    "hitpoints": 55
+    "hitpoints": 50
   },
   "2586": {
     "name": "Abyssal walker",
@@ -6462,10 +6466,6 @@
   "4561": {
     "name": "Spider",
     "hitpoints": 2
-  },
-  "4568": {
-    "name": "Assassin",
-    "hitpoints": 400
   },
   "4634": {
     "name": "Rowdy slave",
@@ -11595,6 +11595,10 @@
     "name": "Avatar of Destruction",
     "hitpoints": 1500
   },
+  "10533": {
+    "name": "Wolf",
+    "hitpoints": 80
+  },
   "10534": {
     "name": "Forgotten Soul",
     "hitpoints": 50
@@ -11634,10 +11638,6 @@
   "10592": {
     "name": "Undead Zealot",
     "hitpoints": 28
-  },
-  "10623": {
-    "name": "Unbound JalTok-Jad",
-    "hitpoints": 525
   },
   "10654": {
     "name": "Ancient Guardian",
@@ -12511,10 +12511,6 @@
     "name": "Clivet",
     "hitpoints": 25
   },
-  "12061": {
-    "name": "Assassin",
-    "hitpoints": 400
-  },
   "12062": {
     "name": "Assassin",
     "hitpoints": 400
@@ -12967,9 +12963,25 @@
     "name": "Warped Terrorbird",
     "hitpoints": 200
   },
+  "12562": {
+    "name": "Bloodthirsty Cockathrice",
+    "hitpoints": 142
+  },
+  "12563": {
+    "name": "Bloodthirsty pyrelord",
+    "hitpoints": 187
+  },
+  "12564": {
+    "name": "Bloodthirsty Infernal pyrelord",
+    "hitpoints": 276
+  },
   "12565": {
     "name": "Bloodthirsty basilisk",
     "hitpoints": 255
+  },
+  "12566": {
+    "name": "Bloodthirsty Basilisk Sentinel",
+    "hitpoints": 780
   },
   "12568": {
     "name": "Bloodthirsty Bloodveld",
@@ -12979,16 +12991,44 @@
     "name": "Bloodthirsty mutated Bloodveld",
     "hitpoints": 615
   },
+  "12570": {
+    "name": "Bloodthirsty Jelly",
+    "hitpoints": 285
+  },
   "12571": {
     "name": "Bloodthirsty warped Jelly",
-    "hitpoints": 220
+    "hitpoints": 330
   },
   "12576": {
     "name": "Bloodthirsty kurask",
     "hitpoints": 405
   },
+  "12577": {
+    "name": "Bloodthirsty smoke devil",
+    "hitpoints": 360
+  },
+  "12580": {
+    "name": "Bloodthirsty Night beast",
+    "hitpoints": 825
+  },
   "12581": {
     "name": "Bloodthirsty abyssal demon",
     "hitpoints": 600
+  },
+  "12584": {
+    "name": "Bloodthirsty Shadow Wyrm",
+    "hitpoints": 480
+  },
+  "12585": {
+    "name": "Bloodthirsty Shadow Wyrm",
+    "hitpoints": 480
+  },
+  "12586": {
+    "name": "Bloodthirsty Drake",
+    "hitpoints": 945
+  },
+  "12588": {
+    "name": "Bloodthirsty Hydra",
+    "hitpoints": 1125
   }
 }
