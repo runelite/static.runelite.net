@@ -49431,10 +49431,6 @@
     "weight": 0.003,
     "ge_limit": 13000
   },
-  "13429": {
-    "name": "Fresh fish",
-    "weight": 0.7
-  },
   "13430": {
     "name": "Bucket of sandworms",
     "weight": 2.5
@@ -56635,10 +56631,6 @@
     "name": "Letter",
     "weight": 0.003
   },
-  "21775": {
-    "name": "Piscarilius favour certificate",
-    "weight": 0.01
-  },
   "21776": {
     "name": "Imbued saradomin max cape",
     "weight": 0.453,
@@ -58769,7 +58761,7 @@
       "slot": 3,
       "is2h": true,
       "astab": 70,
-      "aslash": 110,
+      "aslash": 125,
       "acrush": 30,
       "amagic": -6,
       "dstab": -2,
@@ -70452,7 +70444,7 @@
       "slot": 3,
       "is2h": true,
       "astab": 70,
-      "aslash": 110,
+      "aslash": 125,
       "acrush": 30,
       "amagic": -6,
       "dstab": -2,
@@ -70487,7 +70479,7 @@
       "slot": 3,
       "is2h": true,
       "astab": 70,
-      "aslash": 110,
+      "aslash": 125,
       "acrush": 30,
       "amagic": -6,
       "dstab": -2,
