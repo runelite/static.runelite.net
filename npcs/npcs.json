@@ -9547,6 +9547,18 @@
     "name": "Guard dog",
     "hitpoints": 49
   },
+  "7221": {
+    "name": "Scurrius",
+    "hitpoints": 1500
+  },
+  "7222": {
+    "name": "Scurrius",
+    "hitpoints": 500
+  },
+  "7223": {
+    "name": "Giant rat",
+    "hitpoints": 15
+  },
   "7234": {
     "name": "Ent",
     "hitpoints": 75
