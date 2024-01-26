@@ -38649,6 +38649,10 @@
     "name": "Hefty tax bag",
     "weight": 5.443
   },
+  "10835": {
+    "name": "Bulging taxbag",
+    "weight": 7.257
+  },
   "10836": {
     "name": "Silly jester hat",
     "weight": 2.721,
@@ -82050,7 +82054,8 @@
   },
   "28699": {
     "name": "Trailblazer reloaded death scroll",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "28702": {
     "name": "Trailblazer reloaded banner",
@@ -82268,5 +82273,51 @@
     "equipment": {
       "slot": 0
     }
+  },
+  "28792": {
+    "name": "Bone mace",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 40,
+      "aslash": -2,
+      "acrush": 60,
+      "str": 55,
+      "aspeed": 4
+    }
+  },
+  "28794": {
+    "name": "Bone shortbow",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 69,
+      "aspeed": 4
+    }
+  },
+  "28796": {
+    "name": "Bone staff",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 14,
+      "aspeed": 4
+    }
+  },
+  "28798": {
+    "name": "Scurrius' spine",
+    "weight": 0.3
+  },
+  "28800": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "28801": {
+    "name": "Scurry",
+    "weight": 0.015
   }
 }
