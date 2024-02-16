@@ -40395,10 +40395,6 @@
     "name": "My notes",
     "weight": 0.01
   },
-  "11340": {
-    "name": "Barbarian skills",
-    "weight": 0.01
-  },
   "11341": {
     "name": "Ancient page",
     "weight": 0.003
@@ -81953,7 +81949,9 @@
     "name": "Twitcher's gloves",
     "equipable": true,
     "equipment": {
-      "slot": 9
+      "slot": 9,
+      "dslash": 1,
+      "dcrush": 2
     }
   },
   "28648": {
@@ -81975,10 +81973,6 @@
     "equipment": {
       "slot": 2
     }
-  },
-  "28657": {
-    "name": "Padded spoon",
-    "ge_limit": 100
   },
   "28663": {
     "name": "Golden pheasant egg",
@@ -82011,6 +82005,23 @@
       "dstab": 1,
       "dslash": 2,
       "dcrush": 3
+    }
+  },
+  "28682": {
+    "name": "Dinh's blazing bulwark",
+    "weight": 30.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "acrush": 124,
+      "dstab": 106,
+      "dslash": 109,
+      "dcrush": 109,
+      "dmagic": -10,
+      "drange": 148,
+      "str": 38,
+      "aspeed": 5
     }
   },
   "28684": {
@@ -82265,6 +82276,14 @@
   "28783": {
     "name": "Trailblazer reloaded relic hunter (t3) armour set",
     "weight": 0.05
+  },
+  "28786": {
+    "name": "Icy jumper",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
   },
   "28788": {
     "name": "Snowglobe helmet",
