@@ -12975,72 +12975,80 @@
     "name": "Warped Terrorbird",
     "hitpoints": 200
   },
-  "12562": {
-    "name": "Bloodthirsty Cockathrice",
-    "hitpoints": 142
+  "12720": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12563": {
-    "name": "Bloodthirsty pyrelord",
-    "hitpoints": 187
+  "12721": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12564": {
-    "name": "Bloodthirsty Infernal pyrelord",
-    "hitpoints": 276
+  "12722": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12565": {
-    "name": "Bloodthirsty basilisk",
-    "hitpoints": 255
+  "12723": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12566": {
-    "name": "Bloodthirsty Basilisk Sentinel",
-    "hitpoints": 780
+  "12724": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12568": {
-    "name": "Bloodthirsty Bloodveld",
-    "hitpoints": 435
+  "12725": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12569": {
-    "name": "Bloodthirsty mutated Bloodveld",
-    "hitpoints": 615
+  "12726": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12570": {
-    "name": "Bloodthirsty Jelly",
-    "hitpoints": 285
+  "12727": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12571": {
-    "name": "Bloodthirsty warped Jelly",
-    "hitpoints": 330
+  "12728": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12576": {
-    "name": "Bloodthirsty kurask",
-    "hitpoints": 405
+  "12729": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12577": {
-    "name": "Bloodthirsty smoke devil",
-    "hitpoints": 360
+  "12730": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12580": {
-    "name": "Bloodthirsty Night beast",
-    "hitpoints": 825
+  "12731": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12581": {
-    "name": "Bloodthirsty abyssal demon",
-    "hitpoints": 600
+  "12732": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12584": {
-    "name": "Bloodthirsty Shadow Wyrm",
-    "hitpoints": 480
+  "12733": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12585": {
-    "name": "Bloodthirsty Shadow Wyrm",
-    "hitpoints": 480
+  "12734": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12586": {
-    "name": "Bloodthirsty Drake",
-    "hitpoints": 945
+  "12736": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   },
-  "12588": {
-    "name": "Bloodthirsty Hydra",
-    "hitpoints": 1125
+  "12755": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
+  },
+  "12757": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
+  },
+  "12758": {
+    "name": "Armoured zombie",
+    "hitpoints": 85
   }
 }
