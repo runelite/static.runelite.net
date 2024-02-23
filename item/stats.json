@@ -42694,6 +42694,10 @@
     },
     "ge_limit": 8
   },
+  "11916": {
+    "name": "Slice of birthday cake",
+    "weight": 0.1
+  },
   "11919": {
     "name": "Cow mask",
     "weight": 0.09,
@@ -82338,5 +82342,59 @@
   "28801": {
     "name": "Scurry",
     "weight": 0.015
+  },
+  "28803": {
+    "name": "Grubby key",
+    "weight": 0.01,
+    "ge_limit": 11000
+  },
+  "28804": {
+    "name": "Bottle",
+    "weight": 0.04
+  },
+  "28805": {
+    "name": "Bottle of mist",
+    "weight": 0.04
+  },
+  "28806": {
+    "name": "Imbued barronite",
+    "weight": 0.2
+  },
+  "28807": {
+    "name": "Shield of arrav",
+    "weight": 3.628
+  },
+  "28808": {
+    "name": "List of elders",
+    "weight": 0.005
+  },
+  "28809": {
+    "name": "Elias white",
+    "weight": 0.001
+  },
+  "28810": {
+    "name": "Zombie axe",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -3,
+      "aslash": 105,
+      "acrush": 90,
+      "dstab": -1,
+      "drange": -1,
+      "str": 107,
+      "aspeed": 5
+    }
+  },
+  "28813": {
+    "name": "Broken zombie axe",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {}
+  },
+  "28820": {
+    "name": "Antique lamp",
+    "weight": 0.1
   }
 }
