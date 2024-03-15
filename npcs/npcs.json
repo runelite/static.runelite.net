@@ -609,7 +609,7 @@
   },
   "290": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "291": {
     "name": "Chaos dwarf",
@@ -629,7 +629,7 @@
   },
   "296": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "299": {
     "name": "Gunthor the brave",
@@ -2509,7 +2509,7 @@
   },
   "1405": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "1406": {
     "name": "Dwarf",
