@@ -3396,7 +3396,7 @@
   "962": {
     "name": "Christmas cracker",
     "weight": 0.2,
-    "ge_limit": 50
+    "ge_limit": 4
   },
   "964": {
     "name": "Skull",
@@ -36051,8 +36051,7 @@
       "dslash": 15,
       "dcrush": 19,
       "drange": 12
-    },
-    "ge_limit": 150
+    }
   },
   "10055": {
     "name": "Wood camo legs",
@@ -36065,8 +36064,7 @@
       "dslash": 10,
       "dcrush": 10,
       "drange": 10
-    },
-    "ge_limit": 150
+    }
   },
   "10057": {
     "name": "Jungle camo top",
@@ -36078,8 +36076,7 @@
       "dslash": 15,
       "dcrush": 19,
       "drange": 12
-    },
-    "ge_limit": 150
+    }
   },
   "10059": {
     "name": "Jungle camo legs",
@@ -36092,8 +36089,7 @@
       "dslash": 10,
       "dcrush": 10,
       "drange": 10
-    },
-    "ge_limit": 150
+    }
   },
   "10061": {
     "name": "Desert camo top",
@@ -36105,8 +36101,7 @@
       "dslash": 15,
       "dcrush": 19,
       "drange": 12
-    },
-    "ge_limit": 150
+    }
   },
   "10063": {
     "name": "Desert camo legs",
@@ -36119,8 +36114,7 @@
       "dslash": 10,
       "dcrush": 10,
       "drange": 10
-    },
-    "ge_limit": 150
+    }
   },
   "10065": {
     "name": "Polar camo top",
@@ -36132,8 +36126,7 @@
       "dslash": 15,
       "dcrush": 19,
       "drange": 12
-    },
-    "ge_limit": 150
+    }
   },
   "10067": {
     "name": "Polar camo legs",
@@ -36146,8 +36139,7 @@
       "dslash": 10,
       "dcrush": 10,
       "drange": 10
-    },
-    "ge_limit": 150
+    }
   },
   "10069": {
     "name": "Spotted cape",
@@ -51371,6 +51363,10 @@
   },
   "19763": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19764": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19765": {
@@ -80660,7 +80656,7 @@
     }
   },
   "28260": {
-    "name": "Blood ancient sceptre (l)",
+    "name": "Blood ancient sceptre",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -82396,5 +82392,1486 @@
   "28820": {
     "name": "Antique lamp",
     "weight": 0.1
+  },
+  "28824": {
+    "name": "Civitas illa fortis teleport",
+    "weight": 0.001
+  },
+  "28826": {
+    "name": "Dizana's quiver (broken)",
+    "weight": 0.453
+  },
+  "28828": {
+    "name": "Blessed dizana's quiver (broken)",
+    "weight": 0.453
+  },
+  "28830": {
+    "name": "Dizana's max cape (broken)",
+    "weight": 0.453
+  },
+  "28831": {
+    "name": "Immature tecu salamander",
+    "weight": 6.0
+  },
+  "28834": {
+    "name": "Tecu salamander",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 77,
+      "arange": 87,
+      "str": 91,
+      "aspeed": 5
+    }
+  },
+  "28837": {
+    "name": "Irit tar",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 49
+    }
+  },
+  "28869": {
+    "name": "Hunters' sunlight crossbow",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 79,
+      "aspeed": 4
+    }
+  },
+  "28872": {
+    "name": "Sunlight antler bolts",
+    "weight": 0.005,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 55
+    }
+  },
+  "28878": {
+    "name": "Moonlight antler bolts",
+    "weight": 0.005,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 60
+    }
+  },
+  "28887": {
+    "name": "Moonlight antler",
+    "weight": 0.005
+  },
+  "28890": {
+    "name": "Sunlight moth",
+    "weight": 0.02
+  },
+  "28893": {
+    "name": "Moonlight moth",
+    "weight": 0.02
+  },
+  "28896": {
+    "name": "Rum",
+    "weight": 1.0
+  },
+  "28899": {
+    "name": "Wyrmling bones",
+    "weight": 0.8
+  },
+  "28902": {
+    "name": "Dizana's max cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 28,
+      "rstr": 4
+    }
+  },
+  "28904": {
+    "name": "Dizana's max hood",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "28906": {
+    "name": "Dizana's max cape (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 28,
+      "rstr": 4
+    }
+  },
+  "28908": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "28909": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "28910": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "28911": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "28912": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "28913": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "28914": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "28915": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "28916": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "28918": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "28919": {
+    "name": "Tonalztics of ralos (uncharged)",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 115,
+      "rstr": 55,
+      "prayer": 2,
+      "aspeed": 7
+    }
+  },
+  "28922": {
+    "name": "Tonalztics of ralos",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 115,
+      "rstr": 55,
+      "prayer": 2,
+      "aspeed": 7
+    }
+  },
+  "28931": {
+    "name": "Searing page",
+    "weight": 0.005
+  },
+  "28933": {
+    "name": "Sunfire fanatic helm",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30,
+      "prayer": 6
+    }
+  },
+  "28936": {
+    "name": "Sunfire fanatic cuirass",
+    "weight": 8.618,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 82,
+      "dslash": 80,
+      "dcrush": 72,
+      "dmagic": -6,
+      "drange": 80,
+      "prayer": 10
+    }
+  },
+  "28939": {
+    "name": "Sunfire fanatic chausses",
+    "weight": 7.711,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 51,
+      "dslash": 49,
+      "dcrush": 47,
+      "dmagic": -4,
+      "drange": 49,
+      "prayer": 8
+    }
+  },
+  "28942": {
+    "name": "Echo crystal",
+    "weight": 0.5
+  },
+  "28945": {
+    "name": "Echo boots",
+    "weight": 7.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 32,
+      "dslash": 32,
+      "dcrush": 32,
+      "dmagic": -3,
+      "drange": 24,
+      "str": 3,
+      "prayer": 4
+    }
+  },
+  "28947": {
+    "name": "Dizana's quiver (uncharged)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 28,
+      "rstr": 4
+    }
+  },
+  "28949": {
+    "name": "Dizana's quiver (uncharged) (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "28951": {
+    "name": "Dizana's quiver",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 18,
+      "rstr": 3
+    }
+  },
+  "28953": {
+    "name": "Dizana's quiver (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "28955": {
+    "name": "Blessed dizana's quiver",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 28,
+      "rstr": 4
+    }
+  },
+  "28957": {
+    "name": "Blessed dizana's quiver (l)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 28,
+      "rstr": 4
+    }
+  },
+  "28958": {
+    "name": "Scrawled poem",
+    "weight": 0.003
+  },
+  "28960": {
+    "name": "Smol heredit",
+    "weight": 0.015
+  },
+  "28962": {
+    "name": "Quetzin",
+    "weight": 0.015
+  },
+  "28964": {
+    "name": "Enchanted water talisman",
+    "weight": 0.015
+  },
+  "28965": {
+    "name": "Enchanted earth talisman",
+    "weight": 0.015
+  },
+  "28966": {
+    "name": "Infused water talisman",
+    "weight": 0.015
+  },
+  "28967": {
+    "name": "Infused earth talisman",
+    "weight": 0.015
+  },
+  "28968": {
+    "name": "Building supplies",
+    "weight": 5.15
+  },
+  "28969": {
+    "name": "Moss lizard tail",
+    "weight": 0.003
+  },
+  "28970": {
+    "name": "Bream scales",
+    "weight": 0.003
+  },
+  "28972": {
+    "name": "Varlamore invitation",
+    "weight": 0.003
+  },
+  "28973": {
+    "name": "Varlamore crest",
+    "weight": 4.535
+  },
+  "28974": {
+    "name": "Incriminating letter",
+    "weight": 0.003
+  },
+  "28975": {
+    "name": "Quetzal feed",
+    "weight": 0.1
+  },
+  "28976": {
+    "name": "Stolen amulet",
+    "weight": 0.007
+  },
+  "28978": {
+    "name": "Smooth leaf",
+    "weight": 0.007
+  },
+  "28979": {
+    "name": "Sticky leaf",
+    "weight": 0.007
+  },
+  "28980": {
+    "name": "Makeshift poultice",
+    "weight": 0.325
+  },
+  "28981": {
+    "name": "Fur sample",
+    "weight": 3.0
+  },
+  "28982": {
+    "name": "Trimmed fur",
+    "weight": 3.0
+  },
+  "28983": {
+    "name": "Fox's report",
+    "weight": 0.02
+  },
+  "28984": {
+    "name": "Baby dragon bonemeal",
+    "weight": 1.5
+  },
+  "28986": {
+    "name": "Love letter",
+    "weight": 0.003
+  },
+  "28987": {
+    "name": "Plushy",
+    "weight": 0.001
+  },
+  "28988": {
+    "name": "Blue moon spear",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 70,
+      "aslash": 62,
+      "acrush": 62,
+      "amagic": 30,
+      "str": 71,
+      "mdmg": 5,
+      "aspeed": 5
+    }
+  },
+  "28991": {
+    "name": "Atlatl dart",
+    "equipable": true,
+    "equipment": {
+      "slot": 13
+    }
+  },
+  "28997": {
+    "name": "Dual macuahuitl",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 115,
+      "aslash": -4,
+      "acrush": 121,
+      "amagic": -4,
+      "str": 81,
+      "aspeed": 4
+    }
+  },
+  "29000": {
+    "name": "Eclipse atlatl",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 87,
+      "str": 40,
+      "aspeed": 4
+    }
+  },
+  "29004": {
+    "name": "Eclipse moon chestplate",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 31,
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 57,
+      "dmagic": 55,
+      "drange": 32,
+      "str": 3
+    }
+  },
+  "29007": {
+    "name": "Eclipse moon tassets",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -15,
+      "arange": 17,
+      "dstab": 9,
+      "dslash": 13,
+      "dcrush": 37,
+      "dmagic": 31,
+      "drange": 17,
+      "str": 1
+    }
+  },
+  "29010": {
+    "name": "Eclipse moon helm",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": 8,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 4,
+      "str": 3
+    }
+  },
+  "29013": {
+    "name": "Blue moon chestplate",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "dcrush": 51,
+      "dmagic": 28,
+      "str": 2
+    }
+  },
+  "29016": {
+    "name": "Blue moon tassets",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "dcrush": 23,
+      "dmagic": 22,
+      "str": 1
+    }
+  },
+  "29019": {
+    "name": "Blue moon helm",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "dcrush": 10,
+      "dmagic": 6,
+      "str": 2
+    }
+  },
+  "29022": {
+    "name": "Blood moon chestplate",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": -10,
+      "dstab": 60,
+      "dslash": 80,
+      "dcrush": 80,
+      "dmagic": 40,
+      "drange": 79,
+      "str": 4
+    }
+  },
+  "29025": {
+    "name": "Blood moon tassets",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 30,
+      "dslash": 50,
+      "dcrush": 49,
+      "dmagic": 32,
+      "drange": 46,
+      "str": 2
+    }
+  },
+  "29028": {
+    "name": "Blood moon helm",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 20,
+      "dslash": 31,
+      "dcrush": 34,
+      "dmagic": 7,
+      "drange": 29,
+      "str": 4
+    }
+  },
+  "29031": {
+    "name": "Eclipse moon chestplate",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 31,
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 57,
+      "dmagic": 55,
+      "drange": 32,
+      "str": 3
+    }
+  },
+  "29033": {
+    "name": "Eclipse moon tassets",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -15,
+      "arange": 17,
+      "dstab": 9,
+      "dslash": 13,
+      "dcrush": 37,
+      "dmagic": 31,
+      "drange": 17,
+      "str": 1
+    }
+  },
+  "29035": {
+    "name": "Eclipse moon helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": 8,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 4,
+      "str": 3
+    }
+  },
+  "29037": {
+    "name": "Blue moon chestplate",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "dcrush": 51,
+      "dmagic": 28,
+      "str": 2
+    }
+  },
+  "29039": {
+    "name": "Blue moon tassets",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "dcrush": 23,
+      "dmagic": 22,
+      "str": 1
+    }
+  },
+  "29041": {
+    "name": "Blue moon helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "dcrush": 10,
+      "dmagic": 6,
+      "str": 2
+    }
+  },
+  "29043": {
+    "name": "Blood moon chestplate",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": -10,
+      "dstab": 60,
+      "dslash": 80,
+      "dcrush": 80,
+      "dmagic": 40,
+      "drange": 79,
+      "str": 4
+    }
+  },
+  "29045": {
+    "name": "Blood moon tassets",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 30,
+      "dslash": 50,
+      "dcrush": 49,
+      "dmagic": 32,
+      "drange": 46,
+      "str": 2
+    }
+  },
+  "29047": {
+    "name": "Blood moon helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 20,
+      "dslash": 31,
+      "dcrush": 34,
+      "dmagic": 7,
+      "drange": 29,
+      "str": 4
+    }
+  },
+  "29049": {
+    "name": "Eclipse moon chestplate (broken)",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 31,
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 57,
+      "dmagic": 55,
+      "drange": 32,
+      "str": 3
+    }
+  },
+  "29052": {
+    "name": "Eclipse moon tassets (broken)",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -15,
+      "arange": 17,
+      "dstab": 9,
+      "dslash": 13,
+      "dcrush": 37,
+      "dmagic": 31,
+      "drange": 17,
+      "str": 1
+    }
+  },
+  "29055": {
+    "name": "Eclipse moon helm (broken)",
+    "weight": 0.907
+  },
+  "29058": {
+    "name": "Blue moon chestplate (broken)",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "dcrush": 51,
+      "dmagic": 28,
+      "str": 2
+    }
+  },
+  "29061": {
+    "name": "Blue moon tassets (broken)",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "dcrush": 23,
+      "dmagic": 22,
+      "str": 1
+    }
+  },
+  "29064": {
+    "name": "Blue moon helm (broken)",
+    "weight": 0.907
+  },
+  "29067": {
+    "name": "Blood moon chestplate (broken)",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": -10,
+      "dstab": 60,
+      "dslash": 80,
+      "dcrush": 80,
+      "dmagic": 40,
+      "drange": 79,
+      "str": 4
+    }
+  },
+  "29070": {
+    "name": "Blood moon tassets (broken)",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 30,
+      "dslash": 50,
+      "dcrush": 49,
+      "dmagic": 32,
+      "drange": 46,
+      "str": 2
+    }
+  },
+  "29073": {
+    "name": "Blood moon helm (broken)",
+    "weight": 0.907
+  },
+  "29076": {
+    "name": "Raw moss lizard",
+    "weight": 0.17
+  },
+  "29077": {
+    "name": "Cooked moss lizard",
+    "weight": 0.141
+  },
+  "29078": {
+    "name": "Moonlight grub",
+    "weight": 0.001
+  },
+  "29079": {
+    "name": "Moonlight grub paste",
+    "weight": 0.002
+  },
+  "29080": {
+    "name": "Moonlight potion(4)",
+    "weight": 0.02
+  },
+  "29081": {
+    "name": "Moonlight potion(3)",
+    "weight": 0.02
+  },
+  "29082": {
+    "name": "Moonlight potion(2)",
+    "weight": 0.02
+  },
+  "29083": {
+    "name": "Moonlight potion(1)",
+    "weight": 0.02
+  },
+  "29084": {
+    "name": "Sulphur blades",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 11,
+      "aslash": 72,
+      "str": 64,
+      "aspeed": 4
+    }
+  },
+  "29087": {
+    "name": "Sulphurous essence",
+    "weight": 0.056
+  },
+  "29088": {
+    "name": "Calcified deposit",
+    "weight": 0.2
+  },
+  "29098": {
+    "name": "Not meat",
+    "weight": 0.34
+  },
+  "29101": {
+    "name": "Raw barb-tailed kebbit",
+    "weight": 0.34
+  },
+  "29104": {
+    "name": "Raw wild kebbit",
+    "weight": 0.34
+  },
+  "29107": {
+    "name": "Raw dashing kebbit",
+    "weight": 0.34
+  },
+  "29110": {
+    "name": "Raw pyre fox",
+    "weight": 0.34
+  },
+  "29113": {
+    "name": "Raw moonlight antelope",
+    "weight": 0.34
+  },
+  "29116": {
+    "name": "Raw sunlight antelope",
+    "weight": 0.34
+  },
+  "29119": {
+    "name": "Raw graahk",
+    "weight": 0.34
+  },
+  "29122": {
+    "name": "Raw larupia",
+    "weight": 0.34
+  },
+  "29125": {
+    "name": "Raw kyatt",
+    "weight": 0.34
+  },
+  "29128": {
+    "name": "Cooked wild kebbit",
+    "weight": 0.283
+  },
+  "29131": {
+    "name": "Cooked barb-tailed kebbit",
+    "weight": 0.283
+  },
+  "29134": {
+    "name": "Cooked dashing kebbit",
+    "weight": 0.283
+  },
+  "29137": {
+    "name": "Cooked pyre fox",
+    "weight": 0.283
+  },
+  "29140": {
+    "name": "Cooked sunlight antelope",
+    "weight": 0.283
+  },
+  "29143": {
+    "name": "Cooked moonlight antelope",
+    "weight": 0.283
+  },
+  "29146": {
+    "name": "Cooked larupia",
+    "weight": 0.283
+  },
+  "29149": {
+    "name": "Cooked graahk",
+    "weight": 0.283
+  },
+  "29152": {
+    "name": "Cooked kyatt",
+    "weight": 0.283
+  },
+  "29155": {
+    "name": "Burnt kebbit",
+    "weight": 0.226
+  },
+  "29157": {
+    "name": "Burnt large beast",
+    "weight": 0.226
+  },
+  "29159": {
+    "name": "Burnt antelope",
+    "weight": 0.226
+  },
+  "29161": {
+    "name": "Burnt fox meat",
+    "weight": 0.226
+  },
+  "29163": {
+    "name": "Fox fur",
+    "weight": 3.0
+  },
+  "29166": {
+    "name": "Jerboa tail",
+    "weight": 0.3
+  },
+  "29168": {
+    "name": "Sunlight antelope antler",
+    "weight": 0.3
+  },
+  "29171": {
+    "name": "Moonlight antelope antler",
+    "weight": 1.0
+  },
+  "29174": {
+    "name": "Moonlight antelope fur",
+    "weight": 3.0
+  },
+  "29177": {
+    "name": "Sunlight antelope fur",
+    "weight": 3.0
+  },
+  "29180": {
+    "name": "Sapphire glacialis mix (2)",
+    "weight": 0.02
+  },
+  "29183": {
+    "name": "Snowy knight mix (2)",
+    "weight": 0.02
+  },
+  "29186": {
+    "name": "Ruby harvest mix (2)",
+    "weight": 0.02
+  },
+  "29189": {
+    "name": "Black warlock mix (2)",
+    "weight": 0.02
+  },
+  "29192": {
+    "name": "Sunlight moth mix (2)",
+    "weight": 0.02
+  },
+  "29195": {
+    "name": "Moonlight moth mix (2)",
+    "weight": 0.02
+  },
+  "29198": {
+    "name": "Sapphire glacialis mix (1)",
+    "weight": 0.02
+  },
+  "29201": {
+    "name": "Snowy knight mix (1)",
+    "weight": 0.02
+  },
+  "29204": {
+    "name": "Ruby harvest mix (1)",
+    "weight": 0.02
+  },
+  "29207": {
+    "name": "Black warlock mix (1)",
+    "weight": 0.02
+  },
+  "29210": {
+    "name": "Sunlight moth mix (1)",
+    "weight": 0.02
+  },
+  "29213": {
+    "name": "Moonlight moth mix (1)",
+    "weight": 0.02
+  },
+  "29216": {
+    "name": "Raw bream",
+    "weight": 0.45
+  },
+  "29217": {
+    "name": "Cooked bream",
+    "weight": 0.35
+  },
+  "29218": {
+    "name": "Jaguar fur",
+    "weight": 3.0
+  },
+  "29221": {
+    "name": "Chinchompa tuft",
+    "weight": 1.0
+  },
+  "29222": {
+    "name": "Tailfeathers",
+    "weight": 1.0
+  },
+  "29223": {
+    "name": "Kebbity tuft",
+    "weight": 1.0
+  },
+  "29224": {
+    "name": "Blue butterfly wing",
+    "weight": 1.0
+  },
+  "29225": {
+    "name": "Swamp lizard claw",
+    "weight": 1.0
+  },
+  "29226": {
+    "name": "Larupia ear",
+    "weight": 1.0
+  },
+  "29227": {
+    "name": "White butterfly wing",
+    "weight": 1.0
+  },
+  "29228": {
+    "name": "Large jerboa tail",
+    "weight": 1.0
+  },
+  "29229": {
+    "name": "Graahk horn spur",
+    "weight": 1.0
+  },
+  "29230": {
+    "name": "Black butterfly wing",
+    "weight": 1.0
+  },
+  "29231": {
+    "name": "Orange salamander claw",
+    "weight": 1.0
+  },
+  "29232": {
+    "name": "Kyatt tooth chip",
+    "weight": 1.0
+  },
+  "29233": {
+    "name": "Fox fluff",
+    "weight": 1.0
+  },
+  "29234": {
+    "name": "Red salamander claw",
+    "weight": 1.0
+  },
+  "29235": {
+    "name": "Red chinchompa tuft",
+    "weight": 1.0
+  },
+  "29236": {
+    "name": "Antelope hoof shard",
+    "weight": 1.0
+  },
+  "29237": {
+    "name": "Sunlight moth wing",
+    "weight": 1.0
+  },
+  "29238": {
+    "name": "Salamander claw",
+    "weight": 1.0
+  },
+  "29239": {
+    "name": "Herby tuft",
+    "weight": 1.0
+  },
+  "29240": {
+    "name": "Moonlight moth wing",
+    "weight": 1.0
+  },
+  "29241": {
+    "name": "Antelope hoof shard",
+    "weight": 1.0
+  },
+  "29242": {
+    "name": "Hunters' loot sack (basic)",
+    "weight": 1.0
+  },
+  "29244": {
+    "name": "Hunters' loot sack (tier 1)",
+    "weight": 1.0
+  },
+  "29246": {
+    "name": "Hunters' loot sack (tier 2)",
+    "weight": 1.0
+  },
+  "29248": {
+    "name": "Hunters' loot sack (tier 3)",
+    "weight": 1.0
+  },
+  "29251": {
+    "name": "Basic quetzal whistle blueprint",
+    "weight": 0.004
+  },
+  "29253": {
+    "name": "Enhanced quetzal whistle blueprint",
+    "weight": 0.004
+  },
+  "29256": {
+    "name": "Perfected quetzal whistle blueprint",
+    "weight": 0.004
+  },
+  "29259": {
+    "name": "Torn enhanced quetzal whistle blueprint",
+    "weight": 0.004
+  },
+  "29261": {
+    "name": "Torn perfected quetzal whistle blueprint",
+    "weight": 0.004
+  },
+  "29263": {
+    "name": "Guild hunter headwear",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "29265": {
+    "name": "Guild hunter top",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "29267": {
+    "name": "Guild hunter legs",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "29269": {
+    "name": "Guild hunter boots",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "29271": {
+    "name": "Basic quetzal whistle",
+    "weight": 0.004
+  },
+  "29273": {
+    "name": "Enhanced quetzal whistle",
+    "weight": 0.004
+  },
+  "29275": {
+    "name": "Perfected quetzal whistle",
+    "weight": 0.004
+  },
+  "29277": {
+    "name": "Trapper's tipple",
+    "weight": 0.55,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29280": {
+    "name": "Mixed hide top",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "astab": 4,
+      "aslash": -2,
+      "acrush": -3,
+      "amagic": -15,
+      "arange": 27,
+      "dstab": 33,
+      "dslash": 39,
+      "dcrush": 43,
+      "dmagic": 30,
+      "drange": 32,
+      "str": 2
+    }
+  },
+  "29283": {
+    "name": "Mixed hide legs",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "astab": 3,
+      "aslash": -1,
+      "acrush": -2,
+      "amagic": -10,
+      "arange": 14,
+      "dstab": 20,
+      "dslash": 23,
+      "dcrush": 22,
+      "dmagic": 16,
+      "drange": 20
+    }
+  },
+  "29286": {
+    "name": "Mixed hide boots",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -10,
+      "arange": 5,
+      "dstab": 4,
+      "dslash": 5,
+      "dcrush": 6,
+      "dmagic": 3,
+      "drange": 3,
+      "str": 2
+    }
+  },
+  "29289": {
+    "name": "Mixed hide cape",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": -15,
+      "arange": 5,
+      "dstab": 2,
+      "dslash": 2,
+      "dcrush": 2,
+      "dmagic": 5,
+      "drange": 1,
+      "str": 1
+    }
+  },
+  "29292": {
+    "name": "Mixed hide base",
+    "weight": 1.0
+  },
+  "29295": {
+    "name": "Small meat pouch",
+    "weight": 1.0
+  },
+  "29297": {
+    "name": "Large meat pouch",
+    "weight": 1.0
+  },
+  "29299": {
+    "name": "Small fur pouch",
+    "weight": 1.0
+  },
+  "29301": {
+    "name": "Medium fur pouch",
+    "weight": 1.0
+  },
+  "29303": {
+    "name": "Large fur pouch",
+    "weight": 1.0
+  },
+  "29305": {
+    "name": "Hunter's spear",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 73,
+      "str": 48,
+      "prayer": 1,
+      "aspeed": 6
+    }
+  },
+  "29307": {
+    "name": "Quetzal feed",
+    "weight": 1.0
+  },
+  "29309": {
+    "name": "Huntsman's kit",
+    "weight": 0.95
+  },
+  "29317": {
+    "name": "Tattered request note",
+    "weight": 0.004
+  },
+  "29319": {
+    "name": "Guild history excerpt",
+    "weight": 0.004
+  },
+  "29321": {
+    "name": "Apatura's note",
+    "weight": 0.004
+  },
+  "29323": {
+    "name": "Apatura's key",
+    "weight": 0.01
+  },
+  "29338": {
+    "name": "Blessed bone statuette",
+    "weight": 0.028
+  },
+  "29340": {
+    "name": "Blessed bone statuette",
+    "weight": 0.028
+  },
+  "29342": {
+    "name": "Blessed bone statuette",
+    "weight": 0.028
+  },
+  "29344": {
+    "name": "Blessed bones",
+    "weight": 0.5
+  },
+  "29346": {
+    "name": "Blessd bat bones",
+    "weight": 0.3
+  },
+  "29348": {
+    "name": "Blessed big bones",
+    "weight": 0.8
+  },
+  "29350": {
+    "name": "Blessed zogre bones",
+    "weight": 0.8
+  },
+  "29352": {
+    "name": "Blessed babydragon bones",
+    "weight": 0.8
+  },
+  "29354": {
+    "name": "Blessed babywyrm bones",
+    "weight": 0.8
+  },
+  "29356": {
+    "name": "Blessed dragon bones",
+    "weight": 1.5
+  },
+  "29358": {
+    "name": "Blessed lava dragon bones",
+    "weight": 1.6
+  },
+  "29360": {
+    "name": "Blessed wyvern bones",
+    "weight": 0.5
+  },
+  "29362": {
+    "name": "Blessed superior dragon bones",
+    "weight": 1.8
+  },
+  "29364": {
+    "name": "Blessed wyrm bones",
+    "weight": 1.8
+  },
+  "29366": {
+    "name": "Blessed drake bones",
+    "weight": 1.8
+  },
+  "29368": {
+    "name": "Blessed hydra bones",
+    "weight": 1.8
+  },
+  "29370": {
+    "name": "Blessed fayrg bones",
+    "weight": 0.8
+  },
+  "29372": {
+    "name": "Blessed raurg bones",
+    "weight": 0.8
+  },
+  "29374": {
+    "name": "Blessed ourg bones",
+    "weight": 0.8
+  },
+  "29376": {
+    "name": "Dagannoth bones",
+    "weight": 1.5,
+    "ge_limit": 7500
+  },
+  "29378": {
+    "name": "Sun-kissed bones",
+    "weight": 1.8
+  },
+  "29382": {
+    "name": "Jug of sunfire wine",
+    "weight": 0.3
+  },
+  "29384": {
+    "name": "Jug of blessed sunfire wine",
+    "weight": 0.3
+  },
+  "29386": {
+    "name": "Jug of blessed wine",
+    "weight": 0.3
+  },
+  "29408": {
+    "name": "A nice key",
+    "weight": 0.011
+  },
+  "29409": {
+    "name": "Sunbeam ale",
+    "weight": 0.55
+  },
+  "29412": {
+    "name": "Steamforge brew",
+    "weight": 0.55
+  },
+  "29415": {
+    "name": "Eclipse wine",
+    "weight": 1.0
+  },
+  "29418": {
+    "name": "Moon-lite",
+    "weight": 0.8
+  },
+  "29421": {
+    "name": "Sun-shine",
+    "weight": 0.8
+  },
+  "29424": {
+    "name": "Sunfire fanatic armour set",
+    "weight": 0.05
+  },
+  "29427": {
+    "name": "Herbalist's notes",
+    "weight": 0.003
+  },
+  "29428": {
+    "name": "Chef's notes",
+    "weight": 0.003
   }
 }

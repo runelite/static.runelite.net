@@ -609,7 +609,7 @@
   },
   "290": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "291": {
     "name": "Chaos dwarf",
@@ -629,7 +629,7 @@
   },
   "296": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "299": {
     "name": "Gunthor the brave",
@@ -2509,7 +2509,7 @@
   },
   "1405": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "1406": {
     "name": "Dwarf",
@@ -13050,5 +13050,153 @@
   "12758": {
     "name": "Armoured zombie",
     "hitpoints": 85
+  },
+  "12810": {
+    "name": "Jaguar warrior",
+    "hitpoints": 125
+  },
+  "12811": {
+    "name": "Serpent shaman",
+    "hitpoints": 125
+  },
+  "12812": {
+    "name": "Minotaur",
+    "hitpoints": 225
+  },
+  "12813": {
+    "name": "Minotaur",
+    "hitpoints": 225
+  },
+  "12814": {
+    "name": "Fremennik warband archer",
+    "hitpoints": 50
+  },
+  "12815": {
+    "name": "Fremennik warband seer",
+    "hitpoints": 50
+  },
+  "12816": {
+    "name": "Fremennik warband berserker",
+    "hitpoints": 50
+  },
+  "12817": {
+    "name": "Javelin Colossus",
+    "hitpoints": 220
+  },
+  "12818": {
+    "name": "Manticore",
+    "hitpoints": 250
+  },
+  "12819": {
+    "name": "Shockwave Colossus",
+    "hitpoints": 125
+  },
+  "12821": {
+    "name": "Sol Heredit",
+    "hitpoints": 1500
+  },
+  "12879": {
+    "name": "Sulphur Nagua",
+    "hitpoints": 100
+  },
+  "12918": {
+    "name": "Cultist",
+    "hitpoints": 25
+  },
+  "12919": {
+    "name": "Cultist",
+    "hitpoints": 25
+  },
+  "12920": {
+    "name": "Cultist",
+    "hitpoints": 25
+  },
+  "12921": {
+    "name": "Cultist",
+    "hitpoints": 25
+  },
+  "12922": {
+    "name": "Cultist",
+    "hitpoints": 25
+  },
+  "12923": {
+    "name": "Cultist",
+    "hitpoints": 25
+  },
+  "12957": {
+    "name": "Cuthbert, Lord of Dread",
+    "hitpoints": 1
+  },
+  "12976": {
+    "name": "Jaguar",
+    "hitpoints": 80
+  },
+  "12977": {
+    "name": "Jaguar cub",
+    "hitpoints": 40
+  },
+  "12978": {
+    "name": "Black jaguar",
+    "hitpoints": 80
+  },
+  "13004": {
+    "name": "Buffalo",
+    "hitpoints": 20
+  },
+  "13011": {
+    "name": "Blood Moon",
+    "hitpoints": 500
+  },
+  "13012": {
+    "name": "Eclipse Moon",
+    "hitpoints": 500
+  },
+  "13013": {
+    "name": "Blue Moon",
+    "hitpoints": 500
+  },
+  "13021": {
+    "name": "Blood jaguar",
+    "hitpoints": 100
+  },
+  "13029": {
+    "name": "Grimy Lizard",
+    "hitpoints": 75
+  },
+  "13030": {
+    "name": "Moonlight Cockatrice",
+    "hitpoints": 52
+  },
+  "13031": {
+    "name": "Wyrmling",
+    "hitpoints": 65
+  },
+  "13032": {
+    "name": "Wyrmling",
+    "hitpoints": 65
+  },
+  "13115": {
+    "name": "Knight of varlamore (monster)",
+    "hitpoints": 52
+  },
+  "13116": {
+    "name": "Knight of varlamore (monster)",
+    "hitpoints": 52
+  },
+  "13117": {
+    "name": "Knight of varlamore (monster)",
+    "hitpoints": 52
+  },
+  "13118": {
+    "name": "Knight of varlamore (monster)",
+    "hitpoints": 52
+  },
+  "13119": {
+    "name": "Knight of varlamore (monster)",
+    "hitpoints": 52
+  },
+  "13139": {
+    "name": "Embertailed jerboa",
+    "hitpoints": 2
   }
 }
