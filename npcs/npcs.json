@@ -13095,8 +13095,40 @@
     "name": "Sol Heredit",
     "hitpoints": 1500
   },
+  "12844": {
+    "name": "Moss giant",
+    "hitpoints": 60
+  },
+  "12845": {
+    "name": "Moss giant",
+    "hitpoints": 60
+  },
+  "12846": {
+    "name": "Moss giant",
+    "hitpoints": 60
+  },
+  "12847": {
+    "name": "Moss giant",
+    "hitpoints": 60
+  },
+  "12848": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
+  "12849": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
+  "12850": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
   "12879": {
     "name": "Sulphur Nagua",
+    "hitpoints": 100
+  },
+  "12916": {
+    "name": "Knight of Varlamore",
     "hitpoints": 100
   },
   "12918": {
@@ -13139,6 +13171,14 @@
     "name": "Black jaguar",
     "hitpoints": 80
   },
+  "13001": {
+    "name": "Scorpion",
+    "hitpoints": 17
+  },
+  "13002": {
+    "name": "Snake",
+    "hitpoints": 6
+  },
   "13004": {
     "name": "Buffalo",
     "hitpoints": 20
@@ -13175,28 +13215,64 @@
     "name": "Wyrmling",
     "hitpoints": 65
   },
+  "13114": {
+    "name": "Knight of Varlamore",
+    "hitpoints": 52
+  },
   "13115": {
-    "name": "Knight of varlamore (monster)",
+    "name": "Knight of Varlamore",
     "hitpoints": 52
   },
   "13116": {
-    "name": "Knight of varlamore (monster)",
+    "name": "Knight of Varlamore",
     "hitpoints": 52
   },
   "13117": {
-    "name": "Knight of varlamore (monster)",
+    "name": "Knight of Varlamore",
     "hitpoints": 52
   },
   "13118": {
-    "name": "Knight of varlamore (monster)",
+    "name": "Knight of Varlamore",
     "hitpoints": 52
   },
   "13119": {
-    "name": "Knight of varlamore (monster)",
+    "name": "Knight of Varlamore",
     "hitpoints": 52
   },
   "13139": {
     "name": "Embertailed jerboa",
     "hitpoints": 2
+  },
+  "13283": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "13284": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "13285": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "13286": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "13287": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "13288": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "13289": {
+    "name": "Bandit",
+    "hitpoints": 27
+  },
+  "13290": {
+    "name": "Bandit",
+    "hitpoints": 27
   }
 }
