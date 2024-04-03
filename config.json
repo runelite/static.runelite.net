@@ -20,9 +20,6 @@
     "1.10.23.2",
     "1.10.23.1"
   ],
-  "ignoreDeadNpcs": [
-    12823
-  ],
   "props": {
     "clientThreadLagThreshold": 1000
   }
