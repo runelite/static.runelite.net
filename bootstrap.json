@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.10.26.jar",
-                    "fromHash": "03217c421d7077399b98d1dd153b2445c3be7c2ae59072d7b939b946a0c4a813",
-                    "hash": "702609c37a4ebd0769a2a735cf4b134a7ef16dd655628aa4b5cf2bf970cdce53",
-                    "name": "client-1.10.26.1.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.26.jar-client-1.10.26.1.jar.apdiff.gz.jar",
-                    "size": 19033
+                    "from": "client-1.10.26.1.jar",
+                    "fromHash": "728fc8bff7bbc943abdb940544911c80d9f09ecece4b672c77b2164247dbef50",
+                    "hash": "cbabd26183e9f6e64862b3c078365ae60a0209b53bf111a23a36792e6fdcbb95",
+                    "name": "client-1.10.26.2.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.10.26.1.jar-client-1.10.26.2.jar.apdiff.gz.jar",
+                    "size": 16302
                 }
             ],
-            "hash": "728fc8bff7bbc943abdb940544911c80d9f09ecece4b672c77b2164247dbef50",
-            "name": "client-1.10.26.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.26.1/client-1.10.26.1.jar",
-            "size": 6475446
+            "hash": "1da48700572bc16bce9fde0ed2d536b6d2daf3e68f667929351bb70037173f40",
+            "name": "client-1.10.26.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.10.26.2/client-1.10.26.2.jar",
+            "size": 6475580
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -281,10 +281,10 @@
             "size": 238152
         },
         {
-            "hash": "5e52d26a426c4ea20d8e4fd7311c0b9116704244c6e66a9f91c21694631dc779",
-            "name": "client-patch-1.10.26.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.26.1/client-patch-1.10.26.1.jar",
-            "size": 1024240
+            "hash": "d0e67c977ee0d8960fa4f82cca8bfe80dfd4136c9789d496e613d2dc78390b6f",
+            "name": "client-patch-1.10.26.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.10.26.2/client-patch-1.10.26.2.jar",
+            "size": 1009946
         },
         {
             "hash": "2b4b536743472f61b72e1dcd391e7699595b5764a6b4204866c8291145642ed2",
@@ -313,18 +313,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.10.26-runtime.jar",
-                    "fromHash": "99e5b2a119c17cc13c195aa2e04ff01118f57abe8935ebd81ff757c01ff67568",
-                    "hash": "adb2c1f8bd4df445e0070bbd905b54495a1b1ee2788ae9a3b255e788f81a0fed",
-                    "name": "runelite-api-1.10.26.1-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.26-runtime.jar-runelite-api-1.10.26.1-runtime.jar.apdiff.gz.jar",
-                    "size": 452
+                    "from": "runelite-api-1.10.26.1-runtime.jar",
+                    "fromHash": "352920e9c6d50fac1f30a40a1c17ad088500983c58357af02f9f62ce9133516b",
+                    "hash": "d5ad05bb47a098b00dbd9b84c3b4f24713b5e4188784651b6bd0f67ca010f0bf",
+                    "name": "runelite-api-1.10.26.2-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.26.1-runtime.jar-runelite-api-1.10.26.2-runtime.jar.apdiff.gz.jar",
+                    "size": 428
                 }
             ],
-            "hash": "352920e9c6d50fac1f30a40a1c17ad088500983c58357af02f9f62ce9133516b",
-            "name": "runelite-api-1.10.26.1-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.26.1/runelite-api-1.10.26.1-runtime.jar",
-            "size": 245859
+            "hash": "ef838a2992a6e7bdea10ebbede81893bf6e0475b75dbf230f0a2cfece3cb5f4a",
+            "name": "runelite-api-1.10.26.2-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.26.2/runelite-api-1.10.26.2-runtime.jar",
+            "size": 245860
         }
     ],
     "clientJvm17Arguments": [
@@ -417,5 +417,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.10.26.1"
+    "version": "1.10.26.2"
 }
