@@ -5229,11 +5229,11 @@
   },
   "3476": {
     "name": "The Illusive",
-    "hitpoints": 140
+    "hitpoints": 144
   },
   "3477": {
     "name": "A Doubt",
-    "hitpoints": 50
+    "hitpoints": 59
   },
   "3481": {
     "name": "Count Draynor",
@@ -12663,6 +12663,86 @@
     "name": "Kasonde",
     "hitpoints": 240
   },
+  "12268": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12269": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12270": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12271": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12272": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12273": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12274": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12275": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12276": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12277": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12278": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12279": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12280": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12281": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12282": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12283": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12284": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12285": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12286": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12287": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
   "12288": {
     "name": "Strangled Bear",
     "hitpoints": 100
@@ -12814,6 +12894,34 @@
   "12425": {
     "name": "Vardorvis",
     "hitpoints": 500
+  },
+  "12429": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12430": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12431": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12432": {
+    "name": "Strangled",
+    "hitpoints": 40
+  },
+  "12433": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12434": {
+    "name": "Strangled",
+    "hitpoints": 50
+  },
+  "12435": {
+    "name": "Strangled",
+    "hitpoints": 50
   },
   "12439": {
     "name": "Dagannoth Rex",
@@ -13095,6 +13203,10 @@
     "name": "Sol Heredit",
     "hitpoints": 1500
   },
+  "12833": {
+    "name": "Passionate Supporter",
+    "hitpoints": 10
+  },
   "12844": {
     "name": "Moss giant",
     "hitpoints": 60
@@ -13183,6 +13295,10 @@
     "name": "Buffalo",
     "hitpoints": 20
   },
+  "13006": {
+    "name": "Oryx",
+    "hitpoints": 19
+  },
   "13011": {
     "name": "Blood Moon",
     "hitpoints": 500
@@ -13214,6 +13330,50 @@
   "13032": {
     "name": "Wyrmling",
     "hitpoints": 65
+  },
+  "13033": {
+    "name": "Sulphur Nagua",
+    "hitpoints": 100
+  },
+  "13100": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13101": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13102": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13103": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13104": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13105": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13106": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13107": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13108": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "13109": {
+    "name": "Guard",
+    "hitpoints": 22
   },
   "13114": {
     "name": "Knight of Varlamore",
@@ -13274,5 +13434,49 @@
   "13290": {
     "name": "Bandit",
     "hitpoints": 27
+  },
+  "13291": {
+    "name": "Thief",
+    "hitpoints": 17
+  },
+  "13292": {
+    "name": "Thief",
+    "hitpoints": 17
+  },
+  "13293": {
+    "name": "Thief",
+    "hitpoints": 17
+  },
+  "13294": {
+    "name": "Thief",
+    "hitpoints": 17
+  },
+  "13295": {
+    "name": "Thief",
+    "hitpoints": 17
+  },
+  "13296": {
+    "name": "Thief",
+    "hitpoints": 17
+  },
+  "13489": {
+    "name": "Zombie pirate",
+    "hitpoints": 22
+  },
+  "13490": {
+    "name": "Zombie pirate",
+    "hitpoints": 35
+  },
+  "13491": {
+    "name": "Zombie pirate",
+    "hitpoints": 35
+  },
+  "13492": {
+    "name": "Zombie pirate",
+    "hitpoints": 40
+  },
+  "13493": {
+    "name": "Zombie pirate",
+    "hitpoints": 40
   }
 }

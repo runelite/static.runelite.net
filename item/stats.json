@@ -51397,10 +51397,6 @@
     "name": "Key (elite)",
     "weight": 0.01
   },
-  "19835": {
-    "name": "Clue scroll (master)",
-    "weight": 0.02
-  },
   "19837": {
     "name": "Torn clue scroll (part 1)",
     "weight": 0.02
@@ -61135,10 +61131,6 @@
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
-  "23182": {
-    "name": "Clue scroll (beginner)",
-    "weight": 0.02
-  },
   "23183": {
     "name": "Strange device",
     "weight": 0.02
@@ -66861,7 +66853,8 @@
   },
   "24595": {
     "name": "Blighted karambwan",
-    "weight": 0.65
+    "weight": 0.65,
+    "ge_limit": 10000
   },
   "24598": {
     "name": "Blighted super restore(4)",
@@ -80528,12 +80521,12 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 38,
-      "acrush": 32,
+      "astab": -3,
+      "aslash": 60,
+      "acrush": 51,
       "dslash": 1,
-      "str": 42,
-      "aspeed": 5
+      "str": 67,
+      "aspeed": 7
     }
   },
   "28229": {
@@ -82428,7 +82421,7 @@
     "equipable": true,
     "equipment": {
       "slot": 13,
-      "rstr": 49
+      "rstr": 60
     }
   },
   "28839": {
@@ -82558,9 +82551,9 @@
       "rstr": 60
     }
   },
-  "28887": {
-    "name": "Moonlight antler",
-    "weight": 0.005
+  "28893": {
+    "name": "Moonlight moth",
+    "ge_limit": 125
   },
   "28896": {
     "name": "Rum",
@@ -82577,8 +82570,8 @@
     "equipable": true,
     "equipment": {
       "slot": 1,
-      "arange": 28,
-      "rstr": 4
+      "arange": 18,
+      "rstr": 3
     }
   },
   "28904": {
@@ -82595,9 +82588,13 @@
     "equipable": true,
     "equipment": {
       "slot": 1,
-      "arange": 28,
-      "rstr": 4
+      "arange": 18,
+      "rstr": 3
     }
+  },
+  "28907": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
   },
   "28908": {
     "name": "Clue scroll (medium)",
@@ -82741,9 +82738,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 1,
-      "arange": 28,
-      "rstr": 4
+      "slot": 1
     }
   },
   "28949": {
@@ -82759,9 +82754,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 1,
-      "arange": 18,
-      "rstr": 3
+      "slot": 1
     }
   },
   "28953": {
@@ -82778,8 +82771,8 @@
     "equipable": true,
     "equipment": {
       "slot": 1,
-      "arange": 28,
-      "rstr": 4
+      "arange": 18,
+      "rstr": 3
     }
   },
   "28957": {
@@ -82788,8 +82781,8 @@
     "equipable": true,
     "equipment": {
       "slot": 1,
-      "arange": 28,
-      "rstr": 4
+      "arange": 18,
+      "rstr": 3
     }
   },
   "28958": {
@@ -82876,10 +82869,6 @@
   "28983": {
     "name": "Fox's report",
     "weight": 0.02
-  },
-  "28984": {
-    "name": "Baby dragon bonemeal",
-    "weight": 1.5
   },
   "28986": {
     "name": "Love letter",
@@ -83278,7 +83267,15 @@
   },
   "29064": {
     "name": "Blue moon helm (broken)",
-    "weight": 0.907
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "dcrush": 10,
+      "dmagic": 6,
+      "str": 3
+    }
   },
   "29067": {
     "name": "Blood moon chestplate (broken)",
@@ -83314,7 +83311,19 @@
   },
   "29073": {
     "name": "Blood moon helm (broken)",
-    "weight": 0.907
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 20,
+      "dslash": 31,
+      "dcrush": 34,
+      "dmagic": 7,
+      "drange": 29,
+      "str": 4
+    }
   },
   "29076": {
     "name": "Raw moss lizard",
@@ -83364,6 +83373,10 @@
   "29088": {
     "name": "Calcified deposit",
     "weight": 0.2
+  },
+  "29090": {
+    "name": "Calcified moth",
+    "ge_limit": 100
   },
   "29098": {
     "name": "Not meat",
@@ -83499,7 +83512,8 @@
   },
   "29195": {
     "name": "Moonlight moth mix (2)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 125
   },
   "29198": {
     "name": "Sapphire glacialis mix (1)",
@@ -83845,7 +83859,7 @@
     "weight": 0.5
   },
   "29346": {
-    "name": "Blessd bat bones{{sic}}",
+    "name": "Blessed bat bones",
     "weight": 0.3
   },
   "29348": {
@@ -84018,5 +84032,9 @@
   "29446": {
     "name": "Eggnappin' sack",
     "weight": 0.001
+  },
+  "29455": {
+    "name": "Teleport anchoring scroll",
+    "weight": 0.015
   }
 }
