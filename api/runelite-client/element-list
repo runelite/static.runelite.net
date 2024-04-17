@@ -162,6 +162,7 @@ net.runelite.client.plugins.skybox
 net.runelite.client.plugins.slayer
 net.runelite.client.plugins.smelting
 net.runelite.client.plugins.specialcounter
+net.runelite.client.plugins.spellbook
 net.runelite.client.plugins.statusbars
 net.runelite.client.plugins.statusbars.config
 net.runelite.client.plugins.stretchedmode
