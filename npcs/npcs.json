@@ -10907,6 +10907,18 @@
     "name": "Iorwerth Archer",
     "hitpoints": 105
   },
+  "8844": {
+    "name": "Mourner",
+    "hitpoints": 13
+  },
+  "8845": {
+    "name": "Mourner",
+    "hitpoints": 29
+  },
+  "8846": {
+    "name": "Mourner",
+    "hitpoints": 100
+  },
   "8847": {
     "name": "Essyllt",
     "hitpoints": 320
