@@ -10837,7 +10837,271 @@
     },
     "ge_limit": 8
   },
+  "2677": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2678": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2679": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2680": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2681": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2682": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2683": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2684": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2685": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2686": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2687": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2688": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2689": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2690": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2691": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2692": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2693": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2694": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2695": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2696": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2697": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2698": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2699": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2700": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2701": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2702": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2703": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2704": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2705": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2706": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2707": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2708": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2709": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2710": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2711": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2712": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2713": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2716": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2719": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "2722": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2723": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2725": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2727": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2729": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2731": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2733": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2735": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2737": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2739": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2741": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2743": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2745": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2747": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2773": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2774": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2776": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2778": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2780": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2782": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2783": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2785": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2786": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2788": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2790": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2792": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "2793": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2794": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
@@ -10845,15 +11109,87 @@
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "2796": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "2797": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "2798": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
+  },
+  "2799": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
   },
   "2800": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "2801": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2803": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2805": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2807": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2809": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2811": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2813": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2815": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2817": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2819": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2821": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2823": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2825": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2827": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2829": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2831": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
@@ -10861,17 +11197,33 @@
     "name": "Key (medium)",
     "weight": 0.01
   },
+  "2833": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2834": {
     "name": "Key (medium)",
     "weight": 0.01
+  },
+  "2835": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
   },
   "2836": {
     "name": "Key (medium)",
     "weight": 0.01
   },
+  "2837": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2838": {
     "name": "Key (medium)",
     "weight": 0.01
+  },
+  "2839": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
   },
   "2840": {
     "name": "Key (medium)",
@@ -10881,24 +11233,68 @@
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "2843": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2844": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2845": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "2846": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "2847": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2848": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2849": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2850": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2851": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "2852": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "2853": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2854": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "2855": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2856": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2857": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "2858": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "2859": {
@@ -13374,41 +13770,373 @@
     },
     "ge_limit": 8
   },
+  "3490": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3491": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3492": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3493": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3494": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3495": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3496": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3497": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3498": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3499": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3500": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3501": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3502": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3503": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3504": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3505": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3506": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3507": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3508": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3509": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3510": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3512": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3513": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3514": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3515": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3516": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3518": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "3520": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3522": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3524": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3525": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3526": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3528": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3530": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3532": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3534": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3536": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3538": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3540": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3542": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3544": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3546": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3548": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3552": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3554": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3556": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3558": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3560": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3562": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3564": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "3565": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
+  },
+  "3566": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
   },
   "3567": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "3568": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "3569": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
+  },
+  "3570": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
   },
   "3571": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "3572": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3573": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3574": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3575": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "3576": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
-  },
-  "3577": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
   },
   "3578": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "3579": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3580": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3582": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3584": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3586": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3588": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3590": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3592": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3594": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3596": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3598": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3599": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3601": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3602": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3604": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3605": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "3606": {
     "name": "Key (medium)",
     "weight": 0.01
   },
+  "3607": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "3608": {
     "name": "Key (medium)",
     "weight": 0.01
+  },
+  "3609": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3610": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3611": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3612": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3613": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3614": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3615": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3616": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3617": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "3618": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
   },
   "3667": {
     "name": "Boss helper tool",
@@ -27102,53 +27830,245 @@
     "name": "Skewered chompy",
     "weight": 2.5
   },
+  "7236": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "7238": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "7239": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7241": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7243": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7245": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7247": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7248": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7249": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7250": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7251": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7252": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7253": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7254": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7255": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7256": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7258": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7260": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7262": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7264": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7266": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "7268": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "7269": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "7270": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "7271": {
     "name": "Challenge scroll (hard)",
     "weight": 0.02
   },
+  "7272": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "7273": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "7274": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "7275": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "7276": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "7277": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7278": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "7279": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "7280": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "7281": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7282": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "7283": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "7284": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "7285": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "7286": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7288": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7290": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7292": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7294": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7296": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "7297": {
     "name": "Key (medium)",
     "weight": 0.01
   },
+  "7298": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "7299": {
     "name": "Key (medium)",
     "weight": 0.01
   },
+  "7300": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7301": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "7302": {
     "name": "Key (medium)",
     "weight": 0.01
+  },
+  "7303": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7304": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7305": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7307": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7309": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7311": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7313": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7315": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "7317": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
   },
   "7319": {
     "name": "Red boater",
@@ -36605,7 +37525,43 @@
     "name": "Feathered journal",
     "weight": 0.01
   },
+  "10180": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10182": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
   "10184": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10186": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10188": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10190": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10192": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10194": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10196": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10198": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
@@ -36613,11 +37569,151 @@
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
-  "10252": {
+  "10202": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10204": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10206": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10208": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10210": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10212": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10214": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10216": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10218": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10220": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10222": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10224": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10226": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10228": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10230": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10232": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "10234": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
+  "10236": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10238": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10240": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10242": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10244": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10246": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10248": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10250": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "10254": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10256": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10258": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "10260": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10262": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10264": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10268": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10270": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10272": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10274": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10276": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "10278": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
@@ -43206,7 +44302,71 @@
     "name": "Gem bag",
     "weight": 1.0
   },
-  "12027": {
+  "12021": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12023": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12025": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12029": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12031": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12033": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12035": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12037": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12039": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12041": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12043": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12045": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12047": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12049": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12051": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12053": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12055": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
@@ -43214,91 +44374,223 @@
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "12057": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "12058": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12059": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "12060": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "12061": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "12062": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12063": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "12064": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "12065": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "12066": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12067": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "12068": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "12069": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "12070": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "12071": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "12072": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
-  "12113": {
+  "12073": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12114": {
+  "12074": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12115": {
+  "12075": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12116": {
+  "12076": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12117": {
+  "12077": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12118": {
+  "12078": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12119": {
+  "12079": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12120": {
+  "12080": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12121": {
+  "12081": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12122": {
+  "12082": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12123": {
+  "12083": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12124": {
+  "12085": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12125": {
+  "12086": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "12126": {
+  "12087": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12088": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12089": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12090": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12091": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12092": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12093": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12094": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12095": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12096": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12097": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12098": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12099": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12100": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12101": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12102": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12103": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12104": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12105": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12106": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12107": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12108": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12109": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12110": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12111": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12127": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
@@ -43306,13 +44598,229 @@
     "name": "Challenge scroll (elite)",
     "weight": 0.02
   },
+  "12130": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12132": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12133": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12134": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12135": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12136": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12137": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12138": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
   "12139": {
     "name": "Challenge scroll (elite)",
+    "weight": 0.02
+  },
+  "12140": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12141": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12142": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12143": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12144": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12145": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12146": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12147": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12148": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12149": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12150": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12151": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12152": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12153": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12154": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12155": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12156": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12157": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12158": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "12159": {
+    "name": "Clue scroll (elite)",
     "weight": 0.02
   },
   "12161": {
     "name": "Puzzle box (elite)",
     "weight": 0.1
+  },
+  "12162": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12164": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12166": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12167": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12168": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12169": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12170": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12172": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12173": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12174": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12175": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12176": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12177": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12178": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12181": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12182": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12183": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12184": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12185": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12186": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12187": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12188": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12189": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12190": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12191": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "12192": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
   },
   "12193": {
     "name": "Ancient robe top",
@@ -45592,45 +47100,137 @@
     },
     "ge_limit": 4
   },
+  "12542": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12544": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12546": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12548": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12550": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12552": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12554": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12556": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12558": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12560": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12562": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12564": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "12566": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "12567": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12568": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "12569": {
     "name": "Challenge scroll (hard)",
     "weight": 0.02
   },
+  "12570": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "12571": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12572": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "12573": {
     "name": "Challenge scroll (hard)",
     "weight": 0.02
   },
+  "12574": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "12575": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "12576": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "12577": {
     "name": "Challenge scroll (hard)",
     "weight": 0.02
   },
+  "12578": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "12579": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
+  },
+  "12581": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
   },
   "12582": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "12584": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "12585": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "12587": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "12588": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
+  },
+  "12590": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
   },
   "12596": {
     "name": "Rangers' tunic",
@@ -48709,7 +50309,7 @@
   },
   "13328": {
     "name": "Green banner",
-    "weight": 2.267,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -51305,61 +52905,121 @@
     "name": "Lucky impling jar",
     "weight": 2.267
   },
+  "19734": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19735": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19736": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19737": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19738": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19739": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19740": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19741": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19742": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19743": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19744": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19745": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19746": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19747": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19748": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19749": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19750": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19751": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19752": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19753": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19754": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19755": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19756": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19757": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19758": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19759": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19760": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19761": {
     "name": "Key (medium)",
     "weight": 0.01
+  },
+  "19762": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
   },
   "19763": {
     "name": "Challenge scroll (medium)",
@@ -51373,8 +53033,16 @@
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19766": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19767": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19768": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "19769": {
@@ -51389,13 +53057,225 @@
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
+  "19772": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "19773": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "19774": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "19776": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "19778": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "19780": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "19782": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19783": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19784": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19785": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19786": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19787": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19788": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19789": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19790": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19791": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19792": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19793": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19794": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19795": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19796": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19797": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19798": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19799": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19800": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19801": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19802": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19803": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19804": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19805": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19806": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19807": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19808": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19809": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19810": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19811": {
+    "name": "Clue scroll (elite)",
     "weight": 0.02
   },
   "19812": {
     "name": "Key (elite)",
     "weight": 0.01
+  },
+  "19813": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "19814": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19816": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19817": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19818": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19819": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19820": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19821": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19822": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19823": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19824": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19825": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19826": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19828": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19829": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19830": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19831": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "19833": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
   },
   "19837": {
     "name": "Torn clue scroll (part 1)",
@@ -51409,15 +53289,55 @@
     "name": "Torn clue scroll (part 3)",
     "weight": 0.02
   },
+  "19840": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19842": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19844": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19846": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19847": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19848": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19850": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19852": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19853": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19854": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "19855": {
     "name": "Challenge scroll (hard)",
     "weight": 0.02
   },
-  "19858": {
+  "19856": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19857": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
@@ -51425,40 +53345,140 @@
     "name": "Challenge scroll (hard)",
     "weight": 0.02
   },
+  "19862": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19864": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19866": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19868": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19870": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19872": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19874": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19876": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19878": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19880": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19882": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19884": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19885": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19886": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "19887": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "19888": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19890": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19891": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "19892": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19893": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19894": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "19895": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "19896": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19897": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "19898": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19899": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19900": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19902": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "19903": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "19904": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19906": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19907": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19908": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "19910": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "19911": {
@@ -56070,6 +58090,18 @@
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
+  "21525": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "21526": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "21527": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "21528": {
     "name": "Sawmill proposal",
     "weight": 0.001
@@ -57275,6 +59307,14 @@
     "name": "Super antifire mix(1)",
     "weight": 0.045,
     "ge_limit": 2000
+  },
+  "22000": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "22001": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
   },
   "22002": {
     "name": "Dragonfire ward",
@@ -60774,6 +62814,14 @@
     },
     "ge_limit": 125
   },
+  "23045": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23046": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "23047": {
     "name": "Mystic hat (dusk)",
     "weight": 0.453,
@@ -61035,101 +63083,129 @@
     "name": "Clue bottle (beginner)",
     "weight": 0.19
   },
+  "23131": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "23132": {
     "name": "Challenge scroll (medium)",
+    "weight": 0.02
+  },
+  "23133": {
+    "name": "Clue scroll (medium)",
     "weight": 0.02
   },
   "23134": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
-  "23138": {
+  "23135": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
-  "23139": {
+  "23136": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
-  "23140": {
+  "23137": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
-  "23141": {
-    "name": "Clue scroll (medium)",
+  "23144": {
+    "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "23142": {
-    "name": "Clue scroll (medium)",
+  "23145": {
+    "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "23143": {
-    "name": "Clue scroll (medium)",
+  "23146": {
+    "name": "Clue scroll (elite)",
     "weight": 0.02
   },
-  "23155": {
+  "23147": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "23148": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "23149": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
-  "23156": {
+  "23150": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
-  "23157": {
+  "23151": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
-  "23158": {
+  "23152": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
-  "23159": {
+  "23153": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
-  "23160": {
+  "23154": {
     "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23161": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23162": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23163": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23164": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23165": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23166": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23167": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23168": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23169": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23170": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "23171": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "23172": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "23173": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
-  },
-  "23174": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "23175": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "23176": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "23177": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "23178": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "23179": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "23180": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
-  },
-  "23181": {
-    "name": "Clue scroll (hard)",
-    "weight": 0.02
   },
   "23183": {
     "name": "Strange device",
@@ -66875,7 +68951,7 @@
   },
   "24607": {
     "name": "Blighted ancient ice sack",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "24609": {
     "name": "Blighted bind sack",
@@ -70610,11 +72686,39 @@
     "name": "Ash sanctifier",
     "weight": 0.025
   },
+  "25783": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "25784": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "25785": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
   },
-  "25792": {
+  "25786": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "25787": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "25788": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "25789": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "25790": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "25791": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
@@ -73107,6 +75211,10 @@
     "name": "Shattered relic hunter (t3) armour set",
     "weight": 0.05
   },
+  "26566": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "26567": {
     "name": "White goblin mail",
     "weight": 3.628,
@@ -75229,7 +77337,7 @@
     "name": "Message",
     "weight": 0.003
   },
-  "26943": {
+  "26944": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
@@ -77039,7 +79147,7 @@
   },
   "27494": {
     "name": "Old wool",
-    "weight": 0.02
+    "weight": 0.012
   },
   "27497": {
     "name": "Halloween wig",
@@ -80318,7 +82426,7 @@
   },
   "28169": {
     "name": "Forestry top",
-    "weight": 0.136,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 4
@@ -80633,7 +82741,7 @@
   },
   "28258": {
     "name": "Sanguine torva platelegs",
-    "weight": 9.979,
+    "weight": 9.071,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -81133,7 +83241,7 @@
   },
   "28401": {
     "name": "Mucky note",
-    "weight": 0.003
+    "weight": 0.028
   },
   "28404": {
     "name": "Vardorvis' medallion",
@@ -81368,7 +83476,7 @@
   },
   "28461": {
     "name": "Abyssal observations",
-    "weight": 0.001
+    "weight": 0.226
   },
   "28462": {
     "name": "Crimson fibre",
@@ -81495,11 +83603,11 @@
     "weight": 0.4
   },
   "28480": {
-    "name": "Sigil of sustenance",
+    "name": "Sigil of hoarding",
     "weight": 0.4
   },
   "28481": {
-    "name": "Sigil of sustenance",
+    "name": "Sigil of hoarding",
     "weight": 0.4
   },
   "28483": {
@@ -82417,7 +84525,6 @@
   },
   "28837": {
     "name": "Irit tar",
-    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -82425,6 +84532,18 @@
     }
   },
   "28839": {
+    "name": "Wood camo top",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 10,
+      "dslash": 15,
+      "dcrush": 19,
+      "drange": 12
+    }
+  },
+  "28842": {
     "name": "Wood camo legs",
     "weight": -2.0,
     "equipable": true,
@@ -82435,18 +84554,6 @@
       "dslash": 10,
       "dcrush": 10,
       "drange": 10
-    }
-  },
-  "28842": {
-    "name": "Wood camo top",
-    "weight": -3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "dstab": 10,
-      "dslash": 15,
-      "dcrush": 19,
-      "drange": 12
     }
   },
   "28845": {
@@ -82551,8 +84658,13 @@
       "rstr": 60
     }
   },
+  "28890": {
+    "name": "Sunlight moth",
+    "weight": 0.02
+  },
   "28893": {
     "name": "Moonlight moth",
+    "weight": 0.02,
     "ge_limit": 125
   },
   "28896": {
@@ -82702,7 +84814,7 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": -21,
+      "amagic": -4,
       "arange": -11,
       "dstab": 51,
       "dslash": 49,
@@ -82880,7 +84992,7 @@
   },
   "28988": {
     "name": "Blue moon spear",
-    "weight": 2.267,
+    "weight": 3.0,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -82931,7 +85043,7 @@
   },
   "29004": {
     "name": "Eclipse moon chestplate",
-    "weight": 12.0,
+    "weight": 3.0,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -82947,7 +85059,7 @@
   },
   "29007": {
     "name": "Eclipse moon tassets",
-    "weight": 8.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -82963,7 +85075,7 @@
   },
   "29010": {
     "name": "Eclipse moon helm",
-    "weight": 1.0,
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -82979,7 +85091,7 @@
   },
   "29013": {
     "name": "Blue moon chestplate",
-    "weight": 12.0,
+    "weight": 3.175,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -82991,19 +85103,19 @@
   },
   "29016": {
     "name": "Blue moon tassets",
-    "weight": 8.0,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 7,
       "amagic": 22,
       "dcrush": 23,
-      "dmagic": 22,
+      "dmagic": 32,
       "str": 1
     }
   },
   "29019": {
     "name": "Blue moon helm",
-    "weight": 1.0,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -83015,7 +85127,7 @@
   },
   "29022": {
     "name": "Blood moon chestplate",
-    "weight": 12.0,
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -83031,7 +85143,7 @@
   },
   "29025": {
     "name": "Blood moon tassets",
-    "weight": 8.0,
+    "weight": 4.082,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -83063,7 +85175,7 @@
   },
   "29031": {
     "name": "Eclipse moon chestplate",
-    "weight": 12.0,
+    "weight": 3.0,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -83079,7 +85191,7 @@
   },
   "29033": {
     "name": "Eclipse moon tassets",
-    "weight": 8.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -83111,7 +85223,7 @@
   },
   "29037": {
     "name": "Blue moon chestplate",
-    "weight": 12.0,
+    "weight": 3.175,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -83123,19 +85235,19 @@
   },
   "29039": {
     "name": "Blue moon tassets",
-    "weight": 8.0,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 7,
       "amagic": 22,
       "dcrush": 23,
-      "dmagic": 22,
+      "dmagic": 32,
       "str": 1
     }
   },
   "29041": {
     "name": "Blue moon helm",
-    "weight": 0.907,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -83147,7 +85259,7 @@
   },
   "29043": {
     "name": "Blood moon chestplate",
-    "weight": 12.0,
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -83163,7 +85275,7 @@
   },
   "29045": {
     "name": "Blood moon tassets",
-    "weight": 8.0,
+    "weight": 4.082,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -83195,7 +85307,7 @@
   },
   "29049": {
     "name": "Eclipse moon chestplate (broken)",
-    "weight": 12.0,
+    "weight": 3.0,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -83211,7 +85323,7 @@
   },
   "29052": {
     "name": "Eclipse moon tassets (broken)",
-    "weight": 8.0,
+    "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -83243,7 +85355,7 @@
   },
   "29058": {
     "name": "Blue moon chestplate (broken)",
-    "weight": 12.0,
+    "weight": 3.175,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -83255,19 +85367,19 @@
   },
   "29061": {
     "name": "Blue moon tassets (broken)",
-    "weight": 8.0,
+    "weight": 1.36,
     "equipable": true,
     "equipment": {
       "slot": 7,
       "amagic": 22,
       "dcrush": 23,
-      "dmagic": 22,
+      "dmagic": 32,
       "str": 1
     }
   },
   "29064": {
     "name": "Blue moon helm (broken)",
-    "weight": 0.907,
+    "weight": 0.453,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -83279,7 +85391,7 @@
   },
   "29067": {
     "name": "Blood moon chestplate (broken)",
-    "weight": 12.0,
+    "weight": 5.443,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -83295,7 +85407,7 @@
   },
   "29070": {
     "name": "Blood moon tassets (broken)",
-    "weight": 8.0,
+    "weight": 4.082,
     "equipable": true,
     "equipment": {
       "slot": 7,
@@ -83635,10 +85747,6 @@
     "name": "Antelope hoof shard",
     "weight": 1.0
   },
-  "29248": {
-    "name": "Hunters' loot sack (master)",
-    "weight": 1.0
-  },
   "29251": {
     "name": "Basic quetzal whistle blueprint",
     "weight": 0.004
@@ -83815,7 +85923,6 @@
   },
   "29307": {
     "name": "Quetzal feed",
-    "weight": 1.0,
     "ge_limit": 100
   },
   "29309": {
@@ -83939,6 +86046,86 @@
     "name": "Jug of blessed wine",
     "weight": 0.3
   },
+  "29388": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29389": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29390": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29391": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29392": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29393": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29394": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29395": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29396": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29397": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29398": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29399": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29400": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29401": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29402": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29403": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29404": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29405": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29406": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "29407": {
+    "name": "Token",
+    "weight": 0.123
+  },
   "29408": {
     "name": "A nice key",
     "weight": 0.011
@@ -83981,10 +86168,6 @@
     "name": "Chef's notes",
     "weight": 0.003
   },
-  "29431": {
-    "name": "Yolklore of ayaster",
-    "weight": 1.0
-  },
   "29433": {
     "name": "Book of egg",
     "weight": 1.0,
@@ -84025,16 +86208,32 @@
       "slot": 0
     }
   },
-  "29445": {
-    "name": "Easter egg (mined)",
-    "weight": 0.001
-  },
-  "29446": {
-    "name": "Eggnappin' sack",
-    "weight": 0.001
+  "29449": {
+    "name": "Zombie pirate key",
+    "ge_limit": 250
   },
   "29455": {
     "name": "Teleport anchoring scroll",
     "weight": 0.015
+  },
+  "29462": {
+    "name": "Small meat pouch (open)",
+    "weight": 1.0
+  },
+  "29464": {
+    "name": "Large meat pouch (open)",
+    "weight": 1.0
+  },
+  "29466": {
+    "name": "Small fur pouch (open)",
+    "weight": 1.0
+  },
+  "29468": {
+    "name": "Medium fur pouch (open)",
+    "weight": 1.0
+  },
+  "29470": {
+    "name": "Large fur pouch (open)",
+    "weight": 1.0
   }
 }
