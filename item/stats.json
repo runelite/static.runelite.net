@@ -37693,6 +37693,10 @@
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
+  "10266": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "10268": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
@@ -44311,6 +44315,10 @@
     "weight": 0.02
   },
   "12025": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "12027": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
@@ -79868,7 +79876,8 @@
       "dmagic": 2,
       "str": 80,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 70
   },
   "27693": {
     "name": "Ore pack",
@@ -81070,7 +81079,8 @@
       "dmagic": 2,
       "str": 80,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 70
   },
   "27870": {
     "name": "Lightbearer",
@@ -84656,7 +84666,8 @@
     "equipment": {
       "slot": 13,
       "rstr": 60
-    }
+    },
+    "ge_limit": 11000
   },
   "28890": {
     "name": "Sunlight moth",
@@ -84775,6 +84786,10 @@
   "28924": {
     "name": "Sunfire splinters",
     "ge_limit": 30000
+  },
+  "28929": {
+    "name": "Sunfire rune",
+    "ge_limit": 18000
   },
   "28933": {
     "name": "Sunfire fanatic helm",
