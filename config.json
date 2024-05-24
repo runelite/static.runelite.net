@@ -17,6 +17,7 @@
   ],
   "updateRollout": 1.0,
   "outdatedClientVersions": [
-    "1.10.31"
+    "1.10.31",
+    "1.10.31.1"
   ]
 }
