@@ -11229,6 +11229,10 @@
     "name": "Key (medium)",
     "weight": 0.01
   },
+  "2841": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "2842": {
     "name": "Challenge scroll (medium)",
     "weight": 0.02
@@ -44782,6 +44786,10 @@
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
+  "12179": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
   "12181": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
@@ -53349,8 +53357,16 @@
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
+  "19858": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "19859": {
     "name": "Challenge scroll (hard)",
+    "weight": 0.02
+  },
+  "19860": {
+    "name": "Clue scroll (hard)",
     "weight": 0.02
   },
   "19862": {
@@ -58093,10 +58109,6 @@
     "name": "Teak bird house",
     "weight": 0.453,
     "ge_limit": 250
-  },
-  "21524": {
-    "name": "Clue scroll (elite)",
-    "weight": 0.02
   },
   "21525": {
     "name": "Clue scroll (elite)",
@@ -74042,7 +74054,7 @@
     "weight": 0.028
   },
   "26156": {
-    "name": "Group iron helm",
+    "name": "Group ironman helm",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -74057,7 +74069,7 @@
     }
   },
   "26158": {
-    "name": "Group iron platebody",
+    "name": "Group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74072,7 +74084,7 @@
     }
   },
   "26160": {
-    "name": "Group iron platebody",
+    "name": "Group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74087,7 +74099,7 @@
     }
   },
   "26162": {
-    "name": "Group iron platebody",
+    "name": "Group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74102,7 +74114,7 @@
     }
   },
   "26164": {
-    "name": "Group iron platebody",
+    "name": "Group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74117,7 +74129,7 @@
     }
   },
   "26166": {
-    "name": "Group iron platelegs",
+    "name": "Group ironman platelegs",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74132,7 +74144,7 @@
     }
   },
   "26168": {
-    "name": "Group iron bracers",
+    "name": "Group ironman bracers",
     "weight": 0.2,
     "equipable": true,
     "equipment": {
@@ -74145,7 +74157,7 @@
     }
   },
   "26170": {
-    "name": "Hardcore group iron helm",
+    "name": "Hardcore group ironman helm",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -74160,7 +74172,7 @@
     }
   },
   "26172": {
-    "name": "Hardcore group iron platebody",
+    "name": "Hardcore group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74175,7 +74187,7 @@
     }
   },
   "26174": {
-    "name": "Hardcore group iron platebody",
+    "name": "Hardcore group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74190,7 +74202,7 @@
     }
   },
   "26176": {
-    "name": "Hardcore group iron platebody",
+    "name": "Hardcore group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74205,7 +74217,7 @@
     }
   },
   "26178": {
-    "name": "Hardcore group iron platebody",
+    "name": "Hardcore group ironman platebody",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74220,7 +74232,7 @@
     }
   },
   "26180": {
-    "name": "Hardcore group iron platelegs",
+    "name": "Hardcore group ironman platelegs",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -74235,7 +74247,7 @@
     }
   },
   "26182": {
-    "name": "Hardcore group iron bracers",
+    "name": "Hardcore group ironman bracers",
     "weight": 0.2,
     "equipable": true,
     "equipment": {
@@ -77766,7 +77778,7 @@
     }
   },
   "27042": {
-    "name": "Group iron helm (unranked)",
+    "name": "Group ironman helm (unranked)",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -77781,7 +77793,7 @@
     }
   },
   "27044": {
-    "name": "Group iron platelegs (unranked)",
+    "name": "Group ironman platelegs (unranked)",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -77796,7 +77808,7 @@
     }
   },
   "27046": {
-    "name": "Group iron bracers (unranked)",
+    "name": "Group ironman bracers (unranked)",
     "weight": 0.2,
     "equipable": true,
     "equipment": {
@@ -77809,7 +77821,7 @@
     }
   },
   "27048": {
-    "name": "Group iron platebody (unranked)",
+    "name": "Group ironman platebody (unranked)",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -77824,7 +77836,7 @@
     }
   },
   "27050": {
-    "name": "Group iron platebody (unranked)",
+    "name": "Group ironman platebody (unranked)",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -77839,7 +77851,7 @@
     }
   },
   "27052": {
-    "name": "Group iron platebody (unranked)",
+    "name": "Group ironman platebody (unranked)",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -77854,7 +77866,7 @@
     }
   },
   "27054": {
-    "name": "Group iron platebody (unranked)",
+    "name": "Group ironman platebody (unranked)",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -85016,6 +85028,10 @@
       "aslash": 62,
       "acrush": 62,
       "amagic": 30,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
       "str": 71,
       "mdmg": 5,
       "aspeed": 5
@@ -85567,7 +85583,8 @@
   },
   "29143": {
     "name": "Cooked moonlight antelope",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 12000
   },
   "29146": {
     "name": "Cooked larupia",

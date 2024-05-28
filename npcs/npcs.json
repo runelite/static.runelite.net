@@ -609,7 +609,7 @@
   },
   "290": {
     "name": "Dwarf",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "291": {
     "name": "Chaos dwarf",
@@ -629,7 +629,7 @@
   },
   "296": {
     "name": "Dwarf",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "299": {
     "name": "Gunthor the brave",
@@ -2509,7 +2509,7 @@
   },
   "1405": {
     "name": "Dwarf",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "1406": {
     "name": "Dwarf",
@@ -11191,14 +11191,6 @@
     "name": "Guard",
     "hitpoints": 105
   },
-  "9190": {
-    "name": "Guard",
-    "hitpoints": 105
-  },
-  "9191": {
-    "name": "Guard",
-    "hitpoints": 105
-  },
   "9246": {
     "name": "Arianwyn (hard)",
     "hitpoints": 300
@@ -11558,6 +11550,10 @@
   "10402": {
     "name": "Colossal Hydra",
     "hitpoints": 750
+  },
+  "10435": {
+    "name": "Sourhog",
+    "hitpoints": 40
   },
   "10436": {
     "name": "Sourhog",
@@ -13473,7 +13469,7 @@
   },
   "13489": {
     "name": "Zombie pirate",
-    "hitpoints": 22
+    "hitpoints": 30
   },
   "13490": {
     "name": "Zombie pirate",
