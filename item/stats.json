@@ -17849,7 +17849,8 @@
       "dstab": 15,
       "dslash": 13,
       "dcrush": 16,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     },
     "ge_limit": 15
   },
@@ -17884,7 +17885,8 @@
       "dstab": 52,
       "dslash": 37,
       "dcrush": 63,
-      "dmagic": 30
+      "dmagic": 30,
+      "mdmg": 1
     },
     "ge_limit": 15
   },
@@ -17899,7 +17901,8 @@
       "dstab": 33,
       "dslash": 30,
       "dcrush": 36,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     },
     "ge_limit": 15
   },
@@ -18464,7 +18467,8 @@
       "dstab": 15,
       "dslash": 13,
       "dcrush": 16,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "4857": {
@@ -18478,7 +18482,8 @@
       "dstab": 15,
       "dslash": 13,
       "dcrush": 16,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "4858": {
@@ -18492,7 +18497,8 @@
       "dstab": 15,
       "dslash": 13,
       "dcrush": 16,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "4859": {
@@ -18506,7 +18512,8 @@
       "dstab": 15,
       "dslash": 13,
       "dcrush": 16,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "4860": {
@@ -18615,7 +18622,8 @@
       "dstab": 52,
       "dslash": 37,
       "dcrush": 63,
-      "dmagic": 30
+      "dmagic": 30,
+      "mdmg": 1
     }
   },
   "4869": {
@@ -18629,7 +18637,8 @@
       "dstab": 52,
       "dslash": 37,
       "dcrush": 63,
-      "dmagic": 30
+      "dmagic": 30,
+      "mdmg": 1
     }
   },
   "4870": {
@@ -18643,7 +18652,8 @@
       "dstab": 52,
       "dslash": 37,
       "dcrush": 63,
-      "dmagic": 30
+      "dmagic": 30,
+      "mdmg": 1
     }
   },
   "4871": {
@@ -18657,7 +18667,8 @@
       "dstab": 52,
       "dslash": 37,
       "dcrush": 63,
-      "dmagic": 30
+      "dmagic": 30,
+      "mdmg": 1
     }
   },
   "4872": {
@@ -18680,7 +18691,8 @@
       "dstab": 33,
       "dslash": 30,
       "dcrush": 36,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     }
   },
   "4875": {
@@ -18694,7 +18706,8 @@
       "dstab": 33,
       "dslash": 30,
       "dcrush": 36,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     }
   },
   "4876": {
@@ -18708,7 +18721,8 @@
       "dstab": 33,
       "dslash": 30,
       "dcrush": 36,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     }
   },
   "4877": {
@@ -18722,7 +18736,8 @@
       "dstab": 33,
       "dslash": 30,
       "dcrush": 36,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     }
   },
   "4878": {
@@ -26917,7 +26932,8 @@
     "equipment": {
       "slot": 5,
       "amagic": 15,
-      "dmagic": 15
+      "dmagic": 15,
+      "mdmg": 2
     },
     "ge_limit": 15
   },
@@ -27047,7 +27063,8 @@
     "equipment": {
       "slot": 4,
       "amagic": 22,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     },
     "ge_limit": 125
   },
@@ -27058,7 +27075,8 @@
     "equipment": {
       "slot": 0,
       "amagic": 6,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     },
     "ge_limit": 125
   },
@@ -27091,7 +27109,8 @@
     "equipment": {
       "slot": 7,
       "amagic": 17,
-      "dmagic": 17
+      "dmagic": 17,
+      "mdmg": 1
     },
     "ge_limit": 125
   },
@@ -38132,7 +38151,8 @@
     "equipment": {
       "slot": 4,
       "amagic": 24,
-      "dmagic": 24
+      "dmagic": 24,
+      "mdmg": 1
     },
     "ge_limit": 8
   },
@@ -38143,7 +38163,8 @@
     "equipment": {
       "slot": 7,
       "amagic": 19,
-      "dmagic": 19
+      "dmagic": 19,
+      "mdmg": 1
     },
     "ge_limit": 8
   },
@@ -38154,7 +38175,8 @@
     "equipment": {
       "slot": 0,
       "amagic": 8,
-      "dmagic": 8
+      "dmagic": 8,
+      "mdmg": 1
     },
     "ge_limit": 8
   },
@@ -43835,7 +43857,8 @@
       "dstab": 50,
       "dslash": 52,
       "dcrush": 48,
-      "dmagic": 15
+      "dmagic": 15,
+      "mdmg": 2
     },
     "ge_limit": 8
   },
@@ -44212,7 +44235,7 @@
     "equipment": {
       "slot": 2,
       "amagic": 12,
-      "mdmg": 10,
+      "mdmg": 5,
       "prayer": 2
     },
     "ge_limit": 8
@@ -46309,7 +46332,8 @@
     "equipment": {
       "slot": 0,
       "amagic": 6,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "12420": {
@@ -47941,7 +47965,8 @@
       "dstab": 50,
       "dslash": 52,
       "dcrush": 48,
-      "dmagic": 15
+      "dmagic": 15,
+      "mdmg": 2
     },
     "ge_limit": 8
   },
@@ -48136,6 +48161,7 @@
       "dcrush": 73,
       "dmagic": 2,
       "drange": 52,
+      "mdmg": 3,
       "prayer": 3
     },
     "ge_limit": 8
@@ -49902,7 +49928,8 @@
       "dslash": 5,
       "dcrush": 5,
       "dmagic": 8,
-      "drange": 5
+      "drange": 5,
+      "mdmg": 1
     },
     "ge_limit": 15
   },
@@ -52872,7 +52899,7 @@
     "equipment": {
       "slot": 2,
       "amagic": 12,
-      "mdmg": 10,
+      "mdmg": 5,
       "prayer": 2
     }
   },
@@ -55333,7 +55360,8 @@
     "equipment": {
       "slot": 4,
       "amagic": 10,
-      "dmagic": 8
+      "dmagic": 8,
+      "mdmg": 1
     },
     "ge_limit": 8
   },
@@ -55344,7 +55372,8 @@
     "equipment": {
       "slot": 7,
       "amagic": 6,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     },
     "ge_limit": 8
   },
@@ -55451,7 +55480,8 @@
     "equipment": {
       "slot": 0,
       "amagic": 5,
-      "dmagic": 4
+      "dmagic": 4,
+      "mdmg": 1
     },
     "ge_limit": 8
   },
@@ -56779,7 +56809,7 @@
       "dslash": 11,
       "dcrush": 13,
       "dmagic": 5,
-      "mdmg": 2
+      "mdmg": 3
     },
     "ge_limit": 8
   },
@@ -56795,7 +56825,7 @@
       "dslash": 31,
       "dcrush": 51,
       "dmagic": 28,
-      "mdmg": 2
+      "mdmg": 3
     },
     "ge_limit": 8
   },
@@ -56811,7 +56841,7 @@
       "dslash": 24,
       "dcrush": 30,
       "dmagic": 20,
-      "mdmg": 2
+      "mdmg": 3
     },
     "ge_limit": 8
   },
@@ -58336,7 +58366,8 @@
       "dcrush": 75,
       "dmagic": 15,
       "drange": -5,
-      "str": -2
+      "str": -2,
+      "mdmg": 2
     },
     "ge_limit": 8
   },
@@ -58356,7 +58387,8 @@
       "dcrush": 25,
       "dmagic": 15,
       "drange": -55,
-      "str": -2
+      "str": -2,
+      "mdmg": 2
     },
     "ge_limit": 8
   },
@@ -65187,7 +65219,7 @@
     "equipment": {
       "slot": 2,
       "amagic": 12,
-      "mdmg": 10,
+      "mdmg": 5,
       "prayer": 2
     },
     "ge_limit": 8
@@ -68157,6 +68189,7 @@
       "slot": 0,
       "amagic": 5,
       "dmagic": 5,
+      "mdmg": 1,
       "prayer": 2
     }
   },
@@ -68168,6 +68201,7 @@
       "slot": 4,
       "amagic": 25,
       "dmagic": 21,
+      "mdmg": 1,
       "prayer": 2
     }
   },
@@ -68179,6 +68213,7 @@
       "slot": 7,
       "amagic": 18,
       "dmagic": 14,
+      "mdmg": 1,
       "prayer": 2
     }
   },
@@ -69100,7 +69135,7 @@
       "dslash": 11,
       "dcrush": 13,
       "dmagic": 5,
-      "mdmg": 2
+      "mdmg": 3
     }
   },
   "24666": {
@@ -69115,7 +69150,7 @@
       "dslash": 31,
       "dcrush": 51,
       "dmagic": 28,
-      "mdmg": 2
+      "mdmg": 3
     }
   },
   "24668": {
@@ -69130,7 +69165,7 @@
       "dslash": 24,
       "dcrush": 30,
       "dmagic": 20,
-      "mdmg": 2
+      "mdmg": 3
     }
   },
   "24670": {
@@ -71537,8 +71572,10 @@
       "dstab": 53,
       "dslash": 39,
       "dcrush": 64,
-      "dmagic": 24
-    }
+      "dmagic": 24,
+      "mdmg": 1
+    },
+    "ge_limit": 70
   },
   "25407": {
     "name": "Bloodbark gauntlets",
@@ -71576,7 +71613,8 @@
       "dstab": 16,
       "dslash": 14,
       "dcrush": 17,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "25416": {
@@ -71589,7 +71627,8 @@
       "dstab": 33,
       "dslash": 31,
       "dcrush": 38,
-      "dmagic": 17
+      "dmagic": 17,
+      "mdmg": 1
     },
     "ge_limit": 70
   },
@@ -74398,7 +74437,7 @@
       "dslash": 14,
       "dcrush": 16,
       "dmagic": 6,
-      "mdmg": 1,
+      "mdmg": 2,
       "prayer": 1
     },
     "ge_limit": 8
@@ -74415,7 +74454,7 @@
       "dslash": 38,
       "dcrush": 56,
       "dmagic": 31,
-      "mdmg": 1,
+      "mdmg": 2,
       "prayer": 2
     }
   },
@@ -74431,7 +74470,7 @@
       "dslash": 28,
       "dcrush": 34,
       "dmagic": 22,
-      "mdmg": 1,
+      "mdmg": 2,
       "prayer": 1
     }
   },
@@ -83040,7 +83079,7 @@
     "weight": 0.5
   },
   "28338": {
-    "name": "Soulreaper axe",
+    "name": "Soulreaper Axe",
     "weight": 2.825,
     "equipable": true,
     "equipment": {
@@ -85129,7 +85168,8 @@
       "amagic": 30,
       "dcrush": 51,
       "dmagic": 28,
-      "str": 2
+      "str": 2,
+      "mdmg": 1
     }
   },
   "29016": {
@@ -85141,7 +85181,8 @@
       "amagic": 22,
       "dcrush": 23,
       "dmagic": 32,
-      "str": 1
+      "str": 1,
+      "mdmg": 1
     }
   },
   "29019": {
@@ -85153,7 +85194,8 @@
       "amagic": 6,
       "dcrush": 10,
       "dmagic": 6,
-      "str": 3
+      "str": 3,
+      "mdmg": 1
     }
   },
   "29022": {
@@ -85261,7 +85303,8 @@
       "amagic": 30,
       "dcrush": 51,
       "dmagic": 28,
-      "str": 2
+      "str": 2,
+      "mdmg": 1
     }
   },
   "29039": {
@@ -85273,7 +85316,8 @@
       "amagic": 22,
       "dcrush": 23,
       "dmagic": 32,
-      "str": 1
+      "str": 1,
+      "mdmg": 1
     }
   },
   "29041": {
@@ -85285,7 +85329,8 @@
       "amagic": 6,
       "dcrush": 10,
       "dmagic": 6,
-      "str": 3
+      "str": 3,
+      "mdmg": 1
     }
   },
   "29043": {
@@ -85393,7 +85438,8 @@
       "amagic": 30,
       "dcrush": 51,
       "dmagic": 28,
-      "str": 2
+      "str": 2,
+      "mdmg": 1
     }
   },
   "29061": {
@@ -85405,7 +85451,8 @@
       "amagic": 22,
       "dcrush": 23,
       "dmagic": 32,
-      "str": 1
+      "str": 1,
+      "mdmg": 1
     }
   },
   "29064": {
@@ -85417,7 +85464,8 @@
       "amagic": 6,
       "dcrush": 10,
       "dmagic": 6,
-      "str": 3
+      "str": 3,
+      "mdmg": 1
     }
   },
   "29067": {
@@ -86267,5 +86315,15 @@
   "29470": {
     "name": "Large fur pouch (open)",
     "weight": 1.0
+  },
+  "29486": {
+    "name": "Cursed amulet of magic",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "amagic": -3,
+      "mdmg": -80
+    }
   }
 }

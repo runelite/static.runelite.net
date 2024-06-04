@@ -12263,6 +12263,14 @@
     "name": "Crocodile",
     "hitpoints": 30
   },
+  "11711": {
+    "name": "Baboon Mage",
+    "hitpoints": 25
+  },
+  "11714": {
+    "name": "Baboon Mage",
+    "hitpoints": 30
+  },
   "11781": {
     "name": "Baboon",
     "hitpoints": 35
