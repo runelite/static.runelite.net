@@ -83079,7 +83079,7 @@
     "weight": 0.5
   },
   "28338": {
-    "name": "Soulreaper Axe",
+    "name": "Soulreaper axe",
     "weight": 2.825,
     "equipable": true,
     "equipment": {
@@ -85227,7 +85227,8 @@
       "dcrush": 49,
       "dmagic": 32,
       "drange": 46,
-      "str": 2
+      "str": 2,
+      "mdmg": 1
     }
   },
   "29028": {
@@ -86324,6 +86325,150 @@
       "slot": 2,
       "amagic": -3,
       "mdmg": -80
+    }
+  },
+  "29489": {
+    "name": "Rainbow cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29491": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29493": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29495": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29497": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29499": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29501": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29503": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29505": {
+    "name": "Colourful cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29507": {
+    "name": "Rainbow crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29509": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29510": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29511": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29512": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29513": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29514": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29515": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29516": {
+    "name": "Colourful crown shirt",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
     }
   }
 }
