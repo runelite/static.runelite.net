@@ -2959,6 +2959,70 @@
     "name": "Brawler",
     "hitpoints": 143
   },
+  "1739": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1740": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1741": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1742": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1743": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1744": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1745": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1746": {
+    "name": "Portal",
+    "hitpoints": 250
+  },
+  "1747": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
+  "1748": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
+  "1749": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
+  "1750": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
+  "1751": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
+  "1752": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
+  "1753": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
+  "1754": {
+    "name": "Portal",
+    "hitpoints": 200
+  },
   "1777": {
     "name": "Double agent",
     "hitpoints": 80
@@ -12265,11 +12329,11 @@
   },
   "11711": {
     "name": "Baboon Mage",
-    "hitpoints": 25
+    "hitpoints": 20
   },
   "11714": {
     "name": "Baboon Mage",
-    "hitpoints": 30
+    "hitpoints": 25
   },
   "11781": {
     "name": "Baboon",

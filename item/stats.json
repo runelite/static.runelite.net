@@ -46343,7 +46343,8 @@
     "equipment": {
       "slot": 4,
       "amagic": 22,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     }
   },
   "12421": {
@@ -46353,7 +46354,8 @@
     "equipment": {
       "slot": 7,
       "amagic": 17,
-      "dmagic": 17
+      "dmagic": 17,
+      "mdmg": 1
     }
   },
   "12422": {
@@ -46563,7 +46565,8 @@
     "equipment": {
       "slot": 0,
       "amagic": 6,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "12458": {
@@ -46573,7 +46576,8 @@
     "equipment": {
       "slot": 4,
       "amagic": 22,
-      "dmagic": 22
+      "dmagic": 22,
+      "mdmg": 1
     }
   },
   "12459": {
@@ -46583,7 +46587,8 @@
     "equipment": {
       "slot": 7,
       "amagic": 17,
-      "dmagic": 17
+      "dmagic": 17,
+      "mdmg": 1
     }
   },
   "12460": {
@@ -62531,7 +62536,7 @@
   "22856": {
     "name": "Celastrus sapling",
     "weight": 0.907,
-    "ge_limit": 200
+    "ge_limit": 100
   },
   "22859": {
     "name": "Redwood sapling",
@@ -74377,7 +74382,8 @@
       "str": 132,
       "prayer": 8,
       "aspeed": 6
-    }
+    },
+    "ge_limit": 8
   },
   "26235": {
     "name": "Zaryte vambraces",
@@ -74678,7 +74684,8 @@
       "drange": 57,
       "str": 8,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26378": {
     "name": "Torva platebody (damaged)",
@@ -74695,7 +74702,8 @@
       "drange": 142,
       "str": 6,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26380": {
     "name": "Torva platelegs (damaged)",
@@ -74712,7 +74720,8 @@
       "drange": 102,
       "str": 4,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26382": {
     "name": "Torva full helm",
@@ -74729,7 +74738,8 @@
       "drange": 57,
       "str": 8,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26384": {
     "name": "Torva platebody",
@@ -74746,7 +74756,8 @@
       "drange": 142,
       "str": 6,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26386": {
     "name": "Torva platelegs",
@@ -74763,7 +74774,8 @@
       "drange": 102,
       "str": 4,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26390": {
     "name": "Blood essence",
@@ -78208,7 +78220,8 @@
       "dmagic": 6,
       "drange": 4,
       "rstr": 2
-    }
+    },
+    "ge_limit": 8
   },
   "27229": {
     "name": "Masori body",
@@ -78224,7 +78237,8 @@
       "dmagic": 25,
       "drange": 33,
       "rstr": 4
-    }
+    },
+    "ge_limit": 8
   },
   "27232": {
     "name": "Masori chaps",
@@ -78240,7 +78254,8 @@
       "dmagic": 19,
       "drange": 22,
       "rstr": 2
-    }
+    },
+    "ge_limit": 8
   },
   "27235": {
     "name": "Masori mask (f)",
@@ -78257,7 +78272,8 @@
       "drange": 9,
       "rstr": 2,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "27238": {
     "name": "Masori body (f)",
@@ -78274,7 +78290,8 @@
       "drange": 60,
       "rstr": 4,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "27241": {
     "name": "Masori chaps (f)",
@@ -78291,7 +78308,8 @@
       "drange": 37,
       "rstr": 2,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "27246": {
     "name": "Osmumten's fang (or)",
@@ -78426,7 +78444,8 @@
       "dmagic": 20,
       "prayer": 1,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "27279": {
     "name": "Thread of elidinis",
@@ -84590,7 +84609,8 @@
     "equipment": {
       "slot": 13,
       "rstr": 60
-    }
+    },
+    "ge_limit": 11000
   },
   "28839": {
     "name": "Wood camo top",
@@ -85109,7 +85129,8 @@
       "arange": 87,
       "str": 40,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29004": {
     "name": "Eclipse moon chestplate",
@@ -85227,8 +85248,7 @@
       "dcrush": 49,
       "dmagic": 32,
       "drange": 46,
-      "str": 2,
-      "mdmg": 1
+      "str": 2
     }
   },
   "29028": {
@@ -85633,7 +85653,7 @@
   "29143": {
     "name": "Cooked moonlight antelope",
     "weight": 0.283,
-    "ge_limit": 12000
+    "ge_limit": 6000
   },
   "29146": {
     "name": "Cooked larupia",
@@ -86332,7 +86352,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29491": {
@@ -86340,7 +86360,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29493": {
@@ -86348,7 +86368,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29495": {
@@ -86356,7 +86376,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29497": {
@@ -86364,7 +86384,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29499": {
@@ -86372,7 +86392,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29501": {
@@ -86380,7 +86400,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29503": {
@@ -86388,7 +86408,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29505": {
@@ -86396,7 +86416,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 1
     }
   },
   "29507": {
