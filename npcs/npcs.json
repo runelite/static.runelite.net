@@ -875,6 +875,10 @@
     "name": "Crawling Hand",
     "hitpoints": 19
   },
+  "455": {
+    "name": "Crawling Hand",
+    "hitpoints": 18
+  },
   "456": {
     "name": "Crawling Hand",
     "hitpoints": 19
@@ -2271,6 +2275,10 @@
     "name": "Khazard Scorpion",
     "hitpoints": 40
   },
+  "1227": {
+    "name": "Arzinian Avatar of Strength",
+    "hitpoints": 200
+  },
   "1228": {
     "name": "Arzinian Avatar of Strength",
     "hitpoints": 100
@@ -2279,6 +2287,10 @@
     "name": "Arzinian Avatar of Strength",
     "hitpoints": 70
   },
+  "1230": {
+    "name": "Arzinian Avatar of Ranging",
+    "hitpoints": 200
+  },
   "1231": {
     "name": "Arzinian Avatar of Ranging",
     "hitpoints": 100
@@ -2286,6 +2298,10 @@
   "1232": {
     "name": "Arzinian Avatar of Ranging",
     "hitpoints": 70
+  },
+  "1233": {
+    "name": "Arzinian Avatar of Magic",
+    "hitpoints": 200
   },
   "1234": {
     "name": "Arzinian Avatar of Magic",
@@ -2657,7 +2673,7 @@
   },
   "1607": {
     "name": "Kolodion",
-    "hitpoints": 65
+    "hitpoints": 78
   },
   "1608": {
     "name": "Kolodion",
@@ -2958,6 +2974,10 @@
   "1737": {
     "name": "Brawler",
     "hitpoints": 143
+  },
+  "1738": {
+    "name": "Brawler",
+    "hitpoints": 173
   },
   "1739": {
     "name": "Portal",
@@ -4287,6 +4307,10 @@
     "name": "Giant bat",
     "hitpoints": 32
   },
+  "2836": {
+    "name": "Golem",
+    "hitpoints": 70
+  },
   "2837": {
     "name": "Unicorn",
     "hitpoints": 19
@@ -5126,6 +5150,10 @@
   "3299": {
     "name": "Woman",
     "hitpoints": 7
+  },
+  "3300": {
+    "name": "Knight of Ardougne",
+    "hitpoints": 52
   },
   "3301": {
     "name": "Archer",
@@ -6345,7 +6373,7 @@
   },
   "4382": {
     "name": "Ogre shaman",
-    "hitpoints": 1
+    "hitpoints": 99
   },
   "4383": {
     "name": "Ogre shaman",
@@ -6751,6 +6779,10 @@
     "name": "Culinaromancer",
     "hitpoints": 150
   },
+  "4863": {
+    "name": "Jubbly bird",
+    "hitpoints": 20
+  },
   "4872": {
     "name": "Culinaromancer",
     "hitpoints": 150
@@ -6938,6 +6970,10 @@
   "5139": {
     "name": "Sigmund",
     "hitpoints": 70
+  },
+  "5141": {
+    "name": "Guard",
+    "hitpoints": 30
   },
   "5142": {
     "name": "Sigmund",
@@ -7489,35 +7525,35 @@
   },
   "5656": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5657": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5658": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5659": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5660": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5661": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5662": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5663": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 11
   },
   "5665": {
     "name": "Undead Lumberjack",
@@ -7617,131 +7653,131 @@
   },
   "5689": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5690": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5691": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5692": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5693": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5694": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5695": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5696": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 15
   },
   "5697": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5698": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5699": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5700": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5701": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5702": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5703": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5704": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 16
   },
   "5705": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5706": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5707": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5708": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5709": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5710": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5711": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5712": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 17
   },
   "5713": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5714": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5715": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5716": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5717": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5718": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5719": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5720": {
     "name": "Undead Lumberjack",
-    "hitpoints": 12
+    "hitpoints": 18
   },
   "5729": {
     "name": "Shipyard worker",
@@ -10143,6 +10179,14 @@
     "name": "Lizardman shaman",
     "hitpoints": 150
   },
+  "7750": {
+    "name": "Armoured Foe",
+    "hitpoints": 1500
+  },
+  "7751": {
+    "name": "Well-armed Foe",
+    "hitpoints": 1500
+  },
   "7792": {
     "name": "Long-tailed Wyvern",
     "hitpoints": 200
@@ -10182,10 +10226,6 @@
   "7806": {
     "name": "Deranged archaeologist",
     "hitpoints": 200
-  },
-  "7817": {
-    "name": "Lava beast",
-    "hitpoints": 65
   },
   "7851": {
     "name": "Dusk",
@@ -12971,6 +13011,10 @@
     "name": "Abyssal leech",
     "hitpoints": 50
   },
+  "12394": {
+    "name": "Abyssal walker",
+    "hitpoints": 120
+  },
   "12425": {
     "name": "Vardorvis",
     "hitpoints": 500
@@ -13162,6 +13206,30 @@
   "12504": {
     "name": "Warped Terrorbird",
     "hitpoints": 200
+  },
+  "12538": {
+    "name": "Bloodthirsty hand",
+    "hitpoints": 55
+  },
+  "12539": {
+    "name": "Bloodthirsty Crawler",
+    "hitpoints": 60
+  },
+  "12561": {
+    "name": "Bloodthirst rockslug{{Sic}}",
+    "hitpoints": 77
+  },
+  "12567": {
+    "name": "Bloodthirsty Mage",
+    "hitpoints": 175
+  },
+  "12573": {
+    "name": "Bloodthirsty spectre",
+    "hitpoints": 250
+  },
+  "12574": {
+    "name": "Bloodthirsty Repugnant spectre",
+    "hitpoints": 380
   },
   "12720": {
     "name": "Armoured zombie",
@@ -13539,6 +13607,54 @@
     "name": "Thief",
     "hitpoints": 17
   },
+  "13463": {
+    "name": "Elite Black Knight",
+    "hitpoints": 90
+  },
+  "13464": {
+    "name": "Elite Black Knight",
+    "hitpoints": 90
+  },
+  "13465": {
+    "name": "Elite Dark Warrior",
+    "hitpoints": 80
+  },
+  "13466": {
+    "name": "Elite Dark Warrior",
+    "hitpoints": 80
+  },
+  "13467": {
+    "name": "Elite Dark Ranger",
+    "hitpoints": 80
+  },
+  "13468": {
+    "name": "Elite Dark Ranger",
+    "hitpoints": 80
+  },
+  "13469": {
+    "name": "Elite Dark Mage",
+    "hitpoints": 80
+  },
+  "13470": {
+    "name": "Elite Dark Mage",
+    "hitpoints": 80
+  },
+  "13480": {
+    "name": "Elite Black Knight",
+    "hitpoints": 90
+  },
+  "13481": {
+    "name": "Elite Black Knight",
+    "hitpoints": 90
+  },
+  "13483": {
+    "name": "Agile Warrior",
+    "hitpoints": 30
+  },
+  "13484": {
+    "name": "Strong Warrior",
+    "hitpoints": 30
+  },
   "13489": {
     "name": "Zombie pirate",
     "hitpoints": 30
@@ -13558,5 +13674,101 @@
   "13493": {
     "name": "Zombie pirate",
     "hitpoints": 40
+  },
+  "13495": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "13496": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "13497": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "13498": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "13499": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "13500": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "13501": {
+    "name": "Skeleton",
+    "hitpoints": 17
+  },
+  "13514": {
+    "name": "Assassin",
+    "hitpoints": 85
+  },
+  "13515": {
+    "name": "Assassin",
+    "hitpoints": 85
+  },
+  "13528": {
+    "name": "Balance Elemental",
+    "hitpoints": 750
+  },
+  "13529": {
+    "name": "Balance Elemental",
+    "hitpoints": 750
+  },
+  "13530": {
+    "name": "Balance Elemental",
+    "hitpoints": 750
+  },
+  "13531": {
+    "name": "Elite Khazard Guard",
+    "hitpoints": 85
+  },
+  "13532": {
+    "name": "Elite Khazard Guard",
+    "hitpoints": 85
+  },
+  "13533": {
+    "name": "Elite Khazard Guard",
+    "hitpoints": 85
+  },
+  "13534": {
+    "name": "Elite Khazard Guard",
+    "hitpoints": 85
+  },
+  "13535": {
+    "name": "Mercenary axeman",
+    "hitpoints": 110
+  },
+  "13536": {
+    "name": "Mercenary axeman",
+    "hitpoints": 110
+  },
+  "13537": {
+    "name": "Mercenary mage",
+    "hitpoints": 150
+  },
+  "13566": {
+    "name": "Elite Black Knight",
+    "hitpoints": 90
+  },
+  "13599": {
+    "name": "Tormented Demon",
+    "hitpoints": 600
+  },
+  "13600": {
+    "name": "Tormented Demon",
+    "hitpoints": 600
+  },
+  "13601": {
+    "name": "Tormented Demon",
+    "hitpoints": 600
+  },
+  "13602": {
+    "name": "Tormented Demon",
+    "hitpoints": 600
   }
 }
