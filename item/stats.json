@@ -24029,7 +24029,7 @@
     "weight": 0.01
   },
   "6184": {
-    "name": "Prince tunic",
+    "name": "Royal frog tunic",
     "weight": 2.721,
     "equipable": true,
     "equipment": {
@@ -24037,7 +24037,7 @@
     }
   },
   "6185": {
-    "name": "Prince leggings",
+    "name": "Royal frog leggings",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -24045,7 +24045,7 @@
     }
   },
   "6186": {
-    "name": "Princess blouse",
+    "name": "Royal frog blouse",
     "weight": 2.721,
     "equipable": true,
     "equipment": {
@@ -24053,7 +24053,7 @@
     }
   },
   "6187": {
-    "name": "Princess skirt",
+    "name": "Royal frog skirt",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -65193,7 +65193,8 @@
     "equipment": {
       "slot": 5,
       "amagic": 15,
-      "dmagic": 15
+      "dmagic": 15,
+      "mdmg": 2
     },
     "ge_limit": 15
   },
@@ -65686,10 +65687,6 @@
       "aspeed": 5
     }
   },
-  "23834": {
-    "name": "Weapon frame",
-    "weight": 1.814
-  },
   "23835": {
     "name": "Grym leaf",
     "weight": 0.007
@@ -66061,10 +66058,6 @@
     "name": "Pestle and mortar",
     "weight": 0.056,
     "ge_limit": 40
-  },
-  "23871": {
-    "name": "Weapon frame",
-    "weight": 1.814
   },
   "23872": {
     "name": "Raw paddlefish",
@@ -78005,7 +77998,8 @@
     "equipment": {
       "slot": 4,
       "amagic": 10,
-      "dmagic": 8
+      "dmagic": 8,
+      "mdmg": 1
     }
   },
   "27117": {
@@ -78015,7 +78009,8 @@
     "equipment": {
       "slot": 7,
       "amagic": 6,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 1
     }
   },
   "27119": {
@@ -78025,7 +78020,8 @@
     "equipment": {
       "slot": 0,
       "amagic": 5,
-      "dmagic": 4
+      "dmagic": 4,
+      "mdmg": 1
     }
   },
   "27121": {
@@ -84912,7 +84908,8 @@
   },
   "28942": {
     "name": "Echo crystal",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 8
   },
   "28945": {
     "name": "Echo boots",
@@ -85094,7 +85091,8 @@
       "str": 71,
       "mdmg": 5,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 15
   },
   "28991": {
     "name": "Atlatl dart",
@@ -85117,7 +85115,8 @@
       "amagic": -4,
       "str": 81,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29000": {
     "name": "Eclipse atlatl",
@@ -85146,7 +85145,8 @@
       "dmagic": 55,
       "drange": 32,
       "str": 3
-    }
+    },
+    "ge_limit": 15
   },
   "29007": {
     "name": "Eclipse moon tassets",
@@ -85162,7 +85162,8 @@
       "dmagic": 31,
       "drange": 17,
       "str": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29010": {
     "name": "Eclipse moon helm",
@@ -85178,7 +85179,8 @@
       "dmagic": 10,
       "drange": 4,
       "str": 3
-    }
+    },
+    "ge_limit": 15
   },
   "29013": {
     "name": "Blue moon chestplate",
@@ -85191,7 +85193,8 @@
       "dmagic": 28,
       "str": 2,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29016": {
     "name": "Blue moon tassets",
@@ -85204,7 +85207,8 @@
       "dmagic": 32,
       "str": 1,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29019": {
     "name": "Blue moon helm",
@@ -85217,7 +85221,8 @@
       "dmagic": 6,
       "str": 3,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29022": {
     "name": "Blood moon chestplate",
@@ -85233,7 +85238,8 @@
       "dmagic": 40,
       "drange": 79,
       "str": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29025": {
     "name": "Blood moon tassets",
@@ -85249,7 +85255,8 @@
       "dmagic": 32,
       "drange": 46,
       "str": 2
-    }
+    },
+    "ge_limit": 15
   },
   "29028": {
     "name": "Blood moon helm",
@@ -85265,7 +85272,8 @@
       "dmagic": 7,
       "drange": 29,
       "str": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29031": {
     "name": "Eclipse moon chestplate",
@@ -85281,7 +85289,8 @@
       "dmagic": 55,
       "drange": 32,
       "str": 3
-    }
+    },
+    "ge_limit": 15
   },
   "29033": {
     "name": "Eclipse moon tassets",
@@ -85297,7 +85306,8 @@
       "dmagic": 31,
       "drange": 17,
       "str": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29035": {
     "name": "Eclipse moon helm",
@@ -85313,7 +85323,8 @@
       "dmagic": 10,
       "drange": 4,
       "str": 3
-    }
+    },
+    "ge_limit": 15
   },
   "29037": {
     "name": "Blue moon chestplate",
@@ -85326,7 +85337,8 @@
       "dmagic": 28,
       "str": 2,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29039": {
     "name": "Blue moon tassets",
@@ -85339,7 +85351,8 @@
       "dmagic": 32,
       "str": 1,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29041": {
     "name": "Blue moon helm",
@@ -85352,7 +85365,8 @@
       "dmagic": 6,
       "str": 3,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29043": {
     "name": "Blood moon chestplate",
@@ -85368,7 +85382,8 @@
       "dmagic": 40,
       "drange": 79,
       "str": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29045": {
     "name": "Blood moon tassets",
@@ -85384,7 +85399,8 @@
       "dmagic": 32,
       "drange": 46,
       "str": 2
-    }
+    },
+    "ge_limit": 15
   },
   "29047": {
     "name": "Blood moon helm",
@@ -85400,7 +85416,8 @@
       "dmagic": 7,
       "drange": 29,
       "str": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29049": {
     "name": "Eclipse moon chestplate (broken)",
@@ -85416,7 +85433,8 @@
       "dmagic": 55,
       "drange": 32,
       "str": 3
-    }
+    },
+    "ge_limit": 15
   },
   "29052": {
     "name": "Eclipse moon tassets (broken)",
@@ -85432,7 +85450,8 @@
       "dmagic": 31,
       "drange": 17,
       "str": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29055": {
     "name": "Eclipse moon helm (broken)",
@@ -85448,7 +85467,8 @@
       "dmagic": 10,
       "drange": 4,
       "str": 3
-    }
+    },
+    "ge_limit": 15
   },
   "29058": {
     "name": "Blue moon chestplate (broken)",
@@ -85461,7 +85481,8 @@
       "dmagic": 28,
       "str": 2,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29061": {
     "name": "Blue moon tassets (broken)",
@@ -85474,7 +85495,8 @@
       "dmagic": 32,
       "str": 1,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29064": {
     "name": "Blue moon helm (broken)",
@@ -85487,7 +85509,8 @@
       "dmagic": 6,
       "str": 3,
       "mdmg": 1
-    }
+    },
+    "ge_limit": 15
   },
   "29067": {
     "name": "Blood moon chestplate (broken)",
@@ -85503,7 +85526,8 @@
       "dmagic": 40,
       "drange": 79,
       "str": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29070": {
     "name": "Blood moon tassets (broken)",
@@ -85519,7 +85543,8 @@
       "dmagic": 32,
       "drange": 46,
       "str": 2
-    }
+    },
+    "ge_limit": 15
   },
   "29073": {
     "name": "Blood moon helm (broken)",
@@ -86233,15 +86258,11 @@
   },
   "29409": {
     "name": "Sunbeam ale",
-    "weight": 0.55,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.55
   },
   "29412": {
     "name": "Steamforge brew",
-    "weight": 0.55,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.55
   },
   "29415": {
     "name": "Eclipse wine",
@@ -86249,9 +86270,7 @@
   },
   "29418": {
     "name": "Moon-lite",
-    "weight": 0.8,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.8
   },
   "29421": {
     "name": "Sun-shine",
@@ -86490,5 +86509,335 @@
     "equipment": {
       "slot": 4
     }
+  },
+  "29517": {
+    "name": "Armadyl communiqu\u00e9",
+    "weight": 0.003
+  },
+  "29518": {
+    "name": "Unconscious broav",
+    "weight": 6.0
+  },
+  "29519": {
+    "name": "Broav",
+    "weight": 6.0
+  },
+  "29521": {
+    "name": "Dirty shirt",
+    "weight": 0.5
+  },
+  "29522": {
+    "name": "Waste-paper basket",
+    "weight": 0.5
+  },
+  "29523": {
+    "name": "Ruby key",
+    "weight": 0.025
+  },
+  "29524": {
+    "name": "Notes on pressure",
+    "weight": 0.2
+  },
+  "29525": {
+    "name": "Movario's notes (volume 1)",
+    "weight": 1.0
+  },
+  "29526": {
+    "name": "Movario's notes (volume 2)",
+    "weight": 1.0
+  },
+  "29527": {
+    "name": "Weight (1kg)",
+    "weight": 1.0
+  },
+  "29528": {
+    "name": "Weight (2kg)",
+    "weight": 2.0
+  },
+  "29529": {
+    "name": "Weight (5kg)",
+    "weight": 5.0
+  },
+  "29530": {
+    "name": "Enriched snapdragon",
+    "weight": 0.002
+  },
+  "29531": {
+    "name": "Super truth serum",
+    "weight": 0.05
+  },
+  "29532": {
+    "name": "Truth serum",
+    "weight": 0.05
+  },
+  "29533": {
+    "name": "Suspect sketch",
+    "weight": 0.02
+  },
+  "29534": {
+    "name": "Cell key",
+    "weight": 0.2
+  },
+  "29535": {
+    "name": "Strange teleorb",
+    "weight": 2.0
+  },
+  "29536": {
+    "name": "Teleorb",
+    "weight": 2.0
+  },
+  "29537": {
+    "name": "Teleorb",
+    "weight": 2.0
+  },
+  "29538": {
+    "name": "Enriched snapdragon seed",
+    "weight": 0.005
+  },
+  "29539": {
+    "name": "Agility dolmen",
+    "weight": 1.0
+  },
+  "29540": {
+    "name": "Energy dolmen",
+    "weight": 1.0
+  },
+  "29541": {
+    "name": "Restoration dolmen",
+    "weight": 1.0
+  },
+  "29542": {
+    "name": "Attack dolmen",
+    "weight": 1.0
+  },
+  "29543": {
+    "name": "Strength dolmen",
+    "weight": 1.0
+  },
+  "29544": {
+    "name": "Defence dolmen",
+    "weight": 1.0
+  },
+  "29545": {
+    "name": "Combat dolmen",
+    "weight": 1.0
+  },
+  "29546": {
+    "name": "Ranged dolmen",
+    "weight": 1.0
+  },
+  "29547": {
+    "name": "Prayer dolmen",
+    "weight": 1.0
+  },
+  "29548": {
+    "name": "Hunter dolmen",
+    "weight": 1.0
+  },
+  "29549": {
+    "name": "Fishing dolmen",
+    "weight": 1.0
+  },
+  "29550": {
+    "name": "Magic dolmen",
+    "weight": 1.0
+  },
+  "29551": {
+    "name": "Balance dolmen",
+    "weight": 1.0
+  },
+  "29552": {
+    "name": "Air block",
+    "weight": 1.0
+  },
+  "29553": {
+    "name": "Earth block",
+    "weight": 1.0
+  },
+  "29554": {
+    "name": "Fire block",
+    "weight": 1.0
+  },
+  "29555": {
+    "name": "Water block",
+    "weight": 1.0
+  },
+  "29556": {
+    "name": "Vine flower",
+    "weight": 0.007
+  },
+  "29558": {
+    "name": "Grimy note",
+    "weight": 0.028
+  },
+  "29560": {
+    "name": "Elite black full helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -3,
+      "dstab": 13,
+      "dslash": 14,
+      "dcrush": 11,
+      "dmagic": -1,
+      "drange": 13,
+      "prayer": 4
+    }
+  },
+  "29562": {
+    "name": "Elite black platebody",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -30,
+      "arange": -15,
+      "dstab": 46,
+      "dslash": 44,
+      "dcrush": 38,
+      "dmagic": -6,
+      "drange": 44,
+      "prayer": 8
+    }
+  },
+  "29564": {
+    "name": "Elite black platelegs",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -11,
+      "dstab": 24,
+      "dslash": 22,
+      "dcrush": 20,
+      "dmagic": -4,
+      "drange": 22,
+      "prayer": 6
+    }
+  },
+  "29566": {
+    "name": "Dark squall hood",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 2,
+      "dmagic": 2
+    }
+  },
+  "29568": {
+    "name": "Dark squall robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 4,
+      "dmagic": 4
+    }
+  },
+  "29570": {
+    "name": "Dark squall robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 3,
+      "dmagic": 3
+    }
+  },
+  "29572": {
+    "name": "Silif",
+    "weight": 0.001
+  },
+  "29573": {
+    "name": "Lit explosive",
+    "weight": 0.1
+  },
+  "29574": {
+    "name": "Bone claw",
+    "weight": 0.8
+  },
+  "29577": {
+    "name": "Bone claws",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 43,
+      "aslash": 54,
+      "dstab": 3,
+      "dslash": 6,
+      "dcrush": 1,
+      "str": 32,
+      "aspeed": 4
+    }
+  },
+  "29580": {
+    "name": "Tormented synapse",
+    "weight": 1.814
+  },
+  "29583": {
+    "name": "Smouldering heart",
+    "weight": 0.35
+  },
+  "29585": {
+    "name": "Smouldering pile of flesh",
+    "weight": 2.0
+  },
+  "29587": {
+    "name": "Smouldering gland",
+    "weight": 0.005
+  },
+  "29589": {
+    "name": "Emberlight",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 63,
+      "aslash": 70,
+      "dslash": 3,
+      "dmagic": 5,
+      "str": 13,
+      "aspeed": 4
+    }
+  },
+  "29591": {
+    "name": "Scorching bow",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 124,
+      "rstr": 40,
+      "aspeed": 5
+    }
+  },
+  "29594": {
+    "name": "Purging staff",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 10,
+      "aslash": -5,
+      "acrush": 83,
+      "amagic": 37,
+      "dstab": 1,
+      "dslash": 1,
+      "dmagic": 25,
+      "str": 62,
+      "mdmg": 10,
+      "aspeed": 5
+    }
+  },
+  "29596": {
+    "name": "Duradel's notes",
+    "weight": 1.0
   }
 }
