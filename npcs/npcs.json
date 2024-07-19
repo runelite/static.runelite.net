@@ -12733,15 +12733,15 @@
   },
   "12193": {
     "name": "Duke Sucellus",
-    "hitpoints": 200
+    "hitpoints": 330
   },
   "12194": {
     "name": "Duke Sucellus",
-    "hitpoints": 200
+    "hitpoints": 330
   },
   "12195": {
     "name": "Duke Sucellus",
-    "hitpoints": 200
+    "hitpoints": 330
   },
   "12206": {
     "name": "The Whisperer",
@@ -13647,6 +13647,10 @@
     "name": "Elite Black Knight",
     "hitpoints": 90
   },
+  "13482": {
+    "name": "Surok Magis",
+    "hitpoints": 450
+  },
   "13483": {
     "name": "Agile Warrior",
     "hitpoints": 30
@@ -13764,10 +13768,6 @@
     "hitpoints": 600
   },
   "13601": {
-    "name": "Tormented Demon",
-    "hitpoints": 600
-  },
-  "13602": {
     "name": "Tormented Demon",
     "hitpoints": 600
   }
