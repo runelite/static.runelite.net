@@ -86757,11 +86757,12 @@
     "weight": 0.1
   },
   "29574": {
-    "name": "Bone claw",
-    "weight": 0.8
+    "name": "Burning claw",
+    "weight": 0.8,
+    "ge_limit": 8
   },
   "29577": {
-    "name": "Bone claws",
+    "name": "Burning claws",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -86778,7 +86779,8 @@
   },
   "29580": {
     "name": "Tormented synapse",
-    "weight": 1.814
+    "weight": 1.814,
+    "ge_limit": 5
   },
   "29583": {
     "name": "Smouldering heart",
@@ -86839,5 +86841,247 @@
   "29596": {
     "name": "Duradel's notes",
     "weight": 1.0
+  },
+  "29599": {
+    "name": "Corrupted dark bow",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 95,
+      "aspeed": 9
+    }
+  },
+  "29602": {
+    "name": "Corrupted volatile nightmare staff",
+    "weight": 1.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 14,
+      "mdmg": 15,
+      "aspeed": 5
+    }
+  },
+  "29605": {
+    "name": "Armadyl godsword (deadman)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 132,
+      "acrush": 80,
+      "str": 132,
+      "prayer": 8,
+      "aspeed": 6
+    }
+  },
+  "29607": {
+    "name": "Voidwaker (deadman)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 70,
+      "aslash": 80,
+      "acrush": -2,
+      "amagic": 5,
+      "dslash": 1,
+      "dmagic": 2,
+      "str": 80,
+      "aspeed": 4
+    }
+  },
+  "29609": {
+    "name": "Volatile nightmare staff (deadman)",
+    "weight": 1.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 14,
+      "mdmg": 15,
+      "aspeed": 5
+    }
+  },
+  "29611": {
+    "name": "Dark bow (deadman)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 95,
+      "aspeed": 9
+    }
+  },
+  "29613": {
+    "name": "Imbued zamorak cape (deadman)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
+  "29615": {
+    "name": "Imbued guthix cape (deadman)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
+  "29617": {
+    "name": "Imbued saradomin cape (deadman)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 15,
+      "mdmg": 2
+    }
+  },
+  "29619": {
+    "name": "Armageddon rug",
+    "weight": 0.1
+  },
+  "29622": {
+    "name": "Armageddon teleport scroll",
+    "weight": 0.1
+  },
+  "29625": {
+    "name": "Armageddon weapon scroll",
+    "weight": 0.1
+  },
+  "29628": {
+    "name": "Armageddon cape fabric",
+    "weight": 0.1
+  },
+  "29631": {
+    "name": "Blighted overload (4)",
+    "weight": 0.035
+  },
+  "29634": {
+    "name": "Blighted overload (3)",
+    "weight": 0.03
+  },
+  "29637": {
+    "name": "Blighted overload (2)",
+    "weight": 0.025
+  },
+  "29640": {
+    "name": "Blighted overload (1)",
+    "weight": 0.02
+  },
+  "29643": {
+    "name": "Chitin",
+    "weight": 0.01
+  },
+  "29648": {
+    "name": "Sigil of meticulousness",
+    "weight": 0.1
+  },
+  "29649": {
+    "name": "Sigil of meticulousness",
+    "weight": 0.1
+  },
+  "29651": {
+    "name": "Sigil of revoked limitation",
+    "weight": 0.1
+  },
+  "29652": {
+    "name": "Sigil of revoked limitation",
+    "weight": 0.1
+  },
+  "29654": {
+    "name": "Sigil of rampart",
+    "weight": 0.1
+  },
+  "29655": {
+    "name": "Sigil of rampart",
+    "weight": 0.1
+  },
+  "29657": {
+    "name": "Sigil of deception",
+    "weight": 0.1
+  },
+  "29658": {
+    "name": "Sigil of deception",
+    "weight": 0.1
+  },
+  "29660": {
+    "name": "Sigil of lithe",
+    "weight": 0.1
+  },
+  "29661": {
+    "name": "Sigil of lithe",
+    "weight": 0.1
+  },
+  "29663": {
+    "name": "Sigil of adroit",
+    "weight": 0.1
+  },
+  "29664": {
+    "name": "Sigil of adroit",
+    "weight": 0.1
+  },
+  "29666": {
+    "name": "Sigil of lithe",
+    "weight": 0.1
+  },
+  "29667": {
+    "name": "Sigil of lithe",
+    "weight": 0.1
+  },
+  "29669": {
+    "name": "Sigil of restoration",
+    "weight": 0.1
+  },
+  "29670": {
+    "name": "Sigil of restoration",
+    "weight": 0.1
+  },
+  "29672": {
+    "name": "Sigil of swashbuckler",
+    "weight": 0.1
+  },
+  "29673": {
+    "name": "Sigil of swashbuckler",
+    "weight": 0.1
+  },
+  "29675": {
+    "name": "Sigil of gunslinger",
+    "weight": 0.1
+  },
+  "29676": {
+    "name": "Sigil of gunslinger",
+    "weight": 0.1
+  },
+  "29678": {
+    "name": "Sigil of arcane swiftness",
+    "weight": 0.1
+  },
+  "29679": {
+    "name": "Sigil of arcane swiftness",
+    "weight": 0.1
   }
 }
