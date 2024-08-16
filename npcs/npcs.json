@@ -5903,10 +5903,6 @@
     "name": "Ghost",
     "hitpoints": 25
   },
-  "3976": {
-    "name": "Ghost",
-    "hitpoints": 25
-  },
   "3977": {
     "name": "Ghost",
     "hitpoints": 25
@@ -11635,6 +11631,18 @@
     "name": "Hill Giant",
     "hitpoints": 35
   },
+  "10393": {
+    "name": "Warrior of Murahs",
+    "hitpoints": 22
+  },
+  "10394": {
+    "name": "Warrior of Murahs",
+    "hitpoints": 22
+  },
+  "10395": {
+    "name": "Warrior of Murahs",
+    "hitpoints": 22
+  },
   "10397": {
     "name": "Spiked Turoth",
     "hitpoints": 195
@@ -12931,9 +12939,17 @@
     "name": "Scarred lesser demon",
     "hitpoints": 100
   },
+  "12361": {
+    "name": "Lesser demon",
+    "hitpoints": 80
+  },
   "12362": {
     "name": "Scarred lesser demon",
     "hitpoints": 100
+  },
+  "12363": {
+    "name": "Lesser demon",
+    "hitpoints": 80
   },
   "12364": {
     "name": "Scarred lesser demon",
@@ -13639,6 +13655,22 @@
     "name": "Elite Dark Mage",
     "hitpoints": 80
   },
+  "13476": {
+    "name": "Skeleton",
+    "hitpoints": 54
+  },
+  "13477": {
+    "name": "Skeleton",
+    "hitpoints": 54
+  },
+  "13478": {
+    "name": "Skeleton",
+    "hitpoints": 54
+  },
+  "13479": {
+    "name": "Skeleton",
+    "hitpoints": 54
+  },
   "13480": {
     "name": "Elite Black Knight",
     "hitpoints": 90
@@ -13709,11 +13741,11 @@
   },
   "13514": {
     "name": "Assassin",
-    "hitpoints": 85
+    "hitpoints": 275
   },
   "13515": {
     "name": "Assassin",
-    "hitpoints": 85
+    "hitpoints": 275
   },
   "13528": {
     "name": "Balance Elemental",
@@ -13770,5 +13802,41 @@
   "13601": {
     "name": "Tormented Demon",
     "hitpoints": 600
+  },
+  "13656": {
+    "name": "Vardorvis",
+    "hitpoints": 1500
+  },
+  "13657": {
+    "name": "Cerberus",
+    "hitpoints": 1000
+  },
+  "13658": {
+    "name": "Bee Swarm",
+    "hitpoints": 2000
+  },
+  "13659": {
+    "name": "Thermonuclear smoke devil",
+    "hitpoints": 500
+  },
+  "13660": {
+    "name": "Jaguar warrior",
+    "hitpoints": 1500
+  },
+  "13661": {
+    "name": "TzTok-Jad",
+    "hitpoints": 5000
+  },
+  "13662": {
+    "name": "Durial321",
+    "hitpoints": 1000
+  },
+  "13663": {
+    "name": "Magic Mark",
+    "hitpoints": 1500
+  },
+  "13664": {
+    "name": "Ranging Ro",
+    "hitpoints": 1500
   }
 }
