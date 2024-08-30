@@ -14022,6 +14022,10 @@
     "name": "Puzzle box (hard)",
     "weight": 0.1
   },
+  "3577": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "3578": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
@@ -14866,6 +14870,9 @@
     "equipable": true,
     "equipment": {
       "slot": 5,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 4,
       "prayer": 5
     }
   },
@@ -37691,6 +37698,10 @@
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
+  "10252": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "10254": {
     "name": "Clue scroll (medium)",
     "weight": 0.02
@@ -45960,7 +45971,7 @@
     "ge_limit": 4
   },
   "12361": {
-    "name": "Cat h",
+    "name": "Cat mask",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -62499,7 +62510,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "22844": {
@@ -62508,7 +62519,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "22846": {
@@ -62517,7 +62528,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "22848": {
@@ -62544,7 +62555,7 @@
   "22859": {
     "name": "Redwood sapling",
     "weight": 0.907,
-    "ge_limit": 200
+    "ge_limit": 100
   },
   "22862": {
     "name": "Dragonfruit seedling",
@@ -63127,7 +63138,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "23124": {
@@ -78128,6 +78139,27 @@
       "slot": 0
     }
   },
+  "27180": {
+    "name": "Guthix chaps",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {},
+    "ge_limit": 8
+  },
+  "27181": {
+    "name": "Zamorak chaps",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {},
+    "ge_limit": 8
+  },
+  "27182": {
+    "name": "Saradomin chaps",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {},
+    "ge_limit": 8
+  },
   "27188": {
     "name": "Light ballista",
     "weight": 3.0,
@@ -87085,10 +87117,6 @@
     "name": "Sigil of arcane swiftness",
     "weight": 0.1
   },
-  "29684": {
-    "name": "Guthixian temple teleport",
-    "weight": 0.001
-  },
   "29774": {
     "name": "Amy's saw (off-hand)",
     "weight": 0.8,
@@ -87098,7 +87126,7 @@
     }
   },
   "29775": {
-    "name": "Imcando hammer (offhand)",
+    "name": "Imcando hammer (off-hand)",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -87112,5 +87140,177 @@
     "equipment": {
       "slot": 5
     }
+  },
+  "29781": {
+    "name": "Coagulated venom",
+    "weight": 0.19
+  },
+  "29786": {
+    "name": "Jar of venom",
+    "weight": 0.04,
+    "ge_limit": 4
+  },
+  "29788": {
+    "name": "Araxyte head",
+    "weight": 10.0
+  },
+  "29790": {
+    "name": "Noxious point",
+    "weight": 0.907
+  },
+  "29792": {
+    "name": "Noxious blade",
+    "weight": 0.907
+  },
+  "29794": {
+    "name": "Noxious pommel",
+    "weight": 0.907
+  },
+  "29796": {
+    "name": "Noxious halberd",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 80,
+      "aslash": 132,
+      "str": 142,
+      "aspeed": 5
+    }
+  },
+  "29799": {
+    "name": "Araxyte fang",
+    "weight": 0.001
+  },
+  "29801": {
+    "name": "Amulet of rancour",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "astab": 25,
+      "aslash": 25,
+      "acrush": 25,
+      "amagic": -6,
+      "arange": -8,
+      "str": 12,
+      "prayer": 2
+    }
+  },
+  "29804": {
+    "name": "Amulet of rancour (s)",
+    "weight": 0.011,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "astab": 25,
+      "aslash": 25,
+      "acrush": 25,
+      "amagic": -6,
+      "arange": -8,
+      "str": 12,
+      "prayer": 2
+    }
+  },
+  "29806": {
+    "name": "Aranea boots",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": 5,
+      "arange": 6,
+      "str": 4,
+      "prayer": 1
+    }
+  },
+  "29809": {
+    "name": "Venom-riddled note",
+    "weight": 0.003
+  },
+  "29816": {
+    "name": "Araxyte slayer helmet",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
+  },
+  "29818": {
+    "name": "Araxyte slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "29820": {
+    "name": "Araxyte slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "29822": {
+    "name": "Araxyte slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "29824": {
+    "name": "Extended anti-venom+(4)",
+    "weight": 0.035
+  },
+  "29827": {
+    "name": "Extended anti-venom+(3)",
+    "weight": 0.035
+  },
+  "29830": {
+    "name": "Extended anti-venom+(2)",
+    "weight": 0.035
+  },
+  "29833": {
+    "name": "Extended anti-venom+(1)",
+    "weight": 0.035
+  },
+  "29836": {
+    "name": "Nid",
+    "weight": 0.015
+  },
+  "29838": {
+    "name": "Rax",
+    "weight": 0.015
   }
 }

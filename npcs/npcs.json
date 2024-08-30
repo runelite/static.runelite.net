@@ -5903,6 +5903,10 @@
     "name": "Ghost",
     "hitpoints": 25
   },
+  "3976": {
+    "name": "Ghost",
+    "hitpoints": 25
+  },
   "3977": {
     "name": "Ghost",
     "hitpoints": 25
@@ -12120,11 +12124,11 @@
     "hitpoints": 3200
   },
   "11175": {
-    "name": "Spider",
-    "hitpoints": 80
+    "name": "Araxyte",
+    "hitpoints": 60
   },
   "11176": {
-    "name": "Spider",
+    "name": "Araxyte",
     "hitpoints": 100
   },
   "11192": {
@@ -13838,5 +13842,33 @@
   "13664": {
     "name": "Ranging Ro",
     "hitpoints": 1500
+  },
+  "13666": {
+    "name": "Araxyte",
+    "hitpoints": 60
+  },
+  "13667": {
+    "name": "Araxyte",
+    "hitpoints": 100
+  },
+  "13668": {
+    "name": "Araxxor",
+    "hitpoints": 1020
+  },
+  "13671": {
+    "name": "Mirrorback Araxyte",
+    "hitpoints": 58
+  },
+  "13673": {
+    "name": "Ruptura Araxyte",
+    "hitpoints": 60
+  },
+  "13675": {
+    "name": "Acidic Araxyte",
+    "hitpoints": 58
+  },
+  "13680": {
+    "name": "Dreadborn Araxyte",
+    "hitpoints": 350
   }
 }
