@@ -13851,17 +13851,13 @@
     "name": "Araxyte",
     "hitpoints": 100
   },
-  "13668": {
-    "name": "Araxxor",
-    "hitpoints": 1020
-  },
   "13671": {
     "name": "Mirrorback Araxyte",
     "hitpoints": 58
   },
   "13673": {
     "name": "Ruptura Araxyte",
-    "hitpoints": 60
+    "hitpoints": 58
   },
   "13675": {
     "name": "Acidic Araxyte",

@@ -14870,9 +14870,6 @@
     "equipable": true,
     "equipment": {
       "slot": 5,
-      "aslash": 4,
-      "acrush": 4,
-      "amagic": 4,
       "prayer": 5
     }
   },
@@ -20855,7 +20852,7 @@
   "5374": {
     "name": "Magic sapling",
     "weight": 0.907,
-    "ge_limit": 200
+    "ge_limit": 100
   },
   "5375": {
     "name": "Spirit sapling",
@@ -31050,7 +31047,7 @@
   },
   "8007": {
     "name": "Varrock teleport",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "8008": {
     "name": "Lumbridge teleport",
@@ -31074,7 +31071,7 @@
   },
   "8013": {
     "name": "Teleport to house",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "8014": {
     "name": "Bones to bananas",
@@ -57377,7 +57374,7 @@
     "equipment": {
       "slot": 9
     },
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "21180": {
     "name": "Flamtaer bracelet",
@@ -63182,6 +63179,30 @@
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
+  "23138": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "23139": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "23140": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "23141": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "23142": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "23143": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
   "23144": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
@@ -63223,6 +63244,30 @@
     "weight": 0.02
   },
   "23154": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23155": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23156": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23157": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23158": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23159": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "23160": {
     "name": "Clue scroll (easy)",
     "weight": 0.02
   },
@@ -63277,6 +63322,38 @@
   "23173": {
     "name": "Puzzle box (hard)",
     "weight": 0.1
+  },
+  "23174": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23175": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23176": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23177": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23178": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23179": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23180": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "23181": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
   },
   "23183": {
     "name": "Strange device",
@@ -69030,7 +69107,7 @@
   },
   "24613": {
     "name": "Blighted entangle sack",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "24615": {
     "name": "Blighted teleport spell sack",
@@ -69516,6 +69593,10 @@
   "24771": {
     "name": "Mysterious page",
     "weight": 0.005
+  },
+  "24773": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
   },
   "24774": {
     "name": "Blood pint",
@@ -72793,6 +72874,10 @@
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
+  "25792": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
   "25793": {
     "name": "Receipt",
     "weight": 0.003
@@ -74469,7 +74554,8 @@
       "dmagic": 31,
       "mdmg": 2,
       "prayer": 2
-    }
+    },
+    "ge_limit": 8
   },
   "26245": {
     "name": "Virtus robe bottom",
@@ -74485,7 +74571,8 @@
       "dmagic": 22,
       "mdmg": 2,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "26254": {
     "name": "Saucepan",
@@ -77415,6 +77502,10 @@
     "name": "Message",
     "weight": 0.003
   },
+  "26943": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
   "26944": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
@@ -78194,6 +78285,21 @@
     "equipable": true,
     "equipment": {},
     "ge_limit": 15
+  },
+  "27194": {
+    "name": "Ancestral robe bottom (Last Man Standing)",
+    "weight": 18.14,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 26,
+      "arange": -7,
+      "dstab": 27,
+      "dslash": 24,
+      "dcrush": 30,
+      "dmagic": 20,
+      "mdmg": 4
+    }
   },
   "27202": {
     "name": "Menaphite remedy(4)",
@@ -84760,7 +84866,8 @@
     "equipment": {
       "slot": 13,
       "rstr": 55
-    }
+    },
+    "ge_limit": 11000
   },
   "28878": {
     "name": "Moonlight antler bolts",
@@ -85665,7 +85772,8 @@
   },
   "29110": {
     "name": "Raw pyre fox",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29113": {
     "name": "Raw moonlight antelope",
@@ -87117,6 +87225,358 @@
     "name": "Sigil of arcane swiftness",
     "weight": 0.1
   },
+  "29686": {
+    "name": "Dni23 torso lightbuttons",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29688": {
+    "name": "Dni23 torso darkbuttons",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29690": {
+    "name": "Dni23 torso darkbuttons",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29692": {
+    "name": "Dni23 torso shirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29694": {
+    "name": "Dni23 torso stitching",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29696": {
+    "name": "Dni23 torso twotoned",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29698": {
+    "name": "Dni23 torso princely",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29700": {
+    "name": "Dni23 torso rippedweskit",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29702": {
+    "name": "Dni23 torso rippedweskit",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29704": {
+    "name": "Dni23 torso croptops",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29706": {
+    "name": "Dni23 torso poloneck",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29708": {
+    "name": "Dni23 torso simple",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29710": {
+    "name": "Dni23 torso frilly",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29712": {
+    "name": "Dni23 torso corsetry",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29714": {
+    "name": "Dni23 torso bodice",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29716": {
+    "name": "Dni23 arms thin",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29718": {
+    "name": "Dni23 arms shoulderpads",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29720": {
+    "name": "Dni23 arms thickstripe",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29722": {
+    "name": "Dni23 arms loosesleeves",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29724": {
+    "name": "Dni23 arms princely",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29726": {
+    "name": "Dni23 arms tattylong",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29728": {
+    "name": "Dni23 arms ripped",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29730": {
+    "name": "Dni23 arms bare",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29732": {
+    "name": "Dni23 arms frilly",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29734": {
+    "name": "Dni23 arms tattyshort",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29736": {
+    "name": "Dni23 arms bareshoulders",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "29738": {
+    "name": "Dni23 legs shorts",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29740": {
+    "name": "Dni23 legs beach",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29742": {
+    "name": "Dni23 legs princely",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29744": {
+    "name": "Dni23 legs leggings",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29746": {
+    "name": "Dni23 legs sidestripes",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29748": {
+    "name": "Dni23 legs ripped",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29750": {
+    "name": "Dni23 legs patched",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29752": {
+    "name": "Dni23 legs skirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29754": {
+    "name": "Dni23 legs longskirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29756": {
+    "name": "Dni23 legs longnarrowskirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29758": {
+    "name": "Dni23 legs shortskirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29760": {
+    "name": "Dni23 legs layered",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29762": {
+    "name": "Dni23 legs sashdots",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29764": {
+    "name": "Dni23 legs bighem",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29766": {
+    "name": "Dni23 legs sashtrousers",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29768": {
+    "name": "Dni23 legs patterned",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29770": {
+    "name": "Dni23 legs tornskirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29772": {
+    "name": "Dni23 legs patchedskirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
   "29774": {
     "name": "Amy's saw (off-hand)",
     "weight": 0.8,
@@ -87144,6 +87604,10 @@
   "29781": {
     "name": "Coagulated venom",
     "weight": 0.19
+  },
+  "29784": {
+    "name": "Araxyte venom sack",
+    "ge_limit": 11000
   },
   "29786": {
     "name": "Jar of venom",
@@ -87223,7 +87687,8 @@
       "arange": 6,
       "str": 4,
       "prayer": 1
-    }
+    },
+    "ge_limit": 8
   },
   "29809": {
     "name": "Venom-riddled note",
