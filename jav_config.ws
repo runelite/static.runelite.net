@@ -1,9 +1,9 @@
 title=Old School RuneScape
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://oldschool30a.runescape.com/
+codebase=http://oldschool14.runescape.com/
 cachedir=oldschool
 storebase=0
-initial_jar=gamepack_1230751.jar
+initial_jar=gamepack_6368174.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
@@ -14,7 +14,7 @@ other_sub_version=2
 browsercontrol_win_x86_jar=browsercontrol_0_-1928975093.jar
 browsercontrol_win_amd64_jar=browsercontrol_1_1674545273.jar
 gedigesturl=https://secure.runescape.com/m=itemdb_oldschool/g=oldscape/digest.csv
-download=2404754
+download=2398718
 window_preferredwidth=800
 window_preferredheight=600
 advert_height=96
@@ -45,28 +45,28 @@ msg=err_get_file=Error getting file
 msg=new_version=Update available! You can now launch the client directly from the OldSchool website.\nGet the new version from the link on the OldSchool homepage: http://oldschool.runescape.com/
 msg=new_version_linktext=Open OldSchool Homepage
 msg=new_version_link=http://oldschool.runescape.com/
+param=4=1
+param=28=https://account.jagex.com/
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
-param=17=http://www.runescape.com/g=oldscape/slr.ws?order=LPWM
-param=25=224
+param=3=true
 param=20=https://social.auth.jagex.com/
+param=12=314
+param=8=true
+param=16=false
+param=5=1
+param=2=https://payments.jagex.com/
+param=11=https://auth.jagex.com/
 param=6=0
 param=18=
 param=14=0
-param=5=1
-param=15=0
-param=13=.runescape.com
-param=10=5
-param=22=https://auth.runescape.com/
-param=16=false
-param=28=https://account.jagex.com/
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
-param=21=0
-param=3=true
 param=7=0
-param=4=1
-param=2=https://payments.jagex.com/
-param=8=true
-param=11=https://auth.jagex.com/
-param=12=330
-runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/224/vanilla-224.jar
+param=21=0
+param=10=5
+param=13=.runescape.com
+param=25=225
+param=15=0
+param=22=https://auth.runescape.com/
+param=17=http://www.runescape.com/g=oldscape/slr.ws?order=LPWM
+runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/225/vanilla-225.jar
 runelite.worldparam=12
