@@ -77525,7 +77525,7 @@
       "dcrush": 1,
       "dmagic": 10,
       "str": 32,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "26948": {
@@ -77543,7 +77543,7 @@
       "dcrush": 1,
       "dmagic": 10,
       "str": 32,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "26950": {
@@ -77561,7 +77561,7 @@
       "dcrush": 1,
       "dmagic": 10,
       "str": 32,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "26952": {
@@ -85760,15 +85760,18 @@
   },
   "29101": {
     "name": "Raw barb-tailed kebbit",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29104": {
     "name": "Raw wild kebbit",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29107": {
     "name": "Raw dashing kebbit",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29110": {
     "name": "Raw pyre fox",
@@ -85777,43 +85780,53 @@
   },
   "29113": {
     "name": "Raw moonlight antelope",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29116": {
     "name": "Raw sunlight antelope",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29119": {
     "name": "Raw graahk",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29122": {
     "name": "Raw larupia",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29125": {
     "name": "Raw kyatt",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "29128": {
     "name": "Cooked wild kebbit",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29131": {
     "name": "Cooked barb-tailed kebbit",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29134": {
     "name": "Cooked dashing kebbit",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29137": {
     "name": "Cooked pyre fox",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29140": {
     "name": "Cooked sunlight antelope",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29143": {
     "name": "Cooked moonlight antelope",
@@ -85822,15 +85835,18 @@
   },
   "29146": {
     "name": "Cooked larupia",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29149": {
     "name": "Cooked graahk",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29152": {
     "name": "Cooked kyatt",
-    "weight": 0.283
+    "weight": 0.283,
+    "ge_limit": 10000
   },
   "29155": {
     "name": "Burnt kebbit",
@@ -85862,7 +85878,8 @@
   },
   "29174": {
     "name": "Moonlight antelope fur",
-    "weight": 3.0
+    "weight": 3.0,
+    "ge_limit": 18000
   },
   "29177": {
     "name": "Sunlight antelope fur",
@@ -86405,7 +86422,7 @@
     "weight": 0.55
   },
   "29415": {
-    "name": "Eclipse wine",
+    "name": "Eclipse red",
     "weight": 1.0
   },
   "29418": {
@@ -86475,6 +86492,10 @@
   "29455": {
     "name": "Teleport anchoring scroll",
     "weight": 0.015
+  },
+  "29458": {
+    "name": "Adamant seeds",
+    "ge_limit": 18000
   },
   "29462": {
     "name": "Small meat pouch (open)",
@@ -87611,8 +87632,7 @@
   },
   "29786": {
     "name": "Jar of venom",
-    "weight": 0.04,
-    "ge_limit": 4
+    "weight": 0.04
   },
   "29788": {
     "name": "Araxyte head",
@@ -87756,19 +87776,23 @@
   },
   "29824": {
     "name": "Extended anti-venom+(4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "29827": {
     "name": "Extended anti-venom+(3)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "29830": {
     "name": "Extended anti-venom+(2)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "29833": {
     "name": "Extended anti-venom+(1)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "29836": {
     "name": "Nid",
@@ -87777,5 +87801,1047 @@
   "29838": {
     "name": "Rax",
     "weight": 0.015
+  },
+  "29840": {
+    "name": "Eclipse moon chestplate",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 31,
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 57,
+      "dmagic": 55,
+      "drange": 32,
+      "str": 3
+    },
+    "ge_limit": 15
+  },
+  "29841": {
+    "name": "Eclipse moon tassets",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -15,
+      "arange": 17,
+      "dstab": 9,
+      "dslash": 13,
+      "dcrush": 37,
+      "dmagic": 31,
+      "drange": 17,
+      "str": 1
+    },
+    "ge_limit": 15
+  },
+  "29842": {
+    "name": "Eclipse moon helm",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": 8,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 4,
+      "str": 3
+    },
+    "ge_limit": 15
+  },
+  "29843": {
+    "name": "Blue moon chestplate",
+    "weight": 3.175,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "dcrush": 51,
+      "dmagic": 28,
+      "str": 2,
+      "mdmg": 1
+    },
+    "ge_limit": 15
+  },
+  "29844": {
+    "name": "Blue moon tassets",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "dcrush": 23,
+      "dmagic": 32,
+      "str": 1,
+      "mdmg": 1
+    },
+    "ge_limit": 15
+  },
+  "29845": {
+    "name": "Blue moon helm",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "dcrush": 10,
+      "dmagic": 6,
+      "str": 3,
+      "mdmg": 1
+    },
+    "ge_limit": 15
+  },
+  "29846": {
+    "name": "Blood moon chestplate",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": -10,
+      "dstab": 60,
+      "dslash": 80,
+      "dcrush": 80,
+      "dmagic": 40,
+      "drange": 79,
+      "str": 4
+    },
+    "ge_limit": 15
+  },
+  "29847": {
+    "name": "Blood moon tassets",
+    "weight": 4.082,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -21,
+      "arange": -7,
+      "dstab": 30,
+      "dslash": 50,
+      "dcrush": 49,
+      "dmagic": 32,
+      "drange": 46,
+      "str": 2
+    },
+    "ge_limit": 15
+  },
+  "29848": {
+    "name": "Blood moon helm",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 20,
+      "dslash": 31,
+      "dcrush": 34,
+      "dmagic": 7,
+      "drange": 29,
+      "str": 4
+    },
+    "ge_limit": 15
+  },
+  "29849": {
+    "name": "Blue moon spear",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 70,
+      "aslash": 62,
+      "acrush": 62,
+      "amagic": 30,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 71,
+      "mdmg": 5,
+      "aspeed": 5
+    },
+    "ge_limit": 15
+  },
+  "29850": {
+    "name": "Dual macuahuitl",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 115,
+      "aslash": -4,
+      "acrush": 121,
+      "amagic": -4,
+      "str": 81,
+      "aspeed": 4
+    },
+    "ge_limit": 15
+  },
+  "29851": {
+    "name": "Eclipse atlatl",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 87,
+      "str": 40,
+      "aspeed": 4
+    },
+    "ge_limit": 15
+  },
+  "29852": {
+    "name": "Eclipse atlatl",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 87,
+      "str": 40,
+      "aspeed": 4
+    },
+    "ge_limit": 15
+  },
+  "29853": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "29854": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "29855": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "29856": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "29857": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "29858": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "29859": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "29867": {
+    "name": "Prince itzla arkan",
+    "weight": 0.001
+  },
+  "29868": {
+    "name": "Emissary hood",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "29870": {
+    "name": "Emissary robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29872": {
+    "name": "Emissary robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29874": {
+    "name": "Emissary sandals",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "29876": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
+  "29877": {
+    "name": "Tower key",
+    "weight": 0.02
+  },
+  "29878": {
+    "name": "Book",
+    "weight": 0.05
+  },
+  "29879": {
+    "name": "Poem",
+    "weight": 0.01
+  },
+  "29880": {
+    "name": "Scrap of paper",
+    "weight": 0.005
+  },
+  "29881": {
+    "name": "Scrap of paper",
+    "weight": 0.005
+  },
+  "29882": {
+    "name": "Scrap of paper",
+    "weight": 0.005
+  },
+  "29883": {
+    "name": "Completed note",
+    "weight": 0.015
+  },
+  "29885": {
+    "name": "Icon",
+    "weight": 0.02
+  },
+  "29886": {
+    "name": "Icon",
+    "weight": 0.02
+  },
+  "29887": {
+    "name": "Icon",
+    "weight": 0.02
+  },
+  "29888": {
+    "name": "Icon",
+    "weight": 0.02
+  },
+  "29889": {
+    "name": "Glacial temotli",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 11,
+      "acrush": 72,
+      "str": 64,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "29892": {
+    "name": "Pendant of ates (inert)",
+    "weight": 0.06,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "dmagic": 3,
+      "prayer": 2
+    }
+  },
+  "29893": {
+    "name": "Pendant of ates",
+    "weight": 0.06,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "dmagic": 3,
+      "prayer": 2
+    }
+  },
+  "29898": {
+    "name": "Test kebab",
+    "weight": 0.25
+  },
+  "29899": {
+    "name": "Test kebab",
+    "weight": 0.25
+  },
+  "29900": {
+    "name": "Varlamorian kebab",
+    "weight": 0.25
+  },
+  "29903": {
+    "name": "Tattered sails",
+    "weight": 1.0
+  },
+  "29904": {
+    "name": "Sails",
+    "weight": 1.0
+  },
+  "29905": {
+    "name": "Betty's notes",
+    "weight": 0.028
+  },
+  "29906": {
+    "name": "Storeroom key",
+    "weight": 0.01
+  },
+  "29911": {
+    "name": "Prop sword",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29912": {
+    "name": "Butler's tray",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29913": {
+    "name": "Butler's tray",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29914": {
+    "name": "Butler's uniform",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29915": {
+    "name": "Butler's uniform",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29916": {
+    "name": "Butler's uniform",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29918": {
+    "name": "Butler's uniform",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29920": {
+    "name": "Costume needle",
+    "weight": 0.005
+  },
+  "29922": {
+    "name": "Case file",
+    "weight": 0.01
+  },
+  "29923": {
+    "name": "Chest key",
+    "weight": 0.01
+  },
+  "29925": {
+    "name": "Drinking flask",
+    "weight": 0.1
+  },
+  "29926": {
+    "name": "Threatening note",
+    "weight": 0.01
+  },
+  "29927": {
+    "name": "Shipping contract",
+    "weight": 0.01
+  },
+  "29928": {
+    "name": "Wine labels",
+    "weight": 0.01
+  },
+  "29929": {
+    "name": "Ram mask",
+    "weight": 0.1
+  },
+  "29930": {
+    "name": "Wolf mask",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "29931": {
+    "name": "Bird mask",
+    "weight": 0.1
+  },
+  "29932": {
+    "name": "Jaguar mask",
+    "weight": 0.1
+  },
+  "29933": {
+    "name": "Snake mask",
+    "weight": 0.1
+  },
+  "29934": {
+    "name": "Ram mask",
+    "weight": 0.1
+  },
+  "29936": {
+    "name": "Wolf mask",
+    "weight": 0.1,
+    "ge_limit": 4
+  },
+  "29938": {
+    "name": "Bird mask",
+    "weight": 0.1
+  },
+  "29940": {
+    "name": "Jaguar mask",
+    "weight": 0.1
+  },
+  "29942": {
+    "name": "Snake mask",
+    "weight": 0.1
+  },
+  "29944": {
+    "name": "Blackbird red",
+    "weight": 1.0
+  },
+  "29947": {
+    "name": "Chilhuac red",
+    "weight": 1.0
+  },
+  "29950": {
+    "name": "Principum red",
+    "weight": 1.0
+  },
+  "29952": {
+    "name": "Ixcoztic white",
+    "weight": 1.0
+  },
+  "29955": {
+    "name": "Metztonalli white",
+    "weight": 1.0
+  },
+  "29958": {
+    "name": "Tonameyo white",
+    "weight": 1.0
+  },
+  "29961": {
+    "name": "Fortis ash white",
+    "weight": 1.0
+  },
+  "29963": {
+    "name": "Chichilihui ros\u00e9",
+    "weight": 1.0
+  },
+  "29966": {
+    "name": "Imperial ros\u00e9",
+    "weight": 1.0
+  },
+  "29969": {
+    "name": "Xochipaltic ros\u00e9",
+    "weight": 1.0
+  },
+  "29971": {
+    "name": "Apprentice potion pack",
+    "weight": 5.15
+  },
+  "29972": {
+    "name": "Adept potion pack",
+    "weight": 5.15
+  },
+  "29973": {
+    "name": "Expert potion pack",
+    "weight": 5.15
+  },
+  "29974": {
+    "name": "Prescription goggles",
+    "weight": 1.02
+  },
+  "29976": {
+    "name": "Prescription goggles",
+    "weight": 1.02
+  },
+  "29978": {
+    "name": "Alchemist labcoat",
+    "weight": 0.62,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29980": {
+    "name": "Alchemist labcoat",
+    "weight": 0.62,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29982": {
+    "name": "Alchemist pants",
+    "weight": 0.71,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29984": {
+    "name": "Alchemist pants",
+    "weight": 0.71,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29986": {
+    "name": "Alchemist gloves",
+    "weight": 0.09,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29988": {
+    "name": "Alchemist's amulet",
+    "weight": 0.007,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29990": {
+    "name": "Alchemist's amulet",
+    "weight": 0.007,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29992": {
+    "name": "Alchemist's amulet",
+    "weight": 0.007,
+    "equipable": true,
+    "equipment": {}
+  },
+  "29993": {
+    "name": "Aldarium",
+    "weight": 0.007
+  },
+  "29996": {
+    "name": "Reagent pouch",
+    "weight": 2.0
+  },
+  "29998": {
+    "name": "Open reagent pouch",
+    "weight": 2.0
+  },
+  "30000": {
+    "name": "Pre-pot device",
+    "weight": 0.453
+  },
+  "30001": {
+    "name": "Pre-pot device (disassembled)",
+    "weight": 0.453
+  },
+  "30005": {
+    "name": "Mox paste",
+    "weight": 0.51
+  },
+  "30007": {
+    "name": "Aga paste",
+    "weight": 0.51
+  },
+  "30009": {
+    "name": "Lye paste",
+    "weight": 0.51
+  },
+  "30011": {
+    "name": "Mammoth-might mix",
+    "weight": 0.135
+  },
+  "30012": {
+    "name": "Mystic mana amalgam",
+    "weight": 0.135
+  },
+  "30013": {
+    "name": "Marley's moonlight",
+    "weight": 0.135
+  },
+  "30014": {
+    "name": "Alco-augmentator",
+    "weight": 0.135
+  },
+  "30015": {
+    "name": "Aqualux amalgam",
+    "weight": 0.135
+  },
+  "30016": {
+    "name": "Azure aura mix",
+    "weight": 0.135
+  },
+  "30017": {
+    "name": "Liplack liquor",
+    "weight": 0.135
+  },
+  "30018": {
+    "name": "Anti-leech lotion",
+    "weight": 0.135
+  },
+  "30019": {
+    "name": "Megalite liquid",
+    "weight": 0.135
+  },
+  "30020": {
+    "name": "Mixalot",
+    "weight": 0.135
+  },
+  "30021": {
+    "name": "Mammoth-might mix",
+    "weight": 0.135
+  },
+  "30022": {
+    "name": "Mystic mana amalgam",
+    "weight": 0.135
+  },
+  "30023": {
+    "name": "Marley's moonlight",
+    "weight": 0.135
+  },
+  "30024": {
+    "name": "Alco-augmentator",
+    "weight": 0.135
+  },
+  "30025": {
+    "name": "Aqualux amalgam",
+    "weight": 0.135
+  },
+  "30026": {
+    "name": "Azure aura mix",
+    "weight": 0.135
+  },
+  "30027": {
+    "name": "Liplack liquor",
+    "weight": 0.135
+  },
+  "30028": {
+    "name": "Anti-leech lotion",
+    "weight": 0.135
+  },
+  "30029": {
+    "name": "Megalite liquid",
+    "weight": 0.135
+  },
+  "30030": {
+    "name": "Mixalot",
+    "weight": 0.135
+  },
+  "30031": {
+    "name": "Digweed",
+    "weight": 0.007
+  },
+  "30032": {
+    "name": "Mixology lab notes",
+    "weight": 0.226
+  },
+  "30035": {
+    "name": "Moonrise wines",
+    "weight": 0.51
+  },
+  "30037": {
+    "name": "Grape barrel",
+    "weight": 15.0
+  },
+  "30042": {
+    "name": "Calcified acorn",
+    "weight": 0.002
+  },
+  "30045": {
+    "name": "Graceful hood",
+    "weight": 0.6
+  },
+  "30047": {
+    "name": "Graceful hood",
+    "weight": -3.0
+  },
+  "30048": {
+    "name": "Graceful cape",
+    "weight": 0.8,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30050": {
+    "name": "Graceful cape",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30051": {
+    "name": "Graceful top",
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30053": {
+    "name": "Graceful top",
+    "weight": -5.0,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30054": {
+    "name": "Graceful legs",
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30056": {
+    "name": "Graceful legs",
+    "weight": -6.0,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30057": {
+    "name": "Graceful gloves",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30059": {
+    "name": "Graceful gloves",
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30060": {
+    "name": "Graceful boots",
+    "weight": 0.4,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30062": {
+    "name": "Graceful boots",
+    "weight": -4.0,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30064": {
+    "name": "Tome of earth",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 8,
+      "dmagic": 8
+    }
+  },
+  "30066": {
+    "name": "Tome of earth (empty)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 8,
+      "dmagic": 8
+    }
+  },
+  "30068": {
+    "name": "Soiled page",
+    "weight": 0.005
+  },
+  "30070": {
+    "name": "Dragon hunter wand",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 16,
+      "dmagic": 16,
+      "mdmg": 10,
+      "aspeed": 5
+    }
+  },
+  "30073": {
+    "name": "Hueycoatl hide coif",
+    "weight": 0.9,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -1,
+      "arange": 7,
+      "dstab": 4,
+      "dslash": 7,
+      "dcrush": 10,
+      "dmagic": 5,
+      "drange": 8,
+      "prayer": 2
+    }
+  },
+  "30076": {
+    "name": "Hueycoatl hide body",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": 30,
+      "dstab": 55,
+      "dslash": 47,
+      "dcrush": 60,
+      "dmagic": 56,
+      "drange": 55,
+      "prayer": 3
+    }
+  },
+  "30079": {
+    "name": "Hueycoatl hide chaps",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -10,
+      "arange": 17,
+      "dstab": 31,
+      "dslash": 25,
+      "dcrush": 33,
+      "dmagic": 30,
+      "drange": 31,
+      "prayer": 2
+    }
+  },
+  "30082": {
+    "name": "Hueycoatl hide vambraces",
+    "weight": 0.283,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "amagic": -10,
+      "arange": 11,
+      "dstab": 6,
+      "dslash": 5,
+      "dcrush": 7,
+      "dmagic": 8,
+      "prayer": 1
+    }
+  },
+  "30085": {
+    "name": "Hueycoatl hide",
+    "weight": 3.175
+  },
+  "30094": {
+    "name": "Grimy huasca",
+    "weight": 0.007
+  },
+  "30097": {
+    "name": "Huasca",
+    "weight": 0.007
+  },
+  "30100": {
+    "name": "Huasca potion (unf)",
+    "weight": 0.056
+  },
+  "30103": {
+    "name": "Redberry antelope",
+    "weight": 0.283
+  },
+  "30105": {
+    "name": "Tooth half of key",
+    "weight": 0.005,
+    "ge_limit": 11000
+  },
+  "30107": {
+    "name": "Loop half of key",
+    "weight": 0.005,
+    "ge_limit": 11000
+  },
+  "30109": {
+    "name": "Moon key",
+    "weight": 0.01
+  },
+  "30111": {
+    "name": "Helmet of the moon",
+    "weight": 0.35
+  },
+  "30113": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30114": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30115": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30116": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30117": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30118": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30119": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30120": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30121": {
+    "name": "Nasty token",
+    "weight": 13.507
+  },
+  "30122": {
+    "name": "Nasty surprise",
+    "weight": 1.0
+  },
+  "30123": {
+    "name": "The hueycoatl",
+    "weight": 0.51
+  },
+  "30125": {
+    "name": "Prayer regeneration potion(4)",
+    "weight": 0.035
+  },
+  "30128": {
+    "name": "Prayer regeneration potion(3)",
+    "weight": 0.03
+  },
+  "30131": {
+    "name": "Prayer regeneration potion(2)",
+    "weight": 0.025
+  },
+  "30134": {
+    "name": "Prayer regeneration potion(1)",
+    "weight": 0.02
+  },
+  "30137": {
+    "name": "Goading potion(4)",
+    "weight": 0.035
+  },
+  "30140": {
+    "name": "Goading potion(3)",
+    "weight": 0.03
+  },
+  "30143": {
+    "name": "Goading potion(2)",
+    "weight": 0.025
+  },
+  "30146": {
+    "name": "Goading potion(1)",
+    "weight": 0.02
+  },
+  "30149": {
+    "name": "Aldarin teleport",
+    "weight": 0.001
+  },
+  "30151": {
+    "name": "Bone squirrel",
+    "weight": 0.015
+  },
+  "30152": {
+    "name": "Huberte",
+    "weight": 0.015
+  },
+  "30154": {
+    "name": "Moxi",
+    "weight": 0.015
+  },
+  "30156": {
+    "name": "Butler's tray",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30157": {
+    "name": "Butler's tray",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {}
   }
 }
