@@ -12535,10 +12535,6 @@
     "name": "Guard",
     "hitpoints": 22
   },
-  "11946": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
   "11947": {
     "name": "Guard",
     "hitpoints": 22
@@ -13451,6 +13447,10 @@
     "name": "Black jaguar",
     "hitpoints": 80
   },
+  "12979": {
+    "name": "White jaguar",
+    "hitpoints": 80
+  },
   "13001": {
     "name": "Scorpion",
     "hitpoints": 17
@@ -13866,5 +13866,129 @@
   "13680": {
     "name": "Dreadborn Araxyte",
     "hitpoints": 350
+  },
+  "13685": {
+    "name": "Amoxliatl",
+    "hitpoints": 520
+  },
+  "13728": {
+    "name": "Frost Nagua",
+    "hitpoints": 120
+  },
+  "13732": {
+    "name": "Emissary acolyte",
+    "hitpoints": 25
+  },
+  "13733": {
+    "name": "Emissary acolyte",
+    "hitpoints": 25
+  },
+  "13734": {
+    "name": "Emissary acolyte",
+    "hitpoints": 25
+  },
+  "13735": {
+    "name": "Emissary acolyte",
+    "hitpoints": 25
+  },
+  "13736": {
+    "name": "Emissary acolyte",
+    "hitpoints": 25
+  },
+  "13737": {
+    "name": "Emissary acolyte",
+    "hitpoints": 25
+  },
+  "13738": {
+    "name": "Emissary chosen",
+    "hitpoints": 50
+  },
+  "13739": {
+    "name": "Emissary chosen",
+    "hitpoints": 50
+  },
+  "13740": {
+    "name": "Emissary chosen",
+    "hitpoints": 50
+  },
+  "13741": {
+    "name": "Emissary chosen",
+    "hitpoints": 50
+  },
+  "13742": {
+    "name": "Emissary chosen",
+    "hitpoints": 50
+  },
+  "13743": {
+    "name": "Emissary chosen",
+    "hitpoints": 50
+  },
+  "13744": {
+    "name": "Emissary Ascended",
+    "hitpoints": 80
+  },
+  "13747": {
+    "name": "Emissary Ascended",
+    "hitpoints": 80
+  },
+  "13749": {
+    "name": "Emissary Ascended",
+    "hitpoints": 80
+  },
+  "13787": {
+    "name": "Frost Nagua",
+    "hitpoints": 120
+  },
+  "13788": {
+    "name": "Frost Nagua",
+    "hitpoints": 120
+  },
+  "13789": {
+    "name": "Frost crab",
+    "hitpoints": 60
+  },
+  "13791": {
+    "name": "Frost crab",
+    "hitpoints": 60
+  },
+  "13812": {
+    "name": "Dire Wolf Alpha",
+    "hitpoints": 100
+  },
+  "13813": {
+    "name": "Dire Wolf",
+    "hitpoints": 10
+  },
+  "13814": {
+    "name": "Minotaur",
+    "hitpoints": 240
+  },
+  "13815": {
+    "name": "Minotaur",
+    "hitpoints": 240
+  },
+  "13968": {
+    "name": "Porcupine",
+    "hitpoints": 5
+  },
+  "14009": {
+    "name": "The Hueycoatl",
+    "hitpoints": 2500
+  },
+  "14011": {
+    "name": "The Hueycoatl",
+    "hitpoints": 2500
+  },
+  "14012": {
+    "name": "The Hueycoatl",
+    "hitpoints": 2500
+  },
+  "14014": {
+    "name": "Hueycoatl tail",
+    "hitpoints": 400
+  },
+  "14017": {
+    "name": "Hueycoatl body",
+    "hitpoints": 250
   }
 }
