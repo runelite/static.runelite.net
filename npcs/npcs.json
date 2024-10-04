@@ -9877,7 +9877,7 @@
   },
   "7389": {
     "name": "Chasm Crawler",
-    "hitpoints": 64
+    "hitpoints": 60
   },
   "7390": {
     "name": "Screaming banshee",
@@ -13063,88 +13063,12 @@
     "name": "Strangled",
     "hitpoints": 50
   },
-  "12439": {
-    "name": "Dagannoth Rex",
-    "hitpoints": 750
-  },
-  "12440": {
-    "name": "King Black Dragon",
-    "hitpoints": 250
-  },
-  "12441": {
-    "name": "Dagannoth Supreme",
-    "hitpoints": 750
-  },
-  "12442": {
-    "name": "Dagannoth Prime",
-    "hitpoints": 750
-  },
-  "12443": {
-    "name": "Kree'arra",
-    "hitpoints": 350
-  },
-  "12444": {
-    "name": "General Graardor",
-    "hitpoints": 1000
-  },
-  "12445": {
-    "name": "Commander Zilyana",
-    "hitpoints": 500
-  },
-  "12446": {
-    "name": "K'ril Tsutsaroth",
-    "hitpoints": 1000
-  },
-  "12447": {
-    "name": "Dharok the Wretched",
-    "hitpoints": 200
-  },
-  "12448": {
-    "name": "Porazdir",
-    "hitpoints": 320
-  },
-  "12449": {
-    "name": "Justiciar Zachariah",
-    "hitpoints": 320
-  },
-  "12450": {
-    "name": "Derwen",
-    "hitpoints": 320
-  },
-  "12451": {
-    "name": "Greater abyssal demon",
-    "hitpoints": 750
-  },
-  "12452": {
-    "name": "Giant goblin",
-    "hitpoints": 750
-  },
-  "12453": {
-    "name": "Flaming pyrelord",
-    "hitpoints": 750
-  },
   "12454": {
     "name": "Cave abomination",
     "hitpoints": 750
   },
-  "12455": {
-    "name": "Jal-ImKot",
-    "hitpoints": 750
-  },
-  "12456": {
-    "name": "Malevolent Mage",
-    "hitpoints": 500
-  },
-  "12457": {
-    "name": "Vitreous warped Jelly",
-    "hitpoints": 500
-  },
   "12458": {
     "name": "Sulphur Lizard",
-    "hitpoints": 500
-  },
-  "12459": {
-    "name": "Night beast",
     "hitpoints": 500
   },
   "12460": {
@@ -13503,46 +13427,6 @@
     "name": "Sulphur Nagua",
     "hitpoints": 100
   },
-  "13100": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13101": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13102": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13103": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13104": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13105": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13106": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13107": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13108": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
-  "13109": {
-    "name": "Guard",
-    "hitpoints": 22
-  },
   "13114": {
     "name": "Knight of Varlamore",
     "hitpoints": 52
@@ -13570,6 +13454,10 @@
   "13139": {
     "name": "Embertailed jerboa",
     "hitpoints": 2
+  },
+  "13282": {
+    "name": "Mugger",
+    "hitpoints": 8
   },
   "13283": {
     "name": "Bandit",
@@ -13876,54 +13764,62 @@
     "hitpoints": 120
   },
   "13732": {
-    "name": "Emissary acolyte",
+    "name": "Emissary Acolyte (Monster)",
     "hitpoints": 25
   },
   "13733": {
-    "name": "Emissary acolyte",
+    "name": "Emissary Acolyte (Monster)",
     "hitpoints": 25
   },
   "13734": {
-    "name": "Emissary acolyte",
+    "name": "Emissary Acolyte (Monster)",
     "hitpoints": 25
   },
   "13735": {
-    "name": "Emissary acolyte",
+    "name": "Emissary Acolyte (Monster)",
     "hitpoints": 25
   },
   "13736": {
-    "name": "Emissary acolyte",
+    "name": "Emissary Acolyte (Monster)",
     "hitpoints": 25
   },
   "13737": {
-    "name": "Emissary acolyte",
+    "name": "Emissary Acolyte (Monster)",
     "hitpoints": 25
   },
   "13738": {
-    "name": "Emissary chosen",
+    "name": "Emissary Chosen",
     "hitpoints": 50
   },
   "13739": {
-    "name": "Emissary chosen",
+    "name": "Emissary Chosen",
     "hitpoints": 50
   },
   "13740": {
-    "name": "Emissary chosen",
+    "name": "Emissary Chosen",
     "hitpoints": 50
   },
   "13741": {
-    "name": "Emissary chosen",
+    "name": "Emissary Chosen",
     "hitpoints": 50
   },
   "13742": {
-    "name": "Emissary chosen",
+    "name": "Emissary Chosen",
     "hitpoints": 50
   },
   "13743": {
-    "name": "Emissary chosen",
+    "name": "Emissary Chosen",
     "hitpoints": 50
   },
   "13744": {
+    "name": "Emissary Ascended",
+    "hitpoints": 80
+  },
+  "13745": {
+    "name": "Emissary Ascended",
+    "hitpoints": 80
+  },
+  "13746": {
     "name": "Emissary Ascended",
     "hitpoints": 80
   },
@@ -13931,9 +13827,49 @@
     "name": "Emissary Ascended",
     "hitpoints": 80
   },
+  "13748": {
+    "name": "Emissary Ascended",
+    "hitpoints": 80
+  },
   "13749": {
     "name": "Emissary Ascended",
     "hitpoints": 80
+  },
+  "13750": {
+    "name": "Emissary Ascended",
+    "hitpoints": 80
+  },
+  "13773": {
+    "name": "Emissary Brawler",
+    "hitpoints": 35
+  },
+  "13774": {
+    "name": "Emissary Brawler",
+    "hitpoints": 35
+  },
+  "13775": {
+    "name": "Emissary Brawler",
+    "hitpoints": 55
+  },
+  "13776": {
+    "name": "Emissary Brawler",
+    "hitpoints": 55
+  },
+  "13777": {
+    "name": "Emissary Conjurer",
+    "hitpoints": 40
+  },
+  "13778": {
+    "name": "Emissary Conjurer",
+    "hitpoints": 40
+  },
+  "13784": {
+    "name": "Prince Itzla Arkan",
+    "hitpoints": 250
+  },
+  "13785": {
+    "name": "Prince Itzla Arkan",
+    "hitpoints": 250
   },
   "13787": {
     "name": "Frost Nagua",
@@ -13947,9 +13883,57 @@
     "name": "Frost crab",
     "hitpoints": 60
   },
+  "13790": {
+    "name": "Ice block",
+    "hitpoints": 60
+  },
   "13791": {
     "name": "Frost crab",
     "hitpoints": 60
+  },
+  "13792": {
+    "name": "Ice block",
+    "hitpoints": 60
+  },
+  "13793": {
+    "name": "Blue dragon",
+    "hitpoints": 105
+  },
+  "13794": {
+    "name": "Baby blue dragon",
+    "hitpoints": 50
+  },
+  "13795": {
+    "name": "Brutal blue dragon",
+    "hitpoints": 245
+  },
+  "13796": {
+    "name": "Ice giant",
+    "hitpoints": 70
+  },
+  "13797": {
+    "name": "Ice giant",
+    "hitpoints": 70
+  },
+  "13798": {
+    "name": "Ice spider",
+    "hitpoints": 65
+  },
+  "13799": {
+    "name": "Chilled jelly",
+    "hitpoints": 140
+  },
+  "13800": {
+    "name": "Cave crawler",
+    "hitpoints": 22
+  },
+  "13801": {
+    "name": "Cave crawler",
+    "hitpoints": 22
+  },
+  "13802": {
+    "name": "Ice warrior",
+    "hitpoints": 59
   },
   "13812": {
     "name": "Dire Wolf Alpha",
@@ -13967,11 +13951,19 @@
     "name": "Minotaur",
     "hitpoints": 240
   },
+  "13824": {
+    "name": "Adala",
+    "hitpoints": 60
+  },
   "13968": {
     "name": "Porcupine",
     "hitpoints": 5
   },
   "14009": {
+    "name": "The Hueycoatl",
+    "hitpoints": 2500
+  },
+  "14010": {
     "name": "The Hueycoatl",
     "hitpoints": 2500
   },
@@ -13983,12 +13975,24 @@
     "name": "The Hueycoatl",
     "hitpoints": 2500
   },
+  "14013": {
+    "name": "The Hueycoatl",
+    "hitpoints": 2500
+  },
   "14014": {
     "name": "Hueycoatl tail",
-    "hitpoints": 400
+    "hitpoints": 2500
+  },
+  "14015": {
+    "name": "Hueycoatl tail (broken)",
+    "hitpoints": 2500
   },
   "14017": {
     "name": "Hueycoatl body",
     "hitpoints": 250
+  },
+  "14031": {
+    "name": "Chasm Crawler",
+    "hitpoints": 60
   }
 }
