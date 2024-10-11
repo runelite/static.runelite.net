@@ -12956,6 +12956,10 @@
     "weight": 1.0,
     "ge_limit": 13000
   },
+  "3256": {
+    "name": "Lava scale shard",
+    "ge_limit": 11000
+  },
   "3261": {
     "name": "Goutweed",
     "weight": 0.007
@@ -20852,7 +20856,7 @@
   "5374": {
     "name": "Magic sapling",
     "weight": 0.907,
-    "ge_limit": 100
+    "ge_limit": 200
   },
   "5375": {
     "name": "Spirit sapling",
@@ -82633,6 +82637,10 @@
     "name": "Forester's ration",
     "ge_limit": 6000
   },
+  "28161": {
+    "name": "Secateurs attachment",
+    "ge_limit": 10000
+  },
   "28163": {
     "name": "Clothes pouch",
     "weight": 1.0
@@ -85182,6 +85190,10 @@
   "28976": {
     "name": "Stolen amulet",
     "weight": 0.007
+  },
+  "28977": {
+    "name": "Knight of varlamore",
+    "weight": 0.001
   },
   "28978": {
     "name": "Smooth leaf",
@@ -88105,6 +88117,10 @@
     "name": "Completed note",
     "weight": 0.015
   },
+  "29884": {
+    "name": "Bandages",
+    "weight": 5.0
+  },
   "29885": {
     "name": "Icon",
     "weight": 0.02
@@ -88141,6 +88157,7 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
+      "amagic": 2,
       "dmagic": 3,
       "prayer": 2
     }
@@ -88151,9 +88168,14 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
+      "amagic": 2,
       "dmagic": 3,
       "prayer": 2
     }
+  },
+  "29897": {
+    "name": "Icon",
+    "weight": 0.02
   },
   "29898": {
     "name": "Test kebab",
@@ -88187,43 +88209,62 @@
     "name": "Prop sword",
     "weight": 0.2,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "29912": {
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   },
   "29913": {
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   },
   "29914": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29915": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29916": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29918": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29920": {
     "name": "Costume needle",
@@ -88255,45 +88296,85 @@
   },
   "29929": {
     "name": "Ram mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29930": {
     "name": "Wolf mask",
     "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    },
     "ge_limit": 4
   },
   "29931": {
     "name": "Bird mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29932": {
     "name": "Jaguar mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29933": {
     "name": "Snake mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29934": {
     "name": "Ram mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29936": {
     "name": "Wolf mask",
     "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    },
     "ge_limit": 4
   },
   "29938": {
     "name": "Bird mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29940": {
     "name": "Jaguar mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29942": {
     "name": "Snake mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29944": {
     "name": "Blackbird red",
@@ -88349,59 +88430,83 @@
   },
   "29974": {
     "name": "Prescription goggles",
-    "weight": 1.02
+    "weight": 1.02,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29976": {
     "name": "Prescription goggles",
-    "weight": 1.02
+    "weight": 1.02,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29978": {
     "name": "Alchemist labcoat",
     "weight": 0.62,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29980": {
     "name": "Alchemist labcoat",
     "weight": 0.62,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29982": {
     "name": "Alchemist pants",
     "weight": 0.71,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29984": {
     "name": "Alchemist pants",
     "weight": 0.71,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29986": {
     "name": "Alchemist gloves",
     "weight": 0.09,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 9
+    }
   },
   "29988": {
     "name": "Alchemist's amulet",
     "weight": 0.007,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 2
+    }
   },
   "29990": {
     "name": "Alchemist's amulet",
     "weight": 0.007,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 2
+    }
   },
   "29992": {
     "name": "Alchemist's amulet",
     "weight": 0.007,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 2
+    }
   },
   "29993": {
     "name": "Aldarium",
@@ -88416,11 +88521,11 @@
     "weight": 2.0
   },
   "30000": {
-    "name": "Pre-pot device",
+    "name": "Chugging barrel",
     "weight": 0.453
   },
-  "30001": {
-    "name": "Pre-pot device (disassembled)",
+  "30002": {
+    "name": "Chugging barrel (disassembled)",
     "weight": 0.453
   },
   "30005": {
@@ -88537,71 +88642,99 @@
   },
   "30045": {
     "name": "Graceful hood",
-    "weight": 0.6
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "30047": {
     "name": "Graceful hood",
-    "weight": -3.0
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "30048": {
     "name": "Graceful cape",
     "weight": 0.8,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1
+    }
   },
   "30050": {
     "name": "Graceful cape",
     "weight": -4.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1
+    }
   },
   "30051": {
     "name": "Graceful top",
     "weight": 0.9,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "30053": {
     "name": "Graceful top",
     "weight": -5.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "30054": {
     "name": "Graceful legs",
     "weight": 0.9,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "30056": {
     "name": "Graceful legs",
     "weight": -6.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "30057": {
     "name": "Graceful gloves",
     "weight": 0.1,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 9
+    }
   },
   "30059": {
     "name": "Graceful gloves",
     "weight": -3.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 9
+    }
   },
   "30060": {
     "name": "Graceful boots",
     "weight": 0.4,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 10
+    }
   },
   "30062": {
     "name": "Graceful boots",
     "weight": -4.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 10
+    }
   },
   "30064": {
     "name": "Tome of earth",
@@ -88706,6 +88839,10 @@
     "name": "Hueycoatl hide",
     "weight": 3.175
   },
+  "30088": {
+    "name": "Huasca seed",
+    "ge_limit": 200
+  },
   "30094": {
     "name": "Grimy huasca",
     "weight": 0.007
@@ -88738,7 +88875,18 @@
   },
   "30111": {
     "name": "Helmet of the moon",
-    "weight": 0.35
+    "weight": 0.35,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "dstab": 6,
+      "dslash": 7,
+      "dcrush": 5,
+      "dmagic": 3,
+      "drange": 6,
+      "prayer": 3
+    }
   },
   "30113": {
     "name": "Nasty token",
@@ -88836,12 +88984,20 @@
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   },
   "30157": {
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   }
 }
