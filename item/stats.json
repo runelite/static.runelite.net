@@ -12956,6 +12956,10 @@
     "weight": 1.0,
     "ge_limit": 13000
   },
+  "3256": {
+    "name": "Lava scale shard",
+    "ge_limit": 11000
+  },
   "3261": {
     "name": "Goutweed",
     "weight": 0.007
@@ -20852,7 +20856,7 @@
   "5374": {
     "name": "Magic sapling",
     "weight": 0.907,
-    "ge_limit": 100
+    "ge_limit": 200
   },
   "5375": {
     "name": "Spirit sapling",
@@ -82633,6 +82637,10 @@
     "name": "Forester's ration",
     "ge_limit": 6000
   },
+  "28161": {
+    "name": "Secateurs attachment",
+    "ge_limit": 10000
+  },
   "28163": {
     "name": "Clothes pouch",
     "weight": 1.0
@@ -84703,9 +84711,7 @@
   },
   "28813": {
     "name": "Broken zombie axe",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {}
+    "weight": 2.721
   },
   "28820": {
     "name": "Antique lamp",
@@ -85182,6 +85188,10 @@
   "28976": {
     "name": "Stolen amulet",
     "weight": 0.007
+  },
+  "28977": {
+    "name": "Knight of varlamore",
+    "weight": 0.001
   },
   "28978": {
     "name": "Smooth leaf",
@@ -88105,6 +88115,10 @@
     "name": "Completed note",
     "weight": 0.015
   },
+  "29884": {
+    "name": "Bandages",
+    "weight": 5.0
+  },
   "29885": {
     "name": "Icon",
     "weight": 0.02
@@ -88133,7 +88147,8 @@
       "str": 64,
       "prayer": 2,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29892": {
     "name": "Pendant of ates (inert)",
@@ -88141,6 +88156,7 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
+      "amagic": 2,
       "dmagic": 3,
       "prayer": 2
     }
@@ -88151,9 +88167,14 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
+      "amagic": 2,
       "dmagic": 3,
       "prayer": 2
     }
+  },
+  "29897": {
+    "name": "Icon",
+    "weight": 0.02
   },
   "29898": {
     "name": "Test kebab",
@@ -88187,43 +88208,62 @@
     "name": "Prop sword",
     "weight": 0.2,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
   },
   "29912": {
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   },
   "29913": {
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   },
   "29914": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29915": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29916": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29918": {
     "name": "Butler's uniform",
     "weight": 0.6,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29920": {
     "name": "Costume needle",
@@ -88255,45 +88295,85 @@
   },
   "29929": {
     "name": "Ram mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29930": {
     "name": "Wolf mask",
     "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    },
     "ge_limit": 4
   },
   "29931": {
     "name": "Bird mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29932": {
     "name": "Jaguar mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29933": {
     "name": "Snake mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29934": {
     "name": "Ram mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29936": {
     "name": "Wolf mask",
     "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    },
     "ge_limit": 4
   },
   "29938": {
     "name": "Bird mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29940": {
     "name": "Jaguar mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29942": {
     "name": "Snake mask",
-    "weight": 0.1
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29944": {
     "name": "Blackbird red",
@@ -88349,59 +88429,83 @@
   },
   "29974": {
     "name": "Prescription goggles",
-    "weight": 1.02
+    "weight": 1.02,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29976": {
     "name": "Prescription goggles",
-    "weight": 1.02
+    "weight": 1.02,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "29978": {
     "name": "Alchemist labcoat",
     "weight": 0.62,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29980": {
     "name": "Alchemist labcoat",
     "weight": 0.62,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "29982": {
     "name": "Alchemist pants",
     "weight": 0.71,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29984": {
     "name": "Alchemist pants",
     "weight": 0.71,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "29986": {
     "name": "Alchemist gloves",
     "weight": 0.09,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 9
+    }
   },
   "29988": {
     "name": "Alchemist's amulet",
     "weight": 0.007,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 2
+    }
   },
   "29990": {
     "name": "Alchemist's amulet",
     "weight": 0.007,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 2
+    }
   },
   "29992": {
     "name": "Alchemist's amulet",
     "weight": 0.007,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 2
+    }
   },
   "29993": {
     "name": "Aldarium",
@@ -88416,11 +88520,11 @@
     "weight": 2.0
   },
   "30000": {
-    "name": "Pre-pot device",
+    "name": "Chugging barrel",
     "weight": 0.453
   },
-  "30001": {
-    "name": "Pre-pot device (disassembled)",
+  "30002": {
+    "name": "Chugging barrel (disassembled)",
     "weight": 0.453
   },
   "30005": {
@@ -88537,71 +88641,99 @@
   },
   "30045": {
     "name": "Graceful hood",
-    "weight": 0.6
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "30047": {
     "name": "Graceful hood",
-    "weight": -3.0
+    "weight": -3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   },
   "30048": {
     "name": "Graceful cape",
     "weight": 0.8,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1
+    }
   },
   "30050": {
     "name": "Graceful cape",
     "weight": -4.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 1
+    }
   },
   "30051": {
     "name": "Graceful top",
     "weight": 0.9,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "30053": {
     "name": "Graceful top",
     "weight": -5.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 4
+    }
   },
   "30054": {
     "name": "Graceful legs",
     "weight": 0.9,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "30056": {
     "name": "Graceful legs",
     "weight": -6.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 7
+    }
   },
   "30057": {
     "name": "Graceful gloves",
     "weight": 0.1,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 9
+    }
   },
   "30059": {
     "name": "Graceful gloves",
     "weight": -3.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 9
+    }
   },
   "30060": {
     "name": "Graceful boots",
     "weight": 0.4,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 10
+    }
   },
   "30062": {
     "name": "Graceful boots",
     "weight": -4.0,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 10
+    }
   },
   "30064": {
     "name": "Tome of earth",
@@ -88706,6 +88838,10 @@
     "name": "Hueycoatl hide",
     "weight": 3.175
   },
+  "30088": {
+    "name": "Huasca seed",
+    "ge_limit": 200
+  },
   "30094": {
     "name": "Grimy huasca",
     "weight": 0.007
@@ -88738,7 +88874,18 @@
   },
   "30111": {
     "name": "Helmet of the moon",
-    "weight": 0.35
+    "weight": 0.35,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "dstab": 6,
+      "dslash": 7,
+      "dcrush": 5,
+      "dmagic": 3,
+      "drange": 6,
+      "prayer": 3
+    }
   },
   "30113": {
     "name": "Nasty token",
@@ -88836,12 +88983,824 @@
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
   },
   "30157": {
     "name": "Butler's tray",
     "weight": 0.05,
     "equipable": true,
-    "equipment": {}
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "30160": {
+    "name": "Picture map",
+    "weight": 0.5
+  },
+  "30161": {
+    "name": "Seed packets",
+    "weight": 0.01
+  },
+  "30162": {
+    "name": "Beige pumpkin",
+    "weight": 0.5
+  },
+  "30163": {
+    "name": "White pumpkin",
+    "weight": 0.5
+  },
+  "30164": {
+    "name": "Yellow pumpkin",
+    "weight": 0.5
+  },
+  "30165": {
+    "name": "Orange pumpkin",
+    "weight": 0.5
+  },
+  "30166": {
+    "name": "Red pumpkin",
+    "weight": 0.5
+  },
+  "30167": {
+    "name": "Dark green pumpkin",
+    "weight": 0.5
+  },
+  "30168": {
+    "name": "Powder grey pumpkin",
+    "weight": 0.5
+  },
+  "30169": {
+    "name": "Beige pumpkin (disgusted)",
+    "weight": 0.5
+  },
+  "30170": {
+    "name": "Beige pumpkin (silly)",
+    "weight": 0.5
+  },
+  "30171": {
+    "name": "Beige pumpkin (evil)",
+    "weight": 0.5
+  },
+  "30172": {
+    "name": "Beige pumpkin (angry)",
+    "weight": 0.5
+  },
+  "30173": {
+    "name": "Beige pumpkin (depressed)",
+    "weight": 0.5
+  },
+  "30174": {
+    "name": "Beige pumpkin (shocked)",
+    "weight": 0.5
+  },
+  "30175": {
+    "name": "Beige pumpkin (sad)",
+    "weight": 0.5
+  },
+  "30176": {
+    "name": "Beige pumpkin (happy)",
+    "weight": 0.5
+  },
+  "30177": {
+    "name": "Beige pumpkin (laughing)",
+    "weight": 0.5
+  },
+  "30178": {
+    "name": "White pumpkin (disgusted)",
+    "weight": 0.5
+  },
+  "30179": {
+    "name": "White pumpkin (silly)",
+    "weight": 0.5
+  },
+  "30180": {
+    "name": "White pumpkin (evil)",
+    "weight": 0.5
+  },
+  "30181": {
+    "name": "White pumpkin (angry)",
+    "weight": 0.5
+  },
+  "30182": {
+    "name": "White pumpkin (depressed)",
+    "weight": 0.5
+  },
+  "30183": {
+    "name": "White pumpkin (shocked)",
+    "weight": 0.5
+  },
+  "30184": {
+    "name": "White pumpkin (sad)",
+    "weight": 0.5
+  },
+  "30185": {
+    "name": "White pumpkin (happy)",
+    "weight": 0.5
+  },
+  "30186": {
+    "name": "White pumpkin (laughing)",
+    "weight": 0.5
+  },
+  "30187": {
+    "name": "Yellow pumpkin (disgusted)",
+    "weight": 0.5
+  },
+  "30188": {
+    "name": "Yellow pumpkin (silly)",
+    "weight": 0.5
+  },
+  "30189": {
+    "name": "Yellow pumpkin (evil)",
+    "weight": 0.5
+  },
+  "30190": {
+    "name": "Yellow pumpkin (angry)",
+    "weight": 0.5
+  },
+  "30191": {
+    "name": "Yellow pumpkin (depressed)",
+    "weight": 0.5
+  },
+  "30192": {
+    "name": "Yellow pumpkin (shocked)",
+    "weight": 0.5
+  },
+  "30193": {
+    "name": "Yellow pumpkin (sad)",
+    "weight": 0.5
+  },
+  "30194": {
+    "name": "Yellow pumpkin (happy)",
+    "weight": 0.5
+  },
+  "30195": {
+    "name": "Yellow pumpkin (laughing)",
+    "weight": 0.5
+  },
+  "30196": {
+    "name": "Orange pumpkin (disgusted)",
+    "weight": 0.5
+  },
+  "30197": {
+    "name": "Orange pumpkin (silly)",
+    "weight": 0.5
+  },
+  "30198": {
+    "name": "Orange pumpkin (evil)",
+    "weight": 0.5
+  },
+  "30199": {
+    "name": "Orange pumpkin (angry)",
+    "weight": 0.5
+  },
+  "30200": {
+    "name": "Orange pumpkin (depressed)",
+    "weight": 0.5
+  },
+  "30201": {
+    "name": "Orange pumpkin (shocked)",
+    "weight": 0.5
+  },
+  "30202": {
+    "name": "Orange pumpkin (sad)",
+    "weight": 0.5
+  },
+  "30203": {
+    "name": "Orange pumpkin (happy)",
+    "weight": 0.5
+  },
+  "30204": {
+    "name": "Orange pumpkin (laughing)",
+    "weight": 0.5
+  },
+  "30205": {
+    "name": "Red pumpkin (disgusted)",
+    "weight": 0.5
+  },
+  "30206": {
+    "name": "Red pumpkin (silly)",
+    "weight": 0.5
+  },
+  "30207": {
+    "name": "Red pumpkin (evil)",
+    "weight": 0.5
+  },
+  "30208": {
+    "name": "Red pumpkin (angry)",
+    "weight": 0.5
+  },
+  "30209": {
+    "name": "Red pumpkin (depressed)",
+    "weight": 0.5
+  },
+  "30210": {
+    "name": "Red pumpkin (shocked)",
+    "weight": 0.5
+  },
+  "30211": {
+    "name": "Red pumpkin (sad)",
+    "weight": 0.5
+  },
+  "30212": {
+    "name": "Red pumpkin (happy)",
+    "weight": 0.5
+  },
+  "30213": {
+    "name": "Red pumpkin (laughing)",
+    "weight": 0.5
+  },
+  "30214": {
+    "name": "Dark green pumpkin (disgusted)",
+    "weight": 0.5
+  },
+  "30215": {
+    "name": "Dark green pumpkin (silly)",
+    "weight": 0.5
+  },
+  "30216": {
+    "name": "Dark green pumpkin (evil)",
+    "weight": 0.5
+  },
+  "30217": {
+    "name": "Dark green pumpkin (angry)",
+    "weight": 0.5
+  },
+  "30218": {
+    "name": "Dark green pumpkin (depressed)",
+    "weight": 0.5
+  },
+  "30219": {
+    "name": "Dark green pumpkin (shocked)",
+    "weight": 0.5
+  },
+  "30220": {
+    "name": "Dark green pumpkin (sad)",
+    "weight": 0.5
+  },
+  "30221": {
+    "name": "Dark green pumpkin (happy)",
+    "weight": 0.5
+  },
+  "30222": {
+    "name": "Dark green pumpkin (laughing)",
+    "weight": 0.5
+  },
+  "30223": {
+    "name": "Powder grey pumpkin (disgusted)",
+    "weight": 0.5
+  },
+  "30224": {
+    "name": "Powder grey pumpkin (silly)",
+    "weight": 0.5
+  },
+  "30225": {
+    "name": "Powder grey pumpkin (evil)",
+    "weight": 0.5
+  },
+  "30226": {
+    "name": "Powder grey pumpkin (angry)",
+    "weight": 0.5
+  },
+  "30227": {
+    "name": "Powder grey pumpkin (depressed)",
+    "weight": 0.5
+  },
+  "30228": {
+    "name": "Powder grey pumpkin (shocked)",
+    "weight": 0.5
+  },
+  "30229": {
+    "name": "Powder grey pumpkin (sad)",
+    "weight": 0.5
+  },
+  "30230": {
+    "name": "Powder grey pumpkin (happy)",
+    "weight": 0.5
+  },
+  "30231": {
+    "name": "Powder grey pumpkin (laughing)",
+    "weight": 0.5
+  },
+  "30232": {
+    "name": "Scarecrow shirt",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30234": {
+    "name": "Halloween scarecrow",
+    "weight": 10.0
+  },
+  "30237": {
+    "name": "Beige pumpkin (disgusted)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30239": {
+    "name": "Beige pumpkin (silly)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30241": {
+    "name": "Beige pumpkin (evil)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30242": {
+    "name": "Beige pumpkin (angry)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30243": {
+    "name": "Beige pumpkin (depressed)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30244": {
+    "name": "Beige pumpkin (shocked)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30245": {
+    "name": "Beige pumpkin (sad)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30246": {
+    "name": "Beige pumpkin (happy)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30247": {
+    "name": "Beige pumpkin (laughing)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30248": {
+    "name": "White pumpkin (disgusted)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30249": {
+    "name": "White pumpkin (silly)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30250": {
+    "name": "White pumpkin (evil)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30251": {
+    "name": "White pumpkin (angry)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30252": {
+    "name": "White pumpkin (depressed)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30253": {
+    "name": "White pumpkin (shocked)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30254": {
+    "name": "White pumpkin (sad)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30255": {
+    "name": "White pumpkin (happy)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30256": {
+    "name": "White pumpkin (laughing)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30257": {
+    "name": "Yellow pumpkin (disgusted)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30258": {
+    "name": "Yellow pumpkin (silly)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30259": {
+    "name": "Yellow pumpkin (evil)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30260": {
+    "name": "Yellow pumpkin (angry)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30261": {
+    "name": "Yellow pumpkin (depressed)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30262": {
+    "name": "Yellow pumpkin (shocked)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30263": {
+    "name": "Yellow pumpkin (sad)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30264": {
+    "name": "Yellow pumpkin (happy)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30265": {
+    "name": "Yellow pumpkin (laughing)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30266": {
+    "name": "Orange pumpkin (disgusted)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30267": {
+    "name": "Orange pumpkin (silly)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30268": {
+    "name": "Orange pumpkin (evil)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30269": {
+    "name": "Orange pumpkin (angry)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30270": {
+    "name": "Orange pumpkin (depressed)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30271": {
+    "name": "Orange pumpkin (shocked)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30272": {
+    "name": "Orange pumpkin (sad)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30273": {
+    "name": "Orange pumpkin (happy)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30274": {
+    "name": "Orange pumpkin (laughing)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30275": {
+    "name": "Red pumpkin (disgusted)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30276": {
+    "name": "Red pumpkin (silly)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30277": {
+    "name": "Red pumpkin (evil)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30278": {
+    "name": "Red pumpkin (angry)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30279": {
+    "name": "Red pumpkin (depressed)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30280": {
+    "name": "Red pumpkin (shocked)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30281": {
+    "name": "Red pumpkin (sad)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30282": {
+    "name": "Red pumpkin (happy)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30283": {
+    "name": "Red pumpkin (laughing)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30284": {
+    "name": "Dark green pumpkin (disgusted)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30285": {
+    "name": "Dark green pumpkin (silly)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30286": {
+    "name": "Dark green pumpkin (evil)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30287": {
+    "name": "Dark green pumpkin (angry)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30288": {
+    "name": "Dark green pumpkin (depressed)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30289": {
+    "name": "Dark green pumpkin (shocked)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30290": {
+    "name": "Dark green pumpkin (sad)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30291": {
+    "name": "Dark green pumpkin (happy)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30292": {
+    "name": "Dark green pumpkin (laughing)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30293": {
+    "name": "Powder grey pumpkin (disgusted)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30294": {
+    "name": "Powder grey pumpkin (silly)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30295": {
+    "name": "Powder grey pumpkin (evil)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30296": {
+    "name": "Powder grey pumpkin (angry)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30297": {
+    "name": "Powder grey pumpkin (depressed)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30298": {
+    "name": "Powder grey pumpkin (shocked)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30299": {
+    "name": "Powder grey pumpkin (sad)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30300": {
+    "name": "Powder grey pumpkin (happy)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30301": {
+    "name": "Powder grey pumpkin (laughing)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   }
 }
