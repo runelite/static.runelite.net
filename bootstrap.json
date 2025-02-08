@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.10.48.jar",
-                    "fromHash": "f21a855ccb6ba3daa00b089d9ff9d09ced8cf778cf3c01b290faa5d872044ee6",
-                    "hash": "9f6ba14cd6ee5b4ac13ee3f7315dd4458e409f67be834b9f2e3752fd9c7c394e",
-                    "name": "client-1.10.49.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.48.jar-client-1.10.49.jar.apdiff.gz.jar",
-                    "size": 54392
+                    "from": "client-1.10.49.jar",
+                    "fromHash": "fc4836cb8d799766aae1f0e443db52aaec6cdbbb735323d897d845b379b4a00c",
+                    "hash": "8b6ac1c725438678f21b3e31dcbad381ac5e217d7df3514249bb1ce243f2f12b",
+                    "name": "client-1.10.50.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.10.49.jar-client-1.10.50.jar.apdiff.gz.jar",
+                    "size": 69042
                 }
             ],
-            "hash": "fc4836cb8d799766aae1f0e443db52aaec6cdbbb735323d897d845b379b4a00c",
-            "name": "client-1.10.49.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.49/client-1.10.49.jar",
-            "size": 6737307
+            "hash": "3629b5bc0cb8faf9514a2e496e903420a2a872cc17e968af733819d01761b1c9",
+            "name": "client-1.10.50.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.10.50/client-1.10.50.jar",
+            "size": 6743617
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -275,10 +275,10 @@
             "size": 238152
         },
         {
-            "hash": "edc5dcafe27c07b37803f70fdb987c7f85a9d601d894d510e771c4f6b1b5cf1d",
-            "name": "injected-client-1.10.49.jar",
-            "path": "https://repo.runelite.net/net/runelite/injected-client/1.10.49/injected-client-1.10.49.jar",
-            "size": 3664369
+            "hash": "0cabc1e09a88ea8a444bd77c6156d87cf62e20a3cf8ea570f521288dd779457a",
+            "name": "injected-client-1.10.50.jar",
+            "path": "https://repo.runelite.net/net/runelite/injected-client/1.10.50/injected-client-1.10.50.jar",
+            "size": 3664559
         },
         {
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a",
@@ -313,18 +313,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.10.48-runtime.jar",
-                    "fromHash": "2af17391bf60ef3ea7b303227ea120a45889f58a76781e2288be5bcfec1358ca",
-                    "hash": "c5bfd90e2aced99837b98e5ed835576cb6527634a0724c08c2ddd699a5abcc08",
-                    "name": "runelite-api-1.10.49-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.48-runtime.jar-runelite-api-1.10.49-runtime.jar.apdiff.gz.jar",
-                    "size": 1338
+                    "from": "runelite-api-1.10.49-runtime.jar",
+                    "fromHash": "c9a3a2ac97b24c2c14a92bd427e2a23d9e19337d3b694977e60e5638bdf70f15",
+                    "hash": "b8e99453b6e89020723fd16fc1857758888784339f1b4b2b52dee53136869a25",
+                    "name": "runelite-api-1.10.50-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.49-runtime.jar-runelite-api-1.10.50-runtime.jar.apdiff.gz.jar",
+                    "size": 447
                 }
             ],
-            "hash": "c9a3a2ac97b24c2c14a92bd427e2a23d9e19337d3b694977e60e5638bdf70f15",
-            "name": "runelite-api-1.10.49-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.49/runelite-api-1.10.49-runtime.jar",
-            "size": 261563
+            "hash": "e33b3454ca4e46555a42a610379778808877ee0207fce3fab1bea4222b39a1df",
+            "name": "runelite-api-1.10.50-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.50/runelite-api-1.10.50-runtime.jar",
+            "size": 261564
         }
     ],
     "clientJvm17Arguments": [
@@ -417,5 +417,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.10.49"
+    "version": "1.10.50"
 }
