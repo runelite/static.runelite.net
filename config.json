@@ -24,6 +24,8 @@
   },
   "compilerControl": [{
     "match": ["gx::ah", "gx::ko"],
-    "exclude": true
+    "c2": {
+      "exclude": true
+    }
   }]
 }
