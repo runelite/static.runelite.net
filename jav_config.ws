@@ -68,5 +68,5 @@ param=7=0
 param=18=
 param=21=0
 param=15=0
-runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/228/vanilla-228.jar
+runelite.gamepack=https://cf.sigterm.info/runelite/gamepack-228.jar
 runelite.worldparam=12
