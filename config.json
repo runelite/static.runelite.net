@@ -21,11 +21,5 @@
   ],
   "props": {
     "cachev2": true
-  },
-  "compilerControl": [{
-    "match": ["gx::ah", "gx::ko"],
-    "c2": {
-      "exclude": true
-    }
-  }]
+  }
 }
