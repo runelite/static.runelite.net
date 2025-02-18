@@ -18,8 +18,5 @@
   "updateRollout": 1.0,
   "outdatedClientVersions": [
     "1.10.48"
-  ],
-  "props": {
-    "cachev2": true
-  }
+  ]
 }
