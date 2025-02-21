@@ -67,19 +67,7 @@
     "name": "Zombie",
     "hitpoints": 22
   },
-  "33": {
-    "name": "Zombie",
-    "hitpoints": 22
-  },
   "34": {
-    "name": "Zombie",
-    "hitpoints": 22
-  },
-  "35": {
-    "name": "Zombie",
-    "hitpoints": 22
-  },
-  "36": {
     "name": "Zombie",
     "hitpoints": 22
   },
@@ -144,10 +132,6 @@
     "hitpoints": 30
   },
   "52": {
-    "name": "Zombie",
-    "hitpoints": 30
-  },
-  "53": {
     "name": "Zombie",
     "hitpoints": 30
   },
@@ -9313,11 +9297,11 @@
   },
   "6898": {
     "name": "Gangster",
-    "hitpoints": 50
+    "hitpoints": 45
   },
   "6899": {
     "name": "Gangster",
-    "hitpoints": 50
+    "hitpoints": 30
   },
   "6900": {
     "name": "Gang boss",
@@ -12995,9 +12979,17 @@
     "name": "Scarred hellhound",
     "hitpoints": 25
   },
+  "12385": {
+    "name": "Black demon",
+    "hitpoints": 157
+  },
   "12386": {
     "name": "Scarred black demon",
     "hitpoints": 157
+  },
+  "12387": {
+    "name": "Greater demon",
+    "hitpoints": 87
   },
   "12388": {
     "name": "Scarred greater demon",
@@ -13166,6 +13158,10 @@
   "12574": {
     "name": "Bloodthirsty Repugnant spectre",
     "hitpoints": 380
+  },
+  "12596": {
+    "name": "Branda the Fire Queen",
+    "hitpoints": 600
   },
   "12720": {
     "name": "Armoured zombie",
@@ -14154,5 +14150,17 @@
   "14137": {
     "name": "Weaponsmaster",
     "hitpoints": 20
+  },
+  "14147": {
+    "name": "Eldric the Ice King",
+    "hitpoints": 600
+  },
+  "14150": {
+    "name": "Fire elemental",
+    "hitpoints": 40
+  },
+  "14151": {
+    "name": "Ice elemental",
+    "hitpoints": 40
   }
 }

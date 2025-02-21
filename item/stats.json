@@ -13950,10 +13950,6 @@
     "name": "Clue scroll (hard)",
     "weight": 0.02
   },
-  "3550": {
-    "name": "Clue scroll (master)",
-    "weight": 0.02
-  },
   "3552": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
@@ -62170,7 +62166,11 @@
   },
   "22711": {
     "name": "Collection log",
-    "weight": 0.51
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
   },
   "22713": {
     "name": "Star-face",
@@ -70630,43 +70630,6 @@
     "weight": 0.1,
     "ge_limit": 6
   },
-  "25102": {
-    "name": "Fairy mushroom",
-    "weight": 0.002,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25104": {
-    "name": "Crystal of echoes",
-    "equipable": true,
-    "equipment": {}
-  },
-  "25110": {
-    "name": "Echo axe",
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 5
-    }
-  },
-  "25112": {
-    "name": "Echo pickaxe",
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 5
-    }
-  },
-  "25114": {
-    "name": "Echo harpoon",
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 5
-    }
-  },
   "25117": {
     "name": "League tomato",
     "weight": 0.08
@@ -75543,16 +75506,6 @@
     "name": "Shattered relics mystic ornament kit",
     "weight": 0.1,
     "ge_limit": 5
-  },
-  "26551": {
-    "name": "Arcane grimoire",
-    "weight": 0.3,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": 6,
-      "prayer": 3
-    }
   },
   "26554": {
     "name": "Shattered relic hunter (t1) armour set",
@@ -81533,11 +81486,11 @@
       "acrush": 4,
       "amagic": -32,
       "arange": -15,
-      "dstab": 74,
-      "dslash": 81,
-      "dcrush": 89,
+      "dstab": 55,
+      "dslash": 59,
+      "dcrush": 62,
       "dmagic": -18,
-      "drange": 95,
+      "drange": 85,
       "str": 6
     }
   },
@@ -81552,11 +81505,11 @@
       "acrush": 3,
       "amagic": -30,
       "arange": -12,
-      "dstab": 55,
-      "dslash": 64,
-      "dcrush": 67,
+      "dstab": 39,
+      "dslash": 42,
+      "dcrush": 45,
       "dmagic": -15,
-      "drange": 71,
+      "drange": 59,
       "str": 3
     }
   },
@@ -81643,11 +81596,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 36,
-      "dstab": 61,
-      "dslash": 53,
-      "dcrush": 66,
+      "dstab": 35,
+      "dslash": 30,
+      "dcrush": 40,
       "dmagic": 75,
-      "drange": 62,
+      "drange": 37,
       "rstr": 6
     }
   },
@@ -81659,11 +81612,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 23,
-      "dstab": 35,
-      "dslash": 29,
-      "dcrush": 37,
+      "dstab": 18,
+      "dslash": 15,
+      "dcrush": 20,
       "dmagic": 46,
-      "drange": 35,
+      "drange": 22,
       "rstr": 6
     }
   },
@@ -81673,7 +81626,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 8,
+      "amagic": 18,
       "arange": -2,
       "dstab": 20,
       "dslash": 16,
@@ -81688,7 +81641,7 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": 35,
+      "amagic": 58,
       "arange": -10,
       "dstab": 63,
       "dslash": 45,
@@ -81703,7 +81656,7 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": 25,
+      "amagic": 46,
       "arange": -7,
       "dstab": 38,
       "dslash": 35,
@@ -81723,11 +81676,11 @@
       "acrush": 4,
       "amagic": -28,
       "arange": -14,
-      "dstab": 25,
-      "dslash": 32,
-      "dcrush": 34,
+      "dstab": 18,
+      "dslash": 21,
+      "dcrush": 23,
       "dmagic": -10,
-      "drange": 30,
+      "drange": 21,
       "str": 5
     }
   },
@@ -81742,11 +81695,11 @@
       "acrush": 3,
       "amagic": -24,
       "arange": -12,
-      "dstab": 22,
-      "dslash": 20,
-      "dcrush": 18,
+      "dstab": 14,
+      "dslash": 11,
+      "dcrush": 16,
       "dmagic": -9,
-      "drange": 22,
+      "drange": 15,
       "str": 2
     }
   },
@@ -81761,11 +81714,11 @@
       "acrush": 6,
       "amagic": -6,
       "arange": -2,
-      "dstab": 17,
-      "dslash": 20,
-      "dcrush": 14,
+      "dstab": 10,
+      "dslash": 13,
+      "dcrush": 8,
       "dmagic": -1,
-      "drange": 18,
+      "drange": 11,
       "str": 2
     }
   },
@@ -81780,11 +81733,11 @@
       "acrush": 14,
       "amagic": -30,
       "arange": -15,
-      "dstab": 50,
-      "dslash": 46,
-      "dcrush": 44,
+      "dstab": 35,
+      "dslash": 31,
+      "dcrush": 29,
       "dmagic": -12,
-      "drange": 45,
+      "drange": 33,
       "str": 4
     }
   },
@@ -81831,11 +81784,11 @@
       "slot": 4,
       "amagic": -13,
       "arange": 36,
-      "dstab": 27,
-      "dslash": 20,
-      "dcrush": 24,
+      "dstab": 14,
+      "dslash": 10,
+      "dcrush": 12,
       "dmagic": 30,
-      "drange": 28,
+      "drange": 15,
       "rstr": 4
     }
   },
@@ -81847,11 +81800,11 @@
       "slot": 7,
       "amagic": -8,
       "arange": 23,
-      "dstab": 18,
-      "dslash": 15,
-      "dcrush": 16,
+      "dstab": 9,
+      "dslash": 7,
+      "dcrush": 8,
       "dmagic": 20,
-      "drange": 19,
+      "drange": 11,
       "rstr": 4
     }
   },
@@ -81861,7 +81814,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 5,
+      "amagic": 12,
       "arange": -1,
       "dstab": 13,
       "dslash": 11,
@@ -81876,7 +81829,7 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": 25,
+      "amagic": 46,
       "arange": -8,
       "dstab": 43,
       "dslash": 39,
@@ -81891,7 +81844,7 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": 18,
+      "amagic": 32,
       "arange": -6,
       "dstab": 21,
       "dslash": 20,
@@ -82265,11 +82218,11 @@
       "acrush": 4,
       "amagic": -32,
       "arange": -15,
-      "dstab": 74,
-      "dslash": 81,
-      "dcrush": 89,
+      "dstab": 55,
+      "dslash": 59,
+      "dcrush": 62,
       "dmagic": -18,
-      "drange": 95,
+      "drange": 85,
       "str": 6
     }
   },
@@ -82284,11 +82237,11 @@
       "acrush": 3,
       "amagic": -30,
       "arange": -12,
-      "dstab": 55,
-      "dslash": 64,
-      "dcrush": 67,
+      "dstab": 39,
+      "dslash": 42,
+      "dcrush": 45,
       "dmagic": -15,
-      "drange": 71,
+      "drange": 59,
       "str": 3
     }
   },
@@ -82375,11 +82328,11 @@
       "slot": 4,
       "amagic": -15,
       "arange": 36,
-      "dstab": 61,
-      "dslash": 53,
-      "dcrush": 66,
+      "dstab": 35,
+      "dslash": 30,
+      "dcrush": 40,
       "dmagic": 75,
-      "drange": 62,
+      "drange": 37,
       "rstr": 6
     }
   },
@@ -82391,11 +82344,11 @@
       "slot": 7,
       "amagic": -10,
       "arange": 23,
-      "dstab": 35,
-      "dslash": 29,
-      "dcrush": 37,
+      "dstab": 18,
+      "dslash": 15,
+      "dcrush": 20,
       "dmagic": 46,
-      "drange": 35,
+      "drange": 22,
       "rstr": 6
     }
   },
@@ -82405,7 +82358,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 8,
+      "amagic": 18,
       "arange": -2,
       "dstab": 20,
       "dslash": 16,
@@ -82420,7 +82373,7 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": 35,
+      "amagic": 58,
       "arange": -10,
       "dstab": 63,
       "dslash": 45,
@@ -82435,7 +82388,7 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": 25,
+      "amagic": 46,
       "arange": -7,
       "dstab": 38,
       "dslash": 35,
@@ -82455,11 +82408,11 @@
       "acrush": 4,
       "amagic": -28,
       "arange": -14,
-      "dstab": 25,
-      "dslash": 32,
-      "dcrush": 34,
+      "dstab": 18,
+      "dslash": 21,
+      "dcrush": 23,
       "dmagic": -10,
-      "drange": 30,
+      "drange": 21,
       "str": 5
     }
   },
@@ -82474,11 +82427,11 @@
       "acrush": 3,
       "amagic": -24,
       "arange": -12,
-      "dstab": 22,
-      "dslash": 20,
-      "dcrush": 18,
+      "dstab": 14,
+      "dslash": 11,
+      "dcrush": 16,
       "dmagic": -9,
-      "drange": 22,
+      "drange": 15,
       "str": 2
     }
   },
@@ -82493,11 +82446,11 @@
       "acrush": 6,
       "amagic": -6,
       "arange": -2,
-      "dstab": 17,
-      "dslash": 20,
-      "dcrush": 14,
+      "dstab": 10,
+      "dslash": 13,
+      "dcrush": 8,
       "dmagic": -1,
-      "drange": 18,
+      "drange": 11,
       "str": 2
     }
   },
@@ -82512,11 +82465,11 @@
       "acrush": 14,
       "amagic": -30,
       "arange": -15,
-      "dstab": 50,
-      "dslash": 46,
-      "dcrush": 44,
+      "dstab": 35,
+      "dslash": 31,
+      "dcrush": 29,
       "dmagic": -12,
-      "drange": 45,
+      "drange": 33,
       "str": 4
     }
   },
@@ -82563,11 +82516,11 @@
       "slot": 4,
       "amagic": -13,
       "arange": 36,
-      "dstab": 27,
-      "dslash": 20,
-      "dcrush": 24,
+      "dstab": 14,
+      "dslash": 10,
+      "dcrush": 12,
       "dmagic": 30,
-      "drange": 28,
+      "drange": 15,
       "rstr": 4
     }
   },
@@ -82579,11 +82532,11 @@
       "slot": 7,
       "amagic": -8,
       "arange": 23,
-      "dstab": 18,
-      "dslash": 15,
-      "dcrush": 16,
+      "dstab": 9,
+      "dslash": 7,
+      "dcrush": 8,
       "dmagic": 20,
-      "drange": 19,
+      "drange": 11,
       "rstr": 4
     }
   },
@@ -82593,7 +82546,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 5,
+      "amagic": 12,
       "arange": -1,
       "dstab": 13,
       "dslash": 11,
@@ -82608,7 +82561,7 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": 25,
+      "amagic": 46,
       "arange": -8,
       "dstab": 43,
       "dslash": 39,
@@ -82623,7 +82576,7 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": 18,
+      "amagic": 32,
       "arange": -6,
       "dstab": 21,
       "dslash": 20,
@@ -85329,21 +85282,6 @@
       "slot": 5
     }
   },
-  "28767": {
-    "name": "Banker's note",
-    "weight": 0.001
-  },
-  "28769": {
-    "name": "Guardian horn",
-    "weight": 0.2
-  },
-  "28771": {
-    "name": "Sage's greaves",
-    "equipable": true,
-    "equipment": {
-      "slot": 10
-    }
-  },
   "28777": {
     "name": "Trailblazer reloaded relic hunter (t1) armour set",
     "weight": 0.05
@@ -87306,6 +87244,38 @@
     "name": "Large fur pouch (open)",
     "weight": 1.0
   },
+  "29472": {
+    "name": "Prospector helmet",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "29474": {
+    "name": "Prospector jacket",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "29476": {
+    "name": "Prospector legs",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "29478": {
+    "name": "Prospector boots",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
   "29486": {
     "name": "Cursed amulet of magic",
     "weight": 0.01,
@@ -87997,11 +87967,11 @@
     "weight": 0.1
   },
   "29666": {
-    "name": "Sigil of lithe",
+    "name": "Sigil of onslaught",
     "weight": 0.1
   },
   "29667": {
-    "name": "Sigil of lithe",
+    "name": "Sigil of onslaught",
     "weight": 0.1
   },
   "29669": {
@@ -89301,7 +89271,8 @@
   },
   "30002": {
     "name": "Chugging barrel (disassembled)",
-    "weight": 0.453
+    "weight": 0.453,
+    "ge_limit": 5
   },
   "30005": {
     "name": "Mox paste",
@@ -89710,19 +89681,23 @@
   },
   "30125": {
     "name": "Prayer regeneration potion(4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "30128": {
     "name": "Prayer regeneration potion(3)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "30131": {
     "name": "Prayer regeneration potion(2)",
-    "weight": 0.025
+    "weight": 0.025,
+    "ge_limit": 2000
   },
   "30134": {
     "name": "Prayer regeneration potion(1)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 2000
   },
   "30137": {
     "name": "Goading potion(4)",
@@ -90305,7 +90280,7 @@
       "dcrush": 2,
       "dmagic": 2,
       "str": 13,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "30307": {
@@ -90398,22 +90373,6 @@
   "30337": {
     "name": "Raging echoes relic hunter (t3) armour set",
     "weight": 0.05
-  },
-  "30340": {
-    "name": "Crystal dagger (perfected)",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 20,
-      "aslash": 140,
-      "acrush": -4,
-      "amagic": 1,
-      "dmagic": 1,
-      "str": 40,
-      "prayer": 3,
-      "aspeed": 4
-    }
   },
   "30342": {
     "name": "Infernal harpoon (or)",
@@ -90538,260 +90497,6 @@
       "aspeed": 5
     }
   },
-  "30357": {
-    "name": "Forager's pouch",
-    "weight": 1.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "30359": {
-    "name": "Leprechaun's vault",
-    "weight": 1.0
-  },
-  "30361": {
-    "name": "Banker's briefcase",
-    "weight": 0.05,
-    "equipable": true,
-    "equipment": {
-      "slot": 1
-    }
-  },
-  "30363": {
-    "name": "Clue compass",
-    "weight": 0.05,
-    "equipable": true,
-    "equipment": {
-      "slot": 13
-    }
-  },
-  "30365": {
-    "name": "Pocket kingdom",
-    "weight": 0.05
-  },
-  "30367": {
-    "name": "The dogsword",
-    "weight": 10.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "aslash": 132,
-      "acrush": 80,
-      "str": 132,
-      "prayer": 8,
-      "aspeed": 6
-    }
-  },
-  "30369": {
-    "name": "Sunlight spear",
-    "weight": 4.535,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 125,
-      "aslash": 75,
-      "dstab": 70,
-      "dslash": 70,
-      "dcrush": 70,
-      "dmagic": 28,
-      "drange": 70,
-      "str": 113,
-      "aspeed": 5
-    }
-  },
-  "30371": {
-    "name": "Devil's element",
-    "weight": 0.2,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": 20,
-      "prayer": 3,
-      "mdmg": 6.0
-    }
-  },
-  "30373": {
-    "name": "Drygore blowpipe (empty)",
-    "weight": 0.5,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 50,
-      "aspeed": 3
-    }
-  },
-  "30374": {
-    "name": "Drygore blowpipe",
-    "weight": 0.5,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 50,
-      "rstr": 10,
-      "aspeed": 3
-    }
-  },
-  "30376": {
-    "name": "Amulet of the monarchs",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {
-      "slot": 2,
-      "astab": 30,
-      "aslash": 30,
-      "acrush": 30,
-      "amagic": 30,
-      "arange": 30,
-      "dstab": 30,
-      "dslash": 30,
-      "dcrush": 30,
-      "dmagic": 30,
-      "drange": 30,
-      "str": 15,
-      "rstr": 15,
-      "prayer": 10,
-      "mdmg": 10.0
-    }
-  },
-  "30378": {
-    "name": "Emperor ring",
-    "weight": 0.004,
-    "equipable": true,
-    "equipment": {
-      "slot": 12,
-      "astab": 30,
-      "aslash": 30,
-      "acrush": 30,
-      "amagic": 30,
-      "arange": 30,
-      "dstab": 30,
-      "dslash": 30,
-      "dcrush": 30,
-      "dmagic": 30,
-      "drange": 30,
-      "str": 15,
-      "rstr": 15,
-      "prayer": 10,
-      "mdmg": 5.0
-    }
-  },
-  "30380": {
-    "name": "Gloves of the damned",
-    "weight": 0.226,
-    "equipable": true,
-    "equipment": {
-      "slot": 9,
-      "astab": 12,
-      "aslash": 12,
-      "acrush": 12,
-      "amagic": 6,
-      "arange": 12,
-      "dstab": 12,
-      "dslash": 12,
-      "dcrush": 12,
-      "dmagic": 6,
-      "drange": 12,
-      "str": 12
-    }
-  },
-  "30382": {
-    "name": "Thousand-dragon ward",
-    "weight": 7.257,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "astab": 35,
-      "aslash": 35,
-      "acrush": 35,
-      "amagic": 15,
-      "arange": 25,
-      "dstab": 50,
-      "dslash": 55,
-      "dcrush": 53,
-      "dmagic": 40,
-      "drange": 52,
-      "str": 12,
-      "prayer": 6
-    }
-  },
-  "30384": {
-    "name": "Crystal blessing",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "prayer": 5
-    }
-  },
-  "30386": {
-    "name": "Sunlit bracers",
-    "weight": 0.25,
-    "equipable": true,
-    "equipment": {
-      "slot": 9,
-      "astab": 10,
-      "aslash": 10,
-      "acrush": 10,
-      "amagic": 6,
-      "arange": 18,
-      "dstab": 12,
-      "dslash": 12,
-      "dcrush": 12,
-      "dmagic": 6,
-      "drange": 12,
-      "str": 8,
-      "rstr": 4
-    }
-  },
-  "30388": {
-    "name": "Thunder khopesh",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 65,
-      "aslash": 110,
-      "str": 100,
-      "aspeed": 4
-    }
-  },
-  "30390": {
-    "name": "Nature's reprisal",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 95,
-      "amagic": 45,
-      "arange": 155,
-      "str": 103,
-      "rstr": 92,
-      "aspeed": 5,
-      "mdmg": 12.0
-    }
-  },
-  "30392": {
-    "name": "Nature's reprisal (uncharged)",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 95,
-      "amagic": 45,
-      "arange": 155,
-      "str": 103,
-      "rstr": 92,
-      "aspeed": 5,
-      "mdmg": 12.0
-    }
-  },
   "30393": {
     "name": "Asgarnia echo orb",
     "weight": 0.4
@@ -90827,10 +90532,6 @@
   "30401": {
     "name": "Varlamore echo orb",
     "weight": 0.4
-  },
-  "30402": {
-    "name": "Raids megarare voucher",
-    "weight": 0.1
   },
   "30404": {
     "name": "Raging echoes hat (t1)",
@@ -90955,7 +90656,15 @@
     "weight": 0.1,
     "equipable": true,
     "equipment": {
-      "slot": 0
+      "slot": 0,
+      "amagic": 8,
+      "arange": -3,
+      "dstab": 15,
+      "dslash": 14,
+      "dcrush": 16,
+      "dmagic": 6,
+      "prayer": 1,
+      "mdmg": 2.0
     }
   },
   "30439": {
@@ -90967,7 +90676,7 @@
       "amagic": 35,
       "arange": -11,
       "dstab": 47,
-      "dslash": 38,
+      "dslash": 36,
       "dcrush": 56,
       "dmagic": 31,
       "prayer": 2,
@@ -91412,5 +91121,351 @@
   "30563": {
     "name": "Raging echoes spirit tree scroll",
     "weight": 0.1
+  },
+  "30568": {
+    "name": "Echo ahrim's staff",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 12,
+      "aslash": -1,
+      "acrush": 65,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 2,
+      "dmagic": 15,
+      "str": 68,
+      "aspeed": 6,
+      "mdmg": 5.0
+    }
+  },
+  "30570": {
+    "name": "Echo ahrim's staff 100",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 12,
+      "aslash": -1,
+      "acrush": 65,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 2,
+      "dmagic": 15,
+      "str": 68,
+      "aspeed": 6,
+      "mdmg": 5.0
+    }
+  },
+  "30571": {
+    "name": "Echo ahrim's staff 75",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 12,
+      "aslash": -1,
+      "acrush": 65,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 2,
+      "dmagic": 15,
+      "str": 68,
+      "aspeed": 6,
+      "mdmg": 5.0
+    }
+  },
+  "30572": {
+    "name": "Echo ahrim's staff 50",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 12,
+      "aslash": -1,
+      "acrush": 65,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 2,
+      "dmagic": 15,
+      "str": 68,
+      "aspeed": 6,
+      "mdmg": 5.0
+    }
+  },
+  "30573": {
+    "name": "Echo ahrim's staff 25",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 12,
+      "aslash": -1,
+      "acrush": 65,
+      "amagic": 15,
+      "dstab": 3,
+      "dslash": 5,
+      "dcrush": 2,
+      "dmagic": 15,
+      "str": 68,
+      "aspeed": 6,
+      "mdmg": 5.0
+    }
+  },
+  "30574": {
+    "name": "Echo ahrim's staff 0",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 6
+    }
+  },
+  "30579": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30581": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30583": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30585": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30587": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30589": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30591": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30593": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30595": {
+    "name": "Collection log",
+    "weight": 0.51,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30597": {
+    "name": "Bronze staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30599": {
+    "name": "Iron staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30601": {
+    "name": "Steel staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30603": {
+    "name": "Black staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30605": {
+    "name": "Mithril staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30607": {
+    "name": "Adamant staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30609": {
+    "name": "Rune staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30611": {
+    "name": "Dragon staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30613": {
+    "name": "Gilded staff of collection",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30616": {
+    "name": "Bounty supply crate (manta ray)",
+    "weight": 5.0
+  },
+  "30619": {
+    "name": "Bounty supply crate (anglerfish)",
+    "weight": 5.0
+  },
+  "30622": {
+    "name": "Bran",
+    "weight": 0.015
+  },
+  "30624": {
+    "name": "Ric",
+    "weight": 0.015
+  },
+  "30626": {
+    "name": "Deadeye prayer scroll",
+    "weight": 0.015
+  },
+  "30627": {
+    "name": "Mystic vigour prayer scroll",
+    "weight": 0.015
+  },
+  "30628": {
+    "name": "Ice element staff crown",
+    "weight": 2.267,
+    "ge_limit": 8
+  },
+  "30631": {
+    "name": "Fire element staff crown",
+    "weight": 2.267,
+    "ge_limit": 8
+  },
+  "30634": {
+    "name": "Twinflame staff",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 7,
+      "aslash": -1,
+      "acrush": 28,
+      "amagic": 12,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 12,
+      "str": 22,
+      "aspeed": 6
+    },
+    "ge_limit": 8
+  },
+  "30637": {
+    "name": "Giantsoul amulet (uncharged)",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "30638": {
+    "name": "Giantsoul amulet",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "30644": {
+    "name": "Hunters' loot sack (supplies)",
+    "weight": 1.0
+  },
+  "30646": {
+    "name": "Classic imp tail",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "30648": {
+    "name": "Classic imp hood",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
   }
 }
