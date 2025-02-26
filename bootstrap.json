@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.11.0.jar",
-                    "fromHash": "946faf793c37e8b154e2aa254fb8e3daf02e85b158e2e79907a6aa69bec49791",
-                    "hash": "fa19270b388d9377cff4c54568627f677f6fe155559891a7a76baffe45a441a7",
-                    "name": "client-1.11.1.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.11.0.jar-client-1.11.1.jar.apdiff.gz.jar",
-                    "size": 33637
+                    "from": "client-1.11.1.jar",
+                    "fromHash": "e00d53a2b6b27ce3e148c212d9ebfe76116eb0b99a876c54fb3c58e1baca5a94",
+                    "hash": "7b1f8b893b6c994c52e8bc1126d7d4f99d05a2e01eedaa7de8cb3a85b8450bb6",
+                    "name": "client-1.11.2.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.11.1.jar-client-1.11.2.jar.apdiff.gz.jar",
+                    "size": 40026
                 }
             ],
-            "hash": "e00d53a2b6b27ce3e148c212d9ebfe76116eb0b99a876c54fb3c58e1baca5a94",
-            "name": "client-1.11.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.11.1/client-1.11.1.jar",
-            "size": 6737980
+            "hash": "94aa38935815bab0d8f64cc8933a1b844ce8f0b55a3d76489b6d3ac14ff0c56c",
+            "name": "client-1.11.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.11.2/client-1.11.2.jar",
+            "size": 6743159
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -275,10 +275,10 @@
             "size": 238152
         },
         {
-            "hash": "1712ab9ec876fcedd5b186a634ed69672cf235c008ebc9695769ef01191875ef",
-            "name": "injected-client-1.11.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/injected-client/1.11.1/injected-client-1.11.1.jar",
-            "size": 3621092
+            "hash": "e245948b282524877f664f590eccdb9b26ac52d525a829569d24c0ae4dffc6c4",
+            "name": "injected-client-1.11.2.jar",
+            "path": "https://repo.runelite.net/net/runelite/injected-client/1.11.2/injected-client-1.11.2.jar",
+            "size": 3624975
         },
         {
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a",
@@ -313,18 +313,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.11.0-runtime.jar",
-                    "fromHash": "fa3138f9cc2032629c86da725983aef2bdcb5b04780c2e8e31d61afce57369c7",
-                    "hash": "cc4157d64303f9b3fc2ed7868840f5f7a4434ae5a680a320e8970361ca7d331d",
-                    "name": "runelite-api-1.11.1-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.11.0-runtime.jar-runelite-api-1.11.1-runtime.jar.apdiff.gz.jar",
-                    "size": 444
+                    "from": "runelite-api-1.11.1-runtime.jar",
+                    "fromHash": "05e89e35957267e97c7a9d41589a2ae247a27b0a94c874d3a1f94b000a657282",
+                    "hash": "a7b76d05ab07cb5cdf1c586860ab828d05c8166103a5a10bcf1a759bec056b91",
+                    "name": "runelite-api-1.11.2-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.11.1-runtime.jar-runelite-api-1.11.2-runtime.jar.apdiff.gz.jar",
+                    "size": 836
                 }
             ],
-            "hash": "05e89e35957267e97c7a9d41589a2ae247a27b0a94c874d3a1f94b000a657282",
-            "name": "runelite-api-1.11.1-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.11.1/runelite-api-1.11.1-runtime.jar",
-            "size": 260359
+            "hash": "7497100284183dc4860d555cfc1b554057314bc1ec8c3f6ffd08f970b3d98c29",
+            "name": "runelite-api-1.11.2-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.11.2/runelite-api-1.11.2-runtime.jar",
+            "size": 260374
         }
     ],
     "clientJvm17Arguments": [
@@ -417,5 +417,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.11.1"
+    "version": "1.11.2"
 }
