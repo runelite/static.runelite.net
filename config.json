@@ -20,7 +20,7 @@
     "1.10.48"
   ],
   "compilerControl": [{
-    "match": ["jk::ad", "jk::au"],
+    "match": ["jk::bk", "jk::bj"],
     "c2": {
       "exclude": true
     }
