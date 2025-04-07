@@ -1,5 +1,6 @@
 net.runelite.client
 net.runelite.client.account
+net.runelite.client.audio
 net.runelite.client.callback
 net.runelite.client.chat
 net.runelite.client.config
