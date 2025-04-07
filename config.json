@@ -18,11 +18,5 @@
   "updateRollout": 1.0,
   "outdatedClientVersions": [
     "1.10.48"
-  ],
-  "compilerControl": [{
-    "match": ["jk::bk", "jk::bj"],
-    "c2": {
-      "exclude": true
-    }
-  }]
+  ]
 }
