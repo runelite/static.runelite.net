@@ -21,5 +21,6 @@
   ],
   "props": {
     "scriptVmMaxOps": 600000
-  }
+  },
+  "compilerControl": []
 }
