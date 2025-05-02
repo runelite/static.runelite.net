@@ -2227,10 +2227,6 @@
     "name": "Khazard Guard",
     "hitpoints": 25
   },
-  "1210": {
-    "name": "Khazard Guard",
-    "hitpoints": 25
-  },
   "1211": {
     "name": "Khazard Guard",
     "hitpoints": 25
@@ -5184,7 +5180,7 @@
     "hitpoints": 58
   },
   "3359": {
-    "name": "Zombies Champion",
+    "name": "Zombies{{sic}} Champion",
     "hitpoints": 60
   },
   "3360": {
@@ -8025,31 +8021,31 @@
   },
   "5886": {
     "name": "Abyssal Sire",
-    "hitpoints": 400
+    "hitpoints": 425
   },
   "5887": {
     "name": "Abyssal Sire",
-    "hitpoints": 400
+    "hitpoints": 425
   },
   "5888": {
     "name": "Abyssal Sire",
-    "hitpoints": 400
+    "hitpoints": 425
   },
   "5889": {
     "name": "Abyssal Sire",
-    "hitpoints": 400
+    "hitpoints": 425
   },
   "5890": {
     "name": "Abyssal Sire",
-    "hitpoints": 400
+    "hitpoints": 425
   },
   "5891": {
     "name": "Abyssal Sire",
-    "hitpoints": 400
+    "hitpoints": 425
   },
   "5908": {
     "name": "Abyssal Sire",
-    "hitpoints": 400
+    "hitpoints": 425
   },
   "5912": {
     "name": "Tentacle",
@@ -9865,7 +9861,7 @@
   },
   "7394": {
     "name": "Flaming pyrelord",
-    "hitpoints": 126
+    "hitpoints": 125
   },
   "7395": {
     "name": "Monstrous basilisk",
@@ -12127,6 +12123,58 @@
     "name": "Sergeant",
     "hitpoints": 86
   },
+  "11199": {
+    "name": "Gnome guard",
+    "hitpoints": 800
+  },
+  "11200": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11201": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11202": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11203": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11204": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11205": {
+    "name": "Ghost guard",
+    "hitpoints": 800
+  },
+  "11206": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11207": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11208": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11209": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11210": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "11211": {
+    "name": "Prifddinas guard",
+    "hitpoints": 800
+  },
   "11227": {
     "name": "Enraged Boar",
     "hitpoints": 25
@@ -12619,6 +12667,18 @@
     "name": "Khazard Guard",
     "hitpoints": 25
   },
+  "12022": {
+    "name": "Khazard Guard",
+    "hitpoints": 25
+  },
+  "12023": {
+    "name": "Khazard Guard",
+    "hitpoints": 25
+  },
+  "12024": {
+    "name": "Khazard Guard",
+    "hitpoints": 25
+  },
   "12047": {
     "name": "Evelot",
     "hitpoints": 160
@@ -12895,6 +12955,10 @@
     "name": "Persten the Deceitful",
     "hitpoints": 200
   },
+  "12334": {
+    "name": "Portal",
+    "hitpoints": 30
+  },
   "12335": {
     "name": "Wighted Leech",
     "hitpoints": 5
@@ -13063,10 +13127,6 @@
     "name": "Guard",
     "hitpoints": 800
   },
-  "12462": {
-    "name": "Guard",
-    "hitpoints": 800
-  },
   "12464": {
     "name": "Mutated Terrorbird",
     "hitpoints": 320
@@ -13134,30 +13194,6 @@
   "12504": {
     "name": "Warped Terrorbird",
     "hitpoints": 200
-  },
-  "12538": {
-    "name": "Bloodthirsty hand",
-    "hitpoints": 55
-  },
-  "12539": {
-    "name": "Bloodthirsty Crawler",
-    "hitpoints": 60
-  },
-  "12561": {
-    "name": "Bloodthirst rockslug{{Sic}}",
-    "hitpoints": 77
-  },
-  "12567": {
-    "name": "Bloodthirsty Mage",
-    "hitpoints": 175
-  },
-  "12573": {
-    "name": "Bloodthirsty spectre",
-    "hitpoints": 250
-  },
-  "12574": {
-    "name": "Bloodthirsty Repugnant spectre",
-    "hitpoints": 380
   },
   "12596": {
     "name": "Branda the Fire Queen",
@@ -14150,6 +14186,10 @@
   "14137": {
     "name": "Weaponsmaster",
     "hitpoints": 20
+  },
+  "14138": {
+    "name": "Jonny the Beard",
+    "hitpoints": 8
   },
   "14147": {
     "name": "Eldric the Ice King",

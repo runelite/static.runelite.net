@@ -2813,7 +2813,7 @@
     "equipable": true,
     "equipment": {
       "slot": 13,
-      "rstr": 107
+      "rstr": 102
     },
     "ge_limit": 11000
   },
@@ -2867,7 +2867,7 @@
     "equipable": true,
     "equipment": {
       "slot": 13,
-      "rstr": 107
+      "rstr": 102
     },
     "ge_limit": 11000
   },
@@ -10205,7 +10205,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 17,
       "dslash": 19,
       "dcrush": 18,
@@ -10269,7 +10269,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 17,
       "dslash": 19,
       "dcrush": 18,
@@ -10317,7 +10317,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 27,
       "dslash": 31,
       "dcrush": 29,
@@ -10381,7 +10381,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 27,
       "dslash": 31,
       "dcrush": 29,
@@ -15190,20 +15190,22 @@
     }
   },
   "4041": {
-    "name": "Hooded cloak",
+    "name": "Saradomin cloak",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 1
-    }
+    },
+    "ge_limit": 8
   },
   "4042": {
-    "name": "Hooded cloak",
+    "name": "Zamorak cloak",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
       "slot": 1
-    }
+    },
+    "ge_limit": 8
   },
   "4043": {
     "name": "Rock",
@@ -21961,7 +21963,7 @@
     "equipable": true,
     "equipment": {
       "slot": 13,
-      "rstr": 107
+      "rstr": 102
     },
     "ge_limit": 11000
   },
@@ -22015,7 +22017,7 @@
     "equipable": true,
     "equipment": {
       "slot": 13,
-      "rstr": 107
+      "rstr": 102
     },
     "ge_limit": 11000
   },
@@ -36947,7 +36949,7 @@
       "dstab": 4,
       "dslash": 5,
       "dcrush": 3,
-      "drange": 1
+      "drange": 4
     },
     "ge_limit": 150
   },
@@ -43825,10 +43827,6 @@
     },
     "ge_limit": 8
   },
-  "11916": {
-    "name": "Slice of birthday cake",
-    "weight": 0.1
-  },
   "11919": {
     "name": "Cow mask",
     "weight": 0.09,
@@ -45029,7 +45027,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 5,
       "dslash": 7,
       "dcrush": 6,
@@ -45109,7 +45107,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 5,
       "dslash": 7,
       "dcrush": 6,
@@ -45189,7 +45187,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 8,
       "dslash": 10,
       "dcrush": 9,
@@ -45269,7 +45267,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 8,
       "dslash": 10,
       "dcrush": 9,
@@ -45521,7 +45519,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 18,
       "dslash": 22,
       "dcrush": 20,
@@ -45601,7 +45599,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 18,
       "dslash": 22,
       "dcrush": 20,
@@ -54570,7 +54568,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 13,
       "dslash": 15,
       "dcrush": 14,
@@ -54650,7 +54648,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 13,
       "dslash": 15,
       "dcrush": 14,
@@ -56847,7 +56845,6 @@
       "slot": 3,
       "is2h": true,
       "acrush": 135,
-      "amagic": -4,
       "str": 147,
       "aspeed": 6
     },
@@ -58957,7 +58954,7 @@
   },
   "21802": {
     "name": "Revenant cave teleport",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "21804": {
     "name": "Ancient crystal",
@@ -60520,7 +60517,7 @@
     "equipment": {
       "slot": 5,
       "amagic": -8,
-      "arange": -3,
+      "arange": -2,
       "dstab": 56,
       "dslash": 60,
       "dcrush": 58,
@@ -65474,7 +65471,7 @@
     "weight": 0.05
   },
   "23670": {
-    "name": "Flyer",
+    "name": "Iwan's flyer",
     "weight": 0.015
   },
   "23673": {
@@ -78189,7 +78186,6 @@
       "slot": 3,
       "is2h": true,
       "acrush": 135,
-      "amagic": -4,
       "str": 147,
       "aspeed": 6
     }
@@ -86542,7 +86538,7 @@
   "29134": {
     "name": "Cooked dashing kebbit",
     "weight": 0.283,
-    "ge_limit": 10000
+    "ge_limit": 6000
   },
   "29137": {
     "name": "Cooked pyre fox",
@@ -86844,7 +86840,8 @@
       "dmagic": 30,
       "drange": 32,
       "str": 2
-    }
+    },
+    "ge_limit": 100
   },
   "29283": {
     "name": "Mixed hide legs",
@@ -87695,7 +87692,8 @@
       "dcrush": 1,
       "str": 32,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "29580": {
     "name": "Tormented synapse",
@@ -88902,7 +88900,6 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
-      "amagic": 2,
       "dmagic": 3,
       "prayer": 2
     }
@@ -88913,7 +88910,6 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
-      "amagic": 2,
       "dmagic": 3,
       "prayer": 2
     }
@@ -89600,7 +89596,8 @@
   },
   "30100": {
     "name": "Huasca potion (unf)",
-    "weight": 0.056
+    "weight": 0.056,
+    "ge_limit": 10000
   },
   "30103": {
     "name": "Redberry antelope",
@@ -89701,7 +89698,8 @@
   },
   "30137": {
     "name": "Goading potion(4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 2000
   },
   "30140": {
     "name": "Goading potion(3)",
@@ -90497,42 +90495,6 @@
       "aspeed": 5
     }
   },
-  "30393": {
-    "name": "Asgarnia echo orb",
-    "weight": 0.4
-  },
-  "30394": {
-    "name": "Desert echo orb",
-    "weight": 0.4
-  },
-  "30395": {
-    "name": "Fremennik echo orb",
-    "weight": 0.4
-  },
-  "30396": {
-    "name": "Kandarin echo orb",
-    "weight": 0.4
-  },
-  "30397": {
-    "name": "Morytania echo orb",
-    "weight": 0.4
-  },
-  "30398": {
-    "name": "Tirannwn echo orb",
-    "weight": 0.4
-  },
-  "30399": {
-    "name": "Wilderness echo orb",
-    "weight": 0.4
-  },
-  "30400": {
-    "name": "Kourend echo orb",
-    "weight": 0.4
-  },
-  "30401": {
-    "name": "Varlamore echo orb",
-    "weight": 0.4
-  },
   "30404": {
     "name": "Raging echoes hat (t1)",
     "weight": 0.453,
@@ -91226,6 +91188,10 @@
       "aspeed": 6
     }
   },
+  "30576": {
+    "name": "Bounty supply crate",
+    "weight": 5.0
+  },
   "30579": {
     "name": "Collection log",
     "weight": 0.51,
@@ -91467,5 +91433,135 @@
     "equipment": {
       "slot": 0
     }
+  },
+  "30676": {
+    "name": "Nimbleness charm",
+    "weight": 1.0
+  },
+  "30679": {
+    "name": "Stockpiling charm",
+    "weight": 1.0
+  },
+  "30682": {
+    "name": "Accumulation charm",
+    "weight": 1.0
+  },
+  "30685": {
+    "name": "Vulnerability charm",
+    "weight": 1.0
+  },
+  "30688": {
+    "name": "Broken charm",
+    "weight": 0.056
+  },
+  "30689": {
+    "name": "Trinket dust",
+    "weight": 0.056
+  },
+  "30690": {
+    "name": "Castle wars supply crate",
+    "weight": 1.285
+  },
+  "30692": {
+    "name": "Rune pouch",
+    "weight": 1.0
+  },
+  "30694": {
+    "name": "Castle wars arrow",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 60
+    }
+  },
+  "30696": {
+    "name": "Castle wars bolts",
+    "weight": 0.018,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 122
+    }
+  },
+  "30706": {
+    "name": "Fancy carrot",
+    "weight": 0.028
+  },
+  "30707": {
+    "name": "Fancy carrot juice",
+    "weight": 0.55
+  },
+  "30708": {
+    "name": "Carrot juice glass",
+    "weight": 0.05
+  },
+  "30709": {
+    "name": "Recipe for easter buns",
+    "weight": 0.003
+  },
+  "30710": {
+    "name": "Easter spices",
+    "weight": 0.003
+  },
+  "30712": {
+    "name": "Yeastier dough",
+    "weight": 0.6
+  },
+  "30713": {
+    "name": "Special egg",
+    "weight": 0.1
+  },
+  "30714": {
+    "name": "Uncooked easter bun",
+    "weight": 0.5
+  },
+  "30717": {
+    "name": "Raisins",
+    "weight": 0.003
+  },
+  "30718": {
+    "name": "Jumbled script",
+    "weight": 0.02
+  },
+  "30719": {
+    "name": "Jumbled script",
+    "weight": 0.02
+  },
+  "30720": {
+    "name": "Carrot costume hat",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30722": {
+    "name": "Carrot costume body",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30724": {
+    "name": "Carrot costume tights",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "30726": {
+    "name": "Carrot costume gloves",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "31198": {
+    "name": "Beaver",
+    "weight": 0.015
   }
 }
