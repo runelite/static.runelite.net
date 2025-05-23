@@ -14202,5 +14202,13 @@
   "14151": {
     "name": "Ice elemental",
     "hitpoints": 40
+  },
+  "14179": {
+    "name": "Void Flare",
+    "hitpoints": 140
+  },
+  "14180": {
+    "name": "Judge of Yama",
+    "hitpoints": 400
   }
 }

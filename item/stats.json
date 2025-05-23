@@ -10002,7 +10002,7 @@
     "equipment": {
       "slot": 12
     },
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "2552": {
     "name": "Ring of dueling(8)",
@@ -23370,6 +23370,10 @@
     "weight": 0.007,
     "ge_limit": 11000
   },
+  "6020": {
+    "name": "Leaves",
+    "ge_limit": 13000
+  },
   "6032": {
     "name": "Compost",
     "weight": 3.0,
@@ -33974,7 +33978,7 @@
   },
   "9075": {
     "name": "Astral rune",
-    "ge_limit": 15000
+    "ge_limit": 25000
   },
   "9076": {
     "name": "Lunar ore",
@@ -57647,7 +57651,7 @@
       "dcrush": 1,
       "dmagic": 10,
       "str": 35,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "21257": {
@@ -74901,7 +74905,8 @@
       "drange": 16,
       "prayer": 1,
       "aspeed": 6
-    }
+    },
+    "ge_limit": 8
   },
   "26376": {
     "name": "Torva full helm (damaged)",
@@ -78766,7 +78771,8 @@
       "drange": 16,
       "prayer": 1,
       "aspeed": 6
-    }
+    },
+    "ge_limit": 8
   },
   "27188": {
     "name": "Light ballista",
@@ -88438,7 +88444,8 @@
       "arange": -8,
       "str": 12,
       "prayer": 2
-    }
+    },
+    "ge_limit": 8
   },
   "29804": {
     "name": "Amulet of rancour (s)",
@@ -90349,7 +90356,8 @@
       "dcrush": 38,
       "drange": 30,
       "str": 2
-    }
+    },
+    "ge_limit": 50
   },
   "30324": {
     "name": "Broken zombie helmet",
@@ -91351,7 +91359,8 @@
   },
   "30619": {
     "name": "Bounty supply crate (anglerfish)",
-    "weight": 5.0
+    "weight": 5.0,
+    "ge_limit": 100
   },
   "30622": {
     "name": "Bran",
@@ -91484,50 +91493,6 @@
       "rstr": 122
     }
   },
-  "30706": {
-    "name": "Fancy carrot",
-    "weight": 0.028
-  },
-  "30707": {
-    "name": "Fancy carrot juice",
-    "weight": 0.55
-  },
-  "30708": {
-    "name": "Carrot juice glass",
-    "weight": 0.05
-  },
-  "30709": {
-    "name": "Recipe for easter buns",
-    "weight": 0.003
-  },
-  "30710": {
-    "name": "Easter spices",
-    "weight": 0.003
-  },
-  "30712": {
-    "name": "Yeastier dough",
-    "weight": 0.6
-  },
-  "30713": {
-    "name": "Special egg",
-    "weight": 0.1
-  },
-  "30714": {
-    "name": "Uncooked easter bun",
-    "weight": 0.5
-  },
-  "30717": {
-    "name": "Raisins",
-    "weight": 0.003
-  },
-  "30718": {
-    "name": "Jumbled script",
-    "weight": 0.02
-  },
-  "30719": {
-    "name": "Jumbled script",
-    "weight": 0.02
-  },
   "30720": {
     "name": "Carrot costume hat",
     "weight": 0.3,
@@ -91560,8 +91525,283 @@
       "slot": 9
     }
   },
-  "31198": {
-    "name": "Beaver",
+  "30744": {
+    "name": "Oathplate armour set",
+    "weight": 0.05
+  },
+  "30747": {
+    "name": "Demon dung",
+    "weight": 0.38
+  },
+  "30750": {
+    "name": "Oathplate helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "aslash": 10,
+      "amagic": -2,
+      "arange": -7,
+      "dstab": 50,
+      "dslash": 72,
+      "dcrush": 45,
+      "drange": 50,
+      "str": 6
+    }
+  },
+  "30753": {
+    "name": "Oathplate chest",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "aslash": 16,
+      "amagic": -16,
+      "arange": -18,
+      "dstab": 105,
+      "dslash": 128,
+      "dcrush": 100,
+      "dmagic": -5,
+      "drange": 112,
+      "str": 4
+    }
+  },
+  "30756": {
+    "name": "Oathplate legs",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "aslash": 12,
+      "amagic": -12,
+      "arange": -14,
+      "dstab": 75,
+      "dslash": 100,
+      "dcrush": 73,
+      "dmagic": -5,
+      "drange": 81,
+      "str": 2
+    }
+  },
+  "30759": {
+    "name": "Soulflame horn",
+    "weight": 0.375,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 2,
+      "acrush": 21,
+      "amagic": 7,
+      "dslash": 7,
+      "dcrush": 3,
+      "dmagic": 11,
+      "str": 23,
+      "aspeed": 5,
+      "mdmg": 1.0
+    },
+    "ge_limit": 5
+  },
+  "30763": {
+    "name": "Forgotten lockbox",
+    "weight": 2.1
+  },
+  "30771": {
+    "name": "Aether catalyst",
+    "ge_limit": 25000
+  },
+  "30773": {
+    "name": "Diabolic worms",
+    "ge_limit": 8000
+  },
+  "30775": {
+    "name": "Chasm teleport scroll",
+    "weight": 0.001
+  },
+  "30777": {
+    "name": "Radiant oathplate helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "aslash": 10,
+      "amagic": -2,
+      "arange": -7,
+      "dstab": 50,
+      "dslash": 72,
+      "dcrush": 45,
+      "drange": 50,
+      "str": 6
+    }
+  },
+  "30779": {
+    "name": "Radiant oathplate chest",
+    "weight": 9.979,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "aslash": 16,
+      "amagic": -16,
+      "arange": -18,
+      "dstab": 105,
+      "dslash": 128,
+      "dcrush": 100,
+      "dmagic": -5,
+      "drange": 112,
+      "str": 4
+    }
+  },
+  "30781": {
+    "name": "Radiant oathplate legs",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "aslash": 12,
+      "amagic": -12,
+      "arange": -14,
+      "dstab": 75,
+      "dslash": 100,
+      "dcrush": 73,
+      "dmagic": -3,
+      "drange": 81,
+      "str": 2
+    }
+  },
+  "30783": {
+    "name": "Purifying sigil (left)",
+    "weight": 0.5
+  },
+  "30785": {
+    "name": "Purifying sigil (right)",
+    "weight": 0.5
+  },
+  "30787": {
+    "name": "Purifying sigil (middle)",
+    "weight": 0.5
+  },
+  "30789": {
+    "name": "Purifying sigil (top)",
+    "weight": 0.5
+  },
+  "30791": {
+    "name": "Purifying sigil (bottom)",
+    "weight": 0.5
+  },
+  "30793": {
+    "name": "Purifying sigil",
+    "weight": 0.5
+  },
+  "30803": {
+    "name": "Dossier",
+    "weight": 1.0
+  },
+  "30805": {
+    "name": "Dossier",
+    "weight": 1.0
+  },
+  "30806": {
+    "name": "Rite of vile transference",
+    "weight": 0.015
+  },
+  "30808": {
+    "name": "Jim's wet cloth",
+    "weight": 0.028
+  },
+  "30810": {
+    "name": "Contract of glyphic attenuation",
+    "weight": 0.4
+  },
+  "30813": {
+    "name": "Contract of sensory clouding",
+    "weight": 0.4
+  },
+  "30816": {
+    "name": "Contract of bloodied blows",
+    "weight": 0.4
+  },
+  "30819": {
+    "name": "Contract of divine severance",
+    "weight": 0.4
+  },
+  "30822": {
+    "name": "Contract of forfeit breath",
+    "weight": 0.4
+  },
+  "30825": {
+    "name": "Contract of oathplate acquisition",
+    "weight": 0.4
+  },
+  "30828": {
+    "name": "Contract of shard acquisition",
+    "weight": 0.4
+  },
+  "30831": {
+    "name": "Contract of catalyst acquisition",
+    "weight": 0.4
+  },
+  "30834": {
+    "name": "Contract of worm acquisition",
+    "weight": 0.4
+  },
+  "30837": {
+    "name": "Contract of harmony acquisition",
+    "weight": 0.4
+  },
+  "30840": {
+    "name": "Contract of familiar acquisition",
+    "weight": 0.4
+  },
+  "30843": {
+    "name": "Aether rune",
+    "weight": 0.002,
+    "ge_limit": 25000
+  },
+  "30846": {
+    "name": "Infernal shale",
+    "weight": 1.814
+  },
+  "30848": {
+    "name": "Crushed infernal shale",
+    "ge_limit": 25000
+  },
+  "30854": {
+    "name": "Infernal blend",
+    "weight": 1.814
+  },
+  "30856": {
+    "name": "Malformed infernal blend",
+    "weight": 1.814
+  },
+  "30858": {
+    "name": "Infernal nugget",
+    "weight": 1.814
+  },
+  "30860": {
+    "name": "Cooled infernal chunk",
+    "weight": 1.814
+  },
+  "30862": {
+    "name": "Infernal chunk",
+    "weight": 1.814
+  },
+  "30875": {
+    "name": "Surge potion(4)",
+    "weight": 0.035
+  },
+  "30878": {
+    "name": "Surge potion(3)",
+    "weight": 0.03
+  },
+  "30881": {
+    "name": "Surge potion(2)",
+    "weight": 0.03
+  },
+  "30884": {
+    "name": "Surge potion(1)",
+    "weight": 0.03
+  },
+  "30888": {
+    "name": "Yami",
     "weight": 0.015
   }
 }
