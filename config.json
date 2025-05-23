@@ -15,11 +15,5 @@
     "2.1.7",
     "2.4.2"
   ],
-  "updateRollout": 1.0,
-  "outdatedClientVersions": [
-    "1.10.48"
-  ],
-  "props": {
-    "scriptVmMaxOps": 600000
-  }
+  "updateRollout": 1.0
 }
