@@ -15,11 +15,5 @@
     "2.1.7",
     "2.4.2"
   ],
-  "updateRollout": 1.0,
-  "outageStart": 1749033000000,
-  "outageEnd": 1749033900000,
-  "outageMessage": "OldSchool RuneScape is temporarily offline for maintenance which should last approximately 15 minutes. They expect it to be complete by 11:45 BST (6:45 AM EDT).",
-  "outageLinks": {
-    "Game Status": "https://secure.runescape.com/m=news/game-status-information-centre?oldschool=1"
-  }
+  "updateRollout": 1.0
 }
