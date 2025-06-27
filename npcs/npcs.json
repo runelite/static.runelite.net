@@ -359,6 +359,10 @@
     "name": "Big Wolf",
     "hitpoints": 74
   },
+  "110": {
+    "name": "Wolf",
+    "hitpoints": 34
+  },
   "112": {
     "name": "Wild dog",
     "hitpoints": 62
@@ -374,10 +378,6 @@
   "115": {
     "name": "Big Wolf",
     "hitpoints": 74
-  },
-  "117": {
-    "name": "Wolf",
-    "hitpoints": 34
   },
   "130": {
     "name": "Skeleton",
@@ -2231,6 +2231,10 @@
     "name": "Khazard Guard",
     "hitpoints": 25
   },
+  "1213": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
   "1224": {
     "name": "Bouncer",
     "hitpoints": 116
@@ -2561,7 +2565,7 @@
   },
   "1537": {
     "name": "Skeleton hero",
-    "hitpoints": 124
+    "hitpoints": 114
   },
   "1538": {
     "name": "Skeleton brute",
@@ -2573,11 +2577,11 @@
   },
   "1540": {
     "name": "Skeleton heavy",
-    "hitpoints": 124
+    "hitpoints": 114
   },
   "1541": {
     "name": "Skeleton thug",
-    "hitpoints": 124
+    "hitpoints": 114
   },
   "1543": {
     "name": "Gargoyle",
@@ -5267,14 +5271,6 @@
     "name": "Kamil",
     "hitpoints": 130
   },
-  "3459": {
-    "name": "Dessous",
-    "hitpoints": 200
-  },
-  "3460": {
-    "name": "Dessous",
-    "hitpoints": 200
-  },
   "3473": {
     "name": "The Inadequacy",
     "hitpoints": 180
@@ -5398,6 +5394,10 @@
   "3615": {
     "name": "Skeletal miner",
     "hitpoints": 39
+  },
+  "3616": {
+    "name": "Treus Dayth",
+    "hitpoints": 100
   },
   "3625": {
     "name": "Ghost",
@@ -7951,10 +7951,6 @@
     "name": "Cow",
     "hitpoints": 8
   },
-  "5848": {
-    "name": "Tanglefoot",
-    "hitpoints": 102
-  },
   "5853": {
     "name": "Baby tanglefoot",
     "hitpoints": 40
@@ -8341,7 +8337,7 @@
   },
   "6294": {
     "name": "Ice Troll King (hard)",
-    "hitpoints": 240
+    "hitpoints": 255
   },
   "6295": {
     "name": "Black demon (hard)",
@@ -8432,7 +8428,7 @@
     "hitpoints": 240
   },
   "6318": {
-    "name": "Nezikchened (hard)",
+    "name": "Nezikchened",
     "hitpoints": 150
   },
   "6319": {
@@ -8472,7 +8468,7 @@
     "hitpoints": 209
   },
   "6328": {
-    "name": "King Roald",
+    "name": "King Roald (hard)",
     "hitpoints": 150
   },
   "6329": {
@@ -8489,7 +8485,7 @@
   },
   "6332": {
     "name": "Count Draynor (hard)",
-    "hitpoints": 223
+    "hitpoints": 210
   },
   "6333": {
     "name": "Witch's experiment (hard)",
@@ -8501,7 +8497,7 @@
   },
   "6335": {
     "name": "Witch's experiment (third form) (hard)",
-    "hitpoints": 103
+    "hitpoints": 102
   },
   "6336": {
     "name": "Witch's experiment (fourth form) (hard)",
@@ -8670,10 +8666,6 @@
   "6378": {
     "name": "Gelatinnoth Mother",
     "hitpoints": 240
-  },
-  "6379": {
-    "name": "Nezikchened",
-    "hitpoints": 150
   },
   "6380": {
     "name": "Tree spirit",
@@ -9085,7 +9077,7 @@
   },
   "6600": {
     "name": "Runite Golem",
-    "hitpoints": 170
+    "hitpoints": 120
   },
   "6603": {
     "name": "Rogue",
@@ -10459,10 +10451,6 @@
     "name": "Rune dragon",
     "hitpoints": 330
   },
-  "8033": {
-    "name": "Elvarg",
-    "hitpoints": 80
-  },
   "8056": {
     "name": "Spawn",
     "hitpoints": 80
@@ -10829,7 +10817,7 @@
   },
   "8529": {
     "name": "Trapped Soul (hard)",
-    "hitpoints": 100
+    "hitpoints": 98
   },
   "8563": {
     "name": "Lizardman",
@@ -11267,12 +11255,8 @@
     "name": "Essyllt (hard)",
     "hitpoints": 320
   },
-  "9248": {
-    "name": "Arianwyn",
-    "hitpoints": 300
-  },
   "9249": {
-    "name": "Essyllt (hard)",
+    "name": "Essyllt",
     "hitpoints": 320
   },
   "9258": {
@@ -11754,6 +11738,10 @@
   "10592": {
     "name": "Undead Zealot",
     "hitpoints": 28
+  },
+  "10623": {
+    "name": "JalTok-Jad",
+    "hitpoints": 350
   },
   "10654": {
     "name": "Ancient Guardian",
@@ -12679,6 +12667,18 @@
     "name": "Khazard Guard",
     "hitpoints": 25
   },
+  "12025": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12026": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12027": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
   "12047": {
     "name": "Evelot",
     "hitpoints": 160
@@ -12690,6 +12690,30 @@
   "12049": {
     "name": "Clivet",
     "hitpoints": 25
+  },
+  "12054": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12055": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12056": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12057": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12058": {
+    "name": "General Khazard",
+    "hitpoints": 170
+  },
+  "12059": {
+    "name": "General Khazard",
+    "hitpoints": 170
   },
   "12062": {
     "name": "Assassin",
@@ -13201,79 +13225,79 @@
   },
   "12720": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12721": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12722": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12723": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12724": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12725": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12726": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12727": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12728": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12729": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12730": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12731": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12732": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12733": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12734": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12736": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12755": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12757": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12758": {
     "name": "Armoured zombie",
-    "hitpoints": 85
+    "hitpoints": 75
   },
   "12810": {
     "name": "Jaguar warrior",
@@ -13785,7 +13809,7 @@
   },
   "13661": {
     "name": "TzTok-Jad",
-    "hitpoints": 5000
+    "hitpoints": 1000
   },
   "13662": {
     "name": "Durial321",
@@ -13952,7 +13976,7 @@
     "hitpoints": 120
   },
   "13789": {
-    "name": "Frost crab",
+    "name": "Frost Crab",
     "hitpoints": 60
   },
   "13790": {
@@ -13960,7 +13984,7 @@
     "hitpoints": 60
   },
   "13791": {
-    "name": "Frost crab",
+    "name": "Frost Crab",
     "hitpoints": 60
   },
   "13792": {
@@ -14085,11 +14109,11 @@
   },
   "14014": {
     "name": "Hueycoatl tail",
-    "hitpoints": 400
+    "hitpoints": 300
   },
   "14015": {
     "name": "Hueycoatl tail (broken)",
-    "hitpoints": 400
+    "hitpoints": 300
   },
   "14017": {
     "name": "Hueycoatl body",
@@ -14125,23 +14149,23 @@
   },
   "14113": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14114": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14115": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14116": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14117": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14118": {
     "name": "Armoured zombie",
