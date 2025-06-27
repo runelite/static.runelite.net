@@ -57425,7 +57425,7 @@
     "equipment": {
       "slot": 2
     },
-    "ge_limit": 10000
+    "ge_limit": 200
   },
   "21166": {
     "name": "Burning amulet(5)",
@@ -58739,7 +58739,7 @@
       "dslash": 2,
       "dcrush": 2,
       "dmagic": -2,
-      "drange": 8
+      "drange": 12
     },
     "ge_limit": 70
   },
@@ -58780,7 +58780,7 @@
       "dslash": 4,
       "dcrush": 4,
       "dmagic": -4,
-      "drange": 16
+      "drange": 24
     }
   },
   "21754": {
@@ -70973,7 +70973,7 @@
       "dslash": 4,
       "dcrush": 4,
       "dmagic": -4,
-      "drange": 16
+      "drange": 24
     }
   },
   "25195": {
@@ -71821,7 +71821,8 @@
       "dslash": 4,
       "dcrush": 6,
       "dmagic": 5
-    }
+    },
+    "ge_limit": 70
   },
   "25410": {
     "name": "Bloodbark boots",
@@ -75810,7 +75811,7 @@
       "dslash": 4,
       "dcrush": 4,
       "dmagic": -4,
-      "drange": 16
+      "drange": 24
     }
   },
   "26686": {
@@ -86897,7 +86898,8 @@
       "dmagic": 5,
       "drange": 1,
       "str": 1
-    }
+    },
+    "ge_limit": 100
   },
   "29292": {
     "name": "Mixed hide base",
@@ -90361,7 +90363,8 @@
   },
   "30324": {
     "name": "Broken zombie helmet",
-    "weight": 2.721
+    "weight": 2.721,
+    "ge_limit": 70
   },
   "30328": {
     "name": "Dust",
@@ -90620,6 +90623,30 @@
   "30432": {
     "name": "Echo venator bow ornament kit",
     "weight": 0.1
+  },
+  "30434": {
+    "name": "Echo venator bow",
+    "weight": 4.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 90,
+      "rstr": 25,
+      "aspeed": 5
+    }
+  },
+  "30436": {
+    "name": "Echo venator bow",
+    "weight": 4.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 90,
+      "rstr": 25,
+      "aspeed": 5
+    }
   },
   "30437": {
     "name": "Echo virtus mask",
@@ -91578,7 +91605,7 @@
       "dstab": 75,
       "dslash": 100,
       "dcrush": 73,
-      "dmagic": -5,
+      "dmagic": -3,
       "drange": 81,
       "str": 2
     }
@@ -91691,6 +91718,10 @@
     "name": "Purifying sigil",
     "weight": 0.5
   },
+  "30800": {
+    "name": "Demonic tallow",
+    "ge_limit": 11000
+  },
   "30803": {
     "name": "Dossier",
     "weight": 1.0
@@ -91709,47 +91740,58 @@
   },
   "30810": {
     "name": "Contract of glyphic attenuation",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30813": {
     "name": "Contract of sensory clouding",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30816": {
     "name": "Contract of bloodied blows",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30819": {
     "name": "Contract of divine severance",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30822": {
     "name": "Contract of forfeit breath",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30825": {
     "name": "Contract of oathplate acquisition",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30828": {
     "name": "Contract of shard acquisition",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30831": {
     "name": "Contract of catalyst acquisition",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30834": {
     "name": "Contract of worm acquisition",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30837": {
     "name": "Contract of harmony acquisition",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30840": {
     "name": "Contract of familiar acquisition",
-    "weight": 0.4
+    "weight": 0.4,
+    "ge_limit": 50
   },
   "30843": {
     "name": "Aether rune",
@@ -91803,5 +91845,41 @@
   "30888": {
     "name": "Yami",
     "weight": 0.015
+  },
+  "30890": {
+    "name": "Rotten turnip",
+    "weight": 0.001
+  },
+  "30891": {
+    "name": "Keris partisan of amascut",
+    "weight": 3.218,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aslash": -2,
+      "acrush": 57,
+      "amagic": 2,
+      "prayer": 3,
+      "aspeed": 4
+    }
+  },
+  "30893": {
+    "name": "Jewel of amascut",
+    "weight": 0.951
+  },
+  "30895": {
+    "name": "Steel ring",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "dstab": 24,
+      "dslash": 24,
+      "dcrush": 24
+    }
+  },
+  "30898": {
+    "name": "Giant bones",
+    "weight": 7.0
   }
 }
