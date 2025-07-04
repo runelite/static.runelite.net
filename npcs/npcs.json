@@ -10849,19 +10849,19 @@
   },
   "8610": {
     "name": "Wyrm",
-    "hitpoints": 130
+    "hitpoints": 120
   },
   "8611": {
     "name": "Wyrm",
-    "hitpoints": 130
+    "hitpoints": 120
   },
   "8612": {
     "name": "Drake",
-    "hitpoints": 250
+    "hitpoints": 225
   },
   "8613": {
     "name": "Drake",
-    "hitpoints": 250
+    "hitpoints": 225
   },
   "8614": {
     "name": "Sulphur Lizard",
@@ -11617,15 +11617,15 @@
   },
   "10398": {
     "name": "Shadow Wyrm",
-    "hitpoints": 320
+    "hitpoints": 290
   },
   "10399": {
     "name": "Shadow Wyrm",
-    "hitpoints": 320
+    "hitpoints": 290
   },
   "10400": {
     "name": "Guardian Drake",
-    "hitpoints": 630
+    "hitpoints": 590
   },
   "10402": {
     "name": "Colossal Hydra",
@@ -11757,11 +11757,11 @@
   },
   "10689": {
     "name": "Chaos Golem",
-    "hitpoints": 94
+    "hitpoints": 71
   },
   "10690": {
     "name": "Rubble",
-    "hitpoints": 94
+    "hitpoints": 71
   },
   "10691": {
     "name": "Body Golem",
@@ -13718,6 +13718,18 @@
   "13501": {
     "name": "Skeleton",
     "hitpoints": 17
+  },
+  "13502": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
+  "13503": {
+    "name": "Hill Giant",
+    "hitpoints": 35
+  },
+  "13504": {
+    "name": "Hill Giant",
+    "hitpoints": 35
   },
   "13514": {
     "name": "Assassin",

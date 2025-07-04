@@ -91881,5 +91881,57 @@
   "30898": {
     "name": "Giant bones",
     "weight": 7.0
+  },
+  "30902": {
+    "name": "Minor beginner scroll case",
+    "weight": 0.02
+  },
+  "30904": {
+    "name": "Major beginner scroll case",
+    "weight": 0.02
+  },
+  "30906": {
+    "name": "Minor easy scroll case",
+    "weight": 0.02
+  },
+  "30908": {
+    "name": "Major easy scroll case",
+    "weight": 0.02
+  },
+  "30910": {
+    "name": "Minor medium scroll case",
+    "weight": 0.02
+  },
+  "30912": {
+    "name": "Major medium scroll case",
+    "weight": 0.02
+  },
+  "30914": {
+    "name": "Minor hard scroll case",
+    "weight": 0.02
+  },
+  "30916": {
+    "name": "Major hard scroll case",
+    "weight": 0.02
+  },
+  "30918": {
+    "name": "Minor elite scroll case",
+    "weight": 0.02
+  },
+  "30920": {
+    "name": "Major elite scroll case",
+    "weight": 0.02
+  },
+  "30922": {
+    "name": "Minor master scroll case",
+    "weight": 0.02
+  },
+  "30924": {
+    "name": "Major master scroll case",
+    "weight": 0.02
+  },
+  "30926": {
+    "name": "Mimic scroll case",
+    "weight": 0.02
   }
 }
