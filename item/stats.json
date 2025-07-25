@@ -88909,8 +88909,7 @@
     "equipable": true,
     "equipment": {
       "slot": 2,
-      "dmagic": 3,
-      "prayer": 2
+      "amagic": 2
     }
   },
   "29893": {
@@ -91382,7 +91381,8 @@
   },
   "30616": {
     "name": "Bounty supply crate (manta ray)",
-    "weight": 5.0
+    "weight": 5.0,
+    "ge_limit": 100
   },
   "30619": {
     "name": "Bounty supply crate (anglerfish)",
@@ -91882,6 +91882,10 @@
     "name": "Giant bones",
     "weight": 7.0
   },
+  "30900": {
+    "name": "Shark lure",
+    "ge_limit": 10000
+  },
   "30902": {
     "name": "Minor beginner scroll case",
     "weight": 0.02
@@ -91933,5 +91937,615 @@
   "30926": {
     "name": "Mimic scroll case",
     "weight": 0.02
+  },
+  "30929": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "30931": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "30932": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "30933": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "30935": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "30936": {
+    "name": "Wet fabric scrap",
+    "weight": 0.012
+  },
+  "30937": {
+    "name": "Caerula berries",
+    "weight": 0.005
+  },
+  "30939": {
+    "name": "Mind mender",
+    "weight": 0.056
+  },
+  "30942": {
+    "name": "Empty coin purse",
+    "weight": 0.025
+  },
+  "30943": {
+    "name": "Sandy coin purse",
+    "weight": 0.475
+  },
+  "30944": {
+    "name": "Makeshift blackjack",
+    "weight": 0.5
+  },
+  "30945": {
+    "name": "Branch (The Final Dawn)",
+    "weight": 0.5
+  },
+  "30946": {
+    "name": "Key (Forebearer Janus)",
+    "weight": 0.02
+  },
+  "30947": {
+    "name": "Potato sack",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": -1,
+      "aslash": -1,
+      "acrush": -1,
+      "amagic": -1,
+      "arange": -1
+    }
+  },
+  "30949": {
+    "name": "Emissary scroll",
+    "weight": 0.1
+  },
+  "30950": {
+    "name": "Canvas piece",
+    "weight": 0.01
+  },
+  "30951": {
+    "name": "Key (The Final Dawn)",
+    "weight": 0.02
+  },
+  "30955": {
+    "name": "Arkan blade",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 70,
+      "str": 64,
+      "prayer": 1,
+      "aspeed": 4
+    }
+  },
+  "30957": {
+    "name": "Earthbound tecpatl",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 72,
+      "aslash": 11,
+      "str": 64,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
+  "30960": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "30961": {
+    "name": "Keystone fragment",
+    "weight": 0.01
+  },
+  "30962": {
+    "name": "Kuhu essence",
+    "weight": 0.002
+  },
+  "30963": {
+    "name": "Ancient roots",
+    "weight": 0.5
+  },
+  "30964": {
+    "name": "Root kindling",
+    "weight": 0.2
+  },
+  "30965": {
+    "name": "Knife blade",
+    "weight": 0.453
+  },
+  "30966": {
+    "name": "Ancient teleporter",
+    "weight": 1.0
+  },
+  "30967": {
+    "name": "Large egg",
+    "weight": 0.04
+  },
+  "30968": {
+    "name": "Dragon egg",
+    "weight": 0.15
+  },
+  "30969": {
+    "name": "Jaguar egg",
+    "weight": 0.2
+  },
+  "30970": {
+    "name": "Egg",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    },
+    "ge_limit": 13000
+  },
+  "30973": {
+    "name": "Alan's bones",
+    "weight": 0.3
+  },
+  "30975": {
+    "name": "Alan's bonemeal",
+    "weight": 1.5
+  },
+  "30977": {
+    "name": "Damiana leaves",
+    "weight": 0.007
+  },
+  "30979": {
+    "name": "Damiana water",
+    "weight": 0.907
+  },
+  "30981": {
+    "name": "Damiana tea",
+    "weight": 0.907
+  },
+  "30983": {
+    "name": "Damiana tea",
+    "weight": 0.907
+  },
+  "30985": {
+    "name": "Cup of tea",
+    "weight": 0.15,
+    "ge_limit": 2000
+  },
+  "30987": {
+    "name": "Cup of tea",
+    "weight": 0.15,
+    "ge_limit": 2000
+  },
+  "30989": {
+    "name": "Acatzin's axe",
+    "weight": 2.0
+  },
+  "30990": {
+    "name": "Acatzin's axe",
+    "weight": 2.0
+  },
+  "30997": {
+    "name": "Events tool",
+    "weight": 1.814
+  },
+  "31016": {
+    "name": "Sacraments of ent folk",
+    "weight": 0.1
+  },
+  "31018": {
+    "name": "Ent seed",
+    "weight": 0.003
+  },
+  "31024": {
+    "name": "Greenman carving",
+    "weight": 3.0
+  },
+  "31034": {
+    "name": "Greenman mask",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31037": {
+    "name": "Greenman mask (normal)",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31038": {
+    "name": "Greenman mask (oak)",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31039": {
+    "name": "Greenman mask (willow)",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31040": {
+    "name": "Greenman mask (maple)",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31041": {
+    "name": "Greenman mask (yew)",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31042": {
+    "name": "Greenman mask (magic)",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31043": {
+    "name": "Fletching knife",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "31049": {
+    "name": "Redwood hiking staff",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -4,
+      "aslash": -4,
+      "acrush": 10,
+      "aspeed": 5
+    }
+  },
+  "31052": {
+    "name": "Bow string spool",
+    "weight": 0.5
+  },
+  "31054": {
+    "name": "Vale offerings",
+    "weight": 0.028
+  },
+  "31071": {
+    "name": "Letter",
+    "weight": 0.005
+  },
+  "31075": {
+    "name": "Alan's blessed bones",
+    "weight": 0.3
+  },
+  "31077": {
+    "name": "On migration patterns",
+    "weight": 0.51
+  },
+  "31079": {
+    "name": "Auburn valley ecological reports",
+    "weight": 0.51
+  },
+  "31081": {
+    "name": "Antler guard",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "amagic": 9,
+      "arange": 9,
+      "dstab": -25,
+      "dslash": -25,
+      "dcrush": -25,
+      "dmagic": -25,
+      "drange": -25,
+      "str": 5,
+      "rstr": 2,
+      "prayer": 4
+    }
+  },
+  "31084": {
+    "name": "Alchemist's signet",
+    "weight": 0.06
+  },
+  "31086": {
+    "name": "Broken antler",
+    "weight": 0.001
+  },
+  "31088": {
+    "name": "Avernic treads",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 4,
+      "rstr": 2,
+      "mdmg": 1.0
+    }
+  },
+  "31091": {
+    "name": "Avernic treads (pr)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 6,
+      "rstr": 2,
+      "mdmg": 1.0
+    }
+  },
+  "31092": {
+    "name": "Avernic treads (pe)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 4,
+      "rstr": 3,
+      "mdmg": 1.0
+    }
+  },
+  "31093": {
+    "name": "Avernic treads (et)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 4,
+      "rstr": 2,
+      "mdmg": 2.0
+    }
+  },
+  "31094": {
+    "name": "Avernic treads (pr)(pe)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 6,
+      "rstr": 3,
+      "mdmg": 1.0
+    }
+  },
+  "31095": {
+    "name": "Avernic treads (pr)(et)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 6,
+      "rstr": 2,
+      "mdmg": 2.0
+    }
+  },
+  "31096": {
+    "name": "Avernic treads (pe)(et)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 4,
+      "rstr": 3,
+      "mdmg": 2.0
+    }
+  },
+  "31097": {
+    "name": "Avernic treads (max)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 6,
+      "rstr": 3,
+      "mdmg": 2.0
+    }
+  },
+  "31099": {
+    "name": "Mokhaiotl waystone",
+    "weight": 0.1
+  },
+  "31106": {
+    "name": "Confliction gauntlets",
+    "weight": 0.226,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "amagic": 20,
+      "arange": -4,
+      "dstab": 15,
+      "dslash": 18,
+      "dcrush": 7,
+      "dmagic": 5,
+      "drange": 5,
+      "prayer": 2,
+      "mdmg": 7.0
+    }
+  },
+  "31109": {
+    "name": "Mokhaiotl cloth",
+    "weight": 0.34
+  },
+  "31111": {
+    "name": "Demon tear",
+    "ge_limit": 13000
+  },
+  "31113": {
+    "name": "Eye of ayak (uncharged)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 30,
+      "dstab": 1,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 10,
+      "prayer": 2,
+      "aspeed": 3
+    }
+  },
+  "31115": {
+    "name": "Eye of ayak",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 30,
+      "dstab": 1,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 10,
+      "prayer": 2,
+      "aspeed": 3
+    }
+  },
+  "31117": {
+    "name": "Orange",
+    "weight": 0.13,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    },
+    "ge_limit": 13000
+  },
+  "31121": {
+    "name": "Old letter",
+    "weight": 0.005
+  },
+  "31123": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "31124": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "31125": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "31126": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "31127": {
+    "name": "Token",
+    "weight": 0.123
+  },
+  "31128": {
+    "name": "Blueberry muffin",
+    "weight": 0.025
+  },
+  "31130": {
+    "name": "Dom",
+    "weight": 0.015
   }
 }

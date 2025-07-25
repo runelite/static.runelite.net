@@ -9201,7 +9201,7 @@
   },
   "6730": {
     "name": "Rock Golem",
-    "hitpoints": 170
+    "hitpoints": 150
   },
   "6732": {
     "name": "River troll",
@@ -10783,18 +10783,6 @@
     "name": "Don't Know What",
     "hitpoints": 220
   },
-  "8474": {
-    "name": "Black Guard",
-    "hitpoints": 40
-  },
-  "8475": {
-    "name": "Black Guard",
-    "hitpoints": 40
-  },
-  "8476": {
-    "name": "Black Guard",
-    "hitpoints": 40
-  },
   "8496": {
     "name": "Dwarf",
     "hitpoints": 18
@@ -11681,11 +11669,11 @@
   },
   "10525": {
     "name": "Forgotten Soul",
-    "hitpoints": 77
+    "hitpoints": 80
   },
   "10526": {
     "name": "Forgotten Soul",
-    "hitpoints": 77
+    "hitpoints": 80
   },
   "10531": {
     "name": "Avatar of Creation",
@@ -11709,11 +11697,11 @@
   },
   "10536": {
     "name": "Forgotten Soul",
-    "hitpoints": 77
+    "hitpoints": 80
   },
   "10537": {
     "name": "Forgotten Soul",
-    "hitpoints": 77
+    "hitpoints": 80
   },
   "10541": {
     "name": "Bird",
@@ -14181,23 +14169,23 @@
   },
   "14118": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14119": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14120": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14121": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14122": {
     "name": "Armoured zombie",
-    "hitpoints": 110
+    "hitpoints": 95
   },
   "14125": {
     "name": "Golem guard",
@@ -14246,5 +14234,53 @@
   "14180": {
     "name": "Judge of Yama",
     "hitpoints": 400
+  },
+  "14268": {
+    "name": "Emissary Enforcer",
+    "hitpoints": 126
+  },
+  "14318": {
+    "name": "Augur Metzli",
+    "hitpoints": 600
+  },
+  "14362": {
+    "name": "Chimalli",
+    "hitpoints": 180
+  },
+  "14363": {
+    "name": "Lucius",
+    "hitpoints": 180
+  },
+  "14510": {
+    "name": "Large chicken",
+    "hitpoints": 30
+  },
+  "14511": {
+    "name": "Red dragon",
+    "hitpoints": 100
+  },
+  "14512": {
+    "name": "Black jaguar",
+    "hitpoints": 85
+  },
+  "14520": {
+    "name": "Ancient Custodian",
+    "hitpoints": 330
+  },
+  "14702": {
+    "name": "Juvenile custodian stalker",
+    "hitpoints": 135
+  },
+  "14703": {
+    "name": "Mature custodian stalker",
+    "hitpoints": 190
+  },
+  "14704": {
+    "name": "Elder custodian stalker",
+    "hitpoints": 250
+  },
+  "14706": {
+    "name": "Strange creature",
+    "hitpoints": 100
   }
 }
