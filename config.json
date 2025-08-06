@@ -18,5 +18,9 @@
   "updateRollout": 1.0,
   "outdatedClientVersions": [
     "1.11.9"
-  ]
+  ],
+  "outageMessage": "OldSchool RuneScape is temporarily offline for maintenance.",
+  "outageLinks": {
+    "Game Status": "https://secure.runescape.com/m=news/game-status-information-centre?oldschool=1"
+  }
 }
