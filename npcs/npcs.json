@@ -2403,6 +2403,10 @@
     "name": "Afflicted",
     "hitpoints": 24
   },
+  "1327": {
+    "name": "Tyras guard",
+    "hitpoints": 110
+  },
   "1338": {
     "name": "Seagull",
     "hitpoints": 6
@@ -2530,10 +2534,6 @@
   "1429": {
     "name": "Foreman",
     "hitpoints": 20
-  },
-  "1430": {
-    "name": "Shipyard worker",
-    "hitpoints": 10
   },
   "1432": {
     "name": "Black demon",
@@ -4319,6 +4319,10 @@
     "name": "Snake",
     "hitpoints": 6
   },
+  "2847": {
+    "name": "Skeleton",
+    "hitpoints": 60
+  },
   "2848": {
     "name": "Monkey",
     "hitpoints": 6
@@ -5240,6 +5244,10 @@
     "hitpoints": 110
   },
   "3434": {
+    "name": "Tyras guard",
+    "hitpoints": 110
+  },
+  "3436": {
     "name": "Tyras guard",
     "hitpoints": 110
   },
@@ -11023,9 +11031,29 @@
     "name": "Fragment of Seren",
     "hitpoints": 1000
   },
+  "8945": {
+    "name": "Tyras guard",
+    "hitpoints": 110
+  },
   "8950": {
     "name": "Essyllt",
     "hitpoints": 320
+  },
+  "8961": {
+    "name": "Tyras guard",
+    "hitpoints": 110
+  },
+  "8962": {
+    "name": "Tyras guard",
+    "hitpoints": 110
+  },
+  "8963": {
+    "name": "Tyras guard",
+    "hitpoints": 110
+  },
+  "8964": {
+    "name": "Tyras guard",
+    "hitpoints": 110
   },
   "8978": {
     "name": "Blessed spider",
@@ -12543,6 +12571,10 @@
     "name": "Guard",
     "hitpoints": 22
   },
+  "11946": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
   "11947": {
     "name": "Guard",
     "hitpoints": 22
@@ -13363,6 +13395,18 @@
     "name": "Hill Giant",
     "hitpoints": 35
   },
+  "12851": {
+    "name": "Rabbit",
+    "hitpoints": 5
+  },
+  "12852": {
+    "name": "Rabbit",
+    "hitpoints": 5
+  },
+  "12853": {
+    "name": "Rabbit",
+    "hitpoints": 5
+  },
   "12879": {
     "name": "Sulphur Nagua",
     "hitpoints": 100
@@ -13789,7 +13833,7 @@
   },
   "13656": {
     "name": "Vardorvis",
-    "hitpoints": 1500
+    "hitpoints": 500
   },
   "13657": {
     "name": "Cerberus",
@@ -13797,7 +13841,7 @@
   },
   "13658": {
     "name": "Bee Swarm",
-    "hitpoints": 2000
+    "hitpoints": 750
   },
   "13659": {
     "name": "Thermonuclear smoke devil",
@@ -13805,7 +13849,7 @@
   },
   "13660": {
     "name": "Jaguar warrior",
-    "hitpoints": 1500
+    "hitpoints": 750
   },
   "13661": {
     "name": "TzTok-Jad",
@@ -13813,15 +13857,15 @@
   },
   "13662": {
     "name": "Durial321",
-    "hitpoints": 1000
+    "hitpoints": 500
   },
   "13663": {
     "name": "Magic Mark",
-    "hitpoints": 1500
+    "hitpoints": 500
   },
   "13664": {
     "name": "Ranging Ro",
-    "hitpoints": 1500
+    "hitpoints": 500
   },
   "13666": {
     "name": "Araxyte",
@@ -14235,13 +14279,29 @@
     "name": "Judge of Yama",
     "hitpoints": 400
   },
+  "14222": {
+    "name": "Stag",
+    "hitpoints": 19
+  },
   "14268": {
     "name": "Emissary Enforcer",
     "hitpoints": 126
   },
+  "14313": {
+    "name": "Augur Metzli",
+    "hitpoints": 600
+  },
   "14318": {
     "name": "Augur Metzli",
     "hitpoints": 600
+  },
+  "14331": {
+    "name": "Ennius Tullus",
+    "hitpoints": 380
+  },
+  "14332": {
+    "name": "Ennius Tullus",
+    "hitpoints": 380
   },
   "14362": {
     "name": "Chimalli",
@@ -14250,6 +14310,34 @@
   "14363": {
     "name": "Lucius",
     "hitpoints": 180
+  },
+  "14421": {
+    "name": "Earthen Nagua",
+    "hitpoints": 160
+  },
+  "14422": {
+    "name": "Moss giant",
+    "hitpoints": 60
+  },
+  "14423": {
+    "name": "Rockslug",
+    "hitpoints": 27
+  },
+  "14426": {
+    "name": "Skeleton",
+    "hitpoints": 30
+  },
+  "14427": {
+    "name": "Skeleton",
+    "hitpoints": 30
+  },
+  "14428": {
+    "name": "Skeleton",
+    "hitpoints": 30
+  },
+  "14430": {
+    "name": "Grimy Lizard",
+    "hitpoints": 75
   },
   "14510": {
     "name": "Large chicken",
@@ -14267,6 +14355,50 @@
     "name": "Ancient Custodian",
     "hitpoints": 330
   },
+  "14545": {
+    "name": "Ocelot",
+    "hitpoints": 40
+  },
+  "14546": {
+    "name": "Ocelot",
+    "hitpoints": 40
+  },
+  "14547": {
+    "name": "Ocelot",
+    "hitpoints": 40
+  },
+  "14663": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14664": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14665": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14666": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14667": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14668": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14669": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14670": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
   "14702": {
     "name": "Juvenile custodian stalker",
     "hitpoints": 135
@@ -14282,5 +14414,37 @@
   "14706": {
     "name": "Strange creature",
     "hitpoints": 100
+  },
+  "14716": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14717": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14718": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14719": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14720": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14721": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14722": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14723": {
+    "name": "Guard",
+    "hitpoints": 22
   }
 }
