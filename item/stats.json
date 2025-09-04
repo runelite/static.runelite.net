@@ -36766,12 +36766,10 @@
   },
   "10006": {
     "name": "Bird snare",
-    "weight": 0.453,
     "ge_limit": 250
   },
   "10008": {
     "name": "Box trap",
-    "weight": 0.226,
     "ge_limit": 250
   },
   "10010": {
@@ -36833,7 +36831,6 @@
   },
   "10025": {
     "name": "Magic box",
-    "weight": 1.0,
     "ge_limit": 250
   },
   "10027": {
@@ -36851,7 +36848,6 @@
   },
   "10031": {
     "name": "Rabbit snare",
-    "weight": 0.02,
     "ge_limit": 250
   },
   "10033": {
@@ -57425,7 +57421,7 @@
     "equipment": {
       "slot": 2
     },
-    "ge_limit": 200
+    "ge_limit": 15000
   },
   "21166": {
     "name": "Burning amulet(5)",
@@ -60557,7 +60553,7 @@
       "dmagic": 1,
       "drange": 5
     },
-    "ge_limit": 125
+    "ge_limit": 18000
   },
   "22254": {
     "name": "Willow shield",
@@ -60571,7 +60567,7 @@
       "dmagic": 2,
       "drange": 6
     },
-    "ge_limit": 125
+    "ge_limit": 18000
   },
   "22257": {
     "name": "Maple shield",
@@ -60585,7 +60581,7 @@
       "dmagic": 2,
       "drange": 7
     },
-    "ge_limit": 125
+    "ge_limit": 18000
   },
   "22260": {
     "name": "Yew shield",
@@ -60599,7 +60595,7 @@
       "dmagic": 3,
       "drange": 8
     },
-    "ge_limit": 125
+    "ge_limit": 18000
   },
   "22263": {
     "name": "Magic shield",
@@ -60613,7 +60609,7 @@
       "dmagic": 3,
       "drange": 9
     },
-    "ge_limit": 125
+    "ge_limit": 18000
   },
   "22266": {
     "name": "Redwood shield",
@@ -60627,7 +60623,7 @@
       "dmagic": 4,
       "drange": 10
     },
-    "ge_limit": 125
+    "ge_limit": 18000
   },
   "22269": {
     "name": "Hard leather shield",
@@ -70677,7 +70673,7 @@
   },
   "25139": {
     "name": "Bone fragments",
-    "ge_limit": 100
+    "ge_limit": 500
   },
   "25145": {
     "name": "Clay head",
@@ -73769,7 +73765,8 @@
       "drange": 6,
       "prayer": 1,
       "mdmg": 3.0
-    }
+    },
+    "ge_limit": 8
   },
   "25990": {
     "name": "Sigil of resilience",
@@ -86431,7 +86428,8 @@
       "dmagic": 7,
       "drange": 29,
       "str": 4
-    }
+    },
+    "ge_limit": 15
   },
   "29076": {
     "name": "Raw moss lizard",
@@ -86603,7 +86601,8 @@
   },
   "29171": {
     "name": "Moonlight antelope antler",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 18000
   },
   "29174": {
     "name": "Moonlight antelope fur",
@@ -86770,7 +86769,8 @@
   },
   "29256": {
     "name": "Perfected quetzal whistle blueprint",
-    "weight": 0.004
+    "weight": 0.004,
+    "ge_limit": 50
   },
   "29259": {
     "name": "Torn enhanced quetzal whistle blueprint",
@@ -86866,7 +86866,8 @@
       "dcrush": 22,
       "dmagic": 16,
       "drange": 20
-    }
+    },
+    "ge_limit": 100
   },
   "29286": {
     "name": "Mixed hide boots",
@@ -88427,7 +88428,8 @@
       "aslash": 132,
       "str": 142,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "29799": {
     "name": "Araxyte fang",
@@ -88921,6 +88923,10 @@
       "dmagic": 3,
       "prayer": 2
     }
+  },
+  "29895": {
+    "name": "Frozen tear",
+    "ge_limit": 13000
   },
   "29897": {
     "name": "Icon",
@@ -89508,7 +89514,8 @@
   },
   "30068": {
     "name": "Soiled page",
-    "weight": 0.005
+    "weight": 0.005,
+    "ge_limit": 11000
   },
   "30070": {
     "name": "Dragon hunter wand",
@@ -91938,6 +91945,10 @@
     "name": "Mimic scroll case",
     "weight": 0.02
   },
+  "30928": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
   "30929": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
@@ -91966,9 +91977,9 @@
     "name": "Caerula berries",
     "weight": 0.005
   },
-  "30939": {
-    "name": "Mind mender",
-    "weight": 0.056
+  "30941": {
+    "name": "Coin purse",
+    "weight": 0.125
   },
   "30942": {
     "name": "Empty coin purse",
@@ -91983,11 +91994,11 @@
     "weight": 0.5
   },
   "30945": {
-    "name": "Branch (The Final Dawn)",
-    "weight": 0.5
+    "name": "Branch",
+    "weight": 0.025
   },
   "30946": {
-    "name": "Key (Forebearer Janus)",
+    "name": "{{Null name}}",
     "weight": 0.02
   },
   "30947": {
@@ -92014,6 +92025,10 @@
   "30951": {
     "name": "Key (The Final Dawn)",
     "weight": 0.02
+  },
+  "30953": {
+    "name": "Stone tablet",
+    "weight": 1.0
   },
   "30955": {
     "name": "Arkan blade",
@@ -92151,13 +92166,18 @@
     "name": "Greenman carving",
     "weight": 3.0
   },
+  "31027": {
+    "name": "Greenman statue",
+    "weight": 5.0
+  },
   "31034": {
     "name": "Greenman mask",
     "weight": 0.1,
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 4
   },
   "31037": {
     "name": "Greenman mask (normal)",
@@ -92231,13 +92251,13 @@
     "name": "Bow string spool",
     "weight": 0.5
   },
-  "31054": {
-    "name": "Vale offerings",
-    "weight": 0.028
-  },
   "31071": {
     "name": "Letter",
     "weight": 0.005
+  },
+  "31073": {
+    "name": "Letter",
+    "weight": 0.01
   },
   "31075": {
     "name": "Alan's blessed bones",
@@ -92262,14 +92282,14 @@
       "acrush": 15,
       "amagic": 9,
       "arange": 9,
-      "dstab": -25,
-      "dslash": -25,
-      "dcrush": -25,
-      "dmagic": -25,
-      "drange": -25,
+      "dstab": -15,
+      "dslash": -15,
+      "dcrush": -15,
+      "dmagic": -15,
+      "drange": -15,
       "str": 5,
       "rstr": 2,
-      "prayer": 4
+      "prayer": 5
     }
   },
   "31084": {
@@ -92299,7 +92319,8 @@
       "str": 4,
       "rstr": 2,
       "mdmg": 1.0
-    }
+    },
+    "ge_limit": 8
   },
   "31091": {
     "name": "Avernic treads (pr)",
@@ -92450,7 +92471,7 @@
   },
   "31099": {
     "name": "Mokhaiotl waystone",
-    "weight": 0.1
+    "ge_limit": 100
   },
   "31106": {
     "name": "Confliction gauntlets",
@@ -92478,7 +92499,7 @@
     "ge_limit": 13000
   },
   "31113": {
-    "name": "Eye of ayak (uncharged)",
+    "name": "Eye of ayak",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -92493,7 +92514,7 @@
     }
   },
   "31115": {
-    "name": "Eye of ayak",
+    "name": "Eye of ayak (uncharged)",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -92505,7 +92526,8 @@
       "dmagic": 10,
       "prayer": 2,
       "aspeed": 3
-    }
+    },
+    "ge_limit": 8
   },
   "31117": {
     "name": "Orange",
@@ -92547,5 +92569,106 @@
   "31130": {
     "name": "Dom",
     "weight": 0.015
+  },
+  "31132": {
+    "name": "Dinh's blazing bulwark",
+    "weight": 30.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "31133": {
+    "name": "Venator bow",
+    "weight": 4.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 5
+    }
+  },
+  "31136": {
+    "name": "Blood moon armour set",
+    "weight": 0.05
+  },
+  "31139": {
+    "name": "Blue moon armour set",
+    "weight": 0.05
+  },
+  "31142": {
+    "name": "Eclipse moon armour set",
+    "weight": 0.05
+  },
+  "31145": {
+    "name": "Torva armour set",
+    "weight": 0.05
+  },
+  "31148": {
+    "name": "Virtus armour set",
+    "weight": 0.05
+  },
+  "31151": {
+    "name": "Rock-shell armour set",
+    "weight": 0.05
+  },
+  "31154": {
+    "name": "Skeletal armour set",
+    "weight": 0.05
+  },
+  "31157": {
+    "name": "Spined armour set",
+    "weight": 0.05
+  },
+  "31160": {
+    "name": "Swampbark armour set",
+    "weight": 0.05
+  },
+  "31163": {
+    "name": "Bloodbark armour set",
+    "weight": 0.05
+  },
+  "31166": {
+    "name": "Mixed hide armour set",
+    "weight": 0.05
+  },
+  "31169": {
+    "name": "Hueycoatl hide armour set",
+    "weight": 0.05
+  },
+  "31780": {
+    "name": "Nifty hat",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31853": {
+    "name": "Trawler's trust",
+    "weight": 0.5
+  },
+  "31932": {
+    "name": "Camphor crate",
+    "weight": 1.0
+  },
+  "32217": {
+    "name": "Crate of moonrise wine",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {}
+  },
+  "32218": {
+    "name": "Crate of bread",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {}
+  },
+  "32219": {
+    "name": "Crate of medical supplies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {}
   }
 }
