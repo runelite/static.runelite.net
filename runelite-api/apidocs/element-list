@@ -5,7 +5,6 @@ net.runelite.api.clan
 net.runelite.api.coords
 net.runelite.api.dbtable
 net.runelite.api.events
-net.runelite.api.gameval
 net.runelite.api.geometry
 net.runelite.api.hooks
 net.runelite.api.kit
