@@ -8,7 +8,7 @@
     "weight": 0.453
   },
   "2": {
-    "name": "Cannonball",
+    "name": "Steel cannonball",
     "ge_limit": 11000
   },
   "3": {
@@ -2551,7 +2551,7 @@
     "weight": 0.4
   },
   "796": {
-    "name": "Exploding vial",
+    "name": "{{Null name}}",
     "weight": 0.025
   },
   "797": {
@@ -26204,7 +26204,7 @@
     "weight": 0.02
   },
   "6675": {
-    "name": "An empty box",
+    "name": "Empty fish food box",
     "weight": 0.028
   },
   "6677": {
@@ -29313,40 +29313,40 @@
     "weight": 0.056
   },
   "7518": {
-    "name": "Crab meat",
+    "name": "Giant crab meat",
     "weight": 0.907
   },
   "7520": {
-    "name": "Burnt crab meat",
+    "name": "Burnt giant crab meat",
     "weight": 0.907
   },
   "7521": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "weight": 0.907,
     "ge_limit": 6000
   },
   "7523": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "weight": 0.907,
     "ge_limit": 6000
   },
   "7524": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "weight": 0.907,
     "ge_limit": 6000
   },
   "7525": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "weight": 0.907,
     "ge_limit": 6000
   },
   "7526": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "weight": 0.907,
     "ge_limit": 6000
   },
   "7527": {
-    "name": "Ground crab meat",
+    "name": "Ground giant crab meat",
     "weight": 0.907
   },
   "7528": {
@@ -52488,31 +52488,31 @@
     "weight": 0.01
   },
   "19570": {
-    "name": "Bronze javelin heads",
+    "name": "Bronze javelin tips",
     "ge_limit": 10000
   },
   "19572": {
-    "name": "Iron javelin heads",
+    "name": "Iron javelin tips",
     "ge_limit": 10000
   },
   "19574": {
-    "name": "Steel javelin heads",
+    "name": "Steel javelin tips",
     "ge_limit": 10000
   },
   "19576": {
-    "name": "Mithril javelin heads",
+    "name": "Mithril javelin tips",
     "ge_limit": 10000
   },
   "19578": {
-    "name": "Adamant javelin heads",
+    "name": "Adamant javelin tips",
     "ge_limit": 10000
   },
   "19580": {
-    "name": "Rune javelin heads",
+    "name": "Rune javelin tips",
     "ge_limit": 10000
   },
   "19582": {
-    "name": "Dragon javelin heads",
+    "name": "Dragon javelin tips",
     "ge_limit": 10000
   },
   "19584": {
@@ -58006,7 +58006,7 @@
     "ge_limit": 10000
   },
   "21352": {
-    "name": "Amethyst javelin heads",
+    "name": "Amethyst javelin tips",
     "ge_limit": 10000
   },
   "21354": {
@@ -62557,10 +62557,6 @@
       "dcrush": 1,
       "aspeed": 4
     }
-  },
-  "22818": {
-    "name": "Fish chunks",
-    "ge_limit": 13000
   },
   "22826": {
     "name": "Bluegill",
@@ -70627,6 +70623,46 @@
     "weight": 0.1,
     "ge_limit": 6
   },
+  "25102": {
+    "name": "Fairy mushroom",
+    "weight": 0.002,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25104": {
+    "name": "Crystal of echoes",
+    "equipable": true,
+    "equipment": {}
+  },
+  "25110": {
+    "name": "Echo axe",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25112": {
+    "name": "Echo pickaxe",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25114": {
+    "name": "Echo harpoon",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
   "25117": {
     "name": "League tomato",
     "weight": 0.08
@@ -75507,6 +75543,16 @@
     "weight": 0.1,
     "ge_limit": 5
   },
+  "26551": {
+    "name": "Arcane grimoire",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 6,
+      "prayer": 3
+    }
+  },
   "26554": {
     "name": "Shattered relic hunter (t1) armour set",
     "weight": 0.05
@@ -79452,7 +79498,8 @@
   },
   "27355": {
     "name": "Masori armour set (f)",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 5
   },
   "27358": {
     "name": "Tome of fire",
@@ -80754,15 +80801,18 @@
   },
   "27681": {
     "name": "Voidwaker hilt",
-    "weight": 0.514
+    "weight": 0.514,
+    "ge_limit": 8
   },
   "27684": {
     "name": "Voidwaker blade",
-    "weight": 0.9
+    "weight": 0.9,
+    "ge_limit": 8
   },
   "27687": {
     "name": "Voidwaker gem",
-    "weight": 0.3
+    "weight": 0.3,
+    "ge_limit": 8
   },
   "27690": {
     "name": "Voidwaker",
@@ -85282,6 +85332,17 @@
       "slot": 5
     }
   },
+  "28767": {
+    "name": "Banker's note",
+    "weight": 0.001
+  },
+  "28771": {
+    "name": "Sage's greaves",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
   "28777": {
     "name": "Trailblazer reloaded relic hunter (t1) armour set",
     "weight": 0.05
@@ -86595,6 +86656,10 @@
     "name": "Fox fur",
     "weight": 3.0
   },
+  "29166": {
+    "name": "Jerboa tail",
+    "ge_limit": 18000
+  },
   "29168": {
     "name": "Sunlight antelope antler",
     "weight": 0.3
@@ -87224,7 +87289,8 @@
   },
   "29455": {
     "name": "Teleport anchoring scroll",
-    "weight": 0.015
+    "weight": 0.015,
+    "ge_limit": 5
   },
   "29458": {
     "name": "Adamant seeds",
@@ -90512,6 +90578,195 @@
       "aspeed": 5
     }
   },
+  "30361": {
+    "name": "Banker's briefcase",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "30367": {
+    "name": "The dogsword",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 132,
+      "acrush": 80,
+      "str": 132,
+      "prayer": 8,
+      "aspeed": 6
+    }
+  },
+  "30369": {
+    "name": "Sunlight spear",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 125,
+      "aslash": 75,
+      "dstab": 70,
+      "dslash": 70,
+      "dcrush": 70,
+      "dmagic": 28,
+      "drange": 70,
+      "str": 113,
+      "aspeed": 5
+    }
+  },
+  "30371": {
+    "name": "Devil's element",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 20,
+      "prayer": 3,
+      "mdmg": 6.0
+    }
+  },
+  "30373": {
+    "name": "Drygore blowpipe (empty)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 50,
+      "aspeed": 3
+    }
+  },
+  "30374": {
+    "name": "Drygore blowpipe",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 50,
+      "rstr": 10,
+      "aspeed": 3
+    }
+  },
+  "30376": {
+    "name": "Amulet of the monarchs",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "astab": 30,
+      "aslash": 30,
+      "acrush": 30,
+      "amagic": 30,
+      "arange": 30,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "str": 15,
+      "rstr": 15,
+      "prayer": 10,
+      "mdmg": 10.0
+    }
+  },
+  "30378": {
+    "name": "Emperor ring",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "astab": 30,
+      "aslash": 30,
+      "acrush": 30,
+      "amagic": 30,
+      "arange": 30,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "str": 15,
+      "rstr": 15,
+      "prayer": 10,
+      "mdmg": 5.0
+    }
+  },
+  "30380": {
+    "name": "Gloves of the damned",
+    "weight": 0.226,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "30382": {
+    "name": "Thousand-dragon ward",
+    "weight": 7.257,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 35,
+      "aslash": 35,
+      "acrush": 35,
+      "amagic": 15,
+      "arange": 25,
+      "dstab": 50,
+      "dslash": 55,
+      "dcrush": 53,
+      "dmagic": 40,
+      "drange": 52,
+      "str": 12,
+      "prayer": 6
+    }
+  },
+  "30386": {
+    "name": "Sunlit bracers",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": 6,
+      "arange": 18,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 8,
+      "rstr": 4
+    }
+  },
+  "30388": {
+    "name": "Thunder khopesh",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 65,
+      "aslash": 110,
+      "str": 100,
+      "aspeed": 4
+    }
+  },
   "30404": {
     "name": "Raging echoes hat (t1)",
     "weight": 0.453,
@@ -92637,6 +92892,213 @@
     "name": "Hueycoatl hide armour set",
     "weight": 0.05
   },
+  "31172": {
+    "name": "Battlehat",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
+      "amagic": 15,
+      "arange": 15,
+      "dstab": 60,
+      "dslash": 60,
+      "dcrush": 60,
+      "dmagic": 60,
+      "drange": 60,
+      "str": 10,
+      "rstr": 5,
+      "prayer": 10,
+      "mdmg": 5.0
+    }
+  },
+  "31174": {
+    "name": "Corrupted shark",
+    "weight": 0.65
+  },
+  "31181": {
+    "name": "Grid master tabard",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31184": {
+    "name": "Grid master tabard (b)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31187": {
+    "name": "Grid master tabard (p)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31190": {
+    "name": "Grid master tabard (g)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31193": {
+    "name": "Swords and emblem",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "31196": {
+    "name": "Swords and emblem (b)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "31199": {
+    "name": "Swords and emblem (p)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "31202": {
+    "name": "Swords and emblem (g)",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "31205": {
+    "name": "Grid master altar icon scroll",
+    "weight": 0.1
+  },
+  "31208": {
+    "name": "Grid master torch scroll",
+    "weight": 0.1
+  },
+  "31211": {
+    "name": "Event lamp",
+    "weight": 0.1
+  },
+  "31212": {
+    "name": "Combatant scroll",
+    "weight": 0.01
+  },
+  "31214": {
+    "name": "Craftsman scroll",
+    "weight": 0.01
+  },
+  "31216": {
+    "name": "Gatherer scroll",
+    "weight": 0.01
+  },
+  "31222": {
+    "name": "Spooky picture",
+    "weight": 1.0
+  },
+  "31223": {
+    "name": "Spooky wall lamp",
+    "weight": 1.0
+  },
+  "31224": {
+    "name": "Spooky scarecrow",
+    "weight": 1.0
+  },
+  "31225": {
+    "name": "Spooky chair",
+    "weight": 0.05
+  },
+  "31227": {
+    "name": "Spooky pumpkin lantern",
+    "weight": 0.07,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "31229": {
+    "name": "Grim reaper top",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31231": {
+    "name": "Grim reaper bottoms",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "31233": {
+    "name": "Grim reaper gloves",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 9
+    }
+  },
+  "31469": {
+    "name": "Cotton yarn",
+    "weight": 0.1
+  },
+  "31481": {
+    "name": "Elkhorn coral",
+    "weight": 0.028
+  },
+  "31553": {
+    "name": "Raw swordtip squid",
+    "weight": 0.45
+  },
+  "31569": {
+    "name": "Squid paste",
+    "weight": 0.3
+  },
+  "31587": {
+    "name": "Haemostatic poultice",
+    "weight": 0.03
+  },
+  "31590": {
+    "name": "Haemostatic dressing (4)",
+    "weight": 0.02
+  },
+  "31593": {
+    "name": "Haemostatic dressing (3)",
+    "weight": 0.02
+  },
+  "31596": {
+    "name": "Haemostatic dressing (2)",
+    "weight": 0.02
+  },
+  "31599": {
+    "name": "Haemostatic dressing (1)",
+    "weight": 0.02
+  },
+  "31662": {
+    "name": "Elkhorn potion (unf)",
+    "weight": 0.056
+  },
+  "31716": {
+    "name": "Lead ore",
+    "weight": 2.267
+  },
   "31780": {
     "name": "Nifty hat",
     "weight": 0.6,
@@ -92652,6 +93114,42 @@
   "31932": {
     "name": "Camphor crate",
     "weight": 1.0
+  },
+  "31964": {
+    "name": "Repair kit",
+    "weight": 0.5
+  },
+  "31967": {
+    "name": "Oak repair kit",
+    "weight": 0.5
+  },
+  "31970": {
+    "name": "Teak repair kit",
+    "weight": 0.5
+  },
+  "31973": {
+    "name": "Mahogany repair kit",
+    "weight": 0.5
+  },
+  "31976": {
+    "name": "Camphor repair kit",
+    "weight": 0.5
+  },
+  "31979": {
+    "name": "Ironwood repair kit",
+    "weight": 0.5
+  },
+  "31982": {
+    "name": "Rosewood repair kit",
+    "weight": 0.5
+  },
+  "31989": {
+    "name": "Boat bottle (empty)",
+    "weight": 0.02
+  },
+  "31992": {
+    "name": "Boat bottle (full)",
+    "weight": 0.02
   },
   "32217": {
     "name": "Crate of moonrise wine",
@@ -92670,5 +93168,13 @@
     "weight": 1.285,
     "equipable": true,
     "equipment": {}
+  },
+  "32889": {
+    "name": "Lead bar",
+    "weight": 1.814
+  },
+  "32904": {
+    "name": "Camphor logs",
+    "weight": 2.0
   }
 }
