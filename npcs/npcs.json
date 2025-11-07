@@ -2885,7 +2885,7 @@
   },
   "1722": {
     "name": "Torcher",
-    "hitpoints": 71
+    "hitpoints": 70
   },
   "1723": {
     "name": "Torcher",
@@ -5278,6 +5278,14 @@
   "3458": {
     "name": "Kamil",
     "hitpoints": 130
+  },
+  "3459": {
+    "name": "Dessous",
+    "hitpoints": 200
+  },
+  "3460": {
+    "name": "Dessous",
+    "hitpoints": 200
   },
   "3473": {
     "name": "The Inadequacy",
@@ -8675,6 +8683,10 @@
     "name": "Gelatinnoth Mother",
     "hitpoints": 240
   },
+  "6379": {
+    "name": "Nezikchened",
+    "hitpoints": 150
+  },
   "6380": {
     "name": "Tree spirit",
     "hitpoints": 85
@@ -9897,7 +9909,7 @@
   },
   "7403": {
     "name": "Repugnant spectre",
-    "hitpoints": 390
+    "hitpoints": 380
   },
   "7404": {
     "name": "Choke devil",
@@ -9905,7 +9917,7 @@
   },
   "7405": {
     "name": "King kurask",
-    "hitpoints": 420
+    "hitpoints": 270
   },
   "7406": {
     "name": "Nuclear smoke devil",
@@ -11773,11 +11785,11 @@
   },
   "10689": {
     "name": "Chaos Golem",
-    "hitpoints": 71
+    "hitpoints": 94
   },
   "10690": {
     "name": "Rubble",
-    "hitpoints": 71
+    "hitpoints": 94
   },
   "10691": {
     "name": "Body Golem",
@@ -12425,7 +12437,7 @@
   },
   "11781": {
     "name": "Baboon",
-    "hitpoints": 35
+    "hitpoints": 10
   },
   "11892": {
     "name": "White Knight",
@@ -13363,6 +13375,10 @@
     "name": "Sol Heredit",
     "hitpoints": 1500
   },
+  "12825": {
+    "name": "Healing totem",
+    "hitpoints": 1
+  },
   "12833": {
     "name": "Passionate Supporter",
     "hitpoints": 10
@@ -13810,10 +13826,6 @@
   "13537": {
     "name": "Mercenary mage",
     "hitpoints": 150
-  },
-  "13566": {
-    "name": "Elite Black Knight",
-    "hitpoints": 90
   },
   "13599": {
     "name": "Tormented Demon",
@@ -14311,6 +14323,14 @@
     "name": "Lucius",
     "hitpoints": 180
   },
+  "14407": {
+    "name": "Emissary Archer",
+    "hitpoints": 40
+  },
+  "14408": {
+    "name": "Emissary Archer",
+    "hitpoints": 40
+  },
   "14421": {
     "name": "Earthen Nagua",
     "hitpoints": 160
@@ -14446,5 +14466,25 @@
   "14723": {
     "name": "Guard",
     "hitpoints": 22
+  },
+  "15196": {
+    "name": "Hammerhead Shark",
+    "hitpoints": 90
+  },
+  "15198": {
+    "name": "Tiger shark",
+    "hitpoints": 125
+  },
+  "15206": {
+    "name": "Pygmy kraken",
+    "hitpoints": 125
+  },
+  "15218": {
+    "name": "Stringray",
+    "hitpoints": 90
+  },
+  "15228": {
+    "name": "Tern",
+    "hitpoints": 30
   }
 }
