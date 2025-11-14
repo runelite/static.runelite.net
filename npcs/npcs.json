@@ -4031,10 +4031,6 @@
     "name": "Abyssal walker",
     "hitpoints": 95
   },
-  "2592": {
-    "name": "Mogre",
-    "hitpoints": 48
-  },
   "2593": {
     "name": "Werewolf",
     "hitpoints": 100
@@ -9896,7 +9892,7 @@
     "hitpoints": 190
   },
   "7400": {
-    "name": "Vitreous warped Jelly",
+    "name": "Vitreous Warped Jelly",
     "hitpoints": 220
   },
   "7401": {
@@ -14271,6 +14267,10 @@
     "name": "Jonny the Beard",
     "hitpoints": 8
   },
+  "14139": {
+    "name": "Jonny the Beard",
+    "hitpoints": 8
+  },
   "14147": {
     "name": "Eldric the Ice King",
     "hitpoints": 600
@@ -14467,6 +14467,10 @@
     "name": "Guard",
     "hitpoints": 22
   },
+  "15194": {
+    "name": "Bull shark",
+    "hitpoints": 90
+  },
   "15196": {
     "name": "Hammerhead Shark",
     "hitpoints": 90
@@ -14483,8 +14487,20 @@
     "name": "Stringray",
     "hitpoints": 90
   },
+  "15222": {
+    "name": "Osprey",
+    "hitpoints": 80
+  },
   "15228": {
     "name": "Tern",
     "hitpoints": 30
+  },
+  "15234": {
+    "name": "Dolphin",
+    "hitpoints": 50
+  },
+  "15501": {
+    "name": "Vitreous Chilled Jelly",
+    "hitpoints": 220
   }
 }
