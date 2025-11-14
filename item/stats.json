@@ -85012,6 +85012,10 @@
     "name": "Fox whistle",
     "weight": 0.005
   },
+  "28628": {
+    "name": "Sawmill voucher",
+    "ge_limit": 10000
+  },
   "28630": {
     "name": "Twitcher's gloves",
     "equipable": true,
@@ -93055,21 +93059,328 @@
       "slot": 9
     }
   },
+  "31235": {
+    "name": "Gryphon feather",
+    "weight": 0.002
+  },
+  "31241": {
+    "name": "Horn of plenty",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "31243": {
+    "name": "Horn of plenty (empty)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "31245": {
+    "name": "Belle's folly (tarnished)",
+    "weight": 1.36
+  },
+  "31283": {
+    "name": "Soup",
+    "weight": 0.015
+  },
+  "31285": {
+    "name": "Gull",
+    "weight": 0.015
+  },
+  "31288": {
+    "name": "Sailing cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "dstab": 9,
+      "dslash": 9,
+      "dcrush": 9,
+      "dmagic": 9,
+      "drange": 9
+    }
+  },
+  "31290": {
+    "name": "Sailing cape(t)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "dstab": 9,
+      "dslash": 9,
+      "dcrush": 9,
+      "dmagic": 9,
+      "drange": 9,
+      "prayer": 4
+    }
+  },
+  "31383": {
+    "name": "Camphor pyre logs",
+    "weight": 1.36
+  },
+  "31386": {
+    "name": "Ironwood pyre logs",
+    "weight": 1.36
+  },
+  "31389": {
+    "name": "Rosewood pyre logs",
+    "weight": 1.36
+  },
+  "31408": {
+    "name": "Giant blue krill",
+    "weight": 0.7
+  },
+  "31412": {
+    "name": "Golden haddock",
+    "weight": 0.7
+  },
+  "31416": {
+    "name": "Orangefin",
+    "weight": 0.7
+  },
+  "31420": {
+    "name": "Huge halibut",
+    "weight": 0.7
+  },
+  "31424": {
+    "name": "Purplefin",
+    "weight": 0.7
+  },
+  "31428": {
+    "name": "Swift marlin",
+    "weight": 0.7
+  },
+  "31432": {
+    "name": "Camphor plank",
+    "weight": 0.8
+  },
+  "31435": {
+    "name": "Ironwood plank",
+    "weight": 0.8
+  },
+  "31438": {
+    "name": "Rosewood plank",
+    "weight": 0.8
+  },
+  "31454": {
+    "name": "Ball of cotton",
+    "weight": 0.012
+  },
+  "31457": {
+    "name": "Hemp",
+    "weight": 0.453
+  },
+  "31460": {
+    "name": "Cotton boll",
+    "weight": 0.453
+  },
+  "31463": {
+    "name": "Linen yarn",
+    "weight": 0.1
+  },
+  "31466": {
+    "name": "Hemp yarn",
+    "weight": 0.1
+  },
   "31469": {
     "name": "Cotton yarn",
     "weight": 0.1
+  },
+  "31472": {
+    "name": "Bolt of linen",
+    "weight": 1.0
+  },
+  "31475": {
+    "name": "Bolt of canvas",
+    "weight": 1.0
+  },
+  "31478": {
+    "name": "Bolt of cotton",
+    "weight": 1.0
   },
   "31481": {
     "name": "Elkhorn coral",
     "weight": 0.028
   },
+  "31484": {
+    "name": "Pillar coral",
+    "weight": 0.028
+  },
+  "31487": {
+    "name": "Umbral coral",
+    "weight": 0.028
+  },
+  "31490": {
+    "name": "Camphor seedling",
+    "weight": 0.907
+  },
+  "31492": {
+    "name": "Ironwood seedling",
+    "weight": 0.907
+  },
+  "31494": {
+    "name": "Rosewood seedling",
+    "weight": 0.907
+  },
+  "31496": {
+    "name": "Camphor seedling (w)",
+    "weight": 0.907
+  },
+  "31498": {
+    "name": "Ironwood seedling (w)",
+    "weight": 0.907
+  },
+  "31500": {
+    "name": "Rosewood seedling (w)",
+    "weight": 0.907
+  },
+  "31502": {
+    "name": "Camphor sapling",
+    "weight": 0.907
+  },
+  "31505": {
+    "name": "Ironwood sapling",
+    "weight": 0.907
+  },
+  "31508": {
+    "name": "Rosewood sapling",
+    "weight": 0.907
+  },
+  "31511": {
+    "name": "Elkhorn frag",
+    "weight": 0.001
+  },
+  "31513": {
+    "name": "Pillar frag",
+    "weight": 0.001
+  },
+  "31515": {
+    "name": "Umbral frag",
+    "weight": 0.001
+  },
+  "31541": {
+    "name": "Flax seed",
+    "weight": 0.001
+  },
+  "31543": {
+    "name": "Hemp seed",
+    "weight": 0.001
+  },
+  "31545": {
+    "name": "Cotton seed",
+    "weight": 0.001
+  },
+  "31547": {
+    "name": "Camphor seed",
+    "weight": 0.002
+  },
+  "31549": {
+    "name": "Ironwood seed",
+    "weight": 0.002
+  },
+  "31551": {
+    "name": "Rosewood seed",
+    "weight": 0.002
+  },
   "31553": {
     "name": "Raw swordtip squid",
+    "weight": 0.45
+  },
+  "31556": {
+    "name": "Swordtip squid",
+    "weight": 0.45
+  },
+  "31561": {
+    "name": "Raw jumbo squid",
+    "weight": 0.45
+  },
+  "31564": {
+    "name": "Jumbo squid",
     "weight": 0.45
   },
   "31569": {
     "name": "Squid paste",
     "weight": 0.3
+  },
+  "31572": {
+    "name": "Squid beak",
+    "weight": 0.1
+  },
+  "31575": {
+    "name": "Camphor blowpipe",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 12,
+      "rstr": 2,
+      "aspeed": 3
+    }
+  },
+  "31577": {
+    "name": "Camphor blowpipe (empty)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 12,
+      "rstr": 2,
+      "aspeed": 3
+    }
+  },
+  "31579": {
+    "name": "Ironwood blowpipe",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 16,
+      "rstr": 4,
+      "aspeed": 3
+    }
+  },
+  "31581": {
+    "name": "Ironwood blowpipe (empty)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 16,
+      "rstr": 4,
+      "aspeed": 3
+    }
+  },
+  "31583": {
+    "name": "Rosewood blowpipe",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 22,
+      "rstr": 6,
+      "aspeed": 3
+    }
+  },
+  "31585": {
+    "name": "Rosewood blowpipe (empty)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 22,
+      "rstr": 6,
+      "aspeed": 3
+    }
   },
   "31587": {
     "name": "Haemostatic poultice",
@@ -93095,11 +93406,111 @@
     "name": "Elkhorn potion (unf)",
     "weight": 0.056
   },
+  "31671": {
+    "name": "Red crab",
+    "weight": 600.0
+  },
+  "31674": {
+    "name": "Blue crab",
+    "weight": 0.6
+  },
+  "31677": {
+    "name": "Rainbow crab",
+    "weight": 0.6
+  },
+  "31680": {
+    "name": "Rainbow crab",
+    "weight": 0.6
+  },
+  "31683": {
+    "name": "Rainbow crab",
+    "weight": 0.6
+  },
+  "31686": {
+    "name": "Raw red crab meat",
+    "weight": 0.35
+  },
+  "31689": {
+    "name": "Red crab meat",
+    "weight": 0.35
+  },
+  "31692": {
+    "name": "Raw blue crab meat",
+    "weight": 0.35
+  },
+  "31695": {
+    "name": "Blue crab meat",
+    "weight": 0.35
+  },
+  "31700": {
+    "name": "Raw rainbow crab meat",
+    "weight": 0.35
+  },
+  "31703": {
+    "name": "Rainbow crab meat",
+    "weight": 0.35
+  },
+  "31708": {
+    "name": "Crab paste",
+    "weight": 0.3
+  },
+  "31710": {
+    "name": "Rainbow crab paste",
+    "weight": 0.3
+  },
   "31716": {
     "name": "Lead ore",
     "weight": 2.267
   },
-  "31780": {
+  "31719": {
+    "name": "Nickel ore",
+    "weight": 2.267
+  },
+  "31724": {
+    "name": "Rubium geode",
+    "weight": 0.5
+  },
+  "31732": {
+    "name": "Stormy key",
+    "weight": 0.02
+  },
+  "31733": {
+    "name": "Barrel stand",
+    "weight": 0.001
+  },
+  "31734": {
+    "name": "Ralph's fabric roll",
+    "weight": 3.0
+  },
+  "31736": {
+    "name": "Storm cruiser's hat",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31738": {
+    "name": "Storm cruiser's coat",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31744": {
+    "name": "Fetid key",
+    "weight": 0.02
+  },
+  "31745": {
+    "name": "Captured wind mote",
+    "weight": 0.001
+  },
+  "31747": {
+    "name": "Gurtob's fabric roll",
+    "weight": 3.0
+  },
+  "31748": {
     "name": "Nifty hat",
     "weight": 0.6,
     "equipable": true,
@@ -93107,13 +93518,189 @@
       "slot": 0
     }
   },
+  "31750": {
+    "name": "Nifty jacket",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31752": {
+    "name": "Nifty trousers",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "31756": {
+    "name": "Serrated key",
+    "weight": 0.02
+  },
+  "31757": {
+    "name": "Heart of ithell",
+    "weight": 2.0
+  },
+  "31758": {
+    "name": "Gwyna's fabric roll",
+    "weight": 3.0
+  },
+  "31764": {
+    "name": "Sleek trousers",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "31770": {
+    "name": "Tiny pearl",
+    "weight": 0.01
+  },
+  "31773": {
+    "name": "Small pearl",
+    "weight": 0.02
+  },
+  "31776": {
+    "name": "Shiny pearl",
+    "weight": 0.05
+  },
+  "31779": {
+    "name": "Bright pearl",
+    "weight": 0.1
+  },
+  "31782": {
+    "name": "Big pearl",
+    "weight": 0.2
+  },
+  "31785": {
+    "name": "Huge pearl",
+    "weight": 0.3
+  },
+  "31788": {
+    "name": "Enormous pearl",
+    "weight": 0.4
+  },
+  "31791": {
+    "name": "Shimmering pearl",
+    "weight": 0.5
+  },
+  "31794": {
+    "name": "Glistening pearl",
+    "weight": 0.6
+  },
+  "31797": {
+    "name": "Brilliant pearl",
+    "weight": 0.7
+  },
+  "31800": {
+    "name": "Radiant pearl",
+    "weight": 0.8
+  },
   "31853": {
     "name": "Trawler's trust",
     "weight": 0.5
   },
+  "31906": {
+    "name": "Bronze cannonball",
+    "weight": 3.628
+  },
+  "31908": {
+    "name": "Iron cannonball",
+    "weight": 3.628
+  },
+  "31910": {
+    "name": "Mithril cannonball",
+    "weight": 2.721
+  },
+  "31912": {
+    "name": "Adamant cannonball",
+    "weight": 3.628
+  },
+  "31914": {
+    "name": "Rune cannonball",
+    "weight": 3.628
+  },
+  "31916": {
+    "name": "Dragon cannonball",
+    "weight": 3.628
+  },
+  "31918": {
+    "name": "Bronze chainshot cannonball",
+    "weight": 3.628
+  },
+  "31920": {
+    "name": "Iron chainshot cannonball",
+    "weight": 3.628
+  },
+  "31922": {
+    "name": "Steel chainshot cannonball",
+    "weight": 3.628
+  },
+  "31924": {
+    "name": "Mithril chainshot cannonball",
+    "weight": 2.721
+  },
+  "31926": {
+    "name": "Adamant chainshot cannonball",
+    "weight": 3.628
+  },
+  "31928": {
+    "name": "Rune chainshot cannonball",
+    "weight": 3.628
+  },
+  "31930": {
+    "name": "Dragon chainshot cannonball",
+    "weight": 3.628
+  },
   "31932": {
-    "name": "Camphor crate",
+    "name": "Bronze incendiary cannonball",
+    "weight": 3.628
+  },
+  "31934": {
+    "name": "Iron incendiary cannonball",
+    "weight": 3.628
+  },
+  "31936": {
+    "name": "Steel incendiary cannonball",
+    "weight": 3.628
+  },
+  "31938": {
+    "name": "Mithril incendiary cannonball",
+    "weight": 2.721
+  },
+  "31940": {
+    "name": "Adamant incendiary cannonball",
+    "weight": 3.628
+  },
+  "31942": {
+    "name": "Rune incendiary cannonball",
+    "weight": 3.628
+  },
+  "31944": {
+    "name": "Dragon incendiary cannonball",
+    "weight": 3.628
+  },
+  "31946": {
+    "name": "Echo pearl",
     "weight": 1.0
+  },
+  "31949": {
+    "name": "Bottled storm",
+    "weight": 0.5
+  },
+  "31954": {
+    "name": "Narwhal horn",
+    "weight": 1.5
+  },
+  "31957": {
+    "name": "Narwhal horn knife",
+    "weight": 1.0
+  },
+  "31961": {
+    "name": "Broken dragon hook",
+    "weight": 5.0
   },
   "31964": {
     "name": "Repair kit",
@@ -93151,6 +93738,130 @@
     "name": "Boat bottle (full)",
     "weight": 0.02
   },
+  "31996": {
+    "name": "Dragon metal sheet",
+    "weight": 1.814
+  },
+  "31999": {
+    "name": "Bronze keel parts",
+    "weight": 4.0
+  },
+  "32002": {
+    "name": "Iron keel parts",
+    "weight": 4.0
+  },
+  "32005": {
+    "name": "Steel keel parts",
+    "weight": 4.0
+  },
+  "32008": {
+    "name": "Mithril keel parts",
+    "weight": 4.0
+  },
+  "32011": {
+    "name": "Adamant keel parts",
+    "weight": 4.0
+  },
+  "32014": {
+    "name": "Rune keel parts",
+    "weight": 4.0
+  },
+  "32017": {
+    "name": "Dragon keel parts",
+    "weight": 4.0
+  },
+  "32020": {
+    "name": "Large bronze keel parts",
+    "weight": 4.0
+  },
+  "32023": {
+    "name": "Large iron keel parts",
+    "weight": 4.0
+  },
+  "32026": {
+    "name": "Large steel keel parts",
+    "weight": 4.0
+  },
+  "32029": {
+    "name": "Large mithril keel parts",
+    "weight": 4.0
+  },
+  "32032": {
+    "name": "Large adamant keel parts",
+    "weight": 4.0
+  },
+  "32035": {
+    "name": "Large rune keel parts",
+    "weight": 4.0
+  },
+  "32038": {
+    "name": "Large dragon keel parts",
+    "weight": 4.0
+  },
+  "32041": {
+    "name": "Wooden hull parts",
+    "weight": 4.0
+  },
+  "32044": {
+    "name": "Oak hull parts",
+    "weight": 4.0
+  },
+  "32047": {
+    "name": "Teak hull parts",
+    "weight": 4.0
+  },
+  "32050": {
+    "name": "Mahogany hull parts",
+    "weight": 4.0
+  },
+  "32053": {
+    "name": "Camphor hull parts",
+    "weight": 4.0
+  },
+  "32056": {
+    "name": "Ironwood hull parts",
+    "weight": 4.0
+  },
+  "32059": {
+    "name": "Rosewood hull parts",
+    "weight": 4.0
+  },
+  "32062": {
+    "name": "Large wooden hull parts",
+    "weight": 4.0
+  },
+  "32065": {
+    "name": "Large oak hull parts",
+    "weight": 4.0
+  },
+  "32068": {
+    "name": "Large teak hull parts",
+    "weight": 4.0
+  },
+  "32071": {
+    "name": "Large mahogany hull parts",
+    "weight": 4.0
+  },
+  "32074": {
+    "name": "Large camphor hull parts",
+    "weight": 4.0
+  },
+  "32077": {
+    "name": "Large ironwood hull parts",
+    "weight": 4.0
+  },
+  "32080": {
+    "name": "Large rosewood hull parts",
+    "weight": 4.0
+  },
+  "32106": {
+    "name": "Guthixian paint",
+    "weight": 1.0
+  },
+  "32115": {
+    "name": "Dragon cannon barrel",
+    "weight": 12.0
+  },
   "32217": {
     "name": "Crate of moonrise wine",
     "weight": 1.285,
@@ -93169,12 +93880,295 @@
     "equipable": true,
     "equipment": {}
   },
+  "32309": {
+    "name": "Raw giant krill",
+    "weight": 0.7
+  },
+  "32312": {
+    "name": "Giant krill",
+    "weight": 0.65
+  },
+  "32317": {
+    "name": "Raw haddock",
+    "weight": 0.7
+  },
+  "32320": {
+    "name": "Haddock",
+    "weight": 0.65
+  },
+  "32325": {
+    "name": "Raw yellowfin",
+    "weight": 0.7
+  },
+  "32328": {
+    "name": "Yellowfin",
+    "weight": 0.65
+  },
+  "32333": {
+    "name": "Raw halibut",
+    "weight": 0.7
+  },
+  "32336": {
+    "name": "Halibut",
+    "weight": 0.65
+  },
+  "32349": {
+    "name": "Raw marlin",
+    "weight": 0.7
+  },
+  "32352": {
+    "name": "Marlin",
+    "weight": 0.65
+  },
+  "32357": {
+    "name": "Haddock eye",
+    "weight": 0.007
+  },
+  "32360": {
+    "name": "Yellow fin",
+    "weight": 0.028
+  },
+  "32362": {
+    "name": "Marlin scales",
+    "weight": 0.005
+  },
+  "32364": {
+    "name": "Camphor crate",
+    "weight": 1.0
+  },
+  "32368": {
+    "name": "Fish crate (giant krill)",
+    "weight": 1.0
+  },
+  "32370": {
+    "name": "Fish crate (giant krill)",
+    "weight": 1.0
+  },
+  "32371": {
+    "name": "Fish crate (haddock)",
+    "weight": 1.0
+  },
+  "32373": {
+    "name": "Fish crate (haddock)",
+    "weight": 1.0
+  },
+  "32374": {
+    "name": "Fish crate (yellowfin)",
+    "weight": 1.0
+  },
+  "32376": {
+    "name": "Fish crate (yellowfin)",
+    "weight": 1.0
+  },
+  "32377": {
+    "name": "Fish crate (halibut)",
+    "weight": 1.0
+  },
+  "32379": {
+    "name": "Fish crate (halibut)",
+    "weight": 1.0
+  },
+  "32380": {
+    "name": "Fish crate (bluefin)",
+    "weight": 1.0
+  },
+  "32382": {
+    "name": "Fish crate (bluefin)",
+    "weight": 1.0
+  },
+  "32383": {
+    "name": "Fish crate (marlin)",
+    "weight": 1.0
+  },
+  "32385": {
+    "name": "Fish crate (marlin)",
+    "weight": 1.0
+  },
+  "32388": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32389": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32390": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32391": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32392": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32393": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32394": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32395": {
+    "name": "Medallion fragment",
+    "weight": 0.125
+  },
+  "32401": {
+    "name": "Salvaging station schematic",
+    "weight": 0.01
+  },
+  "32402": {
+    "name": "Gale catcher schematic",
+    "weight": 0.01
+  },
+  "32403": {
+    "name": "Eternal brazier schematic",
+    "weight": 0.01
+  },
+  "32404": {
+    "name": "Dragon salvaging hook schematic",
+    "weight": 0.01
+  },
+  "32405": {
+    "name": "Rosewood cargo hold schematic",
+    "weight": 0.01
+  },
+  "32406": {
+    "name": "Dragon cannon schematic",
+    "weight": 0.01
+  },
+  "32407": {
+    "name": "Rosewood hull schematic",
+    "weight": 0.01
+  },
+  "32408": {
+    "name": "Rosewood & cotton sails schematic",
+    "weight": 0.01
+  },
+  "32409": {
+    "name": "Dragon helm schematic",
+    "weight": 0.01
+  },
+  "32410": {
+    "name": "Dragon keel schematic",
+    "weight": 0.01
+  },
+  "32807": {
+    "name": "Crate of ship parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32847": {
+    "name": "Small salvage",
+    "weight": 3.0
+  },
+  "32849": {
+    "name": "Fishy salvage",
+    "weight": 3.0
+  },
+  "32851": {
+    "name": "Barracuda salvage",
+    "weight": 3.0
+  },
+  "32853": {
+    "name": "Large salvage",
+    "weight": 3.0
+  },
+  "32855": {
+    "name": "Plundered salvage",
+    "weight": 3.0
+  },
+  "32857": {
+    "name": "Martial salvage",
+    "weight": 3.0
+  },
+  "32859": {
+    "name": "Fremennik salvage",
+    "weight": 3.0
+  },
+  "32861": {
+    "name": "Opulent salvage",
+    "weight": 3.0
+  },
+  "32863": {
+    "name": "Rusty locket",
+    "weight": 0.01
+  },
+  "32864": {
+    "name": "Mouldy block",
+    "weight": 0.01
+  },
+  "32865": {
+    "name": "Dull knife",
+    "weight": 0.01
+  },
+  "32866": {
+    "name": "Broken compass",
+    "weight": 0.01
+  },
+  "32867": {
+    "name": "Rusty coin",
+    "weight": 0.01
+  },
+  "32868": {
+    "name": "Broken sextant",
+    "weight": 0.01
+  },
+  "32869": {
+    "name": "Mouldy doll",
+    "weight": 0.01
+  },
+  "32870": {
+    "name": "Smashed mirror",
+    "weight": 0.01
+  },
+  "32876": {
+    "name": "Aquanite tendon",
+    "weight": 0.01
+  },
+  "32879": {
+    "name": "Aquanite hopper",
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": -5,
+      "aslash": -5,
+      "acrush": -3,
+      "amagic": -13,
+      "arange": 12,
+      "rstr": 1
+    }
+  },
+  "32886": {
+    "name": "Chain",
+    "weight": 3.628
+  },
   "32889": {
     "name": "Lead bar",
     "weight": 1.814
   },
+  "32892": {
+    "name": "Cupronickel bar",
+    "weight": 1.814
+  },
   "32904": {
     "name": "Camphor logs",
+    "weight": 2.0
+  },
+  "32907": {
+    "name": "Ironwood logs",
+    "weight": 2.0
+  },
+  "32910": {
+    "name": "Rosewood logs",
     "weight": 2.0
   }
 }
