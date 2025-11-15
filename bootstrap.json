@@ -1,16 +1,6 @@
 {
     "artifacts": [
         {
-            "diffs": [
-                {
-                    "from": "client-1.12.3.1.jar",
-                    "fromHash": "4ad045ca85545f51b47914f0cc01a7d9225d087a9802f18941987f128e2cbd0e",
-                    "hash": "384e34656fb83516fdc0cc607a7de124342cc12dee48704b5dfd71a9a182d3b7",
-                    "name": "client-1.12.4.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.12.3.1.jar-client-1.12.4.jar.apdiff.gz.jar",
-                    "size": 29947
-                }
-            ],
             "hash": "743becb5a92326a05c74dbb1ae204337bd4edcee4a32940738f62a4818af9e5e",
             "name": "client-1.12.4.jar",
             "path": "https://repo.runelite.net/net/runelite/client/1.12.4/client-1.12.4.jar",
@@ -322,16 +312,6 @@
             "size": 681590
         },
         {
-            "diffs": [
-                {
-                    "from": "runelite-api-1.12.3.1-runtime.jar",
-                    "fromHash": "72c882e625c319cb92de3c659b8fe4915c78d9d47178b1ca5844cc73fd7f2b4b",
-                    "hash": "0dc48745a032b031ebfb053fe365571adb17a4f80f39be4bde7cd001195b5c8c",
-                    "name": "runelite-api-1.12.4-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.3.1-runtime.jar-runelite-api-1.12.4-runtime.jar.apdiff.gz.jar",
-                    "size": 488
-                }
-            ],
             "hash": "4553ab434e661525e8f9326e8ec93ed0772a5c86679dca1c7e38a8196dac0b68",
             "name": "runelite-api-1.12.4-runtime.jar",
             "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.4/runelite-api-1.12.4-runtime.jar",
@@ -353,7 +333,7 @@
     ],
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,DiscordHook.dll,DiscordHook64.dll",
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -387,7 +367,7 @@
     "launcherJvm11WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,DiscordHook.dll,DiscordHook64.dll",
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -410,7 +390,7 @@
     "launcherJvm17WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,DiscordHook.dll,DiscordHook64.dll",
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
