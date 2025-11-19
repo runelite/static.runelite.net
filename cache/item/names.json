@@ -19501,8 +19501,8 @@
   "31436": "Ironwood plank",
   "31438": "Rosewood plank",
   "31439": "Rosewood plank",
-  "31441": "Teleport boat to me",
-  "31443": "Teleport me to boat",
+  "31441": "Summon boat",
+  "31443": "Teleport to boat",
   "31445": "Mounted giant blue krill",
   "31446": "Mounted giant blue krill",
   "31447": "Mounted golden haddock",
@@ -20684,5 +20684,6 @@
   "32907": "Ironwood logs",
   "32908": "Ironwood logs",
   "32910": "Rosewood logs",
-  "32911": "Rosewood logs"
+  "32911": "Rosewood logs",
+  "32921": "Jar of feathers"
 }
