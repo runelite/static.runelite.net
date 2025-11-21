@@ -17774,8 +17774,7 @@
   },
   "4684": {
     "name": "Linen",
-    "weight": 0.907,
-    "ge_limit": 15
+    "weight": 0.907
   },
   "4686": {
     "name": "Embalming manual",
@@ -90590,187 +90589,6 @@
       "slot": 1
     }
   },
-  "30367": {
-    "name": "The dogsword",
-    "weight": 10.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "aslash": 132,
-      "acrush": 80,
-      "str": 132,
-      "prayer": 8,
-      "aspeed": 6
-    }
-  },
-  "30369": {
-    "name": "Sunlight spear",
-    "weight": 4.535,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 125,
-      "aslash": 75,
-      "dstab": 70,
-      "dslash": 70,
-      "dcrush": 70,
-      "dmagic": 28,
-      "drange": 70,
-      "str": 113,
-      "aspeed": 5
-    }
-  },
-  "30371": {
-    "name": "Devil's element",
-    "weight": 0.2,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": 20,
-      "prayer": 3,
-      "mdmg": 6.0
-    }
-  },
-  "30373": {
-    "name": "Drygore blowpipe (empty)",
-    "weight": 0.5,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 50,
-      "aspeed": 3
-    }
-  },
-  "30374": {
-    "name": "Drygore blowpipe",
-    "weight": 0.5,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 50,
-      "rstr": 10,
-      "aspeed": 3
-    }
-  },
-  "30376": {
-    "name": "Amulet of the monarchs",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {
-      "slot": 2,
-      "astab": 30,
-      "aslash": 30,
-      "acrush": 30,
-      "amagic": 30,
-      "arange": 30,
-      "dstab": 30,
-      "dslash": 30,
-      "dcrush": 30,
-      "dmagic": 30,
-      "drange": 30,
-      "str": 15,
-      "rstr": 15,
-      "prayer": 10,
-      "mdmg": 10.0
-    }
-  },
-  "30378": {
-    "name": "Emperor ring",
-    "weight": 0.004,
-    "equipable": true,
-    "equipment": {
-      "slot": 12,
-      "astab": 30,
-      "aslash": 30,
-      "acrush": 30,
-      "amagic": 30,
-      "arange": 30,
-      "dstab": 30,
-      "dslash": 30,
-      "dcrush": 30,
-      "dmagic": 30,
-      "drange": 30,
-      "str": 15,
-      "rstr": 15,
-      "prayer": 10,
-      "mdmg": 5.0
-    }
-  },
-  "30380": {
-    "name": "Gloves of the damned",
-    "weight": 0.226,
-    "equipable": true,
-    "equipment": {
-      "slot": 9,
-      "astab": 12,
-      "aslash": 12,
-      "acrush": 12,
-      "amagic": 6,
-      "arange": 12,
-      "dstab": 12,
-      "dslash": 12,
-      "dcrush": 12,
-      "dmagic": 6,
-      "drange": 12,
-      "str": 12
-    }
-  },
-  "30382": {
-    "name": "Thousand-dragon ward",
-    "weight": 7.257,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "astab": 35,
-      "aslash": 35,
-      "acrush": 35,
-      "amagic": 15,
-      "arange": 25,
-      "dstab": 50,
-      "dslash": 55,
-      "dcrush": 53,
-      "dmagic": 40,
-      "drange": 52,
-      "str": 12,
-      "prayer": 6
-    }
-  },
-  "30386": {
-    "name": "Sunlit bracers",
-    "weight": 0.25,
-    "equipable": true,
-    "equipment": {
-      "slot": 9,
-      "astab": 10,
-      "aslash": 10,
-      "acrush": 10,
-      "amagic": 6,
-      "arange": 18,
-      "dstab": 12,
-      "dslash": 12,
-      "dcrush": 12,
-      "dmagic": 6,
-      "drange": 12,
-      "str": 8,
-      "rstr": 4
-    }
-  },
-  "30388": {
-    "name": "Thunder khopesh",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 65,
-      "aslash": 110,
-      "str": 100,
-      "aspeed": 4
-    }
-  },
   "30404": {
     "name": "Raging echoes hat (t1)",
     "weight": 0.453,
@@ -90902,7 +90720,7 @@
     }
   },
   "30436": {
-    "name": "Echo venator bow",
+    "name": "Echo venator bow (uncharged)",
     "weight": 4.5,
     "equipable": true,
     "equipment": {
@@ -92282,7 +92100,7 @@
     "weight": 0.01
   },
   "30951": {
-    "name": "Key (The Final Dawn)",
+    "name": "Key",
     "weight": 0.02
   },
   "30953": {
@@ -92493,6 +92311,10 @@
     "equipment": {
       "slot": 5
     }
+  },
+  "31045": {
+    "name": "Bale of flax",
+    "ge_limit": 13000
   },
   "31049": {
     "name": "Redwood hiking staff",
@@ -92896,28 +92718,6 @@
     "name": "Hueycoatl hide armour set",
     "weight": 0.05
   },
-  "31172": {
-    "name": "Battlehat",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "astab": 15,
-      "aslash": 15,
-      "acrush": 15,
-      "amagic": 15,
-      "arange": 15,
-      "dstab": 60,
-      "dslash": 60,
-      "dcrush": 60,
-      "dmagic": 60,
-      "drange": 60,
-      "str": 10,
-      "rstr": 5,
-      "prayer": 10,
-      "mdmg": 5.0
-    }
-  },
   "31174": {
     "name": "Corrupted shark",
     "weight": 0.65
@@ -93083,6 +92883,114 @@
     "name": "Belle's folly (tarnished)",
     "weight": 1.36
   },
+  "31248": {
+    "name": "Belle's folly",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 100,
+      "aslash": 78,
+      "acrush": -3,
+      "dstab": 20,
+      "dslash": 15,
+      "dcrush": -9,
+      "str": 102,
+      "aspeed": 5
+    }
+  },
+  "31251": {
+    "name": "Broken hasta",
+    "weight": 0.01
+  },
+  "31252": {
+    "name": "Spirit angler headband",
+    "weight": 0.5
+  },
+  "31253": {
+    "name": "Fossilised skull",
+    "weight": 0.5
+  },
+  "31254": {
+    "name": "Tankard",
+    "weight": 0.05
+  },
+  "31255": {
+    "name": "Barnacle blaster",
+    "weight": 0.5
+  },
+  "31258": {
+    "name": "Kraken colada",
+    "weight": 0.5
+  },
+  "31261": {
+    "name": "Sailor's mirage",
+    "weight": 0.5
+  },
+  "31264": {
+    "name": "Blessed strykewyrm bones",
+    "weight": 1.6
+  },
+  "31266": {
+    "name": "Blessed frost dragon bones",
+    "weight": 1.6
+  },
+  "31268": {
+    "name": "Clue scroll (easy)",
+    "weight": 0.02
+  },
+  "31269": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "31271": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
+  "31272": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "31273": {
+    "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "31274": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "31275": {
+    "name": "Clue scroll (medium)",
+    "weight": 0.02
+  },
+  "31276": {
+    "name": "Rock golem",
+    "weight": 0.015
+  },
+  "31277": {
+    "name": "Rock golem",
+    "weight": 0.015
+  },
+  "31278": {
+    "name": "Rock golem",
+    "weight": 0.015
+  },
+  "31279": {
+    "name": "Beaver",
+    "weight": 0.015
+  },
+  "31280": {
+    "name": "Beaver",
+    "weight": 0.015
+  },
+  "31281": {
+    "name": "Beaver",
+    "weight": 0.015
+  },
+  "31282": {
+    "name": "Beaver",
+    "weight": 0.015
+  },
   "31283": {
     "name": "Soup",
     "weight": 0.015
@@ -93118,6 +93026,72 @@
       "prayer": 4
     }
   },
+  "31292": {
+    "name": "Sailing hood",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31297": {
+    "name": "Pirate medallion",
+    "weight": 0.05
+  },
+  "31298": {
+    "name": "Deep sea helmet",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31300": {
+    "name": "Deep sea apparatus",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "31327": {
+    "name": "Form cr-4p",
+    "weight": 0.01
+  },
+  "31328": {
+    "name": "Form 7r4-5h",
+    "weight": 0.01
+  },
+  "31329": {
+    "name": "Form 7r4-5h",
+    "weight": 0.01
+  },
+  "31330": {
+    "name": "Mayoral fishbowl",
+    "weight": 2.267
+  },
+  "31331": {
+    "name": "Mayor of catherby",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {}
+  },
+  "31333": {
+    "name": "Strykewyrm bonemeal",
+    "weight": 1.5
+  },
+  "31335": {
+    "name": "Frost dragon bonemeal",
+    "weight": 1.5
+  },
+  "31338": {
+    "name": "Old cup",
+    "weight": 0.05
+  },
+  "31341": {
+    "name": "Confession",
+    "weight": 0.005
+  },
   "31383": {
     "name": "Camphor pyre logs",
     "weight": 1.36
@@ -93130,29 +93104,101 @@
     "name": "Rosewood pyre logs",
     "weight": 1.36
   },
+  "31392": {
+    "name": "Makeshift bandages",
+    "weight": 0.325
+  },
+  "31393": {
+    "name": "Tortugan scute",
+    "weight": 0.7
+  },
+  "31395": {
+    "name": "Sea shell",
+    "weight": 0.3
+  },
+  "31397": {
+    "name": "List of repairs",
+    "weight": 0.05
+  },
+  "31398": {
+    "name": "Tortugan shield",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "dstab": 8,
+      "dslash": 8,
+      "dcrush": 6,
+      "drange": 8
+    }
+  },
+  "31400": {
+    "name": "Offering bouquet",
+    "weight": 0.05
+  },
+  "31401": {
+    "name": "Deep sea helmet",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31403": {
+    "name": "Deep sea apparatus",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
   "31408": {
     "name": "Giant blue krill",
     "weight": 0.7
+  },
+  "31410": {
+    "name": "Stuffed giant blue krill",
+    "weight": 0.65
   },
   "31412": {
     "name": "Golden haddock",
     "weight": 0.7
   },
+  "31414": {
+    "name": "Stuffed golden haddock",
+    "weight": 0.65
+  },
   "31416": {
     "name": "Orangefin",
     "weight": 0.7
+  },
+  "31418": {
+    "name": "Stuffed orangefin",
+    "weight": 0.65
   },
   "31420": {
     "name": "Huge halibut",
     "weight": 0.7
   },
+  "31422": {
+    "name": "Stuffed huge halibut",
+    "weight": 0.65
+  },
   "31424": {
     "name": "Purplefin",
     "weight": 0.7
   },
+  "31426": {
+    "name": "Stuffed purplefin",
+    "weight": 0.65
+  },
   "31428": {
     "name": "Swift marlin",
     "weight": 0.7
+  },
+  "31430": {
+    "name": "Stuffed swift marlin",
+    "weight": 0.65
   },
   "31432": {
     "name": "Camphor plank",
@@ -93294,12 +93340,20 @@
     "name": "Swordtip squid",
     "weight": 0.45
   },
+  "31559": {
+    "name": "Burnt swordtip squid",
+    "weight": 0.45
+  },
   "31561": {
     "name": "Raw jumbo squid",
     "weight": 0.45
   },
   "31564": {
     "name": "Jumbo squid",
+    "weight": 0.45
+  },
+  "31567": {
+    "name": "Burnt jumbo squid",
     "weight": 0.45
   },
   "31569": {
@@ -93324,7 +93378,7 @@
   },
   "31577": {
     "name": "Camphor blowpipe (empty)",
-    "weight": 0.5,
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -93348,7 +93402,7 @@
   },
   "31581": {
     "name": "Ironwood blowpipe (empty)",
-    "weight": 0.5,
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -93372,7 +93426,7 @@
   },
   "31585": {
     "name": "Rosewood blowpipe (empty)",
-    "weight": 0.5,
+    "weight": 0.3,
     "equipable": true,
     "equipment": {
       "slot": 3,
@@ -93402,8 +93456,80 @@
     "name": "Haemostatic dressing (1)",
     "weight": 0.02
   },
+  "31602": {
+    "name": "Super fishing potion(4)",
+    "weight": 0.03
+  },
+  "31605": {
+    "name": "Super fishing potion(3)",
+    "weight": 0.03
+  },
+  "31608": {
+    "name": "Super fishing potion(2)",
+    "weight": 0.03
+  },
+  "31611": {
+    "name": "Super fishing potion(1)",
+    "weight": 0.03
+  },
+  "31614": {
+    "name": "Extreme energy potion(4)",
+    "weight": 0.03
+  },
+  "31617": {
+    "name": "Extreme energy potion(3)",
+    "weight": 0.03
+  },
+  "31620": {
+    "name": "Extreme energy potion(2)",
+    "weight": 0.03
+  },
+  "31623": {
+    "name": "Extreme energy potion(1)",
+    "weight": 0.03
+  },
+  "31626": {
+    "name": "Super hunter potion(4)",
+    "weight": 0.03
+  },
+  "31629": {
+    "name": "Super hunter potion(3)",
+    "weight": 0.03
+  },
+  "31632": {
+    "name": "Super hunter potion(2)",
+    "weight": 0.03
+  },
+  "31635": {
+    "name": "Super hunter potion(1)",
+    "weight": 0.03
+  },
+  "31638": {
+    "name": "Extended stamina potion(4)",
+    "weight": 0.03
+  },
+  "31641": {
+    "name": "Extended stamina potion(3)",
+    "weight": 0.03
+  },
+  "31644": {
+    "name": "Extended stamina potion(2)",
+    "weight": 0.03
+  },
+  "31647": {
+    "name": "Extended stamina potion(1)",
+    "weight": 0.03
+  },
   "31662": {
     "name": "Elkhorn potion (unf)",
+    "weight": 0.056
+  },
+  "31665": {
+    "name": "Pillar potion (unf)",
+    "weight": 0.056
+  },
+  "31668": {
+    "name": "Umbral potion (unf)",
     "weight": 0.056
   },
   "31671": {
@@ -93442,6 +93568,10 @@
     "name": "Blue crab meat",
     "weight": 0.35
   },
+  "31698": {
+    "name": "Burnt crab meat",
+    "weight": 0.35
+  },
   "31700": {
     "name": "Raw rainbow crab meat",
     "weight": 0.35
@@ -93450,9 +93580,9 @@
     "name": "Rainbow crab meat",
     "weight": 0.35
   },
-  "31708": {
-    "name": "Crab paste",
-    "weight": 0.3
+  "31706": {
+    "name": "Burnt rainbow crab meat",
+    "weight": 0.35
   },
   "31710": {
     "name": "Rainbow crab paste",
@@ -93466,9 +93596,21 @@
     "name": "Nickel ore",
     "weight": 2.267
   },
+  "31722": {
+    "name": "Rubium splinters",
+    "weight": 0.02
+  },
   "31724": {
     "name": "Rubium geode",
     "weight": 0.5
+  },
+  "31726": {
+    "name": "Strykewyrm bones",
+    "weight": 1.6
+  },
+  "31729": {
+    "name": "Frost dragon bones",
+    "weight": 1.6
   },
   "31732": {
     "name": "Stormy key",
@@ -93498,6 +93640,22 @@
       "slot": 4
     }
   },
+  "31740": {
+    "name": "Storm cruiser's trousers",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31742": {
+    "name": "Storm cruiser's shoes",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
   "31744": {
     "name": "Fetid key",
     "weight": 0.02
@@ -93506,7 +93664,7 @@
     "name": "Captured wind mote",
     "weight": 0.001
   },
-  "31747": {
+  "31746": {
     "name": "Gurtob's fabric roll",
     "weight": 3.0
   },
@@ -93534,6 +93692,14 @@
       "slot": 7
     }
   },
+  "31754": {
+    "name": "Nifty shoes",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
   "31756": {
     "name": "Serrated key",
     "weight": 0.02
@@ -93546,6 +93712,22 @@
     "name": "Gwyna's fabric roll",
     "weight": 3.0
   },
+  "31760": {
+    "name": "Sleek hat",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "31762": {
+    "name": "Sleek jacket",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
   "31764": {
     "name": "Sleek trousers",
     "weight": 0.6,
@@ -93553,6 +93735,18 @@
     "equipment": {
       "slot": 7
     }
+  },
+  "31766": {
+    "name": "Sleek shoes",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "31768": {
+    "name": "Sunken rum",
+    "weight": 0.5
   },
   "31770": {
     "name": "Tiny pearl",
@@ -93598,9 +93792,325 @@
     "name": "Radiant pearl",
     "weight": 0.8
   },
-  "31853": {
+  "31803": {
+    "name": "Spyglass",
+    "weight": 0.2
+  },
+  "31805": {
+    "name": "Current duck",
+    "weight": 0.453
+  },
+  "31807": {
+    "name": "Crowbar",
+    "weight": 1.5
+  },
+  "31809": {
+    "name": "Portable weather station",
+    "weight": 0.001
+  },
+  "31810": {
+    "name": "Data filled portable weather station",
+    "weight": 0.001
+  },
+  "31811": {
+    "name": "Whirlpool surprise",
+    "weight": 0.5
+  },
+  "31814": {
+    "name": "Kraken ink stout",
+    "weight": 0.5
+  },
+  "31817": {
+    "name": "Perildance bitter",
+    "weight": 0.5
+  },
+  "31820": {
     "name": "Trawler's trust",
     "weight": 0.5
+  },
+  "31823": {
+    "name": "Horizon's lure",
+    "weight": 0.5
+  },
+  "31831": {
+    "name": "Bottle of almost smuggled rum",
+    "weight": 0.003
+  },
+  "31832": {
+    "name": "Bottle of sorodamin's bru",
+    "weight": 0.003
+  },
+  "31833": {
+    "name": "Bottle of fish bladder stout",
+    "weight": 0.003
+  },
+  "31834": {
+    "name": "Bottle of potterington's marrow wine",
+    "weight": 0.003
+  },
+  "31835": {
+    "name": "Bottle of slug's mind balm",
+    "weight": 0.003
+  },
+  "31836": {
+    "name": "Bottle of spinner's last gasp",
+    "weight": 0.003
+  },
+  "31837": {
+    "name": "Bottle of barracuda brew",
+    "weight": 0.003
+  },
+  "31838": {
+    "name": "Bottle of banana daiquiri",
+    "weight": 0.003
+  },
+  "31839": {
+    "name": "Bottle of kharazi cooler",
+    "weight": 0.003
+  },
+  "31840": {
+    "name": "Bottle of dognose draught",
+    "weight": 0.003
+  },
+  "31841": {
+    "name": "Bottle of the way home",
+    "weight": 0.003
+  },
+  "31842": {
+    "name": "Bottle of platinum rum",
+    "weight": 0.003
+  },
+  "31843": {
+    "name": "Bottle of light in the dark",
+    "weight": 0.003
+  },
+  "31844": {
+    "name": "Bottle of ogre prayer potion",
+    "weight": 0.003
+  },
+  "31845": {
+    "name": "Bottle of get to the point punch",
+    "weight": 0.003
+  },
+  "31846": {
+    "name": "Bottle of oo'glug",
+    "weight": 0.003
+  },
+  "31847": {
+    "name": "Bottle of myths mighty mixer",
+    "weight": 0.003
+  },
+  "31848": {
+    "name": "Bottle of goldless asgoldian ale",
+    "weight": 0.003
+  },
+  "31849": {
+    "name": "Bottle of destructor's cocktail",
+    "weight": 0.003
+  },
+  "31850": {
+    "name": "Bottle of zogre's sloppy kisses",
+    "weight": 0.003
+  },
+  "31851": {
+    "name": "Bottle of creator's cocktail",
+    "weight": 0.003
+  },
+  "31852": {
+    "name": "Bottle of soul",
+    "weight": 0.003
+  },
+  "31853": {
+    "name": "Bottle of zul-rye beer",
+    "weight": 0.003
+  },
+  "31854": {
+    "name": "Bottle of captain clop's mango gin",
+    "weight": 0.003
+  },
+  "31855": {
+    "name": "Bottle of slippery snake skins in possibly gravy",
+    "weight": 0.003
+  },
+  "31856": {
+    "name": "Bottle of crystal clear water",
+    "weight": 0.003
+  },
+  "31857": {
+    "name": "Bottle of underground passteurised milk",
+    "weight": 0.003
+  },
+  "31858": {
+    "name": "Bottle of delicate elven wine",
+    "weight": 0.003
+  },
+  "31859": {
+    "name": "Bottle of sea spray",
+    "weight": 0.003
+  },
+  "31860": {
+    "name": "Bottle of banker's draught",
+    "weight": 0.003
+  },
+  "31861": {
+    "name": "Bottle of headless unicornman's heady beer",
+    "weight": 0.003
+  },
+  "31862": {
+    "name": "Bottle of soul juice",
+    "weight": 0.003
+  },
+  "31863": {
+    "name": "Bottle of crocodile tears",
+    "weight": 0.003
+  },
+  "31864": {
+    "name": "Bottle of fishier bladderier stout",
+    "weight": 0.003
+  },
+  "31865": {
+    "name": "Daddy's special water's special water",
+    "weight": 0.02
+  },
+  "31867": {
+    "name": "The melted rocks",
+    "weight": 0.02
+  },
+  "31869": {
+    "name": "Chuck up's 'stew'",
+    "weight": 1.5
+  },
+  "31871": {
+    "name": "Bottle of tangled toad's legs cider",
+    "weight": 0.003
+  },
+  "31872": {
+    "name": "Bottle of waterbirth blue lagoon",
+    "weight": 0.003
+  },
+  "31873": {
+    "name": "Bottle of fishtongue tonic",
+    "weight": 0.003
+  },
+  "31874": {
+    "name": "Bottle of the endless night",
+    "weight": 0.003
+  },
+  "31875": {
+    "name": "Bottle of exile's welcome",
+    "weight": 0.003
+  },
+  "31876": {
+    "name": "Bottle of suqah-free cola",
+    "weight": 0.003
+  },
+  "31877": {
+    "name": "Bottle of winter sun",
+    "weight": 0.003
+  },
+  "31878": {
+    "name": "Bottle of black lobster ale",
+    "weight": 0.003
+  },
+  "31879": {
+    "name": "Rare black lobster",
+    "weight": 0.3
+  },
+  "31881": {
+    "name": "Bottle of dwarvern wizard's stout bomb",
+    "weight": 0.003
+  },
+  "31882": {
+    "name": "Bottle of kgp standard issue martini",
+    "weight": 0.003
+  },
+  "31883": {
+    "name": "Bottle of graveyard corpse reviver",
+    "weight": 0.003
+  },
+  "31884": {
+    "name": "Bottle of weiss meltwater",
+    "weight": 0.003
+  },
+  "31885": {
+    "name": "Bottle of ol' random's reddest rum",
+    "weight": 0.003
+  },
+  "31886": {
+    "name": "Bottle of elidinis's life water",
+    "weight": 0.003
+  },
+  "31887": {
+    "name": "Bottle of possible albumen",
+    "weight": 0.003
+  },
+  "31888": {
+    "name": "Bottle of alone at sea",
+    "weight": 0.003
+  },
+  "31889": {
+    "name": "Bottle of alco-sol",
+    "weight": 0.003
+  },
+  "31890": {
+    "name": "Bottle of portal nexus perry",
+    "weight": 0.003
+  },
+  "31891": {
+    "name": "Bottle of self-congratulation wine",
+    "weight": 0.003
+  },
+  "31892": {
+    "name": "Bottle of fish bladder stoutier",
+    "weight": 0.003
+  },
+  "31893": {
+    "name": "Bottle of crystal clear vodka",
+    "weight": 0.003
+  },
+  "31894": {
+    "name": "Bottle of spinning comp-kvass",
+    "weight": 0.003
+  },
+  "31895": {
+    "name": "Bottle of puzzlers poteen",
+    "weight": 0.003
+  },
+  "31896": {
+    "name": "Bottle of wild wood whisky",
+    "weight": 0.003
+  },
+  "31897": {
+    "name": "Bottle of robert's port",
+    "weight": 0.003
+  },
+  "31898": {
+    "name": "Bottle of sea shandy 2",
+    "weight": 0.003
+  },
+  "31899": {
+    "name": "Bottle of monkfish bladder stout",
+    "weight": 0.003
+  },
+  "31900": {
+    "name": "Bottle of lunarshine",
+    "weight": 0.003
+  },
+  "31901": {
+    "name": "Bottle of impling surprise",
+    "weight": 0.003
+  },
+  "31902": {
+    "name": "Bottle of mystery fruit cider",
+    "weight": 0.003
+  },
+  "31903": {
+    "name": "Mystery fruit",
+    "weight": 0.085
+  },
+  "31905": {
+    "name": "Bottle of captain cat's black rum",
+    "weight": 0.003
   },
   "31906": {
     "name": "Bronze cannonball",
@@ -93730,6 +94240,14 @@
     "name": "Rosewood repair kit",
     "weight": 0.5
   },
+  "31985": {
+    "name": "Captain's log",
+    "weight": 0.01
+  },
+  "31986": {
+    "name": "Captain's log",
+    "weight": 0.01
+  },
   "31989": {
     "name": "Boat bottle (empty)",
     "weight": 0.02
@@ -93854,31 +94372,57 @@
     "name": "Large rosewood hull parts",
     "weight": 4.0
   },
+  "32085": {
+    "name": "Sawmill coupon (oak plank)",
+    "weight": 0.001
+  },
+  "32087": {
+    "name": "Barracuda paint",
+    "weight": 1.0
+  },
+  "32090": {
+    "name": "Shark paint",
+    "weight": 1.0
+  },
+  "32093": {
+    "name": "Inky paint",
+    "weight": 1.0
+  },
+  "32096": {
+    "name": "Angler's paint",
+    "weight": 1.0
+  },
+  "32099": {
+    "name": "Salvor's paint",
+    "weight": 1.0
+  },
+  "32102": {
+    "name": "Armadylean paint",
+    "weight": 1.0
+  },
+  "32104": {
+    "name": "Zamorakian paint",
+    "weight": 1.0
+  },
   "32106": {
     "name": "Guthixian paint",
+    "weight": 1.0
+  },
+  "32108": {
+    "name": "Saradominist paint",
+    "weight": 1.0
+  },
+  "32110": {
+    "name": "Merchant's paint",
+    "weight": 1.0
+  },
+  "32113": {
+    "name": "Sandy paint",
     "weight": 1.0
   },
   "32115": {
     "name": "Dragon cannon barrel",
     "weight": 12.0
-  },
-  "32217": {
-    "name": "Crate of moonrise wine",
-    "weight": 1.285,
-    "equipable": true,
-    "equipment": {}
-  },
-  "32218": {
-    "name": "Crate of bread",
-    "weight": 1.285,
-    "equipable": true,
-    "equipment": {}
-  },
-  "32219": {
-    "name": "Crate of medical supplies",
-    "weight": 1.285,
-    "equipable": true,
-    "equipment": {}
   },
   "32309": {
     "name": "Raw giant krill",
@@ -93888,6 +94432,10 @@
     "name": "Giant krill",
     "weight": 0.65
   },
+  "32315": {
+    "name": "Burnt giant krill",
+    "weight": 0.6
+  },
   "32317": {
     "name": "Raw haddock",
     "weight": 0.7
@@ -93895,6 +94443,10 @@
   "32320": {
     "name": "Haddock",
     "weight": 0.65
+  },
+  "32323": {
+    "name": "Burnt haddock",
+    "weight": 0.6
   },
   "32325": {
     "name": "Raw yellowfin",
@@ -93904,6 +94456,10 @@
     "name": "Yellowfin",
     "weight": 0.65
   },
+  "32331": {
+    "name": "Burnt yellowfin",
+    "weight": 0.6
+  },
   "32333": {
     "name": "Raw halibut",
     "weight": 0.7
@@ -93912,6 +94468,22 @@
     "name": "Halibut",
     "weight": 0.65
   },
+  "32339": {
+    "name": "Burnt halibut",
+    "weight": 0.6
+  },
+  "32341": {
+    "name": "Raw bluefin",
+    "weight": 0.7
+  },
+  "32344": {
+    "name": "Bluefin",
+    "weight": 0.65
+  },
+  "32347": {
+    "name": "Burnt bluefin",
+    "weight": 0.6
+  },
   "32349": {
     "name": "Raw marlin",
     "weight": 0.7
@@ -93919,6 +94491,10 @@
   "32352": {
     "name": "Marlin",
     "weight": 0.65
+  },
+  "32355": {
+    "name": "Burnt marlin",
+    "weight": 0.6
   },
   "32357": {
     "name": "Haddock eye",
@@ -93984,6 +94560,14 @@
     "name": "Fish crate (marlin)",
     "weight": 1.0
   },
+  "32386": {
+    "name": "Medallion of the deep",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
   "32388": {
     "name": "Medallion fragment",
     "weight": 0.125
@@ -94015,6 +94599,26 @@
   "32395": {
     "name": "Medallion fragment",
     "weight": 0.125
+  },
+  "32396": {
+    "name": "Waterlogged journal",
+    "weight": 0.51
+  },
+  "32398": {
+    "name": "Sailors' amulet (inert)",
+    "weight": 0.06,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "32399": {
+    "name": "Sailors' amulet",
+    "weight": 0.06,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
   },
   "32401": {
     "name": "Salvaging station schematic",
@@ -94056,15 +94660,3439 @@
     "name": "Dragon keel schematic",
     "weight": 0.01
   },
-  "32807": {
+  "32411": {
+    "name": "Small key (the pandemonium)",
+    "weight": 0.01
+  },
+  "32412": {
+    "name": "Small key (the onyx crest)",
+    "weight": 0.01
+  },
+  "32413": {
+    "name": "Small key (tear of the soul)",
+    "weight": 0.01
+  },
+  "32414": {
+    "name": "Small key (ynsdail){{sic}}",
+    "weight": 0.01
+  },
+  "32415": {
+    "name": "Small key (minotaurs' rest)",
+    "weight": 0.01
+  },
+  "32416": {
+    "name": "Small key (buccaneers' haven)",
+    "weight": 0.01
+  },
+  "32417": {
+    "name": "Small key (isle of bones)",
+    "weight": 0.01
+  },
+  "32418": {
+    "name": "Small key (charred island)",
+    "weight": 0.01
+  },
+  "32419": {
+    "name": "Small key (laguna aurorae)",
+    "weight": 0.01
+  },
+  "32420": {
+    "name": "Small key (drumstick isle)",
+    "weight": 0.01
+  },
+  "32421": {
+    "name": "Lockbox directions (chinchompa island)",
+    "weight": 0.02
+  },
+  "32422": {
+    "name": "Lockbox directions (anglers' retreat)",
+    "weight": 0.02
+  },
+  "32423": {
+    "name": "Lockbox directions (buccaneers' haven)",
+    "weight": 0.02
+  },
+  "32424": {
+    "name": "Lockbox directions (lledrith island)",
+    "weight": 0.02
+  },
+  "32425": {
+    "name": "Lockbox directions (the crown jewel)",
+    "weight": 0.02
+  },
+  "32426": {
+    "name": "Lockbox directions (deepfin point)",
+    "weight": 0.02
+  },
+  "32427": {
+    "name": "Lockbox directions (shimmering atoll)",
+    "weight": 0.02
+  },
+  "32428": {
+    "name": "Lockbox directions (brittle isle)",
+    "weight": 0.02
+  },
+  "32429": {
+    "name": "Lockbox directions (sunbleak island)",
+    "weight": 0.02
+  },
+  "32430": {
+    "name": "Lockbox directions (grimstone)",
+    "weight": 0.02
+  },
+  "32431": {
+    "name": "Book about lighthouses",
+    "weight": 0.125
+  },
+  "32432": {
+    "name": "Charred key",
+    "weight": 0.125
+  },
+  "32433": {
+    "name": "Void orb",
+    "weight": 0.125
+  },
+  "32434": {
+    "name": "Holy sheet",
+    "weight": 0.125
+  },
+  "32435": {
+    "name": "Crate of adamantite ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32436": {
+    "name": "Crate of crab paste",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32437": {
+    "name": "Crate of crystal seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32438": {
+    "name": "Crate of daggers",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32439": {
+    "name": "Crate of dyes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32440": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32441": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32442": {
+    "name": "Crate of lead ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32443": {
+    "name": "Crate of monkfish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32444": {
+    "name": "Crate of nickel ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32445": {
+    "name": "Crate of pest remains",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32446": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32447": {
+    "name": "Crate of spears",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32448": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32449": {
+    "name": "Crate of bananas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32450": {
+    "name": "Crate of crystal seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32451": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32452": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32453": {
+    "name": "Crate of gold ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32454": {
+    "name": "Crate of halberds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32455": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32456": {
+    "name": "Crate of poison",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32457": {
+    "name": "Crate of rabbit meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32458": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32460": {
+    "name": "Crate of salamanders",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32461": {
+    "name": "Crate of sand",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32462": {
+    "name": "Crate of silk",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32463": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32464": {
+    "name": "Crate of bear meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32465": {
+    "name": "Crate of beer",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32466": {
+    "name": "Crate of cacti",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32467": {
+    "name": "Crate of camphor logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32468": {
+    "name": "Crate of compost",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32469": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32470": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32471": {
+    "name": "Crate of iron bars",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32472": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32473": {
+    "name": "Crate of machinery parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32475": {
+    "name": "Crate of sandstone",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32476": {
+    "name": "Crate of silver ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32477": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32478": {
+    "name": "Crate of vodka",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32479": {
+    "name": "Crate of wine",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32480": {
+    "name": "Crate of gold bars",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32481": {
+    "name": "Crate of secret stuff",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32482": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32483": {
+    "name": "Crate of bait",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32484": {
+    "name": "Crate of feathers",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32485": {
+    "name": "Crate of bananas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32486": {
+    "name": "Crate of coconuts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32487": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32488": {
+    "name": "Crate of glassmaking supplies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32489": {
+    "name": "Crate of gold ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32490": {
+    "name": "Crate of grog",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32491": {
+    "name": "Crate of javelins",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32492": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32493": {
+    "name": "Crate of karambwans",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32494": {
+    "name": "Crate of pineapples",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32495": {
+    "name": "Crate of potatoes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32496": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32497": {
+    "name": "Crate of silk",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32498": {
+    "name": "Crate of silver ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32499": {
+    "name": "Crate of vials",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32500": {
+    "name": "Crate of astral runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32501": {
+    "name": "Crate of books",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32502": {
+    "name": "Crate of coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32503": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32504": {
+    "name": "Crate of fruit",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32505": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32506": {
+    "name": "Crate of historical artefacts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32507": {
+    "name": "Crate of nickel ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32508": {
+    "name": "Crate of oranges",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32509": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32510": {
+    "name": "Crate of pineapples",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32511": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32513": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32514": {
     "name": "Crate of ship parts",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
-      "aspeed": 4
+      "is2h": true
     }
+  },
+  "32515": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32516": {
+    "name": "Crate of staffs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32517": {
+    "name": "Crate of tokens",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32518": {
+    "name": "Crate of vegetables",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32519": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32520": {
+    "name": "Crate of bear meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32521": {
+    "name": "Crate of beer",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32522": {
+    "name": "Crate of daggers",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32523": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32524": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32525": {
+    "name": "Crate of khali brews",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32526": {
+    "name": "Crate of peg legs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32527": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32529": {
+    "name": "Crate of scimitars",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32530": {
+    "name": "Crate of ship parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32531": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32532": {
+    "name": "Crate of alpaca wool",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32533": {
+    "name": "Crate of camphor logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32534": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32535": {
+    "name": "Crate of fruit",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32536": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32537": {
+    "name": "Crate of granite",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32538": {
+    "name": "Crate of javelins",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32539": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32540": {
+    "name": "Crate of machinery parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32542": {
+    "name": "Crate of pest remains",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32543": {
+    "name": "Crate of pickaxes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32544": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32545": {
+    "name": "Crate of suqah hides",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32546": {
+    "name": "Crate of warhammers",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32547": {
+    "name": "Crate of bananas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32548": {
+    "name": "Crate of barley",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32549": {
+    "name": "Crate of sand",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32550": {
+    "name": "Crate of adamantite ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32551": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32552": {
+    "name": "Crate of fruit",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32553": {
+    "name": "Crate of iron ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32554": {
+    "name": "Crate of monkfish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32555": {
+    "name": "Crate of onions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32556": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32557": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32558": {
+    "name": "Crate of warhammers",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32559": {
+    "name": "Crate of yak hair",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32560": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32561": {
+    "name": "Crate of lead ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32562": {
+    "name": "Crate of rope",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32563": {
+    "name": "Crate of xerician fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32564": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32565": {
+    "name": "Crate of flax",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32566": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32567": {
+    "name": "Crate of bear meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32568": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32569": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32570": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32571": {
+    "name": "Crate of kebbit fur",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32573": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32574": {
+    "name": "Crate of secret things",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32575": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32576": {
+    "name": "Crate of vegetables",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32577": {
+    "name": "Crate of wine",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32578": {
+    "name": "Crate of antelope fur",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32579": {
+    "name": "Crate of berries",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32580": {
+    "name": "Crate of coal",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32581": {
+    "name": "Crate of crystal seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32582": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32583": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32584": {
+    "name": "Crate of kebbit fur",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32585": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32586": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32587": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32588": {
+    "name": "Crate of bananas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32589": {
+    "name": "Crate of beer glasses",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32590": {
+    "name": "Crate of cocktails",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32591": {
+    "name": "Crate of eye patches",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32592": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32593": {
+    "name": "Crate of high importance",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32594": {
+    "name": "Crate of honey",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32595": {
+    "name": "Crate of lobsters",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32596": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32599": {
+    "name": "Crate of rotten bananas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32600": {
+    "name": "Crate of secret stuff",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32601": {
+    "name": "Crate of ship parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32602": {
+    "name": "Crate of silk",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32603": {
+    "name": "Crate of coal",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32605": {
+    "name": "Crate of sand",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32606": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32607": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32608": {
+    "name": "Crate of flax",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32609": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32610": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32611": {
+    "name": "Crate of vodka",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32612": {
+    "name": "Crate of angler outfit pieces",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32613": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32614": {
+    "name": "Crate of bows",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32615": {
+    "name": "Crate of bread",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32616": {
+    "name": "Crate of chainbodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32617": {
+    "name": "Crate of coal",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32618": {
+    "name": "Crate of crab paste",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32619": {
+    "name": "Crate of fruit",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32620": {
+    "name": "Crate of gunpowder",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32621": {
+    "name": "Crate of herbs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32622": {
+    "name": "Crate of huasca",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32623": {
+    "name": "Crate of kyatt teeth",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32624": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32625": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32626": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32627": {
+    "name": "Crate of scimitars",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32628": {
+    "name": "Crate of secret stuff",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32629": {
+    "name": "Crate of spears",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32630": {
+    "name": "Crate of swamp paste",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32631": {
+    "name": "Crate of vodka",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32632": {
+    "name": "Crate of antelope meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32633": {
+    "name": "Crate of astral runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32634": {
+    "name": "Crate of books",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32635": {
+    "name": "Crate of cannonballs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32636": {
+    "name": "Crate of coal",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32637": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32638": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32639": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32640": {
+    "name": "Crate of gin",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32641": {
+    "name": "Crate of honey",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32642": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32643": {
+    "name": "Crate of kebbit fur",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32645": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32646": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32647": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32648": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32649": {
+    "name": "Crate of wine",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32650": {
+    "name": "Crate of antelope fur",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32651": {
+    "name": "Crate of berries",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32652": {
+    "name": "Crate of bows",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32653": {
+    "name": "Crate of coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32654": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32655": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32656": {
+    "name": "Crate of flax",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32657": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32658": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32659": {
+    "name": "Crate of honey",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32660": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32661": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32663": {
+    "name": "Crate of nickel ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32664": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32665": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32667": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32668": {
+    "name": "Crate of silk",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32669": {
+    "name": "Crate of silver ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32670": {
+    "name": "Crate of staffs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32671": {
+    "name": "Crate of teak logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32672": {
+    "name": "Crate of wine",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32673": {
+    "name": "Crate of amulets",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32674": {
+    "name": "Crate of beer",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32675": {
+    "name": "Crate of books",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32676": {
+    "name": "Crate of cacti",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32677": {
+    "name": "Crate of camphor logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32678": {
+    "name": "Crate of coconuts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32679": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32680": {
+    "name": "Crate of flax",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32681": {
+    "name": "Crate of honey",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32682": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32683": {
+    "name": "Crate of kebabs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32684": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32685": {
+    "name": "Crate of nothing sinister",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32686": {
+    "name": "Crate of pest remains",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32687": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32689": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32690": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32691": {
+    "name": "Crate of sunbeam ale",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32692": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32693": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32694": {
+    "name": "Crate of chinchompas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32695": {
+    "name": "Crate of coal",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32696": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32697": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32698": {
+    "name": "Crate of fruit",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32699": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32700": {
+    "name": "Crate of herbs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32701": {
+    "name": "Crate of mithril ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32702": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32703": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32704": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32705": {
+    "name": "Crate of shields",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32706": {
+    "name": "Crate of snakeskin",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32707": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32708": {
+    "name": "Crate of vegetables",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32709": {
+    "name": "Crate of astral runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32710": {
+    "name": "Crate of books",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32711": {
+    "name": "Crate of clothes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32712": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32713": {
+    "name": "Crate of halberds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32714": {
+    "name": "Crate of herbs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32715": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32716": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32717": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32718": {
+    "name": "Crate of silk",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32719": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32720": {
+    "name": "Crate of xerician fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32721": {
+    "name": "Crate of astral runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32722": {
+    "name": "Crate of battleaxes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32723": {
+    "name": "Crate of coal",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32724": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32725": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32726": {
+    "name": "Crate of granite",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32727": {
+    "name": "Crate of herbs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32728": {
+    "name": "Crate of karambwans",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32729": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32730": {
+    "name": "Crate of protective clothing",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32732": {
+    "name": "Crate of ship parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32733": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32734": {
+    "name": "Crate of adamantite ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32735": {
+    "name": "Crate of beer",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32736": {
+    "name": "Crate of dragon bitter",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32737": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32738": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32739": {
+    "name": "Crate of halberds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32740": {
+    "name": "Crate of lead ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32741": {
+    "name": "Crate of monkfish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32742": {
+    "name": "Crate of pies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32743": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32744": {
+    "name": "Crate of redwood logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32745": {
+    "name": "Crate of rope",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32746": {
+    "name": "Crate of ship parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32747": {
+    "name": "Crate of teak logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32748": {
+    "name": "Crate of wine",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32749": {
+    "name": "Crate of calquat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32750": {
+    "name": "Crate of cocktails",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32751": {
+    "name": "Crate of coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32752": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32753": {
+    "name": "Crate of fishing supplies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32754": {
+    "name": "Crate of javelins",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32755": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32757": {
+    "name": "Crate of ship parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32758": {
+    "name": "Crate of beer",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32759": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32760": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32761": {
+    "name": "Crate of maces",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32762": {
+    "name": "Crate of warhammers",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32763": {
+    "name": "Crate of wine",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32764": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32765": {
+    "name": "Crate of bananas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32766": {
+    "name": "Crate of battleaxes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32767": {
+    "name": "Crate of cacti",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32768": {
+    "name": "Crate of coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32769": {
+    "name": "Crate of gold bars",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32770": {
+    "name": "Crate of granite",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32772": {
+    "name": "Crate of pineapples",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32773": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32775": {
+    "name": "Crate of sea shells",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32776": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32777": {
+    "name": "Crate of steel bars",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32778": {
+    "name": "Crate of swamp paste",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32779": {
+    "name": "Crate of wax",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32780": {
+    "name": "Crate of bananas",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32781": {
+    "name": "Crate of cacti",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32782": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32783": {
+    "name": "Crate of javelins",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32784": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32785": {
+    "name": "Crate of leather",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32787": {
+    "name": "Crate of nickel ore",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32788": {
+    "name": "Crate of pest remains",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32789": {
+    "name": "Crate of pineapples",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32790": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32791": {
+    "name": "Crate of rope",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32792": {
+    "name": "Crate of sandstone",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32793": {
+    "name": "Crate of shields",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32794": {
+    "name": "Crate of coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32795": {
+    "name": "Crate of dragonhide",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32796": {
+    "name": "Crate of granite",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32797": {
+    "name": "Crate of herbs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32798": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32799": {
+    "name": "Crate of maces",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32800": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32801": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32802": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32804": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32805": {
+    "name": "Crate of spears",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32806": {
+    "name": "Crate of wrath runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32808": {
+    "name": "Crate of looty",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32809": {
+    "name": "Bull shark jaw",
+    "weight": 0.8
+  },
+  "32810": {
+    "name": "Hammerhead shark jaw",
+    "weight": 0.8
+  },
+  "32811": {
+    "name": "Tiger shark jaw",
+    "weight": 0.8
+  },
+  "32812": {
+    "name": "Great white shark jaw",
+    "weight": 0.8
+  },
+  "32813": {
+    "name": "Narwhal blubber",
+    "weight": 0.8
+  },
+  "32814": {
+    "name": "Orca blubber",
+    "weight": 0.8
+  },
+  "32815": {
+    "name": "Pygmy kraken tentacle",
+    "weight": 0.8
+  },
+  "32816": {
+    "name": "Spined kraken tentacle",
+    "weight": 0.8
+  },
+  "32817": {
+    "name": "Armoured kraken tentacle",
+    "weight": 0.8
+  },
+  "32818": {
+    "name": "Vampyre kraken tentacle",
+    "weight": 0.8
+  },
+  "32819": {
+    "name": "Eagle ray fin",
+    "weight": 0.8
+  },
+  "32820": {
+    "name": "Butterfly ray fin",
+    "weight": 0.8
+  },
+  "32821": {
+    "name": "Stingray fin",
+    "weight": 0.8
+  },
+  "32822": {
+    "name": "Manta ray fin",
+    "weight": 0.8
+  },
+  "32823": {
+    "name": "Tern feather",
+    "weight": 0.8
+  },
+  "32824": {
+    "name": "Osprey feather",
+    "weight": 0.8
+  },
+  "32825": {
+    "name": "Frigatebird feather",
+    "weight": 0.8
+  },
+  "32826": {
+    "name": "Albatross feather",
+    "weight": 0.8
+  },
+  "32827": {
+    "name": "Mogre mace",
+    "weight": 0.8
+  },
+  "32828": {
+    "name": "Bull shark liver",
+    "weight": 0.8
+  },
+  "32829": {
+    "name": "Hammerhead shark liver",
+    "weight": 0.8
+  },
+  "32830": {
+    "name": "Tiger shark liver",
+    "weight": 0.8
+  },
+  "32831": {
+    "name": "Great white shark liver",
+    "weight": 0.8
+  },
+  "32832": {
+    "name": "Narwhal tusk",
+    "weight": 0.8
+  },
+  "32833": {
+    "name": "Orca teeth",
+    "weight": 0.8
+  },
+  "32834": {
+    "name": "Pygmy kraken ink sac",
+    "weight": 0.8
+  },
+  "32835": {
+    "name": "Spined kraken ink sac",
+    "weight": 0.8
+  },
+  "32836": {
+    "name": "Armoured kraken ink sac",
+    "weight": 0.8
+  },
+  "32837": {
+    "name": "Vampyre kraken ink sac",
+    "weight": 0.8
+  },
+  "32838": {
+    "name": "Eagle ray skin",
+    "weight": 0.8
+  },
+  "32839": {
+    "name": "Butterfly ray skin",
+    "weight": 0.8
+  },
+  "32840": {
+    "name": "Stingray skin",
+    "weight": 0.8
+  },
+  "32841": {
+    "name": "Manta ray skin",
+    "weight": 0.8
+  },
+  "32842": {
+    "name": "Tern beak",
+    "weight": 0.8
+  },
+  "32843": {
+    "name": "Osprey beak",
+    "weight": 0.8
+  },
+  "32844": {
+    "name": "Frigatebird beak",
+    "weight": 0.8
+  },
+  "32845": {
+    "name": "Albatross beak",
+    "weight": 0.8
+  },
+  "32846": {
+    "name": "Mogre head",
+    "weight": 0.8
   },
   "32847": {
     "name": "Small salvage",
@@ -94104,31 +98132,57 @@
   },
   "32864": {
     "name": "Mouldy block",
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {}
   },
   "32865": {
     "name": "Dull knife",
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {}
   },
   "32866": {
     "name": "Broken compass",
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {}
   },
   "32867": {
     "name": "Rusty coin",
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {}
   },
   "32868": {
     "name": "Broken sextant",
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {}
   },
   "32869": {
     "name": "Mouldy doll",
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {}
   },
   "32870": {
     "name": "Smashed mirror",
-    "weight": 0.01
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {}
+  },
+  "32871": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "32872": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "32873": {
+    "name": "Antique lamp",
+    "weight": 0.1
   },
   "32876": {
     "name": "Aquanite tendon",
@@ -94136,6 +98190,7 @@
   },
   "32879": {
     "name": "Aquanite hopper",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -94146,6 +98201,10 @@
       "arange": 12,
       "rstr": 1
     }
+  },
+  "32882": {
+    "name": "Reef snake gland",
+    "weight": 0.04
   },
   "32886": {
     "name": "Chain",
@@ -94159,6 +98218,15 @@
     "name": "Cupronickel bar",
     "weight": 1.814
   },
+  "32895": {
+    "name": "Coin pouch",
+    "equipable": true,
+    "equipment": {}
+  },
+  "32902": {
+    "name": "Jatoba logs",
+    "weight": 2.0
+  },
   "32904": {
     "name": "Camphor logs",
     "weight": 2.0
@@ -94170,5 +98238,9 @@
   "32910": {
     "name": "Rosewood logs",
     "weight": 2.0
+  },
+  "32921": {
+    "name": "Jar of feathers",
+    "weight": 0.04
   }
 }

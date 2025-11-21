@@ -4031,6 +4031,10 @@
     "name": "Abyssal walker",
     "hitpoints": 95
   },
+  "2592": {
+    "name": "Mogre",
+    "hitpoints": 48
+  },
   "2593": {
     "name": "Werewolf",
     "hitpoints": 100
@@ -4316,8 +4320,8 @@
     "hitpoints": 6
   },
   "2847": {
-    "name": "Skeleton",
-    "hitpoints": 60
+    "name": "Yeti",
+    "hitpoints": 55
   },
   "2848": {
     "name": "Monkey",
@@ -8440,7 +8444,7 @@
     "hitpoints": 240
   },
   "6318": {
-    "name": "Nezikchened",
+    "name": "Nezikchened (hard)",
     "hitpoints": 150
   },
   "6319": {
@@ -10627,6 +10631,10 @@
     "name": "Spider",
     "hitpoints": 4
   },
+  "8139": {
+    "name": "Skeleton",
+    "hitpoints": 60
+  },
   "8149": {
     "name": "White Knight",
     "hitpoints": 52
@@ -11006,10 +11014,6 @@
   "8854": {
     "name": "Knight of Ardougne",
     "hitpoints": 52
-  },
-  "8858": {
-    "name": "Man",
-    "hitpoints": 7
   },
   "8865": {
     "name": "Arianwyn",
@@ -14467,37 +14471,297 @@
     "name": "Guard",
     "hitpoints": 22
   },
+  "14852": {
+    "name": "Hermit crab",
+    "hitpoints": 75
+  },
+  "14857": {
+    "name": "Gryphon",
+    "hitpoints": 110
+  },
+  "14858": {
+    "name": "Gryphon",
+    "hitpoints": 110
+  },
+  "14887": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14888": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14889": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14890": {
+    "name": "Guard",
+    "hitpoints": 22
+  },
+  "14920": {
+    "name": "Man",
+    "hitpoints": 7
+  },
+  "14921": {
+    "name": "Woman",
+    "hitpoints": 7
+  },
+  "14922": {
+    "name": "Frost dragon",
+    "hitpoints": 230
+  },
+  "14933": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "14934": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "14935": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "14936": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "14937": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "15009": {
+    "name": "Gryphon",
+    "hitpoints": 150
+  },
+  "15010": {
+    "name": "Shellbane gryphon",
+    "hitpoints": 400
+  },
+  "15021": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "15022": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "15023": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "15024": {
+    "name": "Pirate",
+    "hitpoints": 38
+  },
+  "15025": {
+    "name": "Black Eye Bethel",
+    "hitpoints": 180
+  },
+  "15034": {
+    "name": "Giant lobster",
+    "hitpoints": 100
+  },
+  "15164": {
+    "name": "Drink troll",
+    "hitpoints": 25
+  },
+  "15165": {
+    "name": "A corpse",
+    "hitpoints": 90
+  },
+  "15166": {
+    "name": "Blue dagannoth",
+    "hitpoints": 120
+  },
+  "15167": {
+    "name": "Daddy's special water",
+    "hitpoints": 120
+  },
+  "15168": {
+    "name": "The rocks",
+    "hitpoints": 130
+  },
+  "15169": {
+    "name": "Chuck up",
+    "hitpoints": 110
+  },
+  "15170": {
+    "name": "Angry tortugan",
+    "hitpoints": 75
+  },
+  "15175": {
+    "name": "Drink troll queen",
+    "hitpoints": 225
+  },
+  "15176": {
+    "name": "Drink troll queen",
+    "hitpoints": 225
+  },
   "15194": {
     "name": "Bull shark",
     "hitpoints": 90
   },
   "15196": {
-    "name": "Hammerhead Shark",
+    "name": "Hammerhead shark",
     "hitpoints": 90
   },
   "15198": {
     "name": "Tiger shark",
     "hitpoints": 125
   },
+  "15200": {
+    "name": "Great white shark",
+    "hitpoints": 175
+  },
+  "15204": {
+    "name": "Orca",
+    "hitpoints": 265
+  },
   "15206": {
     "name": "Pygmy kraken",
     "hitpoints": 125
   },
+  "15208": {
+    "name": "Spined kraken",
+    "hitpoints": 125
+  },
+  "15210": {
+    "name": "Armoured kraken",
+    "hitpoints": 175
+  },
+  "15211": {
+    "name": "Armoured kraken",
+    "hitpoints": 175
+  },
+  "15212": {
+    "name": "Vampyre kraken",
+    "hitpoints": 225
+  },
+  "15213": {
+    "name": "Vampyre kraken",
+    "hitpoints": 225
+  },
+  "15214": {
+    "name": "Eagle ray",
+    "hitpoints": 50
+  },
+  "15215": {
+    "name": "Eagle ray",
+    "hitpoints": 50
+  },
+  "15216": {
+    "name": "Butterfly ray",
+    "hitpoints": 70
+  },
+  "15217": {
+    "name": "Butterfly ray",
+    "hitpoints": 70
+  },
   "15218": {
-    "name": "Stringray",
+    "name": "Stingray",
     "hitpoints": 90
+  },
+  "15220": {
+    "name": "Manta ray",
+    "hitpoints": 160
+  },
+  "15221": {
+    "name": "Manta ray",
+    "hitpoints": 160
   },
   "15222": {
     "name": "Osprey",
     "hitpoints": 80
   },
+  "15224": {
+    "name": "Albatross",
+    "hitpoints": 125
+  },
+  "15226": {
+    "name": "Frigatebird",
+    "hitpoints": 85
+  },
   "15228": {
     "name": "Tern",
     "hitpoints": 30
   },
+  "15230": {
+    "name": "Mogre",
+    "hitpoints": 60
+  },
+  "15232": {
+    "name": "Mogre",
+    "hitpoints": 60
+  },
   "15234": {
     "name": "Dolphin",
     "hitpoints": 50
+  },
+  "15430": {
+    "name": "Praying mantis",
+    "hitpoints": 18
+  },
+  "15431": {
+    "name": "Praying mantis",
+    "hitpoints": 18
+  },
+  "15432": {
+    "name": "Praying mantis",
+    "hitpoints": 18
+  },
+  "15436": {
+    "name": "Giant ant",
+    "hitpoints": 20
+  },
+  "15437": {
+    "name": "Giant ant",
+    "hitpoints": 30
+  },
+  "15438": {
+    "name": "Giant wasp",
+    "hitpoints": 30
+  },
+  "15439": {
+    "name": "Giant wasp",
+    "hitpoints": 30
+  },
+  "15440": {
+    "name": "Giant mosquito",
+    "hitpoints": 3
+  },
+  "15441": {
+    "name": "Leech",
+    "hitpoints": 45
+  },
+  "15451": {
+    "name": "Captain Cotus",
+    "hitpoints": 100
+  },
+  "15457": {
+    "name": "Captain Darvald",
+    "hitpoints": 150
+  },
+  "15458": {
+    "name": "Fremennik warrior",
+    "hitpoints": 45
+  },
+  "15497": {
+    "name": "Aquanite",
+    "hitpoints": 180
+  },
+  "15498": {
+    "name": "Aquanite",
+    "hitpoints": 180
+  },
+  "15499": {
+    "name": "Reef snake",
+    "hitpoints": 160
+  },
+  "15500": {
+    "name": "Lava Strykewyrm",
+    "hitpoints": 150
   },
   "15501": {
     "name": "Vitreous Chilled Jelly",
