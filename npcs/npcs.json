@@ -7967,6 +7967,10 @@
     "name": "Cow",
     "hitpoints": 8
   },
+  "5848": {
+    "name": "Tanglefoot",
+    "hitpoints": 102
+  },
   "5853": {
     "name": "Baby tanglefoot",
     "hitpoints": 40
@@ -13027,14 +13031,6 @@
     "name": "Ancient Guardian",
     "hitpoints": 100
   },
-  "12353": {
-    "name": "Jhallan",
-    "hitpoints": 1500
-  },
-  "12354": {
-    "name": "Jhallan",
-    "hitpoints": 1500
-  },
   "12360": {
     "name": "Scarred lesser demon",
     "hitpoints": 100
@@ -14483,6 +14479,14 @@
     "name": "Gryphon",
     "hitpoints": 110
   },
+  "14859": {
+    "name": "Dire gryphon",
+    "hitpoints": 280
+  },
+  "14860": {
+    "name": "Shellbane gryphon",
+    "hitpoints": 400
+  },
   "14887": {
     "name": "Guard",
     "hitpoints": 22
@@ -14531,9 +14535,13 @@
     "name": "Pirate",
     "hitpoints": 38
   },
+  "14940": {
+    "name": "Scorpion",
+    "hitpoints": 2
+  },
   "15009": {
     "name": "Gryphon",
-    "hitpoints": 150
+    "hitpoints": 110
   },
   "15010": {
     "name": "Shellbane gryphon",
@@ -14563,6 +14571,10 @@
     "name": "Giant lobster",
     "hitpoints": 100
   },
+  "15163": {
+    "name": "Snakeling",
+    "hitpoints": 1
+  },
   "15164": {
     "name": "Drink troll",
     "hitpoints": 25
@@ -14591,6 +14603,10 @@
     "name": "Angry tortugan",
     "hitpoints": 75
   },
+  "15171": {
+    "name": "Dinky the drink troll",
+    "hitpoints": 140
+  },
   "15175": {
     "name": "Drink troll queen",
     "hitpoints": 225
@@ -14614,6 +14630,10 @@
   "15200": {
     "name": "Great white shark",
     "hitpoints": 175
+  },
+  "15202": {
+    "name": "Narwhal",
+    "hitpoints": 155
   },
   "15204": {
     "name": "Orca",
@@ -14766,5 +14786,17 @@
   "15501": {
     "name": "Vitreous Chilled Jelly",
     "hitpoints": 220
+  },
+  "15502": {
+    "name": "Elder aquanite",
+    "hitpoints": 400
+  },
+  "15503": {
+    "name": "Elder aquanite",
+    "hitpoints": 400
+  },
+  "15504": {
+    "name": "Magma strykewyrm",
+    "hitpoints": 340
   }
 }
