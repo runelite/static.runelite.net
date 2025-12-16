@@ -61374,10 +61374,6 @@
     "name": "Flaygian's notes",
     "weight": 0.003
   },
-  "22414": {
-    "name": "Chain",
-    "weight": 3.628
-  },
   "22415": {
     "name": "Tome of experience",
     "weight": 1.0
@@ -85339,6 +85335,10 @@
     "name": "Banker's note",
     "weight": 0.001
   },
+  "28769": {
+    "name": "Guardian horn",
+    "weight": 0.2
+  },
   "28771": {
     "name": "Sage's greaves",
     "equipable": true,
@@ -92861,7 +92861,8 @@
   },
   "31235": {
     "name": "Gryphon feather",
-    "weight": 0.002
+    "weight": 0.002,
+    "ge_limit": 11000
   },
   "31241": {
     "name": "Horn of plenty",
@@ -92943,6 +92944,10 @@
     "name": "Clue scroll (elite)",
     "weight": 0.02
   },
+  "31270": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
   "31271": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
@@ -92997,6 +93002,10 @@
   },
   "31285": {
     "name": "Gull",
+    "weight": 0.015
+  },
+  "31287": {
+    "name": "Gulliver",
     "weight": 0.015
   },
   "31288": {
@@ -93152,6 +93161,10 @@
       "slot": 1
     }
   },
+  "31406": {
+    "name": "Dragon nails",
+    "ge_limit": 13000
+  },
   "31408": {
     "name": "Giant blue krill",
     "weight": 0.7
@@ -93212,10 +93225,6 @@
     "name": "Rosewood plank",
     "weight": 0.8
   },
-  "31454": {
-    "name": "Ball of cotton",
-    "weight": 0.012
-  },
   "31457": {
     "name": "Hemp",
     "weight": 0.453
@@ -93226,27 +93235,33 @@
   },
   "31463": {
     "name": "Linen yarn",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 13000
   },
   "31466": {
     "name": "Hemp yarn",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 13000
   },
   "31469": {
     "name": "Cotton yarn",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 13000
   },
   "31472": {
     "name": "Bolt of linen",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 13000
   },
   "31475": {
     "name": "Bolt of canvas",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 13000
   },
   "31478": {
     "name": "Bolt of cotton",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 13000
   },
   "31481": {
     "name": "Elkhorn coral",
@@ -93298,39 +93313,48 @@
   },
   "31511": {
     "name": "Elkhorn frag",
-    "weight": 0.001
+    "weight": 0.001,
+    "ge_limit": 600
   },
   "31513": {
     "name": "Pillar frag",
-    "weight": 0.001
+    "weight": 0.001,
+    "ge_limit": 600
   },
   "31515": {
     "name": "Umbral frag",
-    "weight": 0.001
+    "weight": 0.001,
+    "ge_limit": 200
   },
   "31541": {
     "name": "Flax seed",
-    "weight": 0.001
+    "weight": 0.001,
+    "ge_limit": 2000
   },
   "31543": {
     "name": "Hemp seed",
-    "weight": 0.001
+    "weight": 0.001,
+    "ge_limit": 2000
   },
   "31545": {
     "name": "Cotton seed",
-    "weight": 0.001
+    "weight": 0.001,
+    "ge_limit": 2000
   },
   "31547": {
     "name": "Camphor seed",
-    "weight": 0.002
+    "weight": 0.002,
+    "ge_limit": 200
   },
   "31549": {
     "name": "Ironwood seed",
-    "weight": 0.002
+    "weight": 0.002,
+    "ge_limit": 200
   },
   "31551": {
     "name": "Rosewood seed",
-    "weight": 0.002
+    "weight": 0.002,
+    "ge_limit": 200
   },
   "31553": {
     "name": "Raw swordtip squid",
@@ -93520,6 +93544,26 @@
     "name": "Extended stamina potion(1)",
     "weight": 0.03
   },
+  "31650": {
+    "name": "Armadyl brew(4)",
+    "weight": 0.035,
+    "ge_limit": 2000
+  },
+  "31653": {
+    "name": "Armadyl brew(3)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "31656": {
+    "name": "Armadyl brew(2)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
+  "31659": {
+    "name": "Armadyl brew(1)",
+    "weight": 0.03,
+    "ge_limit": 2000
+  },
   "31662": {
     "name": "Elkhorn potion (unf)",
     "weight": 0.056
@@ -93584,9 +93628,14 @@
     "name": "Burnt rainbow crab meat",
     "weight": 0.35
   },
+  "31708": {
+    "name": "Crab paste",
+    "ge_limit": 13000
+  },
   "31710": {
     "name": "Rainbow crab paste",
-    "weight": 0.3
+    "weight": 0.3,
+    "ge_limit": 13000
   },
   "31716": {
     "name": "Lead ore",
@@ -93669,7 +93718,7 @@
     "weight": 3.0
   },
   "31748": {
-    "name": "Nifty hat",
+    "name": "Swamp cruiser's hat",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -93677,7 +93726,7 @@
     }
   },
   "31750": {
-    "name": "Nifty jacket",
+    "name": "Swamp cruiser's jacket",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -93685,7 +93734,7 @@
     }
   },
   "31752": {
-    "name": "Nifty trousers",
+    "name": "Swamp cruiser's trousers",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -93693,7 +93742,7 @@
     }
   },
   "31754": {
-    "name": "Nifty shoes",
+    "name": "Swamp cruiser's shoes",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -93713,7 +93762,7 @@
     "weight": 3.0
   },
   "31760": {
-    "name": "Sleek hat",
+    "name": "Crystal glider's hat",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -93721,7 +93770,7 @@
     }
   },
   "31762": {
-    "name": "Sleek jacket",
+    "name": "Crystal glider's jacket",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -93729,7 +93778,7 @@
     }
   },
   "31764": {
-    "name": "Sleek trousers",
+    "name": "Crystal glider's trousers",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -93737,7 +93786,7 @@
     }
   },
   "31766": {
-    "name": "Sleek shoes",
+    "name": "Crystal glider's shoes",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -94114,27 +94163,33 @@
   },
   "31906": {
     "name": "Bronze cannonball",
-    "weight": 3.628
+    "weight": 3.628,
+    "ge_limit": 11000
   },
   "31908": {
     "name": "Iron cannonball",
-    "weight": 3.628
+    "weight": 3.628,
+    "ge_limit": 11000
   },
   "31910": {
     "name": "Mithril cannonball",
-    "weight": 2.721
+    "weight": 2.721,
+    "ge_limit": 11000
   },
   "31912": {
     "name": "Adamant cannonball",
-    "weight": 3.628
+    "weight": 3.628,
+    "ge_limit": 11000
   },
   "31914": {
     "name": "Rune cannonball",
-    "weight": 3.628
+    "weight": 3.628,
+    "ge_limit": 11000
   },
   "31916": {
     "name": "Dragon cannonball",
-    "weight": 3.628
+    "weight": 3.628,
+    "ge_limit": 11000
   },
   "31918": {
     "name": "Bronze chainshot cannonball",
@@ -94208,37 +94263,48 @@
     "name": "Narwhal horn knife",
     "weight": 1.0
   },
+  "31959": {
+    "name": "Ray barbs",
+    "ge_limit": 15
+  },
   "31961": {
     "name": "Broken dragon hook",
     "weight": 5.0
   },
   "31964": {
     "name": "Repair kit",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 13000
   },
   "31967": {
     "name": "Oak repair kit",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 13000
   },
   "31970": {
     "name": "Teak repair kit",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 13000
   },
   "31973": {
     "name": "Mahogany repair kit",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 13000
   },
   "31976": {
     "name": "Camphor repair kit",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 13000
   },
   "31979": {
     "name": "Ironwood repair kit",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 13000
   },
   "31982": {
     "name": "Rosewood repair kit",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 13000
   },
   "31985": {
     "name": "Captain's log",
@@ -94250,7 +94316,8 @@
   },
   "31989": {
     "name": "Boat bottle (empty)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 100
   },
   "31992": {
     "name": "Boat bottle (full)",
@@ -94258,95 +94325,118 @@
   },
   "31996": {
     "name": "Dragon metal sheet",
-    "weight": 1.814
+    "weight": 1.814,
+    "ge_limit": 64
   },
   "31999": {
     "name": "Bronze keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32002": {
     "name": "Iron keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32005": {
     "name": "Steel keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32008": {
     "name": "Mithril keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32011": {
     "name": "Adamant keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32014": {
     "name": "Rune keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32017": {
     "name": "Dragon keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32020": {
     "name": "Large bronze keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32023": {
     "name": "Large iron keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32026": {
     "name": "Large steel keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32029": {
     "name": "Large mithril keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32032": {
     "name": "Large adamant keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32035": {
     "name": "Large rune keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32038": {
     "name": "Large dragon keel parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32041": {
     "name": "Wooden hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32044": {
     "name": "Oak hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32047": {
     "name": "Teak hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32050": {
     "name": "Mahogany hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32053": {
     "name": "Camphor hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32056": {
     "name": "Ironwood hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32059": {
     "name": "Rosewood hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32062": {
     "name": "Large wooden hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32065": {
     "name": "Large oak hull parts",
@@ -94354,23 +94444,28 @@
   },
   "32068": {
     "name": "Large teak hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32071": {
     "name": "Large mahogany hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32074": {
     "name": "Large camphor hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32077": {
     "name": "Large ironwood hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32080": {
     "name": "Large rosewood hull parts",
-    "weight": 4.0
+    "weight": 4.0,
+    "ge_limit": 100
   },
   "32085": {
     "name": "Sawmill coupon (oak plank)",
@@ -94423,6 +94518,10 @@
   "32115": {
     "name": "Dragon cannon barrel",
     "weight": 12.0
+  },
+  "32307": {
+    "name": "Fine fish offcuts",
+    "ge_limit": 8000
   },
   "32309": {
     "name": "Raw giant krill",
@@ -94554,11 +94653,13 @@
   },
   "32383": {
     "name": "Fish crate (marlin)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32385": {
     "name": "Fish crate (marlin)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32386": {
     "name": "Medallion of the deep",
@@ -94972,6 +95073,15 @@
       "is2h": true
     }
   },
+  "32459": {
+    "name": "Crate of runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32460": {
     "name": "Crate of salamanders",
     "weight": 1.285,
@@ -95091,6 +95201,15 @@
   },
   "32473": {
     "name": "Crate of machinery parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32474": {
+    "name": "Crate of rum",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -95431,6 +95550,15 @@
       "is2h": true
     }
   },
+  "32512": {
+    "name": "Crate of runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32513": {
     "name": "Crate of seeds",
     "weight": 1.285,
@@ -95566,6 +95694,15 @@
       "is2h": true
     }
   },
+  "32528": {
+    "name": "Crate of rum",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32529": {
     "name": "Crate of scimitars",
     "weight": 1.285,
@@ -95667,6 +95804,15 @@
   },
   "32540": {
     "name": "Crate of machinery parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32541": {
+    "name": "Crate of mahogany logs",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -95944,6 +96090,15 @@
       "is2h": true
     }
   },
+  "32572": {
+    "name": "Crate of meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32573": {
     "name": "Crate of ores",
     "weight": 1.285,
@@ -96160,6 +96315,24 @@
       "is2h": true
     }
   },
+  "32597": {
+    "name": "Crate of mahogany logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32598": {
+    "name": "Crate of meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32599": {
     "name": "Crate of rotten bananas",
     "weight": 1.285,
@@ -96198,6 +96371,15 @@
   },
   "32603": {
     "name": "Crate of coal",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32604": {
+    "name": "Crate of mahogany logs",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -96556,6 +96738,15 @@
       "is2h": true
     }
   },
+  "32644": {
+    "name": "Crate of mahogany logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32645": {
     "name": "Crate of planks",
     "weight": 1.285,
@@ -96709,6 +96900,15 @@
       "is2h": true
     }
   },
+  "32662": {
+    "name": "Crate of meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32663": {
     "name": "Crate of nickel ore",
     "weight": 1.285,
@@ -96729,6 +96929,15 @@
   },
   "32665": {
     "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32666": {
+    "name": "Crate of runes",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -96918,6 +97127,15 @@
   },
   "32687": {
     "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32688": {
+    "name": "Crate of runes",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -97303,6 +97521,15 @@
       "is2h": true
     }
   },
+  "32731": {
+    "name": "Crate of runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32732": {
     "name": "Crate of ship parts",
     "weight": 1.285,
@@ -97519,6 +97746,15 @@
       "is2h": true
     }
   },
+  "32756": {
+    "name": "Crate of runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32757": {
     "name": "Crate of ship parts",
     "weight": 1.285,
@@ -97645,6 +97881,15 @@
       "is2h": true
     }
   },
+  "32771": {
+    "name": "Crate of meat",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
   "32772": {
     "name": "Crate of pineapples",
     "weight": 1.285,
@@ -97656,6 +97901,15 @@
   },
   "32773": {
     "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32774": {
+    "name": "Crate of rum",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -97755,6 +98009,15 @@
   },
   "32785": {
     "name": "Crate of leather",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32786": {
+    "name": "Crate of meat",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -97899,6 +98162,15 @@
   },
   "32802": {
     "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32803": {
+    "name": "Crate of runes",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -98132,45 +98404,31 @@
   },
   "32864": {
     "name": "Mouldy block",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.01
   },
   "32865": {
     "name": "Dull knife",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.01
   },
   "32866": {
     "name": "Broken compass",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.01
   },
   "32867": {
     "name": "Rusty coin",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.01
   },
   "32868": {
     "name": "Broken sextant",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.01
   },
   "32869": {
     "name": "Mouldy doll",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.01
   },
   "32870": {
     "name": "Smashed mirror",
-    "weight": 0.01,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.01
   },
   "32871": {
     "name": "Antique lamp",
@@ -98218,11 +98476,6 @@
     "name": "Cupronickel bar",
     "weight": 1.814
   },
-  "32895": {
-    "name": "Coin pouch",
-    "equipable": true,
-    "equipment": {}
-  },
   "32902": {
     "name": "Jatoba logs",
     "weight": 2.0
@@ -98242,5 +98495,60 @@
   "32921": {
     "name": "Jar of feathers",
     "weight": 0.04
+  },
+  "32924": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32925": {
+    "name": "Crate of clothes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32926": {
+    "name": "Serving platter",
+    "weight": 0.05
+  },
+  "32928": {
+    "name": "Lovley{{sic}} jubbly bib",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "32930": {
+    "name": "Beer belly sweater",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "32932": {
+    "name": "Jad jumper",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "32934": {
+    "name": "Christmas dinner",
+    "weight": 0.07,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
   }
 }
