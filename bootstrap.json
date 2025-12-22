@@ -3,42 +3,42 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.12.9.jar",
-                    "fromHash": "214eeeff7cbba0685ace71803060c017055c70e79a0a120d6214589e554be9ae",
-                    "hash": "0f971110e6aa76dcdbd7845d490e8abbf455094dcb17f3ab06ec883bde310442",
-                    "name": "client-1.12.10.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.12.9.jar-client-1.12.10.jar.apdiff.gz.jar",
-                    "size": 83430
+                    "from": "client-1.12.8.jar",
+                    "fromHash": "214b83fad64582c3290165303a69b4451a5754183d06c57a1ffc70d666cdde0e",
+                    "hash": "4f3c63eab1edad75129c8e51dd890e73b068b89a63587715270f39a4376388c0",
+                    "name": "client-1.12.9.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.12.8.jar-client-1.12.9.jar.apdiff.gz.jar",
+                    "size": 23583
                 }
             ],
-            "hash": "2207b0982836d9d9b5e20b8304bbd04adcfee2be3e4a87f7244fef338f5a32c2",
-            "name": "client-1.12.10.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.12.10/client-1.12.10.jar",
-            "size": 5182763
-        },
-        {
-            "hash": "cc3cc5e3c1aab5b99dbc2d4d3c85ad16a09feb3d2eb8e5f54bc77b81dea5bb86",
-            "name": "http-api-1.2.21.jar",
-            "path": "https://repo.runelite.net/net/runelite/arn/http-api/1.2.21/http-api-1.2.21.jar",
-            "size": 42859
-        },
-        {
-            "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
-            "name": "okhttp-3.14.9.jar",
-            "path": "https://repo.runelite.net/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar",
-            "size": 430488
-        },
-        {
-            "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
-            "name": "okio-1.17.2.jar",
-            "path": "https://repo.runelite.net/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar",
-            "size": 91980
+            "hash": "214eeeff7cbba0685ace71803060c017055c70e79a0a120d6214589e554be9ae",
+            "name": "client-1.12.9.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.12.9/client-1.12.9.jar",
+            "size": 5230272
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
             "name": "slf4j-api-1.7.25.jar",
             "path": "https://repo.runelite.net/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar",
             "size": 41203
+        },
+        {
+            "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
+            "name": "logback-classic-1.2.9.jar",
+            "path": "https://repo.runelite.net/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
+            "size": 233855
+        },
+        {
+            "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
+            "name": "logback-core-1.2.9.jar",
+            "path": "https://repo.runelite.net/ch/qos/logback/logback-core/1.2.9/logback-core-1.2.9.jar",
+            "size": 454201
+        },
+        {
+            "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
+            "name": "jopt-simple-5.0.1.jar",
+            "path": "https://repo.runelite.net/net/sf/jopt-simple/jopt-simple/5.0.1/jopt-simple-5.0.1.jar",
+            "size": 78826
         },
         {
             "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
@@ -69,54 +69,6 @@
             "name": "gson-2.8.5.jar",
             "path": "https://repo.runelite.net/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar",
             "size": 241622
-        },
-        {
-            "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-            "name": "lwjgl-3.3.2.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
-            "size": 786196
-        },
-        {
-            "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
-            "name": "lwjgl-opengl-3.3.2.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
-            "size": 928871
-        },
-        {
-            "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
-            "name": "lwjgl-opencl-3.3.2.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opencl/3.3.2/lwjgl-opencl-3.3.2.jar",
-            "size": 238152
-        },
-        {
-            "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
-            "name": "discord-1.4.jar",
-            "path": "https://repo.runelite.net/net/runelite/discord/1.4/discord-1.4.jar",
-            "size": 681590
-        },
-        {
-            "hash": "f9fea77b57a312945fe173b3b091793841919b6be41454a6d41df54da931f39d",
-            "name": "rlawt-1.7.jar",
-            "path": "https://repo.runelite.net/net/runelite/rlawt/1.7/rlawt-1.7.jar",
-            "size": 236035
-        },
-        {
-            "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
-            "name": "logback-classic-1.2.9.jar",
-            "path": "https://repo.runelite.net/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
-            "size": 233855
-        },
-        {
-            "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
-            "name": "logback-core-1.2.9.jar",
-            "path": "https://repo.runelite.net/ch/qos/logback/logback-core/1.2.9/logback-core-1.2.9.jar",
-            "size": 454201
-        },
-        {
-            "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
-            "name": "jopt-simple-5.0.1.jar",
-            "path": "https://repo.runelite.net/net/sf/jopt-simple/jopt-simple/5.0.1/jopt-simple-5.0.1.jar",
-            "size": 78826
         },
         {
             "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
@@ -161,27 +113,16 @@
             "size": 703181
         },
         {
-            "hash": "9f94be61497afd6127b97fad77c398df7785540f2d8b6486fd3c751d1203d2d8",
-            "name": "injected-client-1.12.10.jar",
-            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.10/injected-client-1.12.10.jar",
-            "size": 4003509
+            "hash": "f9fea77b57a312945fe173b3b091793841919b6be41454a6d41df54da931f39d",
+            "name": "rlawt-1.7.jar",
+            "path": "https://repo.runelite.net/net/runelite/rlawt/1.7/rlawt-1.7.jar",
+            "size": 236035
         },
         {
-            "hash": "6c7627e53af6b1c56f3cff532fc9b9496d93e1cac655ec506c8f01e7608e69ef",
-            "name": "rlicn-1.1-windows.jar",
-            "path": "https://repo.runelite.net/net/runelite/rlicn/1.1/rlicn-1.1-windows.jar",
-            "platform": [
-                {
-                    "name": "win"
-                }
-            ],
-            "size": 168875
-        },
-        {
-            "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a",
-            "name": "json-20090211.jar",
-            "path": "https://repo.runelite.net/org/json/json/20090211/json-20090211.jar",
-            "size": 45944
+            "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
+            "name": "lwjgl-3.3.2.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
+            "size": 786196
         },
         {
             "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
@@ -193,17 +134,6 @@
                 }
             ],
             "size": 114144
-        },
-        {
-            "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
-            "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux.jar",
-            "platform": [
-                {
-                    "name": "linux"
-                }
-            ],
-            "size": 80464
         },
         {
             "hash": "f4f4c13cd70224ec443753837f6652ec7ed11c5857ffc3e7d03e216aef6e663b",
@@ -218,18 +148,6 @@
             "size": 90795
         },
         {
-            "hash": "836e5641627f7bf3c966c93946f400cb77cdf65b8a347763e55e069d313e6def",
-            "name": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
-            "platform": [
-                {
-                    "arch": "aarch64",
-                    "name": "linux"
-                }
-            ],
-            "size": 58627
-        },
-        {
             "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
             "name": "lwjgl-3.3.2-natives-macos.jar",
             "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-macos.jar",
@@ -239,17 +157,6 @@
                 }
             ],
             "size": 60240
-        },
-        {
-            "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
-            "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos.jar",
-            "platform": [
-                {
-                    "name": "macos"
-                }
-            ],
-            "size": 41485
         },
         {
             "hash": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
@@ -264,18 +171,6 @@
             "size": 48270
         },
         {
-            "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
-            "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-            "platform": [
-                {
-                    "arch": "aarch64",
-                    "name": "macos"
-                }
-            ],
-            "size": 42490
-        },
-        {
             "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
             "name": "lwjgl-3.3.2-natives-windows-x86.jar",
             "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-x86.jar",
@@ -288,18 +183,6 @@
             "size": 139365
         },
         {
-            "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
-            "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-            "platform": [
-                {
-                    "arch": "x86",
-                    "name": "win"
-                }
-            ],
-            "size": 88610
-        },
-        {
             "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
             "name": "lwjgl-3.3.2-natives-windows.jar",
             "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows.jar",
@@ -309,17 +192,6 @@
                 }
             ],
             "size": 164993
-        },
-        {
-            "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
-            "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
-            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows.jar",
-            "platform": [
-                {
-                    "name": "win"
-                }
-            ],
-            "size": 101530
         },
         {
             "hash": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee",
@@ -334,6 +206,81 @@
             "size": 133200
         },
         {
+            "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
+            "name": "lwjgl-opengl-3.3.2.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
+            "size": 928871
+        },
+        {
+            "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
+            "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux.jar",
+            "platform": [
+                {
+                    "name": "linux"
+                }
+            ],
+            "size": 80464
+        },
+        {
+            "hash": "836e5641627f7bf3c966c93946f400cb77cdf65b8a347763e55e069d313e6def",
+            "name": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+            "platform": [
+                {
+                    "arch": "aarch64",
+                    "name": "linux"
+                }
+            ],
+            "size": 58627
+        },
+        {
+            "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
+            "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos.jar",
+            "platform": [
+                {
+                    "name": "macos"
+                }
+            ],
+            "size": 41485
+        },
+        {
+            "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
+            "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+            "platform": [
+                {
+                    "arch": "aarch64",
+                    "name": "macos"
+                }
+            ],
+            "size": 42490
+        },
+        {
+            "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
+            "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+            "platform": [
+                {
+                    "arch": "x86",
+                    "name": "win"
+                }
+            ],
+            "size": 88610
+        },
+        {
+            "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
+            "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows.jar",
+            "platform": [
+                {
+                    "name": "win"
+                }
+            ],
+            "size": 101530
+        },
+        {
             "hash": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
             "name": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
             "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
@@ -346,20 +293,73 @@
             "size": 83132
         },
         {
-            "diffs": [
+            "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
+            "name": "lwjgl-opencl-3.3.2.jar",
+            "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opencl/3.3.2/lwjgl-opencl-3.3.2.jar",
+            "size": 238152
+        },
+        {
+            "hash": "eb34faea976bdd369a6c89941dad7888020e3724b5d4261145bfcd3d04e47ece",
+            "name": "injected-client-1.12.9.jar",
+            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.9/injected-client-1.12.9.jar",
+            "size": 4005778
+        },
+        {
+            "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a",
+            "name": "json-20090211.jar",
+            "path": "https://repo.runelite.net/org/json/json/20090211/json-20090211.jar",
+            "size": 45944
+        },
+        {
+            "hash": "6c7627e53af6b1c56f3cff532fc9b9496d93e1cac655ec506c8f01e7608e69ef",
+            "name": "rlicn-1.1-windows.jar",
+            "path": "https://repo.runelite.net/net/runelite/rlicn/1.1/rlicn-1.1-windows.jar",
+            "platform": [
                 {
-                    "from": "runelite-api-1.12.9-runtime.jar",
-                    "fromHash": "c572604a0e405faa6faf3a366a6129454e8093e2221a302c9aa7d7435b3b8110",
-                    "hash": "950c455b8e67dedda18761ceff6e9d1a1ae420fb8ca71c1e78609aedbd2af222",
-                    "name": "runelite-api-1.12.10-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.9-runtime.jar-runelite-api-1.12.10-runtime.jar.apdiff.gz.jar",
-                    "size": 2379
+                    "name": "win"
                 }
             ],
-            "hash": "db2d97aa6914e6b96e22df6152b84cd171e8c940141c99b056e70e57093e2618",
-            "name": "runelite-api-1.12.10-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.10/runelite-api-1.12.10-runtime.jar",
-            "size": 271522
+            "size": 168875
+        },
+        {
+            "hash": "cc3cc5e3c1aab5b99dbc2d4d3c85ad16a09feb3d2eb8e5f54bc77b81dea5bb86",
+            "name": "http-api-1.2.21.jar",
+            "path": "https://repo.runelite.net/net/runelite/arn/http-api/1.2.21/http-api-1.2.21.jar",
+            "size": 42859
+        },
+        {
+            "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
+            "name": "okhttp-3.14.9.jar",
+            "path": "https://repo.runelite.net/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar",
+            "size": 430488
+        },
+        {
+            "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
+            "name": "okio-1.17.2.jar",
+            "path": "https://repo.runelite.net/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar",
+            "size": 91980
+        },
+        {
+            "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
+            "name": "discord-1.4.jar",
+            "path": "https://repo.runelite.net/net/runelite/discord/1.4/discord-1.4.jar",
+            "size": 681590
+        },
+        {
+            "diffs": [
+                {
+                    "from": "runelite-api-1.12.8-runtime.jar",
+                    "fromHash": "fe934a95b047b16a3f2d78b1613d66cd8ded0dfb6d26507532c5e52ec419e4c3",
+                    "hash": "b66f69cd5a3166ada83837c26d6a62ef2afef2900830820412d7f186d37f15c9",
+                    "name": "runelite-api-1.12.9-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.8-runtime.jar-runelite-api-1.12.9-runtime.jar.apdiff.gz.jar",
+                    "size": 457
+                }
+            ],
+            "hash": "c572604a0e405faa6faf3a366a6129454e8093e2221a302c9aa7d7435b3b8110",
+            "name": "runelite-api-1.12.9-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.9/runelite-api-1.12.9-runtime.jar",
+            "size": 274518
         }
     ],
     "clientJvm17Arguments": [
@@ -452,5 +452,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.12.10"
+    "version": "1.12.9"
 }
