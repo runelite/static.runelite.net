@@ -346,6 +346,16 @@
             "size": 83132
         },
         {
+            "diffs": [
+                {
+                    "from": "runelite-api-1.12.10-runtime.jar",
+                    "fromHash": "db2d97aa6914e6b96e22df6152b84cd171e8c940141c99b056e70e57093e2618",
+                    "hash": "0664027d47ac2382340dfe4d0c13aabbf908924625bc0431b3d05d175ab9a20b",
+                    "name": "runelite-api-1.12.11-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.10-runtime.jar-runelite-api-1.12.11-runtime.jar.apdiff.gz.jar",
+                    "size": 359
+                }
+            ],
             "hash": "db2d97aa6914e6b96e22df6152b84cd171e8c940141c99b056e70e57093e2618",
             "name": "runelite-api-1.12.11-runtime.jar",
             "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.11/runelite-api-1.12.11-runtime.jar",
