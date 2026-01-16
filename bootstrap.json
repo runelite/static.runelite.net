@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.12.10.jar",
-                    "fromHash": "2207b0982836d9d9b5e20b8304bbd04adcfee2be3e4a87f7244fef338f5a32c2",
-                    "hash": "c840bf3636f1a6f5f9c64f8af590d770d26442fb3163f2fd6bf98ca371e52b6d",
-                    "name": "client-1.12.11.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.12.10.jar-client-1.12.11.jar.apdiff.gz.jar",
-                    "size": 45094
+                    "from": "client-1.12.11.jar",
+                    "fromHash": "199cde07a1e13adda29e5f77ee3660a3ef1aff51d5eb64cb05765be1fe0a5762",
+                    "hash": "0bed0359ea261a2c0cde2b34af52dd323d424dcf0e0888c7ab6a5ab4c036c17b",
+                    "name": "client-1.12.12.1.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.12.11.jar-client-1.12.12.1.jar.apdiff.gz.jar",
+                    "size": 31059
                 }
             ],
-            "hash": "199cde07a1e13adda29e5f77ee3660a3ef1aff51d5eb64cb05765be1fe0a5762",
-            "name": "client-1.12.11.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.12.11/client-1.12.11.jar",
-            "size": 5186938
+            "hash": "021b604962c641943f594e826310db0f51f9d737e082819b204e0bc92f92ba2f",
+            "name": "client-1.12.12.1.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.12.12.1/client-1.12.12.1.jar",
+            "size": 5188900
         },
         {
             "hash": "cc3cc5e3c1aab5b99dbc2d4d3c85ad16a09feb3d2eb8e5f54bc77b81dea5bb86",
@@ -161,10 +161,10 @@
             "size": 238152
         },
         {
-            "hash": "c295ad70f8b4ca03a846111aba7ebf7b42a7df4921edb8f76ece21c11a3f4a99",
-            "name": "injected-client-1.12.11.jar",
-            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.11/injected-client-1.12.11.jar",
-            "size": 4012297
+            "hash": "1eea621634325f7efa4c7621334ca3d6858ae0b1d27e3622c74c3a8d8e27f637",
+            "name": "injected-client-1.12.12.1.jar",
+            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.12.1/injected-client-1.12.12.1.jar",
+            "size": 4012913
         },
         {
             "hash": "6c7627e53af6b1c56f3cff532fc9b9496d93e1cac655ec506c8f01e7608e69ef",
@@ -348,18 +348,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.12.10-runtime.jar",
+                    "from": "runelite-api-1.12.11-runtime.jar",
                     "fromHash": "db2d97aa6914e6b96e22df6152b84cd171e8c940141c99b056e70e57093e2618",
-                    "hash": "0664027d47ac2382340dfe4d0c13aabbf908924625bc0431b3d05d175ab9a20b",
-                    "name": "runelite-api-1.12.11-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.10-runtime.jar-runelite-api-1.12.11-runtime.jar.apdiff.gz.jar",
-                    "size": 359
+                    "hash": "a98cf6f86c3ed7052b528a7674544dcb383b87106841756f1cee33067f9a04fd",
+                    "name": "runelite-api-1.12.12.1-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.11-runtime.jar-runelite-api-1.12.12.1-runtime.jar.apdiff.gz.jar",
+                    "size": 2545
                 }
             ],
-            "hash": "db2d97aa6914e6b96e22df6152b84cd171e8c940141c99b056e70e57093e2618",
-            "name": "runelite-api-1.12.11-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.11/runelite-api-1.12.11-runtime.jar",
-            "size": 271522
+            "hash": "a4beeec05d5c3761a0acf788fa0c9d4447c6252bc6551caeeefa852fb8aa2e9f",
+            "name": "runelite-api-1.12.12.1-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.12.1/runelite-api-1.12.12.1-runtime.jar",
+            "size": 271765
         }
     ],
     "clientJvm17Arguments": [
@@ -377,7 +377,7 @@
     ],
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,DiscordHook.dll,DiscordHook64.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -411,7 +411,7 @@
     "launcherJvm11WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,DiscordHook.dll,DiscordHook64.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -434,7 +434,7 @@
     "launcherJvm17WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,DiscordHook.dll,DiscordHook64.dll",
+        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
@@ -452,5 +452,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.12.11"
+    "version": "1.12.12.1"
 }
