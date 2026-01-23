@@ -605,15 +605,15 @@
   },
   "294": {
     "name": "Dwarf",
-    "hitpoints": 18
+    "hitpoints": 16
   },
   "295": {
     "name": "Dwarf",
-    "hitpoints": 18
+    "hitpoints": 16
   },
   "296": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "299": {
     "name": "Gunthor the brave",
@@ -2485,23 +2485,23 @@
   },
   "1401": {
     "name": "Dwarf",
-    "hitpoints": 18
+    "hitpoints": 16
   },
   "1402": {
     "name": "Dwarf",
-    "hitpoints": 18
+    "hitpoints": 16
   },
   "1403": {
     "name": "Dwarf",
-    "hitpoints": 18
+    "hitpoints": 16
   },
   "1404": {
     "name": "Dwarf",
-    "hitpoints": 18
+    "hitpoints": 16
   },
   "1405": {
     "name": "Dwarf",
-    "hitpoints": 16
+    "hitpoints": 12
   },
   "1406": {
     "name": "Dwarf",
@@ -2509,7 +2509,7 @@
   },
   "1407": {
     "name": "Dwarf",
-    "hitpoints": 18
+    "hitpoints": 13
   },
   "1408": {
     "name": "Dwarf",
@@ -4198,6 +4198,10 @@
   "2634": {
     "name": "Myre Blamish Snail",
     "hitpoints": 8
+  },
+  "2642": {
+    "name": "King Black Dragon",
+    "hitpoints": 240
   },
   "2645": {
     "name": "Blood Blamish Snail",
