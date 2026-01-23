@@ -9815,7 +9815,7 @@
       "dstab": 23,
       "dslash": 30,
       "dcrush": 30,
-      "dmagic": 26,
+      "dmagic": 28,
       "drange": 40
     },
     "ge_limit": 125
@@ -28511,7 +28511,7 @@
       "dstab": 23,
       "dslash": 30,
       "dcrush": 30,
-      "dmagic": 26,
+      "dmagic": 28,
       "drange": 40
     },
     "ge_limit": 8
@@ -28527,7 +28527,7 @@
       "dstab": 23,
       "dslash": 30,
       "dcrush": 30,
-      "dmagic": 26,
+      "dmagic": 28,
       "drange": 40
     },
     "ge_limit": 8
@@ -33247,7 +33247,7 @@
     }
   },
   "8924": {
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (white)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -33256,7 +33256,7 @@
     "ge_limit": 150
   },
   "8925": {
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (red)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -33265,7 +33265,7 @@
     "ge_limit": 150
   },
   "8926": {
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (blue)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -33274,7 +33274,7 @@
     "ge_limit": 150
   },
   "8927": {
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (brown)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -57488,7 +57488,7 @@
     "equipment": {
       "slot": 9
     },
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "21186": {
     "name": "Fire max cape",
@@ -75640,6 +75640,10 @@
     "name": "Strongbones' bone",
     "weight": 0.001
   },
+  "26594": {
+    "name": "Grubfoot",
+    "weight": 0.001
+  },
   "26649": {
     "name": "Skis",
     "weight": 2.0,
@@ -80744,7 +80748,8 @@
       "amagic": 22,
       "dmagic": 20,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "27665": {
     "name": "Accursed sceptre",
@@ -80782,17 +80787,6 @@
       "aspeed": 5
     },
     "ge_limit": 8
-  },
-  "27679": {
-    "name": "Accursed sceptre (a)",
-    "weight": 0.198,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "amagic": 22,
-      "dmagic": 20,
-      "aspeed": 5
-    }
   },
   "27681": {
     "name": "Voidwaker hilt",
@@ -85997,6 +85991,10 @@
     "name": "Fox's report",
     "weight": 0.02
   },
+  "28984": {
+    "name": "Baby dragon bonemeal",
+    "weight": 1.5
+  },
   "28986": {
     "name": "Love letter",
     "weight": 0.003
@@ -87359,7 +87357,8 @@
       "slot": 2,
       "amagic": -3,
       "mdmg": -80.0
-    }
+    },
+    "ge_limit": 125
   },
   "29489": {
     "name": "Rainbow cape",
@@ -89334,7 +89333,8 @@
   },
   "29993": {
     "name": "Aldarium",
-    "weight": 0.007
+    "weight": 0.007,
+    "ge_limit": 13000
   },
   "29996": {
     "name": "Reagent pouch",
@@ -91702,7 +91702,6 @@
       "slot": 3,
       "astab": 2,
       "acrush": 21,
-      "amagic": 7,
       "dslash": 7,
       "dcrush": 3,
       "dmagic": 11,
@@ -92861,7 +92860,6 @@
   },
   "31235": {
     "name": "Gryphon feather",
-    "weight": 0.002,
     "ge_limit": 11000
   },
   "31241": {
@@ -93081,9 +93079,7 @@
   },
   "31331": {
     "name": "Mayor of catherby",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {}
+    "weight": 2.267
   },
   "31333": {
     "name": "Strykewyrm bonemeal",
@@ -93219,7 +93215,8 @@
   },
   "31435": {
     "name": "Ironwood plank",
-    "weight": 0.8
+    "weight": 0.8,
+    "ge_limit": 13000
   },
   "31438": {
     "name": "Rosewood plank",
@@ -93313,47 +93310,38 @@
   },
   "31511": {
     "name": "Elkhorn frag",
-    "weight": 0.001,
     "ge_limit": 600
   },
   "31513": {
     "name": "Pillar frag",
-    "weight": 0.001,
     "ge_limit": 600
   },
   "31515": {
     "name": "Umbral frag",
-    "weight": 0.001,
     "ge_limit": 200
   },
   "31541": {
     "name": "Flax seed",
-    "weight": 0.001,
     "ge_limit": 2000
   },
   "31543": {
     "name": "Hemp seed",
-    "weight": 0.001,
     "ge_limit": 2000
   },
   "31545": {
     "name": "Cotton seed",
-    "weight": 0.001,
     "ge_limit": 2000
   },
   "31547": {
     "name": "Camphor seed",
-    "weight": 0.002,
     "ge_limit": 200
   },
   "31549": {
     "name": "Ironwood seed",
-    "weight": 0.002,
     "ge_limit": 200
   },
   "31551": {
     "name": "Rosewood seed",
-    "weight": 0.002,
     "ge_limit": 200
   },
   "31553": {
@@ -93578,7 +93566,7 @@
   },
   "31671": {
     "name": "Red crab",
-    "weight": 600.0
+    "weight": 0.6
   },
   "31674": {
     "name": "Blue crab",
@@ -93634,7 +93622,6 @@
   },
   "31710": {
     "name": "Rainbow crab paste",
-    "weight": 0.3,
     "ge_limit": 13000
   },
   "31716": {
@@ -94163,32 +94150,26 @@
   },
   "31906": {
     "name": "Bronze cannonball",
-    "weight": 3.628,
     "ge_limit": 11000
   },
   "31908": {
     "name": "Iron cannonball",
-    "weight": 3.628,
     "ge_limit": 11000
   },
   "31910": {
     "name": "Mithril cannonball",
-    "weight": 2.721,
     "ge_limit": 11000
   },
   "31912": {
     "name": "Adamant cannonball",
-    "weight": 3.628,
     "ge_limit": 11000
   },
   "31914": {
     "name": "Rune cannonball",
-    "weight": 3.628,
     "ge_limit": 11000
   },
   "31916": {
     "name": "Dragon cannonball",
-    "weight": 3.628,
     "ge_limit": 11000
   },
   "31918": {
@@ -94254,6 +94235,10 @@
   "31949": {
     "name": "Bottled storm",
     "weight": 0.5
+  },
+  "31952": {
+    "name": "Swift albatross feather",
+    "ge_limit": 15
   },
   "31954": {
     "name": "Narwhal horn",
@@ -94467,10 +94452,6 @@
     "weight": 4.0,
     "ge_limit": 100
   },
-  "32085": {
-    "name": "Sawmill coupon (oak plank)",
-    "weight": 0.001
-  },
   "32087": {
     "name": "Barracuda paint",
     "weight": 1.0
@@ -94517,7 +94498,8 @@
   },
   "32115": {
     "name": "Dragon cannon barrel",
-    "weight": 12.0
+    "weight": 12.0,
+    "ge_limit": 100
   },
   "32307": {
     "name": "Fine fish offcuts",
@@ -94601,7 +94583,8 @@
   },
   "32360": {
     "name": "Yellow fin",
-    "weight": 0.028
+    "weight": 0.028,
+    "ge_limit": 11000
   },
   "32362": {
     "name": "Marlin scales",
@@ -94609,7 +94592,12 @@
   },
   "32364": {
     "name": "Camphor crate",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
+  },
+  "32366": {
+    "name": "Fish crate (empty)",
+    "ge_limit": 250
   },
   "32368": {
     "name": "Fish crate (giant krill)",
@@ -94774,7 +94762,7 @@
     "weight": 0.01
   },
   "32414": {
-    "name": "Small key (ynsdail){{sic}}",
+    "name": "Small key (ynysdail)",
     "weight": 0.01
   },
   "32415": {
@@ -98549,6 +98537,301 @@
     "equipment": {
       "slot": 3,
       "is2h": true
+    }
+  },
+  "33002": {
+    "name": "Holy moleys",
+    "weight": 0.6,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "prayer": 3
+    }
+  },
+  "33004": {
+    "name": "Kharidian quest lamp",
+    "weight": 0.1
+  },
+  "33005": {
+    "name": "Myreque quest lamp",
+    "weight": 0.1
+  },
+  "33006": {
+    "name": "Dragonkin quest lamp",
+    "weight": 0.1
+  },
+  "33007": {
+    "name": "Mahjarrat 2 quest lamp",
+    "weight": 0.1
+  },
+  "33008": {
+    "name": "Camelot quest lamp",
+    "weight": 0.1
+  },
+  "33009": {
+    "name": "Recipe for disaster quest lamp",
+    "weight": 0.1
+  },
+  "33012": {
+    "name": "Annihilation weapon scroll",
+    "weight": 0.1
+  },
+  "33015": {
+    "name": "Annihilation blueprints",
+    "weight": 0.1
+  },
+  "33018": {
+    "name": "Annihilation teleport scroll",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {}
+  },
+  "33021": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
+  "33023": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "33025": {
+    "name": "Crystal body (inactive)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33027": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "33029": {
+    "name": "Crystal legs (inactive)",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33031": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "33033": {
+    "name": "Crystal helm (inactive)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "33035": {
+    "name": "Toxic staff (uncharged)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 70,
+      "amagic": 17,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 17,
+      "str": 72,
+      "aspeed": 4,
+      "mdmg": 15.0
+    },
+    "ge_limit": 8
+  },
+  "33036": {
+    "name": "Toxic staff (deadman)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 55,
+      "aslash": 70,
+      "amagic": 25,
+      "dslash": 3,
+      "dcrush": 3,
+      "dmagic": 17,
+      "str": 72,
+      "aspeed": 4,
+      "mdmg": 15.0
+    }
+  },
+  "33044": {
+    "name": "Trinket of avarice",
+    "weight": 1.0
+  },
+  "33047": {
+    "name": "Trinket of fortuity",
+    "weight": 1.0
+  },
+  "33050": {
+    "name": "Trinket of fortuity",
+    "weight": 1.0
+  },
+  "33053": {
+    "name": "Sigil of the gods",
+    "weight": 0.1
+  },
+  "33054": {
+    "name": "Sigil of the gods",
+    "weight": 0.1
+  },
+  "33055": {
+    "name": "Sigil of conclusion",
+    "weight": 0.1
+  },
+  "33056": {
+    "name": "Sigil of conclusion",
+    "weight": 0.1
+  },
+  "33057": {
+    "name": "Sigil of automation",
+    "weight": 0.1
+  },
+  "33058": {
+    "name": "Sigil of automation",
+    "weight": 0.1
+  },
+  "33059": {
+    "name": "Sigil of eternal belief",
+    "weight": 0.1
+  },
+  "33060": {
+    "name": "Sigil of eternal belief",
+    "weight": 0.1
+  },
+  "33061": {
+    "name": "Sigil of efficiency",
+    "weight": 0.1
+  },
+  "33062": {
+    "name": "Sigil of efficiency",
+    "weight": 0.1
+  },
+  "33063": {
+    "name": "Starter cape",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 5,
+      "arange": 5
+    }
+  },
+  "33065": {
+    "name": "Deadman's skull",
+    "weight": 0.08
+  },
+  "33066": {
+    "name": "Hooded slayer helmet",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
+  },
+  "33068": {
+    "name": "Hooded slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33070": {
+    "name": "Hooded slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33072": {
+    "name": "Hooded slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
     }
   }
 }
