@@ -17774,7 +17774,8 @@
   },
   "4684": {
     "name": "Linen",
-    "weight": 0.907
+    "weight": 0.907,
+    "ge_limit": 15
   },
   "4686": {
     "name": "Embalming manual",
@@ -50298,12 +50299,10 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": -30,
-      "arange": -10,
       "dstab": 21,
       "dslash": 20,
       "dcrush": 12,
-      "dmagic": -6,
+      "dmagic": 3,
       "drange": 20
     }
   },
@@ -50313,12 +50312,10 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": -21,
-      "arange": -7,
       "dstab": 11,
       "dslash": 10,
       "dcrush": 10,
-      "dmagic": -4,
+      "dmagic": -2,
       "drange": 10
     }
   },
@@ -61825,16 +61822,17 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "astab": 5,
-      "aslash": 7,
-      "acrush": 7,
-      "amagic": -15,
-      "dstab": 120,
-      "dslash": 131,
-      "dcrush": 145,
-      "dmagic": -3,
-      "drange": 140,
-      "str": 6
+      "astab": 35,
+      "aslash": 35,
+      "acrush": 6,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 35,
+      "dslash": 38,
+      "dcrush": 36,
+      "dmagic": -10,
+      "drange": 40,
+      "str": 5
     }
   },
   "22619": {
@@ -61843,16 +61841,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "astab": 3,
-      "aslash": 5,
-      "acrush": 5,
-      "amagic": -17,
-      "arange": -4,
-      "dstab": 86,
-      "dslash": 100,
-      "dcrush": 112,
-      "dmagic": -4,
-      "drange": 118,
+      "astab": 30,
+      "aslash": 30,
+      "acrush": 6,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 27,
+      "dslash": 30,
+      "dcrush": 28,
+      "dmagic": -7,
+      "drange": 34,
       "str": 3
     }
   },
@@ -61876,17 +61874,17 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": 3,
-      "aslash": 3,
-      "acrush": 4,
+      "astab": 15,
+      "aslash": 15,
+      "acrush": 15,
       "amagic": -6,
       "arange": -2,
-      "dstab": 65,
-      "dslash": 70,
-      "dcrush": 63,
+      "dstab": 20,
+      "dslash": 25,
+      "dcrush": 23,
       "dmagic": -1,
-      "drange": 71,
-      "str": 3
+      "drange": 28,
+      "str": 5
     }
   },
   "22628": {
@@ -61895,16 +61893,16 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "astab": 5,
-      "aslash": 5,
-      "acrush": 7,
-      "amagic": -30,
-      "arange": -10,
-      "dstab": 154,
-      "dslash": 145,
-      "dcrush": 121,
-      "dmagic": -6,
-      "drange": 157,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 35,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 35,
+      "dslash": 38,
+      "dcrush": 36,
+      "dmagic": -10,
+      "drange": 40,
       "str": 5
     }
   },
@@ -61914,16 +61912,16 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "astab": 3,
-      "aslash": 3,
-      "acrush": 5,
-      "amagic": -21,
-      "arange": -7,
-      "dstab": 110,
-      "dslash": 106,
-      "dcrush": 97,
-      "dmagic": -4,
-      "drange": 121,
+      "astab": 6,
+      "aslash": 6,
+      "acrush": 30,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 27,
+      "dslash": 30,
+      "dcrush": 28,
+      "dmagic": -7,
+      "drange": 34,
       "str": 3
     }
   },
@@ -61956,12 +61954,13 @@
     "equipment": {
       "slot": 0,
       "amagic": -5,
-      "arange": 13,
-      "dstab": 8,
-      "dslash": 11,
-      "dcrush": 14,
-      "dmagic": 8,
-      "drange": 12
+      "arange": 10,
+      "dstab": 3,
+      "dslash": 6,
+      "dcrush": 8,
+      "dmagic": 20,
+      "drange": 7,
+      "rstr": 2
     }
   },
   "22641": {
@@ -61971,12 +61970,13 @@
     "equipment": {
       "slot": 4,
       "amagic": -15,
-      "arange": 36,
-      "dstab": 61,
-      "dslash": 53,
-      "dcrush": 66,
-      "dmagic": 75,
-      "drange": 62
+      "arange": 40,
+      "dstab": 11,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 50,
+      "drange": 20,
+      "rstr": 2
     }
   },
   "22644": {
@@ -61986,12 +61986,13 @@
     "equipment": {
       "slot": 7,
       "amagic": -10,
-      "arange": 23,
-      "dstab": 35,
-      "dslash": 29,
-      "dcrush": 37,
-      "dmagic": 46,
-      "drange": 35
+      "arange": 24,
+      "dstab": 7,
+      "dslash": 9,
+      "dcrush": 11,
+      "dmagic": 30,
+      "drange": 13,
+      "rstr": 2
     }
   },
   "22647": {
@@ -62020,12 +62021,13 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": 8,
+      "amagic": 7,
       "arange": -2,
-      "dstab": 20,
-      "dslash": 16,
-      "dcrush": 22,
-      "dmagic": 8
+      "dstab": 3,
+      "dslash": 2,
+      "dcrush": 6,
+      "dmagic": 4,
+      "mdmg": 3.0
     }
   },
   "22653": {
@@ -62034,12 +62036,13 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "amagic": 35,
+      "amagic": 33,
       "arange": -10,
-      "dstab": 63,
-      "dslash": 45,
-      "dcrush": 74,
-      "dmagic": 35
+      "dstab": 11,
+      "dslash": 7,
+      "dcrush": 13,
+      "dmagic": 12,
+      "mdmg": 3.0
     }
   },
   "22656": {
@@ -62048,12 +62051,13 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "amagic": 25,
+      "amagic": 24,
       "arange": -7,
-      "dstab": 38,
-      "dslash": 35,
-      "dcrush": 44,
-      "dmagic": 25
+      "dstab": 7,
+      "dslash": 5,
+      "dcrush": 11,
+      "dmagic": 8,
+      "mdmg": 3.0
     }
   },
   "22660": {
@@ -65902,6 +65906,10 @@
       "aspeed": 5
     }
   },
+  "23834": {
+    "name": "Weapon frame",
+    "weight": 1.814
+  },
   "23835": {
     "name": "Grym leaf",
     "weight": 0.007
@@ -66273,6 +66281,10 @@
     "name": "Pestle and mortar",
     "weight": 0.056,
     "ge_limit": 40
+  },
+  "23871": {
+    "name": "Weapon frame",
+    "weight": 1.814
   },
   "23872": {
     "name": "Raw paddlefish",
@@ -84606,11 +84618,11 @@
     "weight": 0.4
   },
   "28498": {
-    "name": "Sigil of the well-fed",
+    "name": "Sigil of the well fed",
     "weight": 0.4
   },
   "28499": {
-    "name": "Sigil of the well-fed",
+    "name": "Sigil of the well fed",
     "weight": 0.4
   },
   "28501": {
@@ -84814,19 +84826,19 @@
     }
   },
   "28551": {
-    "name": "Quest lamp",
+    "name": "Fremennik quest lamp",
     "weight": 0.1
   },
   "28552": {
-    "name": "Quest lamp",
+    "name": "Elf quest lamp",
     "weight": 0.1
   },
   "28553": {
-    "name": "Quest lamp",
+    "name": "Gnome quest lamp",
     "weight": 0.1
   },
   "28554": {
-    "name": "Quest lamp",
+    "name": "Mahjarrat 1 quest lamp",
     "weight": 0.1
   },
   "28561": {
@@ -88010,11 +88022,11 @@
     "weight": 0.1
   },
   "29654": {
-    "name": "Sigil of rampart",
+    "name": "Sigil of the rampart",
     "weight": 0.1
   },
   "29655": {
-    "name": "Sigil of rampart",
+    "name": "Sigil of the rampart",
     "weight": 0.1
   },
   "29657": {
@@ -88026,19 +88038,19 @@
     "weight": 0.1
   },
   "29660": {
-    "name": "Sigil of lithe",
+    "name": "Sigil of litheness",
     "weight": 0.1
   },
   "29661": {
-    "name": "Sigil of lithe",
+    "name": "Sigil of litheness",
     "weight": 0.1
   },
   "29663": {
-    "name": "Sigil of adroit",
+    "name": "Sigil of the adroit",
     "weight": 0.1
   },
   "29664": {
-    "name": "Sigil of adroit",
+    "name": "Sigil of the adroit",
     "weight": 0.1
   },
   "29666": {
@@ -88058,19 +88070,19 @@
     "weight": 0.1
   },
   "29672": {
-    "name": "Sigil of swashbuckler",
+    "name": "Sigil of the swashbuckler",
     "weight": 0.1
   },
   "29673": {
-    "name": "Sigil of swashbuckler",
+    "name": "Sigil of the swashbuckler",
     "weight": 0.1
   },
   "29675": {
-    "name": "Sigil of gunslinger",
+    "name": "Sigil of the gunslinger",
     "weight": 0.1
   },
   "29676": {
-    "name": "Sigil of gunslinger",
+    "name": "Sigil of the gunslinger",
     "weight": 0.1
   },
   "29678": {
@@ -93646,7 +93658,8 @@
   },
   "31729": {
     "name": "Frost dragon bones",
-    "weight": 1.6
+    "weight": 1.6,
+    "ge_limit": 7500
   },
   "31732": {
     "name": "Stormy key",
@@ -98474,7 +98487,8 @@
   },
   "32907": {
     "name": "Ironwood logs",
-    "weight": 2.0
+    "weight": 2.0,
+    "ge_limit": 12000
   },
   "32910": {
     "name": "Rosewood logs",
@@ -98705,6 +98719,32 @@
       "mdmg": 15.0
     }
   },
+  "33038": {
+    "name": "The dogsword",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 132,
+      "acrush": 80,
+      "str": 132,
+      "prayer": 8,
+      "aspeed": 6
+    }
+  },
+  "33041": {
+    "name": "Thunder khopesh",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 65,
+      "aslash": 110,
+      "str": 100,
+      "aspeed": 4
+    }
+  },
   "33044": {
     "name": "Trinket of avarice",
     "weight": 1.0
@@ -98833,5 +98873,13 @@
       "dmagic": 10,
       "drange": 30
     }
+  },
+  "33074": {
+    "name": "Facility bottle (empty)",
+    "weight": 0.02
+  },
+  "33077": {
+    "name": "Facility bottle",
+    "weight": 0.02
   }
 }
