@@ -12443,6 +12443,14 @@
     "name": "Baboon Mage",
     "hitpoints": 25
   },
+  "11728": {
+    "name": "Egg",
+    "hitpoints": 35
+  },
+  "11729": {
+    "name": "Egg",
+    "hitpoints": 35
+  },
   "11781": {
     "name": "Baboon",
     "hitpoints": 10
@@ -13171,15 +13179,15 @@
     "name": "Strangled",
     "hitpoints": 50
   },
-  "12454": {
-    "name": "Cave abomination",
-    "hitpoints": 750
-  },
-  "12458": {
-    "name": "Sulphur Lizard",
+  "12456": {
+    "name": "Malevolent Mage",
     "hitpoints": 500
   },
   "12460": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "12461": {
     "name": "Guard",
     "hitpoints": 800
   },
@@ -13843,40 +13851,8 @@
     "name": "Tormented Demon",
     "hitpoints": 600
   },
-  "13656": {
-    "name": "Vardorvis",
-    "hitpoints": 500
-  },
-  "13657": {
-    "name": "Cerberus",
-    "hitpoints": 1000
-  },
-  "13658": {
-    "name": "Bee Swarm",
-    "hitpoints": 750
-  },
   "13659": {
     "name": "Thermonuclear smoke devil",
-    "hitpoints": 500
-  },
-  "13660": {
-    "name": "Jaguar warrior",
-    "hitpoints": 750
-  },
-  "13661": {
-    "name": "TzTok-Jad",
-    "hitpoints": 1000
-  },
-  "13662": {
-    "name": "Durial321",
-    "hitpoints": 500
-  },
-  "13663": {
-    "name": "Magic Mark",
-    "hitpoints": 500
-  },
-  "13664": {
-    "name": "Ranging Ro",
     "hitpoints": 500
   },
   "13666": {
@@ -14723,6 +14699,10 @@
     "name": "Dolphin",
     "hitpoints": 50
   },
+  "15237": {
+    "name": "Zemouregal",
+    "hitpoints": 1500
+  },
   "15430": {
     "name": "Praying mantis",
     "hitpoints": 18
@@ -14802,5 +14782,69 @@
   "15504": {
     "name": "Magma strykewyrm",
     "hitpoints": 340
+  },
+  "15550": {
+    "name": "Splatter",
+    "hitpoints": 100
+  },
+  "15553": {
+    "name": "I DSCIM YOU",
+    "hitpoints": 1000
+  },
+  "15554": {
+    "name": "Sol Heredit",
+    "hitpoints": 1500
+  },
+  "15556": {
+    "name": "Pestilent Bloat",
+    "hitpoints": 2000
+  },
+  "15557": {
+    "name": "TzTok-Jad-Rek",
+    "hitpoints": 200
+  },
+  "15558": {
+    "name": "Zemouregal Summon",
+    "hitpoints": 35
+  },
+  "15559": {
+    "name": "Zemouregal Summon",
+    "hitpoints": 35
+  },
+  "15560": {
+    "name": "Zemouregal Summon",
+    "hitpoints": 35
+  },
+  "15561": {
+    "name": "Zemouregal Summon",
+    "hitpoints": 35
+  },
+  "15562": {
+    "name": "Zemouregal Summon",
+    "hitpoints": 35
+  },
+  "15563": {
+    "name": "Zemouregal Summon",
+    "hitpoints": 35
+  },
+  "15564": {
+    "name": "Zemouregal",
+    "hitpoints": 500
+  },
+  "15565": {
+    "name": "Guard (Deadman Mode)",
+    "hitpoints": 800
+  },
+  "15566": {
+    "name": "Guard (Deadman Mode)",
+    "hitpoints": 800
+  },
+  "15567": {
+    "name": "Guard",
+    "hitpoints": 800
+  },
+  "15568": {
+    "name": "Guard",
+    "hitpoints": 800
   }
 }
