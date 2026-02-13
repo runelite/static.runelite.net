@@ -30091,11 +30091,6 @@
     "weight": 0.55,
     "ge_limit": 2000
   },
-  "7742": {
-    "name": "Beer glass",
-    "weight": 0.05,
-    "ge_limit": 10000
-  },
   "7744": {
     "name": "Asgarnian ale",
     "weight": 0.55,
@@ -61833,7 +61828,8 @@
       "dmagic": -10,
       "drange": 40,
       "str": 5
-    }
+    },
+    "ge_limit": 10
   },
   "22619": {
     "name": "Vesta's plateskirt",
@@ -61852,7 +61848,8 @@
       "dmagic": -7,
       "drange": 34,
       "str": 3
-    }
+    },
+    "ge_limit": 10
   },
   "22622": {
     "name": "Statius's warhammer",
@@ -61885,7 +61882,8 @@
       "dmagic": -1,
       "drange": 28,
       "str": 5
-    }
+    },
+    "ge_limit": 10
   },
   "22628": {
     "name": "Statius's platebody",
@@ -61904,7 +61902,8 @@
       "dmagic": -10,
       "drange": 40,
       "str": 5
-    }
+    },
+    "ge_limit": 10
   },
   "22631": {
     "name": "Statius's platelegs",
@@ -61923,7 +61922,8 @@
       "dmagic": -7,
       "drange": 34,
       "str": 3
-    }
+    },
+    "ge_limit": 10
   },
   "22634": {
     "name": "Morrigan's throwing axe",
@@ -61960,8 +61960,9 @@
       "dcrush": 8,
       "dmagic": 20,
       "drange": 7,
-      "rstr": 2
-    }
+      "rstr": 1
+    },
+    "ge_limit": 10
   },
   "22641": {
     "name": "Morrigan's leather body",
@@ -61977,7 +61978,8 @@
       "dmagic": 50,
       "drange": 20,
       "rstr": 2
-    }
+    },
+    "ge_limit": 10
   },
   "22644": {
     "name": "Morrigan's leather chaps",
@@ -61992,8 +61994,9 @@
       "dcrush": 11,
       "dmagic": 30,
       "drange": 13,
-      "rstr": 2
-    }
+      "rstr": 1
+    },
+    "ge_limit": 10
   },
   "22647": {
     "name": "Zuriel's staff",
@@ -62028,7 +62031,8 @@
       "dcrush": 6,
       "dmagic": 4,
       "mdmg": 3.0
-    }
+    },
+    "ge_limit": 10
   },
   "22653": {
     "name": "Zuriel's robe top",
@@ -62043,7 +62047,8 @@
       "dcrush": 13,
       "dmagic": 12,
       "mdmg": 3.0
-    }
+    },
+    "ge_limit": 10
   },
   "22656": {
     "name": "Zuriel's robe bottom",
@@ -62058,7 +62063,8 @@
       "dcrush": 11,
       "dmagic": 8,
       "mdmg": 3.0
-    }
+    },
+    "ge_limit": 10
   },
   "22660": {
     "name": "Empty bucket pack",
@@ -84734,7 +84740,7 @@
       "dstab": 11,
       "dslash": 21,
       "dcrush": 6,
-      "str": 45,
+      "str": 48,
       "aspeed": 4
     }
   },
@@ -87987,19 +87993,23 @@
   },
   "29631": {
     "name": "Blighted overload (4)",
-    "weight": 0.035
+    "weight": 0.035,
+    "ge_limit": 50
   },
   "29634": {
     "name": "Blighted overload (3)",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 50
   },
   "29637": {
     "name": "Blighted overload (2)",
-    "weight": 0.025
+    "weight": 0.025,
+    "ge_limit": 50
   },
   "29640": {
     "name": "Blighted overload (1)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 50
   },
   "29643": {
     "name": "Chitin",
@@ -92242,6 +92252,14 @@
     "name": "Events tool",
     "weight": 1.814
   },
+  "30998": {
+    "name": "Atlatl dart tips",
+    "ge_limit": 10000
+  },
+  "31004": {
+    "name": "Atlatl dart shaft",
+    "ge_limit": 11000
+  },
   "31016": {
     "name": "Sacraments of ent folk",
     "weight": 0.1
@@ -93282,7 +93300,8 @@
   },
   "31487": {
     "name": "Umbral coral",
-    "weight": 0.028
+    "weight": 0.028,
+    "ge_limit": 11000
   },
   "31490": {
     "name": "Camphor seedling",
@@ -94596,16 +94615,10 @@
   },
   "32360": {
     "name": "Yellow fin",
-    "weight": 0.028,
     "ge_limit": 11000
-  },
-  "32362": {
-    "name": "Marlin scales",
-    "weight": 0.005
   },
   "32364": {
     "name": "Camphor crate",
-    "weight": 1.0,
     "ge_limit": 250
   },
   "32366": {
@@ -94864,7 +94877,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32436": {
@@ -94873,7 +94887,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32437": {
@@ -94882,7 +94897,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32438": {
@@ -94891,7 +94907,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32439": {
@@ -94900,7 +94917,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32440": {
@@ -94909,7 +94927,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32441": {
@@ -94918,7 +94937,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32442": {
@@ -94927,7 +94947,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32443": {
@@ -94936,7 +94957,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32444": {
@@ -94945,7 +94967,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32445": {
@@ -94954,7 +94977,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32446": {
@@ -94963,7 +94987,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32447": {
@@ -94972,7 +94997,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32448": {
@@ -94981,7 +95007,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32449": {
@@ -94990,7 +95017,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32450": {
@@ -94999,7 +95027,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32451": {
@@ -95017,7 +95046,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32453": {
@@ -95026,7 +95056,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32454": {
@@ -95035,7 +95066,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32455": {
@@ -95044,7 +95076,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32456": {
@@ -95053,7 +95086,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32457": {
@@ -95062,7 +95096,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32458": {
@@ -95071,7 +95106,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32459": {
@@ -95080,7 +95116,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32460": {
@@ -95089,7 +95126,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32461": {
@@ -95098,7 +95136,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32462": {
@@ -95107,7 +95146,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32463": {
@@ -95116,7 +95156,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32464": {
@@ -95125,7 +95166,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32465": {
@@ -95134,7 +95176,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32466": {
@@ -95143,7 +95186,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32467": {
@@ -95152,7 +95196,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32468": {
@@ -95161,7 +95206,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32469": {
@@ -95179,7 +95225,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32471": {
@@ -95188,7 +95235,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32472": {
@@ -95197,7 +95245,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32473": {
@@ -95206,7 +95255,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32474": {
@@ -95215,7 +95265,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32475": {
@@ -95224,7 +95275,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32476": {
@@ -95233,7 +95285,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32477": {
@@ -95242,7 +95295,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32478": {
@@ -95251,7 +95305,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32479": {
@@ -95260,7 +95315,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32480": {
@@ -95269,7 +95325,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32481": {
@@ -95278,7 +95335,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32482": {
@@ -95287,7 +95345,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32483": {
@@ -95296,7 +95355,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32484": {
@@ -95305,7 +95365,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32485": {
@@ -95314,7 +95375,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32486": {
@@ -95323,7 +95385,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32487": {
@@ -95332,16 +95395,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
-    }
-  },
-  "32488": {
-    "name": "Crate of glassmaking supplies",
-    "weight": 1.285,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32489": {
@@ -95350,7 +95405,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32490": {
@@ -95359,7 +95415,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32491": {
@@ -95368,7 +95425,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32492": {
@@ -95377,7 +95435,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32493": {
@@ -95386,7 +95445,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32494": {
@@ -95395,7 +95455,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32495": {
@@ -95404,7 +95465,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32496": {
@@ -95413,7 +95475,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32497": {
@@ -95422,7 +95485,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32498": {
@@ -95431,7 +95495,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32499": {
@@ -95440,7 +95505,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32500": {
@@ -95449,7 +95515,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32501": {
@@ -95467,7 +95534,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32503": {
@@ -95485,7 +95553,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32505": {
@@ -95494,7 +95563,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32506": {
@@ -95503,7 +95573,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32507": {
@@ -95512,7 +95583,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32508": {
@@ -95521,7 +95593,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32509": {
@@ -95530,7 +95603,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32510": {
@@ -95539,7 +95613,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32511": {
@@ -95548,7 +95623,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32512": {
@@ -95557,7 +95633,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32513": {
@@ -95566,7 +95643,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32514": {
@@ -95575,7 +95653,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32515": {
@@ -95584,7 +95663,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32516": {
@@ -95593,7 +95673,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32517": {
@@ -95602,7 +95683,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32518": {
@@ -95611,7 +95693,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32519": {
@@ -95620,7 +95703,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32520": {
@@ -95629,7 +95713,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32521": {
@@ -95638,7 +95723,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32522": {
@@ -95647,7 +95733,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32523": {
@@ -95665,7 +95752,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32525": {
@@ -95674,7 +95762,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32526": {
@@ -95683,7 +95772,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32527": {
@@ -95692,7 +95782,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32528": {
@@ -95701,7 +95792,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32529": {
@@ -95710,7 +95802,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32530": {
@@ -95719,7 +95812,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32531": {
@@ -95728,7 +95822,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32532": {
@@ -95737,7 +95832,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32533": {
@@ -95746,7 +95842,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32534": {
@@ -95755,7 +95852,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32535": {
@@ -95764,7 +95862,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32536": {
@@ -95773,7 +95872,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32537": {
@@ -95782,7 +95882,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32538": {
@@ -95791,7 +95892,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32539": {
@@ -95800,7 +95902,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32540": {
@@ -95809,7 +95912,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32541": {
@@ -95818,7 +95922,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32542": {
@@ -95827,7 +95932,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32543": {
@@ -95836,7 +95942,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32544": {
@@ -95845,7 +95952,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32545": {
@@ -95854,7 +95962,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32546": {
@@ -95863,7 +95972,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32547": {
@@ -95872,7 +95982,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32548": {
@@ -95881,7 +95992,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32549": {
@@ -95890,7 +96002,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32550": {
@@ -95899,7 +96012,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32551": {
@@ -95917,7 +96031,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32553": {
@@ -95926,7 +96041,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32554": {
@@ -95935,7 +96051,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32555": {
@@ -95944,7 +96061,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32556": {
@@ -95953,7 +96071,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32557": {
@@ -95962,7 +96081,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32558": {
@@ -95971,7 +96091,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32559": {
@@ -95980,7 +96101,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32560": {
@@ -95998,7 +96120,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32562": {
@@ -96007,7 +96130,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32563": {
@@ -96016,7 +96140,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32564": {
@@ -96043,7 +96168,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32567": {
@@ -96052,7 +96178,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32568": {
@@ -96070,7 +96197,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32570": {
@@ -96079,7 +96207,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32571": {
@@ -96088,7 +96217,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32572": {
@@ -96106,7 +96236,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32574": {
@@ -96115,7 +96246,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32575": {
@@ -96124,7 +96256,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32576": {
@@ -96133,7 +96266,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32577": {
@@ -96142,7 +96276,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32578": {
@@ -96151,7 +96286,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32579": {
@@ -96160,7 +96296,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32580": {
@@ -96169,7 +96306,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32581": {
@@ -96178,7 +96316,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32582": {
@@ -96196,7 +96335,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32584": {
@@ -96205,7 +96345,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32585": {
@@ -96214,7 +96355,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32586": {
@@ -96223,7 +96365,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32587": {
@@ -96232,7 +96375,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32588": {
@@ -96241,7 +96385,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32589": {
@@ -96250,7 +96395,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32590": {
@@ -96259,7 +96405,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32591": {
@@ -96268,7 +96415,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32592": {
@@ -96286,7 +96434,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32594": {
@@ -96295,7 +96444,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32595": {
@@ -96304,7 +96454,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32596": {
@@ -96313,7 +96464,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32597": {
@@ -96322,7 +96474,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32598": {
@@ -96340,7 +96493,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32600": {
@@ -96349,7 +96503,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32601": {
@@ -96358,7 +96513,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32602": {
@@ -96367,7 +96523,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32603": {
@@ -96376,7 +96533,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32604": {
@@ -96385,7 +96543,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32605": {
@@ -96394,7 +96553,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32606": {
@@ -96403,7 +96563,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32607": {
@@ -96430,7 +96591,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32610": {
@@ -96439,7 +96601,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32611": {
@@ -96448,7 +96611,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32612": {
@@ -96457,7 +96621,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32613": {
@@ -96466,7 +96631,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32614": {
@@ -96475,7 +96641,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32615": {
@@ -96484,7 +96651,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32616": {
@@ -96493,7 +96661,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32617": {
@@ -96502,7 +96671,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32618": {
@@ -96511,7 +96681,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32619": {
@@ -96520,7 +96691,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32620": {
@@ -96529,7 +96701,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32621": {
@@ -96538,7 +96711,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32622": {
@@ -96547,7 +96721,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32623": {
@@ -96556,7 +96731,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32624": {
@@ -96565,7 +96741,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32625": {
@@ -96574,7 +96751,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32626": {
@@ -96583,7 +96761,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32627": {
@@ -96592,7 +96771,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32628": {
@@ -96601,7 +96781,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32629": {
@@ -96610,7 +96791,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32630": {
@@ -96619,7 +96801,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32631": {
@@ -96628,7 +96811,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32632": {
@@ -96637,7 +96821,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32633": {
@@ -96646,7 +96831,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32634": {
@@ -96664,7 +96850,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32636": {
@@ -96673,7 +96860,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32637": {
@@ -96682,7 +96870,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32638": {
@@ -96691,7 +96880,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32639": {
@@ -96700,16 +96890,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
-    }
-  },
-  "32640": {
-    "name": "Crate of gin",
-    "weight": 1.285,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32641": {
@@ -96718,7 +96900,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32642": {
@@ -96727,7 +96910,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32643": {
@@ -96736,7 +96920,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32644": {
@@ -96745,7 +96930,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32645": {
@@ -96754,7 +96940,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32646": {
@@ -96763,7 +96950,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32647": {
@@ -96772,7 +96960,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32648": {
@@ -96781,7 +96970,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32649": {
@@ -96790,7 +96980,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32650": {
@@ -96799,7 +96990,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32651": {
@@ -96808,7 +97000,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32652": {
@@ -96817,7 +97010,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32653": {
@@ -96826,7 +97020,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32654": {
@@ -96835,7 +97030,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32655": {
@@ -96862,7 +97058,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32658": {
@@ -96871,7 +97068,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32659": {
@@ -96880,7 +97078,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32660": {
@@ -96889,7 +97088,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32661": {
@@ -96898,7 +97098,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32662": {
@@ -96916,7 +97117,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32664": {
@@ -96925,7 +97127,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32665": {
@@ -96934,7 +97137,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32666": {
@@ -96943,7 +97147,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32667": {
@@ -96952,7 +97157,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32668": {
@@ -96961,7 +97167,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32669": {
@@ -96970,7 +97177,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32670": {
@@ -96979,7 +97187,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32671": {
@@ -96988,7 +97197,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32672": {
@@ -96997,7 +97207,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32673": {
@@ -97006,7 +97217,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32674": {
@@ -97015,7 +97227,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32675": {
@@ -97033,7 +97246,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32677": {
@@ -97042,7 +97256,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32678": {
@@ -97051,7 +97266,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32679": {
@@ -97078,7 +97294,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32682": {
@@ -97087,7 +97304,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32683": {
@@ -97096,7 +97314,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32684": {
@@ -97105,7 +97324,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32685": {
@@ -97114,7 +97334,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32686": {
@@ -97123,7 +97344,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32687": {
@@ -97132,7 +97354,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32688": {
@@ -97141,7 +97364,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32689": {
@@ -97150,7 +97374,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32690": {
@@ -97159,7 +97384,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32691": {
@@ -97168,7 +97394,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32692": {
@@ -97177,7 +97404,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32693": {
@@ -97186,7 +97414,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32694": {
@@ -97195,7 +97424,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32695": {
@@ -97204,7 +97434,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32696": {
@@ -97213,7 +97444,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32697": {
@@ -97231,7 +97463,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32699": {
@@ -97240,7 +97473,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32700": {
@@ -97249,7 +97483,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32701": {
@@ -97258,7 +97493,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32702": {
@@ -97267,7 +97503,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32703": {
@@ -97276,7 +97513,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32704": {
@@ -97285,7 +97523,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32705": {
@@ -97294,7 +97533,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32706": {
@@ -97303,7 +97543,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32707": {
@@ -97312,7 +97553,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32708": {
@@ -97321,7 +97563,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32709": {
@@ -97330,7 +97573,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32710": {
@@ -97348,7 +97592,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32712": {
@@ -97366,7 +97611,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32714": {
@@ -97375,7 +97621,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32715": {
@@ -97384,7 +97631,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32716": {
@@ -97393,7 +97641,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32717": {
@@ -97402,7 +97651,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32718": {
@@ -97411,7 +97661,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32719": {
@@ -97420,7 +97671,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32720": {
@@ -97429,7 +97681,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32721": {
@@ -97438,7 +97691,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32722": {
@@ -97447,7 +97701,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32723": {
@@ -97456,7 +97711,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32724": {
@@ -97474,7 +97730,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32726": {
@@ -97483,7 +97740,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32727": {
@@ -97492,7 +97750,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32728": {
@@ -97501,7 +97760,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32729": {
@@ -97510,7 +97770,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32730": {
@@ -97519,7 +97780,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32731": {
@@ -97528,7 +97790,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32732": {
@@ -97537,7 +97800,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32733": {
@@ -97546,7 +97810,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32734": {
@@ -97555,7 +97820,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32735": {
@@ -97564,7 +97830,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32736": {
@@ -97573,7 +97840,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32737": {
@@ -97582,7 +97850,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32738": {
@@ -97600,7 +97869,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32740": {
@@ -97609,7 +97879,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32741": {
@@ -97618,7 +97889,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32742": {
@@ -97627,7 +97899,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32743": {
@@ -97636,7 +97909,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32744": {
@@ -97645,7 +97919,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32745": {
@@ -97654,7 +97929,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32746": {
@@ -97663,7 +97939,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32747": {
@@ -97672,7 +97949,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32748": {
@@ -97681,7 +97959,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32749": {
@@ -97690,7 +97969,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32750": {
@@ -97699,7 +97979,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32751": {
@@ -97708,7 +97989,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32752": {
@@ -97726,7 +98008,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32754": {
@@ -97735,7 +98018,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32755": {
@@ -97744,7 +98028,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32756": {
@@ -97753,7 +98038,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32757": {
@@ -97762,7 +98048,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32758": {
@@ -97771,7 +98058,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32759": {
@@ -97780,7 +98068,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32760": {
@@ -97798,7 +98087,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32762": {
@@ -97807,7 +98097,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32763": {
@@ -97816,7 +98107,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32764": {
@@ -97825,7 +98117,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32765": {
@@ -97834,7 +98127,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32766": {
@@ -97843,7 +98137,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32767": {
@@ -97852,7 +98147,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32768": {
@@ -97861,7 +98157,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32769": {
@@ -97870,7 +98167,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32770": {
@@ -97879,7 +98177,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32771": {
@@ -97897,7 +98196,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32773": {
@@ -97906,7 +98206,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32774": {
@@ -97915,7 +98216,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32775": {
@@ -97924,7 +98226,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32776": {
@@ -97933,7 +98236,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32777": {
@@ -97942,7 +98246,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32778": {
@@ -97951,7 +98256,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32779": {
@@ -97960,7 +98266,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32780": {
@@ -97969,7 +98276,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32781": {
@@ -97978,7 +98286,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32782": {
@@ -97987,7 +98296,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32783": {
@@ -97996,7 +98306,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32784": {
@@ -98005,7 +98316,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32785": {
@@ -98014,7 +98326,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32786": {
@@ -98032,7 +98345,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32788": {
@@ -98041,7 +98355,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32789": {
@@ -98050,7 +98365,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32790": {
@@ -98059,7 +98375,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32791": {
@@ -98068,7 +98385,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32792": {
@@ -98077,7 +98395,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32793": {
@@ -98086,7 +98405,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32794": {
@@ -98095,7 +98415,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32795": {
@@ -98104,7 +98425,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32796": {
@@ -98113,7 +98435,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32797": {
@@ -98122,7 +98445,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32798": {
@@ -98131,7 +98455,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32799": {
@@ -98140,7 +98465,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32800": {
@@ -98149,7 +98475,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32801": {
@@ -98158,7 +98485,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32802": {
@@ -98167,7 +98495,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32803": {
@@ -98176,7 +98505,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32804": {
@@ -98185,7 +98515,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32805": {
@@ -98194,7 +98525,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32806": {
@@ -98203,7 +98535,18 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32807": {
+    "name": "Crate of ship parts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32808": {
@@ -98212,7 +98555,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32809": {
@@ -98504,7 +98848,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32925": {
@@ -98513,7 +98858,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32926": {
@@ -98553,6 +98899,628 @@
       "is2h": true
     }
   },
+  "32936": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32937": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32938": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32939": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32941": {
+    "name": "Crate of red coral",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32942": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32943": {
+    "name": "Crate of spices",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32944": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32945": {
+    "name": "Crate of bait",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32946": {
+    "name": "Crate of coconuts",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32947": {
+    "name": "Crate of arrowtips",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32948": {
+    "name": "Crate of pineapples",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32949": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32950": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32951": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32952": {
+    "name": "Crate of alpaca wool",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32953": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32954": {
+    "name": "Crate of fabrics",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32955": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32956": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32957": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32958": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32959": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32960": {
+    "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32961": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32962": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32963": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32964": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32965": {
+    "name": "Crate of swamp paste",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32966": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32967": {
+    "name": "Crate of books",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32968": {
+    "name": "Crate of books",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32969": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32970": {
+    "name": "Crate of jewellery",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32971": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32972": {
+    "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32973": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32974": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32975": {
+    "name": "Crate of silk",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32976": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32977": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32978": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32979": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32980": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32981": {
+    "name": "Crate of seeds",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32982": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32983": {
+    "name": "Crate of platebodies",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32984": {
+    "name": "Crate of swords",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32985": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32986": {
+    "name": "Crate of logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32987": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32988": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32989": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32990": {
+    "name": "Crate of runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32991": {
+    "name": "Crate of fish",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true
+    }
+  },
+  "32992": {
+    "name": "Crate of planks",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32993": {
+    "name": "Crate of teak logs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32994": {
+    "name": "Crate of runes",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32995": {
+    "name": "Crate of cocktails",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32997": {
+    "name": "Crate of rum",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32998": {
+    "name": "Crate of javelins",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32999": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "33000": {
+    "name": "Crate of ores",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "33001": {
+    "name": "Crate of potions",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
   "33002": {
     "name": "Holy moleys",
     "weight": 0.6,
@@ -98585,6 +99553,10 @@
   "33009": {
     "name": "Recipe for disaster quest lamp",
     "weight": 0.1
+  },
+  "33010": {
+    "name": "Ruinous powers (Deadman Mode)",
+    "weight": 0.014
   },
   "33012": {
     "name": "Annihilation weapon scroll",
@@ -98750,11 +99722,11 @@
     "weight": 1.0
   },
   "33047": {
-    "name": "Trinket of fortuity",
+    "name": "Trinket of fortuity (inactive)",
     "weight": 1.0
   },
   "33050": {
-    "name": "Trinket of fortuity",
+    "name": "Trinket of fortuity (active)",
     "weight": 1.0
   },
   "33053": {

@@ -13179,10 +13179,6 @@
     "name": "Strangled",
     "hitpoints": 50
   },
-  "12456": {
-    "name": "Malevolent Mage",
-    "hitpoints": 500
-  },
   "12460": {
     "name": "Guard",
     "hitpoints": 800
@@ -13850,10 +13846,6 @@
   "13602": {
     "name": "Tormented Demon",
     "hitpoints": 600
-  },
-  "13659": {
-    "name": "Thermonuclear smoke devil",
-    "hitpoints": 500
   },
   "13666": {
     "name": "Araxyte",
@@ -14701,7 +14693,7 @@
   },
   "15237": {
     "name": "Zemouregal",
-    "hitpoints": 1500
+    "hitpoints": 2500
   },
   "15430": {
     "name": "Praying mantis",
@@ -14785,11 +14777,11 @@
   },
   "15550": {
     "name": "Splatter",
-    "hitpoints": 100
+    "hitpoints": 2000
   },
   "15553": {
     "name": "I DSCIM YOU",
-    "hitpoints": 1000
+    "hitpoints": 1500
   },
   "15554": {
     "name": "Sol Heredit",
@@ -14832,11 +14824,11 @@
     "hitpoints": 500
   },
   "15565": {
-    "name": "Guard (Deadman Mode)",
+    "name": "Guard",
     "hitpoints": 800
   },
   "15566": {
-    "name": "Guard (Deadman Mode)",
+    "name": "Guard",
     "hitpoints": 800
   },
   "15567": {
