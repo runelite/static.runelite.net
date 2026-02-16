@@ -366,13 +366,17 @@
         "-XX:+DisableAttachMechanism",
         "-Xmx768m",
         "-Xss2m",
-        "-XX:CompileThreshold=1500"
+        "-XX:CompileThreshold=1500",
+        "--add-opens=java.base/java.net=ALL-UNNAMED",
+        "--add-opens=java.base/java.io=ALL-UNNAMED"
     ],
     "clientJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
+        "--add-opens=java.base/java.net=ALL-UNNAMED",
+        "--add-opens=java.base/java.io=ALL-UNNAMED",
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
     ],
     "clientJvm9Arguments": [
@@ -381,25 +385,6 @@
         "-Xmx768m",
         "-Xss2m",
         "-XX:CompileThreshold=1500"
-    ],
-    "clientJvmArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Xmx768m",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "-Xincgc",
-        "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC"
-    ],
-    "launcherArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.nojvm=true",
-        "-Xmx768m",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "-Xincgc",
-        "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC"
     ],
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
