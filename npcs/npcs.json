@@ -295,23 +295,11 @@
     "name": "Ghost",
     "hitpoints": 25
   },
-  "94": {
-    "name": "Ghost",
-    "hitpoints": 25
-  },
   "95": {
     "name": "Ghost",
     "hitpoints": 25
   },
-  "96": {
-    "name": "Ghost",
-    "hitpoints": 25
-  },
   "97": {
-    "name": "Ghost",
-    "hitpoints": 25
-  },
-  "98": {
     "name": "Ghost",
     "hitpoints": 25
   },
@@ -11465,7 +11453,7 @@
   },
   "9483": {
     "name": "Giant rat",
-    "hitpoints": 5
+    "hitpoints": 3
   },
   "9488": {
     "name": "Chicken",
@@ -14443,6 +14431,22 @@
     "name": "Hermit crab",
     "hitpoints": 75
   },
+  "14853": {
+    "name": "Hermit crab",
+    "hitpoints": 75
+  },
+  "14854": {
+    "name": "Hermit crab",
+    "hitpoints": 75
+  },
+  "14855": {
+    "name": "Hermit crab",
+    "hitpoints": 75
+  },
+  "14856": {
+    "name": "Hermit crab",
+    "hitpoints": 75
+  },
   "14857": {
     "name": "Gryphon",
     "hitpoints": 110
@@ -14823,20 +14827,44 @@
     "name": "Zemouregal",
     "hitpoints": 500
   },
-  "15565": {
-    "name": "Guard",
-    "hitpoints": 800
-  },
   "15566": {
-    "name": "Guard",
-    "hitpoints": 800
-  },
-  "15567": {
     "name": "Guard",
     "hitpoints": 800
   },
   "15568": {
     "name": "Guard",
     "hitpoints": 800
+  },
+  "15605": {
+    "name": "Baby blue dragon",
+    "hitpoints": 50
+  },
+  "15606": {
+    "name": "Lesser demon",
+    "hitpoints": 80
+  },
+  "15607": {
+    "name": "Greater demon",
+    "hitpoints": 89
+  },
+  "15625": {
+    "name": "Bull",
+    "hitpoints": 58
+  },
+  "15626": {
+    "name": "Brutus",
+    "hitpoints": 58
+  },
+  "15627": {
+    "name": "Brutus",
+    "hitpoints": 58
+  },
+  "15628": {
+    "name": "Demonic Brutus",
+    "hitpoints": 750
+  },
+  "15629": {
+    "name": "Demonic Brutus",
+    "hitpoints": 750
   }
 }

@@ -43822,6 +43822,10 @@
     },
     "ge_limit": 8
   },
+  "11916": {
+    "name": "Slice of birthday cake",
+    "weight": 0.1
+  },
   "11919": {
     "name": "Cow mask",
     "weight": 0.09,
@@ -87976,7 +87980,8 @@
   },
   "29619": {
     "name": "Armageddon rug",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "29622": {
     "name": "Armageddon teleport scroll",
@@ -87989,7 +87994,7 @@
   "29628": {
     "name": "Armageddon cape fabric",
     "weight": 0.1,
-    "ge_limit": 6
+    "ge_limit": 5
   },
   "29631": {
     "name": "Blighted overload (4)",
@@ -94539,7 +94544,8 @@
   },
   "32309": {
     "name": "Raw giant krill",
-    "weight": 0.7
+    "weight": 0.7,
+    "ge_limit": 15000
   },
   "32312": {
     "name": "Giant krill",
@@ -94551,7 +94557,8 @@
   },
   "32317": {
     "name": "Raw haddock",
-    "weight": 0.7
+    "weight": 0.7,
+    "ge_limit": 15000
   },
   "32320": {
     "name": "Haddock",
@@ -94563,7 +94570,8 @@
   },
   "32325": {
     "name": "Raw yellowfin",
-    "weight": 0.7
+    "weight": 0.7,
+    "ge_limit": 15000
   },
   "32328": {
     "name": "Yellowfin",
@@ -94575,7 +94583,8 @@
   },
   "32333": {
     "name": "Raw halibut",
-    "weight": 0.7
+    "weight": 0.7,
+    "ge_limit": 15000
   },
   "32336": {
     "name": "Halibut",
@@ -94587,7 +94596,8 @@
   },
   "32341": {
     "name": "Raw bluefin",
-    "weight": 0.7
+    "weight": 0.7,
+    "ge_limit": 15000
   },
   "32344": {
     "name": "Bluefin",
@@ -94599,7 +94609,8 @@
   },
   "32349": {
     "name": "Raw marlin",
-    "weight": 0.7
+    "weight": 0.7,
+    "ge_limit": 15000
   },
   "32352": {
     "name": "Marlin",
@@ -99560,17 +99571,20 @@
   },
   "33012": {
     "name": "Annihilation weapon scroll",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "33015": {
     "name": "Annihilation blueprints",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "33018": {
     "name": "Annihilation teleport scroll",
     "weight": 0.1,
     "equipable": true,
-    "equipment": {}
+    "equipment": {},
+    "ge_limit": 5
   },
   "33021": {
     "name": "Bow of faerdhinen (c)",
@@ -99851,7 +99865,182 @@
     "weight": 0.02
   },
   "33077": {
-    "name": "Facility bottle",
+    "name": "Facility bottle (full)",
     "weight": 0.02
+  },
+  "33080": {
+    "name": "25th anniversary helmet",
+    "weight": 0.88,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "33082": {
+    "name": "25th anniversary warrior tabard",
+    "weight": 0.455,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33084": {
+    "name": "25th anniversary skeleton tabard",
+    "weight": 0.455,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33086": {
+    "name": "25th anniversary 5x5 hat",
+    "weight": 0.28,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "33088": {
+    "name": "Gary",
+    "weight": 0.001
+  },
+  "33089": {
+    "name": "Bottomless milk bucket",
+    "weight": 1.0
+  },
+  "33091": {
+    "name": "Bottomless milk bucket (empty)",
+    "weight": 1.0
+  },
+  "33093": {
+    "name": "Cow slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33096": {
+    "name": "Cow slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33097": {
+    "name": "Cow slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33098": {
+    "name": "Cow slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33099": {
+    "name": "Brutus slippers",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33101": {
+    "name": "Mooleta",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 5,
+      "aslash": 7,
+      "acrush": 7,
+      "amagic": -1,
+      "arange": -1,
+      "dstab": 4,
+      "dslash": 8,
+      "dcrush": 8,
+      "dmagic": -2,
+      "drange": -1,
+      "str": 1
+    }
+  },
+  "33103": {
+    "name": "Cowbell amulet",
+    "weight": 0.06,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "33104": {
+    "name": "Cowbell amulet",
+    "weight": 0.06,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "33106": {
+    "name": "Raw t-bone steak",
+    "weight": 0.34
+  },
+  "33109": {
+    "name": "Cooked t-bone steak",
+    "weight": 0.34
+  },
+  "33112": {
+    "name": "Burnt t-bone steak",
+    "weight": 0.34
+  },
+  "33115": {
+    "name": "Bull bones",
+    "weight": 7.0
+  },
+  "33117": {
+    "name": "Magic lamp",
+    "weight": 0.1
+  },
+  "33118": {
+    "name": "Abyssal potato",
+    "weight": 0.666
+  },
+  "33120": {
+    "name": "Perfected quetzal whistle(i)",
+    "weight": 0.004
+  },
+  "33124": {
+    "name": "Beef",
+    "weight": 0.015
+  },
+  "33126": {
+    "name": "The groats principles",
+    "weight": 0.51
+  },
+  "33128": {
+    "name": "Milk sample",
+    "weight": 0.035
+  },
+  "33130": {
+    "name": "Milk sample",
+    "weight": 0.035
+  },
+  "33133": {
+    "name": "Pristine spider silk",
+    "weight": 1.0
+  },
+  "33135": {
+    "name": "Silklined herb sack",
+    "weight": 1.0
+  },
+  "33137": {
+    "name": "Open silklined herb sack",
+    "weight": 1.0
   }
 }
