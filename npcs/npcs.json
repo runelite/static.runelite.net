@@ -3803,6 +3803,10 @@
     "name": "Minotaur",
     "hitpoints": 10
   },
+  "2482": {
+    "name": "Minotaur",
+    "hitpoints": 13
+  },
   "2483": {
     "name": "Minotaur",
     "hitpoints": 22
@@ -5486,14 +5490,6 @@
   "3687": {
     "name": "Ragnvald",
     "hitpoints": 1
-  },
-  "3690": {
-    "name": "Vampyre Juvinate",
-    "hitpoints": 85
-  },
-  "3691": {
-    "name": "Vampyre Juvinate",
-    "hitpoints": 85
   },
   "3692": {
     "name": "Vampyre Juvenile",
@@ -11523,6 +11519,22 @@
     "name": "Nail beast",
     "hitpoints": 75
   },
+  "9614": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 150
+  },
+  "9615": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 150
+  },
+  "9616": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 150
+  },
+  "9617": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 150
+  },
   "9632": {
     "name": "Vanstrom Klause",
     "hitpoints": 750
@@ -11539,11 +11551,23 @@
     "name": "Vampyre Juvinate",
     "hitpoints": 85
   },
+  "9729": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 85
+  },
+  "9730": {
+    "name": "Vampyre Juvinate",
+    "hitpoints": 85
+  },
   "9731": {
     "name": "Vampyre Juvenile",
     "hitpoints": 60
   },
   "9732": {
+    "name": "Vampyre Juvenile",
+    "hitpoints": 60
+  },
+  "9733": {
     "name": "Vampyre Juvenile",
     "hitpoints": 60
   },
@@ -11578,6 +11602,10 @@
   "9742": {
     "name": "Vyrewatch",
     "hitpoints": 90
+  },
+  "9744": {
+    "name": "Vampyre Juvenile",
+    "hitpoints": 60
   },
   "9756": {
     "name": "Vyrewatch Sentinel",
@@ -13287,42 +13315,6 @@
     "name": "Armoured zombie",
     "hitpoints": 75
   },
-  "12730": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12731": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12732": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12733": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12734": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12736": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12755": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12757": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
-  "12758": {
-    "name": "Armoured zombie",
-    "hitpoints": 75
-  },
   "12810": {
     "name": "Jaguar warrior",
     "hitpoints": 125
@@ -14585,115 +14577,91 @@
   },
   "15175": {
     "name": "Drink troll queen",
-    "hitpoints": 225
-  },
-  "15176": {
-    "name": "Drink troll queen",
-    "hitpoints": 225
+    "hitpoints": 315
   },
   "15194": {
     "name": "Bull shark",
-    "hitpoints": 90
+    "hitpoints": 128
   },
   "15196": {
     "name": "Hammerhead shark",
-    "hitpoints": 90
+    "hitpoints": 128
   },
   "15198": {
     "name": "Tiger shark",
-    "hitpoints": 125
+    "hitpoints": 174
   },
   "15200": {
     "name": "Great white shark",
-    "hitpoints": 175
+    "hitpoints": 243
   },
   "15202": {
     "name": "Narwhal",
-    "hitpoints": 155
+    "hitpoints": 220
   },
   "15204": {
     "name": "Orca",
-    "hitpoints": 265
+    "hitpoints": 370
   },
   "15206": {
     "name": "Pygmy kraken",
-    "hitpoints": 125
+    "hitpoints": 177
   },
   "15208": {
     "name": "Spined kraken",
-    "hitpoints": 125
+    "hitpoints": 177
   },
   "15210": {
     "name": "Armoured kraken",
-    "hitpoints": 175
-  },
-  "15211": {
-    "name": "Armoured kraken",
-    "hitpoints": 175
+    "hitpoints": 231
   },
   "15212": {
     "name": "Vampyre kraken",
-    "hitpoints": 225
-  },
-  "15213": {
-    "name": "Vampyre kraken",
-    "hitpoints": 225
+    "hitpoints": 311
   },
   "15214": {
     "name": "Eagle ray",
-    "hitpoints": 50
-  },
-  "15215": {
-    "name": "Eagle ray",
-    "hitpoints": 50
+    "hitpoints": 74
   },
   "15216": {
     "name": "Butterfly ray",
-    "hitpoints": 70
-  },
-  "15217": {
-    "name": "Butterfly ray",
-    "hitpoints": 70
+    "hitpoints": 101
   },
   "15218": {
     "name": "Stingray",
-    "hitpoints": 90
+    "hitpoints": 128
   },
   "15220": {
     "name": "Manta ray",
-    "hitpoints": 160
-  },
-  "15221": {
-    "name": "Manta ray",
-    "hitpoints": 160
+    "hitpoints": 225
   },
   "15222": {
     "name": "Osprey",
-    "hitpoints": 80
+    "hitpoints": 114
   },
   "15224": {
     "name": "Albatross",
-    "hitpoints": 125
+    "hitpoints": 179
   },
   "15226": {
     "name": "Frigatebird",
-    "hitpoints": 85
+    "hitpoints": 121
   },
   "15228": {
     "name": "Tern",
-    "hitpoints": 30
+    "hitpoints": 46
   },
   "15230": {
     "name": "Mogre",
-    "hitpoints": 60
+    "hitpoints": 87
   },
   "15232": {
     "name": "Mogre",
-    "hitpoints": 60
+    "hitpoints": 87
   },
   "15234": {
     "name": "Dolphin",
-    "hitpoints": 50
+    "hitpoints": 74
   },
   "15237": {
     "name": "Zemouregal",
@@ -14835,21 +14803,9 @@
     "name": "Guard",
     "hitpoints": 800
   },
-  "15605": {
-    "name": "Baby blue dragon",
-    "hitpoints": 50
-  },
-  "15606": {
-    "name": "Lesser demon",
-    "hitpoints": 80
-  },
-  "15607": {
-    "name": "Greater demon",
-    "hitpoints": 89
-  },
-  "15625": {
-    "name": "Bull",
-    "hitpoints": 58
+  "15576": {
+    "name": "Veiled kraken",
+    "hitpoints": 225
   },
   "15626": {
     "name": "Brutus",

@@ -73003,7 +73003,8 @@
   },
   "25766": {
     "name": "Fiendish ashes",
-    "weight": 0.056
+    "weight": 0.056,
+    "ge_limit": 3000
   },
   "25769": {
     "name": "Vile ashes",
@@ -87244,7 +87245,8 @@
   },
   "29415": {
     "name": "Eclipse red",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 2000
   },
   "29418": {
     "name": "Moon-lite",
@@ -87985,11 +87987,13 @@
   },
   "29622": {
     "name": "Armageddon teleport scroll",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "29625": {
     "name": "Armageddon weapon scroll",
-    "weight": 0.1
+    "weight": 0.1,
+    "ge_limit": 5
   },
   "29628": {
     "name": "Armageddon cape fabric",
@@ -92129,7 +92133,15 @@
     "name": "Key",
     "weight": 0.02
   },
+  "30952": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
   "30953": {
+    "name": "Stone tablet",
+    "weight": 1.0
+  },
+  "30954": {
     "name": "Stone tablet",
     "weight": 1.0
   },
@@ -92751,10 +92763,6 @@
   "31169": {
     "name": "Hueycoatl hide armour set",
     "weight": 0.05
-  },
-  "31174": {
-    "name": "Corrupted shark",
-    "weight": 0.65
   },
   "31181": {
     "name": "Grid master tabard",
@@ -93490,7 +93498,8 @@
   },
   "31590": {
     "name": "Haemostatic dressing (4)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 2000
   },
   "31593": {
     "name": "Haemostatic dressing (3)",
@@ -94626,6 +94635,10 @@
   },
   "32360": {
     "name": "Yellow fin",
+    "ge_limit": 11000
+  },
+  "32362": {
+    "name": "Marlin scales",
     "ge_limit": 11000
   },
   "32364": {
@@ -99900,10 +99913,6 @@
       "slot": 0
     }
   },
-  "33088": {
-    "name": "Gary",
-    "weight": 0.001
-  },
   "33089": {
     "name": "Bottomless milk bucket",
     "weight": 1.0
@@ -99918,7 +99927,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 4
   },
   "33096": {
     "name": "Cow slippers",
@@ -99926,7 +99936,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 4
   },
   "33097": {
     "name": "Cow slippers",
@@ -99934,7 +99945,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 4
   },
   "33098": {
     "name": "Cow slippers",
@@ -99942,7 +99954,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 4
   },
   "33099": {
     "name": "Brutus slippers",
@@ -99989,11 +100002,13 @@
   },
   "33106": {
     "name": "Raw t-bone steak",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 13000
   },
   "33109": {
     "name": "Cooked t-bone steak",
-    "weight": 0.34
+    "weight": 0.34,
+    "ge_limit": 6000
   },
   "33112": {
     "name": "Burnt t-bone steak",
@@ -100042,5 +100057,17 @@
   "33137": {
     "name": "Open silklined herb sack",
     "weight": 1.0
+  },
+  "33143": {
+    "name": "Ballistic attractor schematic",
+    "weight": 0.01
+  },
+  "33144": {
+    "name": "Veiled kraken tentacle",
+    "weight": 0.8
+  },
+  "33145": {
+    "name": "Veiled kraken ink sac",
+    "weight": 0.8
   }
 }
