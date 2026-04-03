@@ -55472,30 +55472,6 @@
     },
     "ge_limit": 70
   },
-  "20576": {
-    "name": "3rd age robe top",
-    "weight": 2.7,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": 24,
-      "dmagic": 24,
-      "mdmg": 1.0
-    },
-    "ge_limit": 8
-  },
-  "20577": {
-    "name": "3rd age robe",
-    "weight": 1.8,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": 19,
-      "dmagic": 19,
-      "mdmg": 1.0
-    },
-    "ge_limit": 8
-  },
   "20578": {
     "name": "Climbing boots",
     "weight": 0.34,
@@ -65145,16 +65121,6 @@
       "prayer": 2
     }
   },
-  "23624": {
-    "name": "Seers ring (i)",
-    "weight": 0.004,
-    "equipable": true,
-    "equipment": {
-      "slot": 12,
-      "amagic": 12,
-      "dmagic": 12
-    }
-  },
   "23626": {
     "name": "Kodai wand",
     "weight": 0.198,
@@ -65167,19 +65133,6 @@
       "dmagic": 20,
       "aspeed": 4,
       "mdmg": 15.0
-    },
-    "ge_limit": 8
-  },
-  "23628": {
-    "name": "Ghrazi rapier",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 94,
-      "aslash": 55,
-      "str": 89,
-      "aspeed": 4
     },
     "ge_limit": 8
   },
@@ -65244,70 +65197,6 @@
     },
     "ge_limit": 15
   },
-  "23635": {
-    "name": "Verac's plateskirt",
-    "weight": 4.535,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -11,
-      "dstab": 85,
-      "dslash": 82,
-      "dcrush": 83,
-      "drange": 84,
-      "prayer": 4
-    },
-    "ge_limit": 15
-  },
-  "23636": {
-    "name": "Verac's helm",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 55,
-      "dslash": 58,
-      "dcrush": 54,
-      "drange": 56,
-      "prayer": 3
-    },
-    "ge_limit": 15
-  },
-  "23637": {
-    "name": "Torag's helm",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 55,
-      "dslash": 58,
-      "dcrush": 54,
-      "dmagic": -1,
-      "drange": 62
-    },
-    "ge_limit": 15
-  },
-  "23638": {
-    "name": "Guthan's helm",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 55,
-      "dslash": 58,
-      "dcrush": 54,
-      "dmagic": -1,
-      "drange": 62
-    },
-    "ge_limit": 15
-  },
   "23639": {
     "name": "Dharok's helm",
     "weight": 1.814,
@@ -65357,39 +65246,6 @@
       "dmagic": 2,
       "drange": 52,
       "prayer": 3
-    },
-    "ge_limit": 8
-  },
-  "23644": {
-    "name": "Eternal boots",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 10,
-      "amagic": 8,
-      "dstab": 5,
-      "dslash": 5,
-      "dcrush": 5,
-      "dmagic": 8,
-      "drange": 5
-    },
-    "ge_limit": 15
-  },
-  "23646": {
-    "name": "Bandos tassets",
-    "weight": 8.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -7,
-      "dstab": 71,
-      "dslash": 63,
-      "dcrush": 66,
-      "dmagic": -4,
-      "drange": 93,
-      "str": 2,
-      "prayer": 1
     },
     "ge_limit": 8
   },
@@ -67915,6 +67771,10 @@
       "drange": -4,
       "str": 8
     }
+  },
+  "24187": {
+    "name": "Trouver parchment",
+    "ge_limit": 500
   },
   "24189": {
     "name": "Deadman's chest",
@@ -72184,22 +72044,6 @@
       "aspeed": 5,
       "mdmg": 15.0
     }
-  },
-  "25518": {
-    "name": "Ancestral hat",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": 8,
-      "arange": -2,
-      "dstab": 12,
-      "dslash": 11,
-      "dcrush": 13,
-      "dmagic": 5,
-      "mdmg": 2.0
-    },
-    "ge_limit": 8
   },
   "25519": {
     "name": "Jalrek-jad",
@@ -78496,59 +78340,6 @@
     },
     "ge_limit": 70
   },
-  "27162": {
-    "name": "Wizard boots",
-    "weight": 0.283,
-    "equipable": true,
-    "equipment": {
-      "slot": 10,
-      "amagic": 4,
-      "dmagic": 4
-    },
-    "ge_limit": 8
-  },
-  "27163": {
-    "name": "Guthix halo",
-    "weight": 0.3,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "dstab": 11,
-      "dslash": 12,
-      "dcrush": 10,
-      "dmagic": 11,
-      "drange": -1,
-      "prayer": 3
-    }
-  },
-  "27164": {
-    "name": "Zamorak halo",
-    "weight": 0.3,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "dstab": 11,
-      "dslash": 12,
-      "dcrush": 10,
-      "dmagic": 11,
-      "drange": -1,
-      "prayer": 3
-    }
-  },
-  "27165": {
-    "name": "Saradomin halo",
-    "weight": 0.3,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "dstab": 11,
-      "dslash": 12,
-      "dcrush": 10,
-      "dmagic": 11,
-      "drange": -1,
-      "prayer": 3
-    }
-  },
   "27166": {
     "name": "Ghostly hood",
     "weight": 0.001,
@@ -78594,17 +78385,6 @@
       "str": 3
     },
     "ge_limit": 70
-  },
-  "27170": {
-    "name": "Infinity boots",
-    "weight": 0.453,
-    "equipable": true,
-    "equipment": {
-      "slot": 10,
-      "amagic": 5,
-      "dmagic": 5
-    },
-    "ge_limit": 125
   },
   "27171": {
     "name": "Tormented bracelet",
@@ -78680,52 +78460,6 @@
     },
     "ge_limit": 8
   },
-  "27177": {
-    "name": "Fremennik kilt",
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -7,
-      "dstab": 11,
-      "dslash": 10,
-      "dcrush": 10,
-      "dmagic": -4,
-      "drange": 10,
-      "str": 1
-    },
-    "ge_limit": 8
-  },
-  "27178": {
-    "name": "Spiked manacles",
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 10,
-      "amagic": -3,
-      "arange": -1,
-      "dmagic": -4,
-      "str": 4
-    },
-    "ge_limit": 8
-  },
-  "27179": {
-    "name": "Rangers' tunic",
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "arange": 15,
-      "dstab": 6,
-      "dslash": 9,
-      "dcrush": 12,
-      "dmagic": 6,
-      "drange": 6
-    },
-    "ge_limit": 4
-  },
   "27180": {
     "name": "Guthix chaps",
     "weight": 5.0,
@@ -78774,18 +78508,6 @@
       "dmagic": 28,
       "drange": 31,
       "prayer": 1
-    },
-    "ge_limit": 8
-  },
-  "27183": {
-    "name": "3rd age mage hat",
-    "weight": 0.4,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": 8,
-      "dmagic": 8,
-      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -78852,29 +78574,6 @@
     },
     "ge_limit": 8
   },
-  "27189": {
-    "name": "Verac's flail",
-    "weight": 2.267,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "astab": 68,
-      "aslash": -2,
-      "acrush": 82,
-      "str": 72,
-      "prayer": 6,
-      "aspeed": 5
-    },
-    "ge_limit": 15
-  },
-  "27190": {
-    "name": "Verac's brassard",
-    "weight": 4.989,
-    "equipable": true,
-    "equipment": {},
-    "ge_limit": 15
-  },
   "27191": {
     "name": "Unholy book",
     "weight": 1.0,
@@ -78897,161 +78596,6 @@
       "rstr": 122
     },
     "ge_limit": 11000
-  },
-  "27193": {
-    "name": "Ancestral robe top",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": 35,
-      "arange": -8,
-      "dstab": 42,
-      "dslash": 31,
-      "dcrush": 51,
-      "dmagic": 28,
-      "mdmg": 3.0
-    },
-    "ge_limit": 8
-  },
-  "27194": {
-    "name": "Ancestral robe bottom",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": 26,
-      "arange": -7,
-      "dstab": 27,
-      "dslash": 24,
-      "dcrush": 30,
-      "dmagic": 20,
-      "mdmg": 3.0
-    },
-    "ge_limit": 8
-  },
-  "27195": {
-    "name": "Inquisitor's great helm",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "astab": -2,
-      "aslash": -2,
-      "acrush": 8,
-      "amagic": -5,
-      "arange": -5,
-      "dstab": 19,
-      "dslash": 10,
-      "dcrush": 21,
-      "drange": 12,
-      "str": 4,
-      "prayer": 1
-    },
-    "ge_limit": 8
-  },
-  "27196": {
-    "name": "Inquisitor's hauberk",
-    "weight": 9.979,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "astab": -3,
-      "aslash": -3,
-      "acrush": 12,
-      "amagic": -11,
-      "arange": -10,
-      "dstab": 67,
-      "dslash": 55,
-      "dcrush": 71,
-      "drange": 35,
-      "str": 4,
-      "prayer": 2
-    },
-    "ge_limit": 8
-  },
-  "27197": {
-    "name": "Inquisitor's plateskirt",
-    "weight": 9.071,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "astab": -3,
-      "aslash": -3,
-      "acrush": 12,
-      "amagic": -9,
-      "arange": -5,
-      "dstab": 42,
-      "dslash": 30,
-      "dcrush": 49,
-      "drange": 22,
-      "str": 2,
-      "prayer": 2
-    },
-    "ge_limit": 8
-  },
-  "27198": {
-    "name": "Inquisitor's mace",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 52,
-      "aslash": -4,
-      "acrush": 95,
-      "str": 89,
-      "prayer": 2,
-      "aspeed": 4
-    },
-    "ge_limit": 8
-  },
-  "27199": {
-    "name": "3rd age range top",
-    "weight": 4.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "arange": 30,
-      "dstab": 55,
-      "dslash": 47,
-      "dcrush": 60,
-      "dmagic": 60,
-      "drange": 55
-    },
-    "ge_limit": 8
-  },
-  "27200": {
-    "name": "3rd age range legs",
-    "weight": 3.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 7,
-      "amagic": -10,
-      "arange": 17,
-      "dstab": 31,
-      "dslash": 25,
-      "dcrush": 33,
-      "dmagic": 30,
-      "drange": 31
-    },
-    "ge_limit": 8
-  },
-  "27201": {
-    "name": "3rd age range coif",
-    "weight": 1.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": -2,
-      "arange": 9,
-      "dstab": 4,
-      "dslash": 7,
-      "dcrush": 10,
-      "dmagic": 5,
-      "drange": 8
-    },
-    "ge_limit": 8
   },
   "27202": {
     "name": "Menaphite remedy(4)",
@@ -80810,6 +80354,17 @@
       "aspeed": 5
     },
     "ge_limit": 8
+  },
+  "27679": {
+    "name": "Accursed sceptre (a)",
+    "weight": 0.198,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 22,
+      "dmagic": 20,
+      "aspeed": 5
+    }
   },
   "27681": {
     "name": "Voidwaker hilt",
@@ -86377,15 +85932,7 @@
     "weight": 3.0,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "arange": 31,
-      "dstab": 15,
-      "dslash": 18,
-      "dcrush": 57,
-      "dmagic": 55,
-      "drange": 32,
-      "str": 3
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -86394,15 +85941,7 @@
     "weight": 1.0,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -15,
-      "arange": 17,
-      "dstab": 9,
-      "dslash": 13,
-      "dcrush": 37,
-      "dmagic": 31,
-      "drange": 17,
-      "str": 1
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -86411,15 +85950,7 @@
     "weight": 0.907,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": 8,
-      "dstab": 2,
-      "dslash": 3,
-      "dcrush": 14,
-      "dmagic": 10,
-      "drange": 4,
-      "str": 3
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -86428,12 +85959,7 @@
     "weight": 3.175,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": 30,
-      "dcrush": 51,
-      "dmagic": 28,
-      "str": 2,
-      "mdmg": 1.0
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -86442,12 +85968,7 @@
     "weight": 1.36,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": 22,
-      "dcrush": 23,
-      "dmagic": 32,
-      "str": 1,
-      "mdmg": 1.0
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -86456,12 +85977,7 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": 6,
-      "dcrush": 10,
-      "dmagic": 6,
-      "str": 3,
-      "mdmg": 1.0
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -86470,15 +85986,7 @@
     "weight": 5.443,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "amagic": -15,
-      "arange": -10,
-      "dstab": 60,
-      "dslash": 80,
-      "dcrush": 80,
-      "dmagic": 40,
-      "drange": 79,
-      "str": 4
+      "slot": 4
     },
     "ge_limit": 15
   },
@@ -86487,15 +85995,7 @@
     "weight": 4.082,
     "equipable": true,
     "equipment": {
-      "slot": 7,
-      "amagic": -21,
-      "arange": -7,
-      "dstab": 30,
-      "dslash": 50,
-      "dcrush": 49,
-      "dmagic": 32,
-      "drange": 46,
-      "str": 2
+      "slot": 7
     },
     "ge_limit": 15
   },
@@ -86504,15 +86004,7 @@
     "weight": 0.907,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": -6,
-      "arange": -2,
-      "dstab": 20,
-      "dslash": 31,
-      "dcrush": 34,
-      "dmagic": 7,
-      "drange": 29,
-      "str": 4
+      "slot": 0
     },
     "ge_limit": 15
   },
@@ -93132,6 +92624,10 @@
     "name": "Frost dragon bonemeal",
     "weight": 1.5
   },
+  "31337": {
+    "name": "{{Null name}}",
+    "weight": 0.05
+  },
   "31338": {
     "name": "Old cup",
     "weight": 0.05
@@ -93139,6 +92635,104 @@
   "31341": {
     "name": "Confession",
     "weight": 0.005
+  },
+  "31343": {
+    "name": "Note",
+    "weight": 0.005
+  },
+  "31345": {
+    "name": "Ink bottle",
+    "weight": 0.02
+  },
+  "31347": {
+    "name": "Inky paper",
+    "weight": 0.006
+  },
+  "31349": {
+    "name": "Ink bottle",
+    "weight": 0.019
+  },
+  "31351": {
+    "name": "Smashed bottle",
+    "weight": 0.016
+  },
+  "31353": {
+    "name": "Prison uniform top",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31355": {
+    "name": "Prison uniform trousers",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "31357": {
+    "name": "Fishy prison uniform top",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "31359": {
+    "name": "Tin cup",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {}
+  },
+  "31361": {
+    "name": "Tin cup",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {}
+  },
+  "31363": {
+    "name": "Pipe",
+    "weight": 2.0
+  },
+  "31365": {
+    "name": "Accordion",
+    "weight": 2.0
+  },
+  "31367": {
+    "name": "Accordion",
+    "weight": 2.0
+  },
+  "31368": {
+    "name": "Accordion",
+    "weight": 4.0
+  },
+  "31371": {
+    "name": "Vacuum pump",
+    "weight": 4.0
+  },
+  "31373": {
+    "name": "Vacuum pump and gull",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {}
+  },
+  "31375": {
+    "name": "Quill",
+    "weight": 0.001
+  },
+  "31377": {
+    "name": "Inky quill",
+    "weight": 0.001
+  },
+  "31379": {
+    "name": "File",
+    "weight": 0.005
+  },
+  "31381": {
+    "name": "File",
+    "weight": 0.03
   },
   "31383": {
     "name": "Camphor pyre logs",
@@ -93179,6 +92773,10 @@
       "dcrush": 6,
       "drange": 8
     }
+  },
+  "31399": {
+    "name": "Paper",
+    "weight": 0.005
   },
   "31400": {
     "name": "Offering bouquet",
@@ -93442,7 +93040,8 @@
       "arange": 12,
       "rstr": 2,
       "aspeed": 3
-    }
+    },
+    "ge_limit": 8
   },
   "31579": {
     "name": "Ironwood blowpipe",
@@ -93466,7 +93065,8 @@
       "arange": 16,
       "rstr": 4,
       "aspeed": 3
-    }
+    },
+    "ge_limit": 8
   },
   "31583": {
     "name": "Rosewood blowpipe",
@@ -93490,7 +93090,8 @@
       "arange": 22,
       "rstr": 6,
       "aspeed": 3
-    }
+    },
+    "ge_limit": 8
   },
   "31587": {
     "name": "Haemostatic poultice",
@@ -98860,7 +98461,8 @@
   },
   "32910": {
     "name": "Rosewood logs",
-    "weight": 2.0
+    "weight": 2.0,
+    "ge_limit": 12000
   },
   "32921": {
     "name": "Jar of feathers",
@@ -99875,11 +99477,13 @@
   },
   "33074": {
     "name": "Facility bottle (empty)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 100
   },
   "33077": {
     "name": "Facility bottle (full)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 100
   },
   "33080": {
     "name": "25th anniversary helmet",
@@ -100069,5 +99673,129 @@
   "33145": {
     "name": "Veiled kraken ink sac",
     "weight": 0.8
+  },
+  "33146": {
+    "name": "Scribbled notes",
+    "weight": 0.01
+  },
+  "33147": {
+    "name": "Egg box",
+    "weight": 0.02
+  },
+  "33148": {
+    "name": "Egg box",
+    "weight": 0.02
+  },
+  "33149": {
+    "name": "Archibald",
+    "weight": 0.02,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33151": {
+    "name": "Archibald",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33153": {
+    "name": "Archibald",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33155": {
+    "name": "Archibald",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33157": {
+    "name": "Archibald",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33159": {
+    "name": "Archibald",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33161": {
+    "name": "Archibald",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33163": {
+    "name": "Archibald",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
   }
 }

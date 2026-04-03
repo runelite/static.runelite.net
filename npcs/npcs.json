@@ -2207,10 +2207,6 @@
     "name": "Clivet",
     "hitpoints": 25
   },
-  "1207": {
-    "name": "Hazeel Cultist",
-    "hitpoints": 25
-  },
   "1208": {
     "name": "Khazard Guard",
     "hitpoints": 25
@@ -11795,6 +11791,10 @@
     "name": "JalTok-Jad",
     "hitpoints": 350
   },
+  "10624": {
+    "name": "Yt-HurKot",
+    "hitpoints": 90
+  },
   "10654": {
     "name": "Ancient Guardian",
     "hitpoints": 40
@@ -12747,10 +12747,6 @@
     "name": "Evelot",
     "hitpoints": 160
   },
-  "12048": {
-    "name": "Hazeel Cultist",
-    "hitpoints": 25
-  },
   "12049": {
     "name": "Clivet",
     "hitpoints": 25
@@ -12845,18 +12841,6 @@
   },
   "12095": {
     "name": "Clivet",
-    "hitpoints": 25
-  },
-  "12096": {
-    "name": "Hazeel Cultist",
-    "hitpoints": 25
-  },
-  "12097": {
-    "name": "Hazeel Cultist",
-    "hitpoints": 25
-  },
-  "12098": {
-    "name": "Hazeel Cultist",
     "hitpoints": 25
   },
   "12107": {
@@ -14471,6 +14455,10 @@
     "name": "Guard",
     "hitpoints": 22
   },
+  "14916": {
+    "name": "Snake",
+    "hitpoints": 6
+  },
   "14920": {
     "name": "Man",
     "hitpoints": 7
@@ -14502,6 +14490,10 @@
   "14937": {
     "name": "Pirate",
     "hitpoints": 38
+  },
+  "14938": {
+    "name": "Seagull",
+    "hitpoints": 10
   },
   "14940": {
     "name": "Scorpion",
@@ -14581,11 +14573,11 @@
   },
   "15194": {
     "name": "Bull shark",
-    "hitpoints": 128
+    "hitpoints": 81
   },
   "15196": {
     "name": "Hammerhead shark",
-    "hitpoints": 128
+    "hitpoints": 125
   },
   "15198": {
     "name": "Tiger shark",
@@ -14597,7 +14589,7 @@
   },
   "15202": {
     "name": "Narwhal",
-    "hitpoints": 220
+    "hitpoints": 187
   },
   "15204": {
     "name": "Orca",
@@ -14605,7 +14597,7 @@
   },
   "15206": {
     "name": "Pygmy kraken",
-    "hitpoints": 177
+    "hitpoints": 150
   },
   "15208": {
     "name": "Spined kraken",
@@ -14621,47 +14613,47 @@
   },
   "15214": {
     "name": "Eagle ray",
-    "hitpoints": 74
+    "hitpoints": 55
   },
   "15216": {
     "name": "Butterfly ray",
-    "hitpoints": 101
+    "hitpoints": 83
   },
   "15218": {
     "name": "Stingray",
-    "hitpoints": 128
+    "hitpoints": 106
   },
   "15220": {
     "name": "Manta ray",
-    "hitpoints": 225
+    "hitpoints": 194
   },
   "15222": {
     "name": "Osprey",
-    "hitpoints": 114
+    "hitpoints": 72
   },
   "15224": {
     "name": "Albatross",
-    "hitpoints": 179
+    "hitpoints": 135
   },
   "15226": {
     "name": "Frigatebird",
-    "hitpoints": 121
+    "hitpoints": 79
   },
   "15228": {
     "name": "Tern",
-    "hitpoints": 46
+    "hitpoints": 22
   },
   "15230": {
     "name": "Mogre",
-    "hitpoints": 87
+    "hitpoints": 59
   },
   "15232": {
     "name": "Mogre",
-    "hitpoints": 87
+    "hitpoints": 59
   },
   "15234": {
     "name": "Dolphin",
-    "hitpoints": 74
+    "hitpoints": 45
   },
   "15237": {
     "name": "Zemouregal",
@@ -14706,6 +14698,14 @@
   "15451": {
     "name": "Captain Cotus",
     "hitpoints": 100
+  },
+  "15455": {
+    "name": "Pirate captain",
+    "hitpoints": 50
+  },
+  "15456": {
+    "name": "Pirate",
+    "hitpoints": 35
   },
   "15457": {
     "name": "Captain Darvald",
