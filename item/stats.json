@@ -66014,7 +66014,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "amagic": 84,
       "prayer": 1,
       "aspeed": 4
@@ -66026,7 +66025,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "amagic": 128,
       "prayer": 2,
       "aspeed": 4
@@ -66038,7 +66036,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "amagic": 184,
       "prayer": 3,
       "aspeed": 4
@@ -66431,7 +66428,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "amagic": 84,
       "prayer": 1,
       "aspeed": 4
@@ -66443,7 +66439,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "amagic": 128,
       "prayer": 2,
       "aspeed": 4
@@ -66455,7 +66450,6 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true,
       "amagic": 184,
       "prayer": 3,
       "aspeed": 4
@@ -72312,9 +72306,90 @@
     "name": "Baby mole-rat",
     "weight": 0.015
   },
+  "25615": {
+    "name": "Heat-proof vessel",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "25617": {
+    "name": "Tea flask",
+    "weight": 0.1
+  },
+  "25618": {
+    "name": "Plain satchel",
+    "weight": 0.15,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25619": {
+    "name": "Green satchel",
+    "weight": 0.15,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25620": {
+    "name": "Red satchel",
+    "weight": 0.15,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25621": {
+    "name": "Black satchel",
+    "weight": 0.15,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25622": {
+    "name": "Gold satchel",
+    "weight": 0.15,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25623": {
+    "name": "Rune satchel",
+    "weight": 0.15,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25624": {
+    "name": "Unsired",
+    "weight": 1.4
+  },
   "25625": {
     "name": "Barronite mace (broken)",
     "weight": 2.0
+  },
+  "25627": {
+    "name": "Open coal bag",
+    "weight": 10.0
+  },
+  "25628": {
+    "name": "Open gem bag",
+    "weight": 1.0
+  },
+  "25629": {
+    "name": "Plank sack",
+    "weight": 5.25
+  },
+  "25630": {
+    "name": "Flamtaer bag",
+    "weight": 6.0
   },
   "25631": {
     "name": "Steak sandwich",
@@ -78562,6 +78637,18 @@
     },
     "ge_limit": 8
   },
+  "27187": {
+    "name": "Bow of faerdhinen (c)",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 128,
+      "rstr": 106,
+      "aspeed": 5
+    }
+  },
   "27188": {
     "name": "Light ballista",
     "weight": 3.0,
@@ -83062,7 +83149,7 @@
       "acrush": 8,
       "dslash": 1,
       "str": 12,
-      "aspeed": 5
+      "aspeed": 7
     }
   },
   "28208": {
@@ -84912,10 +84999,19 @@
     "weight": 0.2
   },
   "28771": {
-    "name": "Sage's greaves",
+    "name": "Searing boots",
     "equipable": true,
     "equipment": {
       "slot": 10
+    }
+  },
+  "28773": {
+    "name": "Sage's axe",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 3
     }
   },
   "28777": {
@@ -90104,6 +90200,14 @@
       "aspeed": 5
     }
   },
+  "30357": {
+    "name": "Forager's pouch",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
   "30361": {
     "name": "Banker's briefcase",
     "weight": 0.05,
@@ -90111,6 +90215,55 @@
     "equipment": {
       "slot": 1
     }
+  },
+  "30384": {
+    "name": "Crystal blessing",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "prayer": 5
+    }
+  },
+  "30393": {
+    "name": "Asgarnia echo orb",
+    "weight": 0.4
+  },
+  "30394": {
+    "name": "Desert echo orb",
+    "weight": 0.4
+  },
+  "30395": {
+    "name": "Fremennik echo orb",
+    "weight": 0.4
+  },
+  "30396": {
+    "name": "Kandarin echo orb",
+    "weight": 0.4
+  },
+  "30397": {
+    "name": "Morytania echo orb",
+    "weight": 0.4
+  },
+  "30398": {
+    "name": "Tirannwn echo orb",
+    "weight": 0.4
+  },
+  "30399": {
+    "name": "Wilderness echo orb",
+    "weight": 0.4
+  },
+  "30400": {
+    "name": "Kourend echo orb",
+    "weight": 0.4
+  },
+  "30401": {
+    "name": "Varlamore echo orb",
+    "weight": 0.4
+  },
+  "30402": {
+    "name": "Raids megarare voucher",
+    "weight": 0.1
   },
   "30404": {
     "name": "Raging echoes hat (t1)",
@@ -91465,8 +91618,7 @@
       "aslash": -2,
       "acrush": 57,
       "amagic": 2,
-      "prayer": 3,
-      "aspeed": 4
+      "prayer": 3
     }
   },
   "30893": {
@@ -92210,23 +92362,28 @@
   },
   "31136": {
     "name": "Blood moon armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31139": {
     "name": "Blue moon armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31142": {
     "name": "Eclipse moon armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31145": {
     "name": "Torva armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31148": {
     "name": "Virtus armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31151": {
     "name": "Rock-shell armour set",
@@ -92234,7 +92391,8 @@
   },
   "31154": {
     "name": "Skeletal armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31157": {
     "name": "Spined armour set",
@@ -92242,11 +92400,13 @@
   },
   "31160": {
     "name": "Swampbark armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31163": {
     "name": "Bloodbark armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 2
   },
   "31166": {
     "name": "Mixed hide armour set",
@@ -92366,7 +92526,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "31229": {
@@ -92865,7 +93026,8 @@
   },
   "31457": {
     "name": "Hemp",
-    "weight": 0.453
+    "weight": 0.453,
+    "ge_limit": 13000
   },
   "31460": {
     "name": "Cotton boll",
@@ -92903,11 +93065,13 @@
   },
   "31481": {
     "name": "Elkhorn coral",
-    "weight": 0.028
+    "weight": 0.028,
+    "ge_limit": 13000
   },
   "31484": {
     "name": "Pillar coral",
-    "weight": 0.028
+    "weight": 0.028,
+    "ge_limit": 13000
   },
   "31487": {
     "name": "Umbral coral",
@@ -94109,7 +94273,8 @@
   },
   "32093": {
     "name": "Inky paint",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 5
   },
   "32096": {
     "name": "Angler's paint",
@@ -95852,7 +96017,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32573": {
@@ -96109,7 +96275,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32599": {
@@ -96733,7 +96900,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32663": {
@@ -97812,7 +97980,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32772": {
@@ -97961,7 +98130,8 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "is2h": true
+      "is2h": true,
+      "aspeed": 4
     }
   },
   "32787": {
@@ -99797,5 +99967,690 @@
       "str": -10,
       "aspeed": 4
     }
+  },
+  "33166": {
+    "name": "Crystal body",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -18,
+      "arange": 31,
+      "dstab": 46,
+      "dslash": 38,
+      "dcrush": 48,
+      "dmagic": 44,
+      "drange": 68,
+      "prayer": 3
+    }
+  },
+  "33168": {
+    "name": "Crystal legs",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -12,
+      "arange": 18,
+      "dstab": 26,
+      "dslash": 21,
+      "dcrush": 30,
+      "dmagic": 34,
+      "drange": 38,
+      "prayer": 2
+    }
+  },
+  "33170": {
+    "name": "Crystal helm",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -10,
+      "arange": 9,
+      "dstab": 12,
+      "dslash": 8,
+      "dcrush": 14,
+      "dmagic": 10,
+      "drange": 18,
+      "prayer": 2
+    }
+  },
+  "33172": {
+    "name": "Avernic treads (max)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "astab": 5,
+      "aslash": 5,
+      "acrush": 5,
+      "amagic": 11,
+      "arange": 15,
+      "dstab": 21,
+      "dslash": 25,
+      "dcrush": 25,
+      "dmagic": 10,
+      "drange": 10,
+      "str": 6,
+      "rstr": 3,
+      "mdmg": 2.0
+    }
+  },
+  "33174": {
+    "name": "Osmumten's fang",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 105,
+      "aslash": 75,
+      "str": 103,
+      "aspeed": 5
+    },
+    "ge_limit": 8
+  },
+  "33176": {
+    "name": "Elidinis' ward (f)",
+    "weight": 3.708,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 25,
+      "dstab": 53,
+      "dslash": 55,
+      "dcrush": 73,
+      "dmagic": 2,
+      "drange": 52,
+      "prayer": 4,
+      "mdmg": 5.0
+    }
+  },
+  "33178": {
+    "name": "Noxious halberd",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 80,
+      "aslash": 132,
+      "str": 142,
+      "aspeed": 5
+    },
+    "ge_limit": 8
+  },
+  "33180": {
+    "name": "Magus ring",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "amagic": 15,
+      "mdmg": 2.0
+    }
+  },
+  "33182": {
+    "name": "Ultor ring",
+    "weight": 0.012,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "str": 12
+    }
+  },
+  "33184": {
+    "name": "Purging staff",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 10,
+      "aslash": -5,
+      "acrush": 83,
+      "amagic": 37,
+      "dstab": 1,
+      "dslash": 1,
+      "dmagic": 25,
+      "str": 62,
+      "aspeed": 5,
+      "mdmg": 10.0
+    }
+  },
+  "33186": {
+    "name": "Dragonfire shield",
+    "weight": 7.257,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -10,
+      "arange": -5,
+      "dstab": 70,
+      "dslash": 75,
+      "dcrush": 72,
+      "dmagic": 10,
+      "drange": 72,
+      "str": 7
+    },
+    "ge_limit": 8
+  },
+  "33188": {
+    "name": "Twisted buckler",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": -7,
+      "aslash": -8,
+      "acrush": -7,
+      "amagic": -10,
+      "arange": 18,
+      "dstab": 22,
+      "dslash": 24,
+      "dcrush": 22,
+      "dmagic": 26,
+      "drange": 58,
+      "rstr": 10
+    },
+    "ge_limit": 8
+  },
+  "33190": {
+    "name": "Masori body (f)",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -4,
+      "arange": 43,
+      "dstab": 59,
+      "dslash": 52,
+      "dcrush": 64,
+      "dmagic": 74,
+      "drange": 60,
+      "rstr": 4,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "33192": {
+    "name": "Masori chaps (f)",
+    "weight": 8.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -2,
+      "arange": 27,
+      "dstab": 35,
+      "dslash": 30,
+      "dcrush": 39,
+      "dmagic": 46,
+      "drange": 37,
+      "rstr": 2,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "33194": {
+    "name": "Torva platelegs",
+    "weight": 9.071,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -24,
+      "arange": -11,
+      "dstab": 87,
+      "dslash": 78,
+      "dcrush": 79,
+      "dmagic": -9,
+      "drange": 102,
+      "str": 4,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "33196": {
+    "name": "Virtus robe top",
+    "weight": 2.895,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 35,
+      "arange": -11,
+      "dstab": 47,
+      "dslash": 36,
+      "dcrush": 56,
+      "dmagic": 31,
+      "prayer": 2,
+      "mdmg": 2.0
+    },
+    "ge_limit": 8
+  },
+  "33198": {
+    "name": "Virtus robe bottom",
+    "weight": 3.79,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 26,
+      "arange": -9,
+      "dstab": 31,
+      "dslash": 28,
+      "dcrush": 34,
+      "dmagic": 22,
+      "prayer": 1,
+      "mdmg": 2.0
+    },
+    "ge_limit": 8
+  },
+  "33200": {
+    "name": "Burning claws",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 43,
+      "aslash": 54,
+      "dstab": 3,
+      "dslash": 6,
+      "dcrush": 1,
+      "str": 32,
+      "aspeed": 4
+    },
+    "ge_limit": 8
+  },
+  "33202": {
+    "name": "Aranea boots",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": 5,
+      "arange": 6,
+      "str": 4,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "33218": {
+    "name": "Knapsack",
+    "weight": 10.0
+  },
+  "33220": {
+    "name": "Knapsack",
+    "weight": 10.0
+  },
+  "33221": {
+    "name": "Barbarian arm",
+    "weight": 0.001
+  },
+  "33227": {
+    "name": "Evil eye",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 2
+    }
+  },
+  "33229": {
+    "name": "Transmutation ledger",
+    "weight": 0.014,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "33237": {
+    "name": "Butler's bell",
+    "weight": 0.028
+  },
+  "33239": {
+    "name": "Flask of fervour",
+    "weight": 0.004
+  },
+  "33241": {
+    "name": "Flask of fervour",
+    "weight": 0.004
+  },
+  "33243": {
+    "name": "Infernal tecpatl",
+    "weight": 3.628,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 72,
+      "aslash": 72,
+      "acrush": 72,
+      "str": 70,
+      "prayer": -1,
+      "aspeed": 4
+    }
+  },
+  "33245": {
+    "name": "Nature's recurve",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 95,
+      "rstr": 4,
+      "aspeed": 4
+    }
+  },
+  "33247": {
+    "name": "V's helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 8,
+      "arange": 12,
+      "dstab": 40,
+      "dslash": 40,
+      "dcrush": 40,
+      "dmagic": 10,
+      "drange": 40,
+      "str": 8,
+      "rstr": 2,
+      "mdmg": 3.0
+    }
+  },
+  "33249": {
+    "name": "Fang of the hound",
+    "weight": 0.666,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 60,
+      "aslash": 60,
+      "acrush": 10,
+      "amagic": 3,
+      "str": 20,
+      "aspeed": 3
+    }
+  },
+  "33251": {
+    "name": "King's barrage",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 130,
+      "dstab": 20,
+      "dslash": 20,
+      "dcrush": 20,
+      "dmagic": 25,
+      "drange": 60,
+      "rstr": 14,
+      "aspeed": 6
+    }
+  },
+  "33253": {
+    "name": "Shadowflame quadrant",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "acrush": 60,
+      "amagic": 25,
+      "dcrush": 5,
+      "dmagic": 17,
+      "str": 50,
+      "aspeed": 5,
+      "mdmg": 15.0
+    }
+  },
+  "33255": {
+    "name": "Lithic sceptre",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 10,
+      "dslash": 10,
+      "dcrush": 10,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "33257": {
+    "name": "Lithic sceptre (uncharged)",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 10,
+      "dslash": 10,
+      "dcrush": 10,
+      "dmagic": 20,
+      "aspeed": 4
+    }
+  },
+  "33260": {
+    "name": "Demonic hood (t1)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "33263": {
+    "name": "Demonic robe top (t1)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33266": {
+    "name": "Demonic robe bottom (t1)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33269": {
+    "name": "Demonic boots (t1)",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33272": {
+    "name": "Demonic hood (t2)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "33275": {
+    "name": "Demonic robe top (t2)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33278": {
+    "name": "Demonic robe bottom (t2)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33281": {
+    "name": "Demonic boots (t2)",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33284": {
+    "name": "Demonic hood (t3)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "33287": {
+    "name": "Demonic robe top (t3)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33290": {
+    "name": "Demonic robe bottom (t3)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33293": {
+    "name": "Demonic boots (t3)",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33296": {
+    "name": "Demonic sceptre",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "33299": {
+    "name": "Demonic pacts banner",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3
+    }
+  },
+  "33302": {
+    "name": "Demonic skin contract",
+    "weight": 0.1
+  },
+  "33305": {
+    "name": "Demonic axe ornament kit",
+    "weight": 0.1
+  },
+  "33308": {
+    "name": "Demonic staff ornament kit",
+    "weight": 0.1
+  },
+  "33311": {
+    "name": "Demonic trident ornament kit",
+    "weight": 0.1
+  },
+  "33342": {
+    "name": "Demonic quill",
+    "weight": 0.5
+  },
+  "33345": {
+    "name": "Demonic pacts dragon trophy",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33347": {
+    "name": "Demonic pacts rune trophy",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33349": {
+    "name": "Demonic pacts adamant trophy",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "33351": {
+    "name": "Demonic pacts mithril trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "33353": {
+    "name": "Demonic pacts steel trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "33355": {
+    "name": "Demonic pacts iron trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "33357": {
+    "name": "Demonic pacts bronze trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "33359": {
+    "name": "Impish ritual kit",
+    "weight": 0.1
+  },
+  "33362": {
+    "name": "Demonic pacts throne scroll",
+    "weight": 0.1
+  },
+  "33365": {
+    "name": "Impish whistle",
+    "weight": 0.1
+  },
+  "33368": {
+    "name": "Demonic pacts demon butler scroll",
+    "weight": 0.1
   }
 }
