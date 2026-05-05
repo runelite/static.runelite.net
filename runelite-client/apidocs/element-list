@@ -191,7 +191,6 @@ net.runelite.client.plugins.xpdrop
 net.runelite.client.plugins.xpglobes
 net.runelite.client.plugins.xptracker
 net.runelite.client.plugins.xpupdater
-net.runelite.client.plugins.xtea
 net.runelite.client.plugins.zalcano
 net.runelite.client.rs
 net.runelite.client.task
