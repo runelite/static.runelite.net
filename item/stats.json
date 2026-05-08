@@ -84995,7 +84995,7 @@
     "weight": 0.001
   },
   "28769": {
-    "name": "Guardian horn",
+    "name": "Minion whistle",
     "weight": 0.2
   },
   "28771": {
@@ -90077,6 +90077,22 @@
     "name": "Raging echoes relic hunter (t3) armour set",
     "weight": 0.05
   },
+  "30340": {
+    "name": "Crystal dagger (perfected)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": 140,
+      "acrush": -4,
+      "amagic": 1,
+      "dmagic": 1,
+      "str": 40,
+      "prayer": 3,
+      "aspeed": 4
+    }
+  },
   "30342": {
     "name": "Infernal harpoon (or)",
     "weight": 2.267,
@@ -90214,6 +90230,17 @@
     "equipable": true,
     "equipment": {
       "slot": 1
+    }
+  },
+  "30371": {
+    "name": "Devil's element",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 20,
+      "prayer": 3,
+      "mdmg": 6.0
     }
   },
   "30384": {
@@ -91554,7 +91581,6 @@
   },
   "30843": {
     "name": "Aether rune",
-    "weight": 0.002,
     "ge_limit": 25000
   },
   "30846": {
@@ -94514,7 +94540,9 @@
     "weight": 0.06,
     "equipable": true,
     "equipment": {
-      "slot": 2
+      "slot": 2,
+      "amagic": -3,
+      "dmagic": -1
     }
   },
   "32399": {
@@ -94522,7 +94550,9 @@
     "weight": 0.06,
     "equipable": true,
     "equipment": {
-      "slot": 2
+      "slot": 2,
+      "amagic": -3,
+      "dmagic": -1
     }
   },
   "32401": {
@@ -100300,6 +100330,10 @@
       "slot": 5
     }
   },
+  "33233": {
+    "name": "Map of alacrity",
+    "weight": 0.01
+  },
   "33237": {
     "name": "Butler's bell",
     "weight": 0.028
@@ -100396,6 +100430,7 @@
       "slot": 3,
       "acrush": 60,
       "amagic": 25,
+      "dslash": 5,
       "dcrush": 5,
       "dmagic": 17,
       "str": 50,
@@ -100532,7 +100567,8 @@
     "weight": 1.814,
     "equipable": true,
     "equipment": {
-      "slot": 5
+      "slot": 3,
+      "aspeed": 4
     }
   },
   "33299": {
@@ -100540,7 +100576,8 @@
     "weight": 2.267,
     "equipable": true,
     "equipment": {
-      "slot": 3
+      "slot": 3,
+      "aspeed": 4
     }
   },
   "33302": {
@@ -100558,6 +100595,217 @@
   "33311": {
     "name": "Demonic trident ornament kit",
     "weight": 0.1
+  },
+  "33314": {
+    "name": "Trident of the swamp (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33316": {
+    "name": "Uncharged toxic trident (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33318": {
+    "name": "Trident of the swamp (e) (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33320": {
+    "name": "Uncharged toxic trident (e)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    },
+    "ge_limit": 8
+  },
+  "33322": {
+    "name": "Trident of the seas (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33323": {
+    "name": "Trident of the seas (full) (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33326": {
+    "name": "Trident of the seas (e) (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33328": {
+    "name": "Uncharged trident (e) (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33330": {
+    "name": "Iban's staff",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 10,
+      "aslash": -1,
+      "acrush": 40,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 50,
+      "aspeed": 5
+    }
+  },
+  "33332": {
+    "name": "Iban's staff (u) (o)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 10,
+      "aslash": -1,
+      "acrush": 40,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 50,
+      "aspeed": 5
+    }
+  },
+  "33333": {
+    "name": "Iban's staff (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 10,
+      "aslash": -1,
+      "acrush": 40,
+      "amagic": 10,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 10,
+      "str": 50,
+      "aspeed": 5
+    }
+  },
+  "33335": {
+    "name": "Soulreaper axe (o)",
+    "weight": 2.825,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 28,
+      "aslash": 134,
+      "acrush": 66,
+      "str": 121,
+      "aspeed": 5
+    }
+  },
+  "33338": {
+    "name": "Demonic slayer helmet",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
+  },
+  "33340": {
+    "name": "Demonic slayer helmet",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -6,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": -1,
+      "drange": 30
+    }
   },
   "33342": {
     "name": "Demonic quill",

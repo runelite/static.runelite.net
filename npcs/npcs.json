@@ -11567,6 +11567,10 @@
     "name": "Vampyre Juvenile",
     "hitpoints": 60
   },
+  "9734": {
+    "name": "Vampyre Juvenile",
+    "hitpoints": 60
+  },
   "9735": {
     "name": "Vyrewatch",
     "hitpoints": 90
@@ -11598,10 +11602,6 @@
   "9742": {
     "name": "Vyrewatch",
     "hitpoints": 90
-  },
-  "9744": {
-    "name": "Vampyre Juvenile",
-    "hitpoints": 60
   },
   "9756": {
     "name": "Vyrewatch Sentinel",
@@ -13296,6 +13296,42 @@
     "hitpoints": 75
   },
   "12729": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12730": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12731": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12732": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12733": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12734": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12736": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12755": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12757": {
+    "name": "Armoured zombie",
+    "hitpoints": 75
+  },
+  "12758": {
     "name": "Armoured zombie",
     "hitpoints": 75
   },
