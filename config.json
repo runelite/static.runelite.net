@@ -1,7 +1,4 @@
 {
-  "props": {
-    "runelite.pluginhub.url": "https://r2.runelite.net/plugins"
-  },
   "updateLauncherWinVers": [
     "2.4.4",
     "2.0.1",
