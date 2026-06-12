@@ -1722,6 +1722,22 @@
     "name": "Locating crystal",
     "weight": 0.907
   },
+  "612": {
+    "name": "Locating crystal",
+    "weight": 0.907
+  },
+  "613": {
+    "name": "Locating crystal",
+    "weight": 0.907
+  },
+  "614": {
+    "name": "Locating crystal",
+    "weight": 0.907
+  },
+  "615": {
+    "name": "Locating crystal",
+    "weight": 0.907
+  },
   "616": {
     "name": "Beads of the dead",
     "weight": 0.01,
@@ -2049,6 +2065,10 @@
   "677": {
     "name": "Panning tray",
     "weight": 0.085
+  },
+  "678": {
+    "name": "Panning tray",
+    "weight": 0.141
   },
   "679": {
     "name": "Panning tray",
@@ -3350,6 +3370,10 @@
       "rstr": 7
     }
   },
+  "943": {
+    "name": "Worm",
+    "weight": 0.003
+  },
   "945": {
     "name": "Throwing rope",
     "weight": 0.907
@@ -3432,6 +3456,10 @@
       "aspeed": 5
     },
     "ge_limit": 15
+  },
+  "977": {
+    "name": "Cooking pot",
+    "weight": 0.001
   },
   "981": {
     "name": "Disk of returning",
@@ -9486,6 +9514,10 @@
     "name": "Paste",
     "weight": 0.015
   },
+  "2425": {
+    "name": "Vorkath's head",
+    "weight": 10.0
+  },
   "2426": {
     "name": "Burnt oomlie",
     "weight": 0.113
@@ -11048,6 +11080,102 @@
   "2747": {
     "name": "Clue scroll (hard)",
     "weight": 0.02
+  },
+  "2749": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2750": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2751": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2752": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2753": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2754": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2755": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2756": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2757": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2758": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2759": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2760": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2761": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2762": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2763": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2764": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2765": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2766": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2767": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2768": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2769": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2770": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2771": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "2772": {
+    "name": "Sliding piece",
+    "weight": 0.001
   },
   "2773": {
     "name": "Clue scroll (hard)",
@@ -12951,14 +13079,26 @@
     "name": "Big book of bangs",
     "weight": 0.226
   },
+  "3231": {
+    "name": "Symbol",
+    "weight": 0.001
+  },
+  "3233": {
+    "name": "Symbol",
+    "weight": 0.001
+  },
+  "3235": {
+    "name": "Symbol",
+    "weight": 0.001
+  },
+  "3237": {
+    "name": "Symbol",
+    "weight": 0.001
+  },
   "3239": {
     "name": "Bark",
     "weight": 1.0,
     "ge_limit": 13000
-  },
-  "3256": {
-    "name": "Lava scale shard",
-    "ge_limit": 11000
   },
   "3261": {
     "name": "Goutweed",
@@ -14150,6 +14290,198 @@
     "name": "Clue scroll (medium)",
     "weight": 0.02
   },
+  "3619": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3620": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3621": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3622": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3623": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3624": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3625": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3626": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3627": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3628": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3629": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3630": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3631": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3632": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3633": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3634": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3635": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3636": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3637": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3638": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3639": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3640": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3641": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3642": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3643": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3644": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3645": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3646": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3647": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3648": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3649": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3650": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3651": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3652": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3653": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3654": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3655": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3656": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3657": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3658": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3659": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3660": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3661": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3662": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3663": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3664": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3665": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
+  "3666": {
+    "name": "Sliding piece",
+    "weight": 0.001
+  },
   "3667": {
     "name": "Boss helper tool",
     "weight": 1.814
@@ -14980,6 +15312,102 @@
     "equipment": {
       "slot": 2
     }
+  },
+  "3869": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3870": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3871": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3872": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3873": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3874": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3875": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3876": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3877": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3878": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3879": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3880": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3881": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3882": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3883": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3884": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3885": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3886": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3887": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3888": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3889": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3890": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3891": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "3892": {
+    "name": "Board game piece",
+    "weight": 2.0
   },
   "3893": {
     "name": "Stool",
@@ -15878,6 +16306,10 @@
     "equipment": {
       "slot": 12
     }
+  },
+  "4203": {
+    "name": "Journal",
+    "weight": 0.01
   },
   "4204": {
     "name": "Letter",
@@ -20396,6 +20828,10 @@
       "slot": 7
     },
     "ge_limit": 150
+  },
+  "5054": {
+    "name": "Dwarf",
+    "weight": 10.0
   },
   "5056": {
     "name": "Dwarven battleaxe",
@@ -26077,12 +26513,20 @@
     "name": "Yellow crystal",
     "weight": 0.015
   },
+  "6642": {
+    "name": "Green crystal",
+    "weight": 0.015
+  },
   "6643": {
     "name": "Cyan crystal",
     "weight": 0.015
   },
   "6644": {
     "name": "Blue crystal",
+    "weight": 0.015
+  },
+  "6645": {
+    "name": "Magenta crystal",
     "weight": 0.015
   },
   "6646": {
@@ -26786,6 +27230,10 @@
     "name": "Zombie champion scroll",
     "weight": 0.001
   },
+  "6808": {
+    "name": "Leon's champion scroll",
+    "weight": 0.001
+  },
   "6809": {
     "name": "Granite legs",
     "weight": 15.875,
@@ -27459,6 +27907,54 @@
   "7094": {
     "name": "Burnt mushroom",
     "weight": 0.5
+  },
+  "7096": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7097": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7098": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7099": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7100": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7101": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7102": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7103": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7104": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7105": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7106": {
+    "name": "Board game piece",
+    "weight": 2.0
+  },
+  "7107": {
+    "name": "Board game piece",
+    "weight": 2.0
   },
   "7108": {
     "name": "Gunpowder",
@@ -35103,6 +35599,10 @@
     "name": "Dossier",
     "weight": 0.003
   },
+  "9591": {
+    "name": "Broken cauldron",
+    "weight": 0.003
+  },
   "9592": {
     "name": "Magic glue",
     "weight": 2.5
@@ -36533,6 +37033,10 @@
   "9903": {
     "name": "Farming manual",
     "weight": 0.5
+  },
+  "9904": {
+    "name": "Sailing book",
+    "weight": 0.001
   },
   "9920": {
     "name": "Jack lantern mask",
@@ -39484,6 +39988,10 @@
     "name": "Queen help book",
     "weight": 0.02
   },
+  "10563": {
+    "name": "No eggs",
+    "weight": 0.02
+  },
   "10564": {
     "name": "Granite body",
     "weight": 22.679,
@@ -40192,6 +40700,22 @@
   "10944": {
     "name": "Reward token",
     "weight": 0.01
+  },
+  "10946": {
+    "name": "Pushup",
+    "weight": 0.001
+  },
+  "10947": {
+    "name": "Run",
+    "weight": 0.001
+  },
+  "10948": {
+    "name": "Situp",
+    "weight": 0.001
+  },
+  "10949": {
+    "name": "Starjump",
+    "weight": 0.001
   },
   "10952": {
     "name": "Slayer bell",
@@ -51072,6 +51596,10 @@
     "name": "Servery stew",
     "weight": 1.5
   },
+  "13419": {
+    "name": "Sulphurous fertiliser",
+    "weight": 3.05
+  },
   "13420": {
     "name": "Gricoller's fertiliser",
     "weight": 3.55
@@ -54970,6 +55498,294 @@
   "20282": {
     "name": "Puzzle box (master)",
     "weight": 0.1
+  },
+  "20283": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20284": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20285": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20286": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20287": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20288": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20289": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20290": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20291": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20292": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20293": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20294": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20295": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20296": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20297": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20298": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20299": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20300": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20301": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20302": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20303": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20304": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20305": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20306": {
+    "name": "Sliding piece (Zulrah)",
+    "weight": 0.001
+  },
+  "20307": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20308": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20309": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20310": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20311": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20312": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20313": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20314": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20315": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20316": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20317": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20318": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20319": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20320": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20321": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20322": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20323": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20324": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20325": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20326": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20327": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20328": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20329": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20330": {
+    "name": "Sliding piece (Cerberus)",
+    "weight": 0.001
+  },
+  "20331": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20332": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20333": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20334": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20335": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20336": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20337": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20338": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20339": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20340": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20341": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20342": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20343": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20344": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20345": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20346": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20347": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20348": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20349": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20350": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20351": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20352": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20353": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
+  },
+  "20354": {
+    "name": "Sliding piece (Gnome child)",
+    "weight": 0.001
   },
   "20355": {
     "name": "Light box",
@@ -61167,6 +61983,10 @@
     "name": "Oculus orb",
     "weight": 0.001
   },
+  "22366": {
+    "name": "Cyan crystal",
+    "weight": 0.001
+  },
   "22368": {
     "name": "Bryophyta's staff (uncharged)",
     "weight": 1.5,
@@ -62427,6 +63247,10 @@
   "22775": {
     "name": "Ancient letter",
     "weight": 0.003
+  },
+  "22778": {
+    "name": "Dark altar",
+    "weight": 0.001
   },
   "22780": {
     "name": "Wyrm bones",
@@ -64488,6 +65312,102 @@
     "name": "Puzzle box (master)",
     "weight": 0.1
   },
+  "23418": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23419": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23420": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23421": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23422": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23423": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23424": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23425": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23426": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23427": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23428": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23429": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23430": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23431": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23432": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23433": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23434": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23435": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23436": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23437": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23438": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23439": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23440": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
+  "23441": {
+    "name": "Sliding piece (Theatre of Blood)",
+    "weight": 0.001
+  },
   "23442": {
     "name": "Clue geode (beginner)",
     "weight": 1.0
@@ -65597,6 +66517,14 @@
   },
   "23781": {
     "name": "Magenta crystal",
+    "weight": 0.001
+  },
+  "23782": {
+    "name": "Black crystal",
+    "weight": 0.001
+  },
+  "23783": {
+    "name": "Green crystal",
     "weight": 0.001
   },
   "23784": {
@@ -68696,6 +69624,10 @@
     },
     "ge_limit": 8
   },
+  "24418": {
+    "name": "Gravestone",
+    "weight": 10.0
+  },
   "24419": {
     "name": "Inquisitor's great helm",
     "weight": 2.721,
@@ -68946,6 +69878,14 @@
       "slot": 1
     }
   },
+  "24523": {
+    "name": "Death's coffer",
+    "weight": 10.0
+  },
+  "24524": {
+    "name": "Gravestone",
+    "weight": 10.0
+  },
   "24525": {
     "name": "Cat ears",
     "weight": 0.09,
@@ -69032,6 +69972,10 @@
       "str": 89,
       "aspeed": 4
     }
+  },
+  "24554": {
+    "name": "Pyromancer set",
+    "weight": 4.0
   },
   "24555": {
     "name": "Tangleroot",
@@ -72192,7 +73136,8 @@
       "slot": 5,
       "amagic": 8,
       "dmagic": 8
-    }
+    },
+    "ge_limit": 15
   },
   "25578": {
     "name": "Soaked page",
@@ -72315,81 +73260,9 @@
       "aspeed": 4
     }
   },
-  "25617": {
-    "name": "Tea flask",
-    "weight": 0.1
-  },
-  "25618": {
-    "name": "Plain satchel",
-    "weight": 0.15,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25619": {
-    "name": "Green satchel",
-    "weight": 0.15,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25620": {
-    "name": "Red satchel",
-    "weight": 0.15,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25621": {
-    "name": "Black satchel",
-    "weight": 0.15,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25622": {
-    "name": "Gold satchel",
-    "weight": 0.15,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25623": {
-    "name": "Rune satchel",
-    "weight": 0.15,
-    "equipable": true,
-    "equipment": {
-      "slot": 5
-    }
-  },
-  "25624": {
-    "name": "Unsired",
-    "weight": 1.4
-  },
   "25625": {
     "name": "Barronite mace (broken)",
     "weight": 2.0
-  },
-  "25627": {
-    "name": "Open coal bag",
-    "weight": 10.0
-  },
-  "25628": {
-    "name": "Open gem bag",
-    "weight": 1.0
-  },
-  "25629": {
-    "name": "Plank sack",
-    "weight": 5.25
-  },
-  "25630": {
-    "name": "Flamtaer bag",
-    "weight": 6.0
   },
   "25631": {
     "name": "Steak sandwich",
@@ -72567,6 +73440,10 @@
   "25706": {
     "name": "Dusty note",
     "weight": 0.003
+  },
+  "25708": {
+    "name": "Board game piece",
+    "weight": 2.0
   },
   "25710": {
     "name": "Stool",
@@ -73645,6 +74522,10 @@
     "equipment": {
       "slot": 5
     }
+  },
+  "25956": {
+    "name": "Combat achievements",
+    "weight": 0.51
   },
   "25958": {
     "name": "Corrupted paddlefish",
@@ -83649,7 +84530,8 @@
       "acrush": 66,
       "str": 121,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 5
   },
   "28341": {
     "name": "Musca mushroom",
@@ -84493,10 +85375,6 @@
   "28554": {
     "name": "Mahjarrat 1 quest lamp",
     "weight": 0.1
-  },
-  "28561": {
-    "name": "Trinket of vengeance",
-    "weight": 1.0
   },
   "28564": {
     "name": "Trinket of fairies",
@@ -86350,7 +87228,8 @@
   },
   "29218": {
     "name": "Jaguar fur",
-    "weight": 3.0
+    "weight": 3.0,
+    "ge_limit": 10000
   },
   "29221": {
     "name": "Chinchompa tuft",
@@ -88942,14 +89821,6 @@
       "slot": 2
     }
   },
-  "29992": {
-    "name": "Alchemist's amulet",
-    "weight": 0.007,
-    "equipable": true,
-    "equipment": {
-      "slot": 2
-    }
-  },
   "29993": {
     "name": "Aldarium",
     "weight": 0.007,
@@ -89198,7 +90069,8 @@
       "slot": 5,
       "amagic": 8,
       "dmagic": 8
-    }
+    },
+    "ge_limit": 15
   },
   "30068": {
     "name": "Soiled page",
@@ -91512,10 +92384,6 @@
     "name": "Dossier",
     "weight": 1.0
   },
-  "30805": {
-    "name": "Dossier",
-    "weight": 1.0
-  },
   "30806": {
     "name": "Rite of vile transference",
     "weight": 0.015
@@ -91644,7 +92512,8 @@
       "aslash": -2,
       "acrush": 57,
       "amagic": 2,
-      "prayer": 3
+      "prayer": 3,
+      "aspeed": 4
     }
   },
   "30893": {
@@ -92618,7 +93487,8 @@
       "dcrush": -9,
       "str": 102,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 15
   },
   "31251": {
     "name": "Broken hasta",
@@ -92984,6 +93854,10 @@
     "equipment": {
       "slot": 1
     }
+  },
+  "31405": {
+    "name": "Red coral",
+    "weight": 0.05
   },
   "31406": {
     "name": "Dragon nails",
@@ -93470,7 +94344,8 @@
   },
   "31722": {
     "name": "Rubium splinters",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 30000
   },
   "31724": {
     "name": "Rubium geode",
@@ -94009,62 +94884,6 @@
     "name": "Dragon cannonball",
     "ge_limit": 11000
   },
-  "31918": {
-    "name": "Bronze chainshot cannonball",
-    "weight": 3.628
-  },
-  "31920": {
-    "name": "Iron chainshot cannonball",
-    "weight": 3.628
-  },
-  "31922": {
-    "name": "Steel chainshot cannonball",
-    "weight": 3.628
-  },
-  "31924": {
-    "name": "Mithril chainshot cannonball",
-    "weight": 2.721
-  },
-  "31926": {
-    "name": "Adamant chainshot cannonball",
-    "weight": 3.628
-  },
-  "31928": {
-    "name": "Rune chainshot cannonball",
-    "weight": 3.628
-  },
-  "31930": {
-    "name": "Dragon chainshot cannonball",
-    "weight": 3.628
-  },
-  "31932": {
-    "name": "Bronze incendiary cannonball",
-    "weight": 3.628
-  },
-  "31934": {
-    "name": "Iron incendiary cannonball",
-    "weight": 3.628
-  },
-  "31936": {
-    "name": "Steel incendiary cannonball",
-    "weight": 3.628
-  },
-  "31938": {
-    "name": "Mithril incendiary cannonball",
-    "weight": 2.721
-  },
-  "31940": {
-    "name": "Adamant incendiary cannonball",
-    "weight": 3.628
-  },
-  "31942": {
-    "name": "Rune incendiary cannonball",
-    "weight": 3.628
-  },
-  "31944": {
-    "name": "Dragon incendiary cannonball",
-    "weight": 3.628
-  },
   "31946": {
     "name": "Echo pearl",
     "weight": 1.0
@@ -94079,7 +94898,8 @@
   },
   "31954": {
     "name": "Narwhal horn",
-    "weight": 1.5
+    "weight": 1.5,
+    "ge_limit": 15
   },
   "31957": {
     "name": "Narwhal horn knife",
@@ -94295,7 +95115,8 @@
   },
   "32090": {
     "name": "Shark paint",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 5
   },
   "32093": {
     "name": "Inky paint",
@@ -94389,7 +95210,8 @@
   },
   "32336": {
     "name": "Halibut",
-    "weight": 0.65
+    "weight": 0.65,
+    "ge_limit": 10000
   },
   "32339": {
     "name": "Burnt halibut",
@@ -94443,43 +95265,53 @@
   },
   "32368": {
     "name": "Fish crate (giant krill)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32370": {
     "name": "Fish crate (giant krill)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32371": {
     "name": "Fish crate (haddock)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32373": {
     "name": "Fish crate (haddock)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32374": {
     "name": "Fish crate (yellowfin)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32376": {
     "name": "Fish crate (yellowfin)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32377": {
     "name": "Fish crate (halibut)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32379": {
     "name": "Fish crate (halibut)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32380": {
     "name": "Fish crate (bluefin)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32382": {
     "name": "Fish crate (bluefin)",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 250
   },
   "32383": {
     "name": "Fish crate (marlin)",
@@ -100639,7 +101471,7 @@
     }
   },
   "33320": {
-    "name": "Uncharged toxic trident (e)",
+    "name": "Uncharged toxic trident (e) (o)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -100650,8 +101482,7 @@
       "dcrush": 1,
       "dmagic": 15,
       "aspeed": 4
-    },
-    "ge_limit": 8
+    }
   },
   "33322": {
     "name": "Trident of the seas (o)",
@@ -100710,7 +101541,7 @@
     }
   },
   "33330": {
-    "name": "Iban's staff",
+    "name": "Iban's staff (o)",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -100778,8 +101609,8 @@
     }
   },
   "33338": {
-    "name": "Demonic slayer helmet",
-    "weight": 1.814,
+    "name": "Oathplate slayer helmet",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -100793,8 +101624,8 @@
     }
   },
   "33340": {
-    "name": "Demonic slayer helmet",
-    "weight": 1.814,
+    "name": "Radiant slayer helmet",
+    "weight": 2.267,
     "equipable": true,
     "equipment": {
       "slot": 0,
@@ -100886,7 +101717,7 @@
     }
   },
   "33359": {
-    "name": "Impish ritual kit",
+    "name": "Impish ritual scroll",
     "weight": 0.1
   },
   "33362": {
@@ -100900,5 +101731,165 @@
   "33368": {
     "name": "Demonic pacts demon butler scroll",
     "weight": 0.1
+  },
+  "33382": {
+    "name": "Immaculate mole skin",
+    "weight": 0.001
+  },
+  "33384": {
+    "name": "Gem pouch",
+    "weight": 1.0
+  },
+  "33386": {
+    "name": "Open gem pouch",
+    "weight": 1.0
+  },
+  "33387": {
+    "name": "Gem satchel",
+    "weight": 1.0
+  },
+  "33389": {
+    "name": "Open gem satchel",
+    "weight": 1.0
+  },
+  "33390": {
+    "name": "Gem tote",
+    "weight": 1.0
+  },
+  "33392": {
+    "name": "Open gem tote",
+    "weight": 1.0
+  },
+  "33393": {
+    "name": "Gem sack",
+    "weight": 1.0
+  },
+  "33395": {
+    "name": "Open gem sack",
+    "weight": 1.0
+  },
+  "33423": {
+    "name": "Bosun's workbench schematic",
+    "weight": 0.01
+  },
+  "33424": {
+    "name": "Mission totem",
+    "weight": 0.009
+  },
+  "33434": {
+    "name": "Uncharged trident (o)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 25,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "aspeed": 4
+    }
+  },
+  "33439": {
+    "name": "Oathplate slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33441": {
+    "name": "Oathplate slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33443": {
+    "name": "Oathplate slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33445": {
+    "name": "Radiant slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33447": {
+    "name": "Radiant slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33449": {
+    "name": "Radiant slayer helmet (i)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 3,
+      "arange": 3,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 27,
+      "dmagic": 10,
+      "drange": 30
+    }
+  },
+  "33451": {
+    "name": "Demonic pacts relic hunter (t1) armour set",
+    "weight": 0.05
+  },
+  "33454": {
+    "name": "Demonic pacts relic hunter (t2) armour set",
+    "weight": 0.05
+  },
+  "33457": {
+    "name": "Demonic pacts relic hunter (t3) armour set",
+    "weight": 0.05
   }
 }

@@ -427,10 +427,6 @@
     "name": "Jungle Wolf",
     "hitpoints": 69
   },
-  "239": {
-    "name": "King Black Dragon",
-    "hitpoints": 240
-  },
   "240": {
     "name": "Black demon",
     "hitpoints": 157
@@ -14243,6 +14239,10 @@
     "name": "Jonny the Beard",
     "hitpoints": 8
   },
+  "14146": {
+    "name": "Black dragon",
+    "hitpoints": 190
+  },
   "14147": {
     "name": "Eldric the Ice King",
     "hitpoints": 600
@@ -14559,10 +14559,6 @@
     "name": "Pirate",
     "hitpoints": 38
   },
-  "15025": {
-    "name": "Black Eye Bethel",
-    "hitpoints": 180
-  },
   "15034": {
     "name": "Giant lobster",
     "hitpoints": 100
@@ -14691,10 +14687,6 @@
     "name": "Dolphin",
     "hitpoints": 45
   },
-  "15237": {
-    "name": "Zemouregal",
-    "hitpoints": 2500
-  },
   "15430": {
     "name": "Praying mantis",
     "hitpoints": 18
@@ -14783,22 +14775,6 @@
     "name": "Magma strykewyrm",
     "hitpoints": 340
   },
-  "15550": {
-    "name": "Splatter",
-    "hitpoints": 2000
-  },
-  "15553": {
-    "name": "I DSCIM YOU",
-    "hitpoints": 1500
-  },
-  "15554": {
-    "name": "Sol Heredit",
-    "hitpoints": 1500
-  },
-  "15556": {
-    "name": "Pestilent Bloat",
-    "hitpoints": 2000
-  },
   "15557": {
     "name": "TzTok-Jad-Rek",
     "hitpoints": 200
@@ -14843,6 +14819,10 @@
     "name": "Veiled kraken",
     "hitpoints": 225
   },
+  "15610": {
+    "name": "Black dragon",
+    "hitpoints": 190
+  },
   "15626": {
     "name": "Brutus",
     "hitpoints": 58
@@ -14858,5 +14838,37 @@
   "15629": {
     "name": "Demonic Brutus",
     "hitpoints": 750
+  },
+  "15677": {
+    "name": "Oaky Doak",
+    "hitpoints": 100
+  },
+  "15678": {
+    "name": "Boatswain Bill Teak",
+    "hitpoints": 100
+  },
+  "15679": {
+    "name": "Mister U.",
+    "hitpoints": 100
+  },
+  "15680": {
+    "name": "Old Jack",
+    "hitpoints": 100
+  },
+  "15681": {
+    "name": "Mute Jack",
+    "hitpoints": 100
+  },
+  "15682": {
+    "name": "Bloody Jack",
+    "hitpoints": 100
+  },
+  "15683": {
+    "name": "Captain Ruban Acer",
+    "hitpoints": 150
+  },
+  "15684": {
+    "name": "Captain Jack",
+    "hitpoints": 150
   }
 }
