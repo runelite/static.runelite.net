@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.12.27.jar",
-                    "fromHash": "8a177fa52401527fe8666af30bb7f938e37315b4f97830aa3c2847cea7c2391f",
-                    "hash": "7c932f3a4f4caa60f187f138e5bcfe27698bac2ea26203307a9b51bf1dce1eba",
-                    "name": "client-1.12.28.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.12.27.jar-client-1.12.28.jar.apdiff.gz.jar",
-                    "size": 34210
+                    "from": "client-1.12.28.jar",
+                    "fromHash": "652900ee3038d35f50f259e81f1a42922bf1e0bfca9a045767c4f8ccc3561a3c",
+                    "hash": "8eeda93ccc1b704bd63d6eacee12d38679fa8e82184c5368f7c1405e539bcb79",
+                    "name": "client-1.12.29.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.12.28.jar-client-1.12.29.jar.apdiff.gz.jar",
+                    "size": 46945
                 }
             ],
-            "hash": "652900ee3038d35f50f259e81f1a42922bf1e0bfca9a045767c4f8ccc3561a3c",
-            "name": "client-1.12.28.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.12.28/client-1.12.28.jar",
-            "size": 5214548
+            "hash": "fd2f13f3035b1512dd7cbb5e4c9f9e3d741e48ad70a4a581c7db80de4f5cab7c",
+            "name": "client-1.12.29.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.12.29/client-1.12.29.jar",
+            "size": 5231689
         },
         {
             "hash": "afefa5239fb6e437f93cc41c54f3030cf7b1663397a6b34f1bbe3065114c9b66",
@@ -161,9 +161,9 @@
             "size": 238152
         },
         {
-            "hash": "ef12e08d96f4ff0b2c501608e6be579ee6e2044a56ece7d4de1467ffa933d43b",
-            "name": "injected-client-1.12.28.jar",
-            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.28/injected-client-1.12.28.jar",
+            "hash": "9f27c55f1d1793b8d755d0e6c5450248a88a1eebe1b7e276b386c89fe1a8763c",
+            "name": "injected-client-1.12.29.jar",
+            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.29/injected-client-1.12.29.jar",
             "size": 4152145
         },
         {
@@ -348,18 +348,18 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.12.27-runtime.jar",
-                    "fromHash": "e9034aae0c18f1a3b5a94ab178f9c559223df1fbeb0a32bd664f0d14d2055b12",
-                    "hash": "4fe24ea0100022c09f6a2081e60058e2457fc17a2a91b4f1e2121d580196d0a8",
-                    "name": "runelite-api-1.12.28-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.27-runtime.jar-runelite-api-1.12.28-runtime.jar.apdiff.gz.jar",
-                    "size": 1655
+                    "from": "runelite-api-1.12.28-runtime.jar",
+                    "fromHash": "f6fae1f9855ba7303b0c9e1e243696358bf0e4ff2e3c0c3d1f16403e2f5fcfb8",
+                    "hash": "edd4e31e5f9f83c7481a7f95a69fa6294db337d1a3636fa5058284393cdf18f1",
+                    "name": "runelite-api-1.12.29-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.28-runtime.jar-runelite-api-1.12.29-runtime.jar.apdiff.gz.jar",
+                    "size": 462
                 }
             ],
-            "hash": "f6fae1f9855ba7303b0c9e1e243696358bf0e4ff2e3c0c3d1f16403e2f5fcfb8",
-            "name": "runelite-api-1.12.28-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.28/runelite-api-1.12.28-runtime.jar",
-            "size": 272510
+            "hash": "1f07dcdfd1622863c77b9062c5a53dc879e7c9fffd1903c32beb4866690de6ff",
+            "name": "runelite-api-1.12.29-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.29/runelite-api-1.12.29-runtime.jar",
+            "size": 272511
         }
     ],
     "clientJvm17Arguments": [
@@ -437,5 +437,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.12.28"
+    "version": "1.12.29"
 }
