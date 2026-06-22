@@ -19,6 +19,5 @@
   "updateRollout": 1.0,
   "outdatedClientVersions": [
     "1.12.29"
-  ],
-  "compilerControl": [{"match":["ed::sd(Led;[B)V","ed::ck([B)V"],"c2":{"exclude":true}},{"match":["oq::ab(ILuu;I)V","jz::ae(IB)Z"],"c2":{"exclude":true}}]
+  ]
 }
