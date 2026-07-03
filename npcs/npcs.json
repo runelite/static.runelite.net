@@ -427,6 +427,10 @@
     "name": "Jungle Wolf",
     "hitpoints": 69
   },
+  "239": {
+    "name": "King Black Dragon",
+    "hitpoints": 240
+  },
   "240": {
     "name": "Black demon",
     "hitpoints": 157
@@ -1558,10 +1562,6 @@
   "763": {
     "name": "Giant Roc",
     "hitpoints": 250
-  },
-  "764": {
-    "name": "Shadow",
-    "hitpoints": 15
   },
   "773": {
     "name": "Skraeling",
@@ -11439,6 +11439,26 @@
     "name": "Infernal pyrelord",
     "hitpoints": 184
   },
+  "9466": {
+    "name": "Husk",
+    "hitpoints": 20
+  },
+  "9467": {
+    "name": "Husk",
+    "hitpoints": 20
+  },
+  "9468": {
+    "name": "Parasite",
+    "hitpoints": 55
+  },
+  "9469": {
+    "name": "Parasite",
+    "hitpoints": 55
+  },
+  "9470": {
+    "name": "Sleepwalker",
+    "hitpoints": 10
+  },
   "9483": {
     "name": "Giant rat",
     "hitpoints": 3
@@ -13871,6 +13891,10 @@
     "name": "Amoxliatl",
     "hitpoints": 520
   },
+  "13686": {
+    "name": "Amoxliatl",
+    "hitpoints": 400
+  },
   "13728": {
     "name": "Frost Nagua",
     "hitpoints": 120
@@ -14870,5 +14894,89 @@
   "15684": {
     "name": "Captain Jack",
     "hitpoints": 150
+  },
+  "15743": {
+    "name": "Ur-maggot larvae",
+    "hitpoints": 30
+  },
+  "15756": {
+    "name": "Sanguidae",
+    "hitpoints": 10
+  },
+  "15757": {
+    "name": "Dire bat",
+    "hitpoints": 90
+  },
+  "15759": {
+    "name": "Impaler deer",
+    "hitpoints": 50
+  },
+  "15760": {
+    "name": "Ancient feral vyre",
+    "hitpoints": 81
+  },
+  "15765": {
+    "name": "Venator",
+    "hitpoints": 345
+  },
+  "15766": {
+    "name": "Venator",
+    "hitpoints": 345
+  },
+  "15767": {
+    "name": "Venator",
+    "hitpoints": 345
+  },
+  "15768": {
+    "name": "Venator",
+    "hitpoints": 345
+  },
+  "15769": {
+    "name": "Venator",
+    "hitpoints": 345
+  },
+  "15770": {
+    "name": "Superior venator",
+    "hitpoints": 345
+  },
+  "16204": {
+    "name": "Lowerniel Drakan",
+    "hitpoints": 3000
+  },
+  "16212": {
+    "name": "Wyrd",
+    "hitpoints": 1100
+  },
+  "16223": {
+    "name": "Sanguidae",
+    "hitpoints": 10
+  },
+  "16224": {
+    "name": "Sanguidae",
+    "hitpoints": 10
+  },
+  "16225": {
+    "name": "Sanguidae",
+    "hitpoints": 10
+  },
+  "16226": {
+    "name": "Webbed-winged Crow",
+    "hitpoints": 50
+  },
+  "16229": {
+    "name": "Ancient feral vyre",
+    "hitpoints": 81
+  },
+  "16230": {
+    "name": "Ancient feral vyre",
+    "hitpoints": 81
+  },
+  "16231": {
+    "name": "Ancient feral vyre",
+    "hitpoints": 81
+  },
+  "16232": {
+    "name": "Ancient feral vyre",
+    "hitpoints": 81
   }
 }

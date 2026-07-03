@@ -35487,6 +35487,11 @@
     "name": "Unfinished batta",
     "weight": 0.25
   },
+  "9487": {
+    "name": "Wizard blizzard",
+    "weight": 0.45,
+    "ge_limit": 2000
+  },
   "9558": {
     "name": "Half made bowl",
     "weight": 0.275
@@ -53105,7 +53110,7 @@
   },
   "19621": {
     "name": "Fenkenstrain's castle teleport",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "19623": {
     "name": "West ardougne teleport",
@@ -65832,15 +65837,14 @@
     }
   },
   "23595": {
-    "name": "Berserker ring",
+    "name": "Berserker ring (i)",
     "weight": 0.004,
     "equipable": true,
     "equipment": {
       "slot": 12,
-      "dcrush": 4,
-      "str": 4
-    },
-    "ge_limit": 8
+      "dcrush": 8,
+      "str": 8
+    }
   },
   "23597": {
     "name": "Dragon defender",
@@ -75490,7 +75494,7 @@
     "ge_limit": 7
   },
   "26237": {
-    "name": "Zaryte bow (uncharged)",
+    "name": "Zaryte bow",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -78164,7 +78168,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 40
   },
   "26807": {
     "name": "Abyssal green dye",
@@ -86405,7 +86410,7 @@
     }
   },
   "28949": {
-    "name": "Dizana's quiver (uncharged) (l)",
+    "name": "Dizana's quiver (l) (uncharged)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -88960,7 +88965,7 @@
     "weight": 0.19
   },
   "29784": {
-    "name": "Araxyte venom sack",
+    "name": "Araxyte venom sac",
     "ge_limit": 11000
   },
   "29786": {
@@ -91104,17 +91109,6 @@
       "slot": 1
     }
   },
-  "30371": {
-    "name": "Devil's element",
-    "weight": 0.2,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "amagic": 20,
-      "prayer": 3,
-      "mdmg": 6.0
-    }
-  },
   "30384": {
     "name": "Crystal blessing",
     "weight": 0.453,
@@ -91767,7 +91761,8 @@
   },
   "30557": {
     "name": "Raging echoes curtains",
-    "weight": 1.0
+    "weight": 1.0,
+    "ge_limit": 5
   },
   "30560": {
     "name": "Raging echoes scrying pool scroll",
@@ -94159,7 +94154,8 @@
   },
   "31587": {
     "name": "Haemostatic poultice",
-    "weight": 0.03
+    "weight": 0.03,
+    "ge_limit": 2000
   },
   "31590": {
     "name": "Haemostatic dressing (4)",
@@ -94264,7 +94260,8 @@
   },
   "31662": {
     "name": "Elkhorn potion (unf)",
-    "weight": 0.056
+    "weight": 0.056,
+    "ge_limit": 10000
   },
   "31665": {
     "name": "Pillar potion (unf)",
@@ -95372,9 +95369,7 @@
     "weight": 0.06,
     "equipable": true,
     "equipment": {
-      "slot": 2,
-      "amagic": -3,
-      "dmagic": -1
+      "slot": 2
     }
   },
   "32399": {
@@ -95382,9 +95377,7 @@
     "weight": 0.06,
     "equipable": true,
     "equipment": {
-      "slot": 2,
-      "amagic": -3,
-      "dmagic": -1
+      "slot": 2
     }
   },
   "32401": {
@@ -96043,6 +96036,16 @@
   },
   "32487": {
     "name": "Crate of furs",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32488": {
+    "name": "Crate of glassmaking supplies",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -97540,6 +97543,16 @@
   },
   "32639": {
     "name": "Crate of gems",
+    "weight": 1.285,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aspeed": 4
+    }
+  },
+  "32640": {
+    "name": "Crate of gin",
     "weight": 1.285,
     "equipable": true,
     "equipment": {
@@ -99216,156 +99229,8 @@
       "aspeed": 4
     }
   },
-  "32809": {
-    "name": "Bull shark jaw",
-    "weight": 0.8
-  },
-  "32810": {
-    "name": "Hammerhead shark jaw",
-    "weight": 0.8
-  },
-  "32811": {
-    "name": "Tiger shark jaw",
-    "weight": 0.8
-  },
-  "32812": {
-    "name": "Great white shark jaw",
-    "weight": 0.8
-  },
-  "32813": {
-    "name": "Narwhal blubber",
-    "weight": 0.8
-  },
-  "32814": {
-    "name": "Orca blubber",
-    "weight": 0.8
-  },
-  "32815": {
-    "name": "Pygmy kraken tentacle",
-    "weight": 0.8
-  },
-  "32816": {
-    "name": "Spined kraken tentacle",
-    "weight": 0.8
-  },
-  "32817": {
-    "name": "Armoured kraken tentacle",
-    "weight": 0.8
-  },
-  "32818": {
-    "name": "Vampyre kraken tentacle",
-    "weight": 0.8
-  },
-  "32819": {
-    "name": "Eagle ray fin",
-    "weight": 0.8
-  },
-  "32820": {
-    "name": "Butterfly ray fin",
-    "weight": 0.8
-  },
-  "32821": {
-    "name": "Stingray fin",
-    "weight": 0.8
-  },
   "32822": {
     "name": "Manta ray fin",
-    "weight": 0.8
-  },
-  "32823": {
-    "name": "Tern feather",
-    "weight": 0.8
-  },
-  "32824": {
-    "name": "Osprey feather",
-    "weight": 0.8
-  },
-  "32825": {
-    "name": "Frigatebird feather",
-    "weight": 0.8
-  },
-  "32826": {
-    "name": "Albatross feather",
-    "weight": 0.8
-  },
-  "32827": {
-    "name": "Mogre mace",
-    "weight": 0.8
-  },
-  "32828": {
-    "name": "Bull shark liver",
-    "weight": 0.8
-  },
-  "32829": {
-    "name": "Hammerhead shark liver",
-    "weight": 0.8
-  },
-  "32830": {
-    "name": "Tiger shark liver",
-    "weight": 0.8
-  },
-  "32831": {
-    "name": "Great white shark liver",
-    "weight": 0.8
-  },
-  "32832": {
-    "name": "Narwhal tusk",
-    "weight": 0.8
-  },
-  "32833": {
-    "name": "Orca teeth",
-    "weight": 0.8
-  },
-  "32834": {
-    "name": "Pygmy kraken ink sac",
-    "weight": 0.8
-  },
-  "32835": {
-    "name": "Spined kraken ink sac",
-    "weight": 0.8
-  },
-  "32836": {
-    "name": "Armoured kraken ink sac",
-    "weight": 0.8
-  },
-  "32837": {
-    "name": "Vampyre kraken ink sac",
-    "weight": 0.8
-  },
-  "32838": {
-    "name": "Eagle ray skin",
-    "weight": 0.8
-  },
-  "32839": {
-    "name": "Butterfly ray skin",
-    "weight": 0.8
-  },
-  "32840": {
-    "name": "Stingray skin",
-    "weight": 0.8
-  },
-  "32841": {
-    "name": "Manta ray skin",
-    "weight": 0.8
-  },
-  "32842": {
-    "name": "Tern beak",
-    "weight": 0.8
-  },
-  "32843": {
-    "name": "Osprey beak",
-    "weight": 0.8
-  },
-  "32844": {
-    "name": "Frigatebird beak",
-    "weight": 0.8
-  },
-  "32845": {
-    "name": "Albatross beak",
-    "weight": 0.8
-  },
-  "32846": {
-    "name": "Mogre head",
     "weight": 0.8
   },
   "32847": {
@@ -100213,7 +100078,7 @@
     "weight": 0.1
   },
   "33010": {
-    "name": "Ruinous powers (Deadman Mode)",
+    "name": "Ruinous powers",
     "weight": 0.014
   },
   "33012": {
@@ -100697,14 +100562,6 @@
   "33143": {
     "name": "Ballistic attractor schematic",
     "weight": 0.01
-  },
-  "33144": {
-    "name": "Veiled kraken tentacle",
-    "weight": 0.8
-  },
-  "33145": {
-    "name": "Veiled kraken ink sac",
-    "weight": 0.8
   },
   "33146": {
     "name": "Scribbled notes",
@@ -101205,24 +101062,6 @@
       "aspeed": 4
     }
   },
-  "33247": {
-    "name": "V's helm",
-    "weight": 2.721,
-    "equipable": true,
-    "equipment": {
-      "slot": 0,
-      "amagic": 8,
-      "arange": 12,
-      "dstab": 40,
-      "dslash": 40,
-      "dcrush": 40,
-      "dmagic": 10,
-      "drange": 40,
-      "str": 8,
-      "rstr": 2,
-      "mdmg": 3.0
-    }
-  },
   "33249": {
     "name": "Fang of the hound",
     "weight": 0.666,
@@ -101399,7 +101238,7 @@
     "weight": 1.814,
     "equipable": true,
     "equipment": {
-      "slot": 3,
+      "slot": 5,
       "aspeed": 4
     }
   },
@@ -101891,5 +101730,835 @@
   "33457": {
     "name": "Demonic pacts relic hunter (t3) armour set",
     "weight": 0.05
+  },
+  "33460": {
+    "name": "Dragon crossbow",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 94,
+      "aspeed": 6
+    },
+    "ge_limit": 70
+  },
+  "33462": {
+    "name": "Oathplate helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "aslash": 10,
+      "amagic": -2,
+      "arange": -7,
+      "dstab": 50,
+      "dslash": 72,
+      "dcrush": 45,
+      "drange": 50,
+      "str": 6
+    }
+  },
+  "33500": {
+    "name": "Infernal cape (l) (broken)",
+    "weight": 1.814
+  },
+  "33502": {
+    "name": "Infernal cape (l) (mangled)",
+    "weight": 1.814
+  },
+  "33506": {
+    "name": "Dizana's quiver (l) (mangled)",
+    "weight": 0.453
+  },
+  "33524": {
+    "name": "Dizana's quiver (l) (broken)",
+    "weight": 0.453
+  },
+  "33534": {
+    "name": "Etched araxyte fang",
+    "weight": 0.001
+  },
+  "33537": {
+    "name": "Garlic cocktail",
+    "weight": 0.5
+  },
+  "33539": {
+    "name": "Bucket of bloodwood sap",
+    "weight": 2.5
+  },
+  "33541": {
+    "name": "Seeking arrow shaft",
+    "weight": 0.01
+  },
+  "33547": {
+    "name": "Seeking headless arrow",
+    "weight": 0.012
+  },
+  "33553": {
+    "name": "Seeking bronze arrow",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 7
+    }
+  },
+  "33559": {
+    "name": "Seeking iron arrow",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 10
+    }
+  },
+  "33565": {
+    "name": "Seeking steel arrow",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 16
+    }
+  },
+  "33571": {
+    "name": "Seeking mithril arrow",
+    "weight": 0.014,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 22
+    }
+  },
+  "33577": {
+    "name": "Seeking adamant arrow",
+    "weight": 0.018,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 31
+    }
+  },
+  "33583": {
+    "name": "Seeking rune arrow",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 49
+    }
+  },
+  "33589": {
+    "name": "Seeking amethyst arrow",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 55
+    }
+  },
+  "33595": {
+    "name": "Seeking dragon arrow",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 60
+    }
+  },
+  "33601": {
+    "name": "Seeking broad arrows",
+    "weight": 0.016,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "arange": 20,
+      "rstr": 28
+    }
+  },
+  "33607": {
+    "name": "Sap-treated logs",
+    "weight": 2.0
+  },
+  "33609": {
+    "name": "Sap-treated magic logs",
+    "weight": 2.0
+  },
+  "33611": {
+    "name": "Sap-treated yew logs",
+    "weight": 2.0
+  },
+  "33613": {
+    "name": "Sap-treated maple logs",
+    "weight": 2.0
+  },
+  "33615": {
+    "name": "Sap-treated willow logs",
+    "weight": 2.0
+  },
+  "33617": {
+    "name": "Sap-treated oak logs",
+    "weight": 2.0
+  },
+  "33619": {
+    "name": "Sap-treated redwood logs",
+    "weight": 2.0
+  },
+  "33621": {
+    "name": "Leechfin",
+    "weight": 0.7
+  },
+  "33625": {
+    "name": "Letvek",
+    "weight": 0.02
+  },
+  "33627": {
+    "name": "Dull ancient medal",
+    "weight": 0.005
+  },
+  "33628": {
+    "name": "Stymphike tartare",
+    "weight": 0.34
+  },
+  "33629": {
+    "name": "Rotten stymphike tartare",
+    "weight": 0.34
+  },
+  "33631": {
+    "name": "Crimson kisten",
+    "weight": 2.825,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "acrush": 80,
+      "str": 56,
+      "aspeed": 4
+    },
+    "ge_limit": 5
+  },
+  "33634": {
+    "name": "Elder venator fang",
+    "weight": 0.001
+  },
+  "33636": {
+    "name": "Etched elder venator fang",
+    "weight": 0.001
+  },
+  "33639": {
+    "name": "Necklace of rupture",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "arange": 20,
+      "rstr": 8,
+      "prayer": 3
+    }
+  },
+  "33642": {
+    "name": "Maggot marquess",
+    "weight": 15.0
+  },
+  "33644": {
+    "name": "Dummy stymphike feather",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 3
+    }
+  },
+  "33653": {
+    "name": "Stymphike carcass",
+    "weight": 0.34
+  },
+  "33657": {
+    "name": "Orikalkum gravel",
+    "weight": 0.907
+  },
+  "33659": {
+    "name": "Grapevine",
+    "weight": 0.25
+  },
+  "33677": {
+    "name": "Tarnished longsword",
+    "weight": 1.814
+  },
+  "33679": {
+    "name": "Tarnished spear",
+    "weight": 1.814
+  },
+  "33681": {
+    "name": "Tarnished 2h sword",
+    "weight": 1.814
+  },
+  "33683": {
+    "name": "Tarnished battleaxe",
+    "weight": 1.814
+  },
+  "33685": {
+    "name": "Tarnished halberd",
+    "weight": 1.814
+  },
+  "33687": {
+    "name": "Tarnished ring",
+    "weight": 0.01
+  },
+  "33689": {
+    "name": "Tarnished necklace{{sic}}",
+    "weight": 0.01
+  },
+  "33691": {
+    "name": "Tarnished necklace",
+    "weight": 0.01
+  },
+  "33693": {
+    "name": "Tarnished amulet",
+    "weight": 0.01
+  },
+  "33695": {
+    "name": "Venator heart",
+    "weight": 0.005
+  },
+  "33697": {
+    "name": "Dried out venator heart",
+    "weight": 0.005
+  },
+  "33701": {
+    "name": "Squire's journal",
+    "weight": 0.28
+  },
+  "33702": {
+    "name": "From Misthalin to Morytania",
+    "weight": 0.28
+  },
+  "33703": {
+    "name": "Sarl's journal",
+    "weight": 0.28
+  },
+  "33704": {
+    "name": "Scruffy notebook",
+    "weight": 0.28
+  },
+  "33705": {
+    "name": "Pious proceedings",
+    "weight": 0.28
+  },
+  "33706": {
+    "name": "The Life of Friar",
+    "weight": 0.28
+  },
+  "33707": {
+    "name": "Essiandar's notes",
+    "weight": 0.28
+  },
+  "33708": {
+    "name": "Ivandis' writings",
+    "weight": 0.28
+  },
+  "33709": {
+    "name": "Diamond sickle (b)",
+    "weight": 1.587,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1,
+      "str": 8,
+      "prayer": 5,
+      "aspeed": 5
+    }
+  },
+  "33711": {
+    "name": "Enchanted diamond sickle (b)",
+    "weight": 1.587,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "dslash": 1,
+      "dcrush": 1,
+      "dmagic": 1,
+      "drange": 1,
+      "str": 12,
+      "prayer": 5,
+      "aspeed": 5
+    }
+  },
+  "33713": {
+    "name": "Blisterwood sickle (e)",
+    "weight": 1.587,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 44,
+      "aslash": 56,
+      "dstab": 1,
+      "dslash": 2,
+      "dcrush": 2,
+      "dmagic": 2,
+      "drange": 2,
+      "str": 56,
+      "prayer": 5,
+      "aspeed": 5
+    }
+  },
+  "33715": {
+    "name": "Tome of experience",
+    "weight": 1.0
+  },
+  "33716": {
+    "name": "Blisterwood stake",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 16,
+      "rstr": 14,
+      "aspeed": 3
+    }
+  },
+  "33718": {
+    "name": "Hallowed flail",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 32,
+      "aslash": 68,
+      "amagic": 10,
+      "dslash": 2,
+      "dmagic": 10,
+      "str": 46,
+      "prayer": 6,
+      "aspeed": 4
+    }
+  },
+  "33722": {
+    "name": "Sunspear",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 100,
+      "aslash": 21,
+      "acrush": 60,
+      "dslash": 42,
+      "dcrush": 28,
+      "str": 70,
+      "prayer": 7,
+      "aspeed": 5
+    }
+  },
+  "33724": {
+    "name": "Full moon key",
+    "weight": 0.02
+  },
+  "33725": {
+    "name": "Half moon key",
+    "weight": 0.02
+  },
+  "33726": {
+    "name": "Crescent moon key",
+    "weight": 0.02
+  },
+  "33727": {
+    "name": "Gibbous moon key",
+    "weight": 0.02
+  },
+  "33728": {
+    "name": "New moon key",
+    "weight": 0.02
+  },
+  "33729": {
+    "name": "Gilded key",
+    "weight": 0.02
+  },
+  "33730": {
+    "name": "Solid key",
+    "weight": 0.02
+  },
+  "33734": {
+    "name": "Left crest half",
+    "weight": 0.04
+  },
+  "33735": {
+    "name": "Right crest half",
+    "weight": 0.04
+  },
+  "33736": {
+    "name": "Full crest",
+    "weight": 0.08
+  },
+  "33737": {
+    "name": "Ancient symbol",
+    "weight": 0.05
+  },
+  "33738": {
+    "name": "Ancient shield",
+    "weight": 0.2
+  },
+  "33739": {
+    "name": "Shield with symbol",
+    "weight": 0.25
+  },
+  "33740": {
+    "name": "Ornate knife",
+    "weight": 0.08
+  },
+  "33741": {
+    "name": "Ornate skull",
+    "weight": 0.08
+  },
+  "33742": {
+    "name": "Ornate hourglass",
+    "weight": 0.08
+  },
+  "33743": {
+    "name": "Explosive barrel",
+    "weight": 1.0
+  },
+  "33744": {
+    "name": "Small clock hand",
+    "weight": 0.02
+  },
+  "33745": {
+    "name": "Large clock hand",
+    "weight": 0.02
+  },
+  "33746": {
+    "name": "Poem scroll",
+    "weight": 0.01
+  },
+  "33747": {
+    "name": "Sink plug",
+    "weight": 0.02
+  },
+  "33748": {
+    "name": "Broken pipe",
+    "weight": 0.1
+  },
+  "33749": {
+    "name": "Sharp knife",
+    "weight": 0.08
+  },
+  "33750": {
+    "name": "Tongs",
+    "weight": 0.05
+  },
+  "33751": {
+    "name": "Syringe needle",
+    "weight": 0.02
+  },
+  "33752": {
+    "name": "Syringe barrel",
+    "weight": 0.02
+  },
+  "33753": {
+    "name": "Syringe plunger",
+    "weight": 0.02
+  },
+  "33754": {
+    "name": "Empty syringe",
+    "weight": 0.06
+  },
+  "33755": {
+    "name": "Full  syringe",
+    "weight": 0.07
+  },
+  "33756": {
+    "name": "Venator stomach",
+    "weight": 0.05
+  },
+  "33757": {
+    "name": "Sword",
+    "weight": 0.1
+  },
+  "33758": {
+    "name": "Spear",
+    "weight": 0.1
+  },
+  "33759": {
+    "name": "Battleaxe",
+    "weight": 0.1
+  },
+  "33760": {
+    "name": "Mace",
+    "weight": 0.1
+  },
+  "33761": {
+    "name": "Lockbox",
+    "weight": 0.2
+  },
+  "33762": {
+    "name": "Ancestral dagger",
+    "weight": 0.08
+  },
+  "33763": {
+    "name": "Grid note",
+    "weight": 0.01
+  },
+  "33764": {
+    "name": "Mysterious book",
+    "weight": 0.03
+  },
+  "33765": {
+    "name": "Fancy gem",
+    "weight": 0.05
+  },
+  "33766": {
+    "name": "Fancy gem",
+    "weight": 0.05
+  },
+  "33767": {
+    "name": "Gilded book",
+    "weight": 0.06
+  },
+  "33768": {
+    "name": "Vampyre book",
+    "weight": 0.06
+  },
+  "33769": {
+    "name": "Cloudy grey potion",
+    "weight": 0.02
+  },
+  "33770": {
+    "name": "Weightless black potion",
+    "weight": 0.02
+  },
+  "33771": {
+    "name": "Thick red potion",
+    "weight": 0.02
+  },
+  "33772": {
+    "name": "Cold bluish-white potion",
+    "weight": 0.02
+  },
+  "33773": {
+    "name": "Lab notes",
+    "weight": 0.003
+  },
+  "33774": {
+    "name": "Vial of water",
+    "weight": 0.02,
+    "ge_limit": 13000
+  },
+  "33775": {
+    "name": "Vial of blood",
+    "weight": 0.02,
+    "ge_limit": 13000
+  },
+  "33776": {
+    "name": "Pure essence",
+    "weight": 0.002,
+    "ge_limit": 30000
+  },
+  "33777": {
+    "name": "Daeyalt ore",
+    "weight": 2.0
+  },
+  "33778": {
+    "name": "Chemical vial",
+    "weight": 0.02
+  },
+  "33779": {
+    "name": "Old cog",
+    "weight": 1.0
+  },
+  "33780": {
+    "name": "Jovkai key",
+    "weight": 0.02
+  },
+  "33781": {
+    "name": "Loop half of key",
+    "weight": 0.02,
+    "ge_limit": 11000
+  },
+  "33782": {
+    "name": "Tooth half of key",
+    "weight": 0.02,
+    "ge_limit": 11000
+  },
+  "33783": {
+    "name": "Myrmel key",
+    "weight": 0.02
+  },
+  "33784": {
+    "name": "Shadum key",
+    "weight": 0.02
+  },
+  "33785": {
+    "name": "Vitur key",
+    "weight": 0.02
+  },
+  "33786": {
+    "name": "Trapdoor key",
+    "weight": 0.02
+  },
+  "33787": {
+    "name": "Bolt cutters",
+    "weight": 0.2
+  },
+  "33788": {
+    "name": "Crank wheel",
+    "weight": 0.1
+  },
+  "33789": {
+    "name": "Dusty book",
+    "weight": 0.28
+  },
+  "33790": {
+    "name": "Spine",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "arange": 16,
+      "rstr": 26,
+      "aspeed": 3
+    }
+  },
+  "33791": {
+    "name": "Dead blood serpent",
+    "weight": 0.3
+  },
+  "33792": {
+    "name": "Serpent rope",
+    "weight": 0.5
+  },
+  "33793": {
+    "name": "Tick",
+    "weight": 0.001
+  },
+  "33794": {
+    "name": "Tattered journal",
+    "weight": 1.814
+  },
+  "33795": {
+    "name": "Rotten diary",
+    "weight": 1.814
+  },
+  "33796": {
+    "name": "Amitire leaves",
+    "weight": 0.007
+  },
+  "33797": {
+    "name": "Amitire stew",
+    "weight": 1.5
+  },
+  "33798": {
+    "name": "Hallowed marks",
+    "weight": 0.03
+  },
+  "33800": {
+    "name": "Silvthrill ballista",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 125,
+      "rstr": 15,
+      "aspeed": 6
+    }
+  },
+  "33801": {
+    "name": "Silvthrill javelin",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 124
+    }
+  },
+  "33802": {
+    "name": "Mysterious jerky",
+    "weight": 0.04
+  },
+  "33803": {
+    "name": "Putrid sticky potion (4)",
+    "weight": 0.03
+  },
+  "33804": {
+    "name": "Putrid sticky potion (3)",
+    "weight": 0.025
+  },
+  "33805": {
+    "name": "Putrid sticky potion (2)",
+    "weight": 0.02
+  },
+  "33806": {
+    "name": "Putrid sticky potion (1)",
+    "weight": 0.015
+  },
+  "33807": {
+    "name": "Foul chunky potion (4)",
+    "weight": 0.03
+  },
+  "33808": {
+    "name": "Foul chunky potion (3)",
+    "weight": 0.025
+  },
+  "33809": {
+    "name": "Foul chunky potion (2)",
+    "weight": 0.02
+  },
+  "33810": {
+    "name": "Foul chunky potion (1)",
+    "weight": 0.015
+  },
+  "33811": {
+    "name": "Rancid slimy potion (4)",
+    "weight": 0.03
+  },
+  "33812": {
+    "name": "Rancid slimy potion (3)",
+    "weight": 0.025
+  },
+  "33813": {
+    "name": "Rancid slimy potion (2)",
+    "weight": 0.02
+  },
+  "33814": {
+    "name": "Rancid slimy potion (1)",
+    "weight": 0.015
+  },
+  "33815": {
+    "name": "Rank frothy potion (4)",
+    "weight": 0.03
+  },
+  "33816": {
+    "name": "Rank frothy potion (3)",
+    "weight": 0.025
+  },
+  "33817": {
+    "name": "Rank frothy potion (2)",
+    "weight": 0.02
+  },
+  "33818": {
+    "name": "Rank frothy potion (1)",
+    "weight": 0.015
+  },
+  "33819": {
+    "name": "Jar of congealed blood",
+    "weight": 0.1
+  },
+  "33820": {
+    "name": "Smelly kebab",
+    "weight": 0.04
+  },
+  "33821": {
+    "name": "Raw impaler meat",
+    "weight": 0.425
   }
 }
