@@ -9455,7 +9455,7 @@
       "dcrush": 1,
       "dmagic": 6,
       "str": 2,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "2416": {
@@ -9473,7 +9473,7 @@
       "dcrush": 1,
       "dmagic": 6,
       "str": 2,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "2417": {
@@ -9491,7 +9491,7 @@
       "dcrush": 1,
       "dmagic": 6,
       "str": 2,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "2418": {
@@ -23810,6 +23810,10 @@
     "name": "Leaves",
     "ge_limit": 13000
   },
+  "6026": {
+    "name": "Yew leaves",
+    "ge_limit": 7500
+  },
   "6032": {
     "name": "Compost",
     "weight": 3.0,
@@ -27515,7 +27519,8 @@
       "slot": 3,
       "amagic": 20,
       "dmagic": 20,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 10.0
     },
     "ge_limit": 70
   },
@@ -35486,11 +35491,6 @@
   "9486": {
     "name": "Unfinished batta",
     "weight": 0.25
-  },
-  "9487": {
-    "name": "Wizard blizzard",
-    "weight": 0.45,
-    "ge_limit": 2000
   },
   "9558": {
     "name": "Half made bowl",
@@ -50489,7 +50489,8 @@
       "dslash": 5,
       "dcrush": 5,
       "dmagic": 5,
-      "drange": 5
+      "drange": 5,
+      "rstr": 1
     },
     "ge_limit": 15
   },
@@ -58136,7 +58137,7 @@
     "equipment": {
       "slot": 12
     },
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "21143": {
     "name": "Dodgy necklace",
@@ -59799,7 +59800,7 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "amagic": -6,
+      "amagic": 2,
       "arange": -2,
       "dstab": 6,
       "dslash": 7,
@@ -61743,9 +61744,9 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 94,
+      "astab": 100,
       "aslash": 55,
-      "str": 89,
+      "str": 93,
       "aspeed": 4
     },
     "ge_limit": 8
@@ -67737,8 +67738,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -69621,8 +69622,8 @@
       "slot": 3,
       "astab": 52,
       "aslash": -4,
-      "acrush": 95,
-      "str": 89,
+      "acrush": 102,
+      "str": 96,
       "prayer": 2,
       "aspeed": 4
     },
@@ -69638,16 +69639,14 @@
     "equipable": true,
     "equipment": {
       "slot": 0,
-      "astab": -2,
-      "aslash": -2,
-      "acrush": 8,
+      "acrush": 10,
       "amagic": -5,
       "arange": -5,
       "dstab": 19,
       "dslash": 10,
       "dcrush": 21,
       "drange": 12,
-      "str": 4,
+      "str": 6,
       "prayer": 1
     },
     "ge_limit": 8
@@ -69658,9 +69657,7 @@
     "equipable": true,
     "equipment": {
       "slot": 4,
-      "astab": -3,
-      "aslash": -3,
-      "acrush": 12,
+      "acrush": 16,
       "amagic": -11,
       "arange": -10,
       "dstab": 67,
@@ -69678,8 +69675,6 @@
     "equipable": true,
     "equipment": {
       "slot": 7,
-      "astab": -3,
-      "aslash": -3,
       "acrush": 12,
       "amagic": -9,
       "arange": -5,
@@ -69972,8 +69967,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -73641,9 +73636,9 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "astab": 94,
+      "astab": 100,
       "aslash": 55,
-      "str": 89,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -74139,8 +74134,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -74151,8 +74146,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -74163,8 +74158,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -74175,8 +74170,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -74187,8 +74182,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -74199,8 +74194,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -74211,8 +74206,8 @@
     "equipment": {
       "slot": 3,
       "astab": 55,
-      "aslash": 94,
-      "str": 89,
+      "aslash": 100,
+      "str": 93,
       "aspeed": 4
     }
   },
@@ -81112,7 +81107,8 @@
       "arange": 90,
       "rstr": 25,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "27614": {
     "name": "Venator shard",
@@ -81143,7 +81139,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "27626": {
@@ -81163,7 +81159,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "27627": {
@@ -84279,7 +84275,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28262": {
@@ -84299,7 +84295,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28264": {
@@ -84319,7 +84315,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28266": {
@@ -84339,7 +84335,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28268": {
@@ -84533,7 +84529,7 @@
       "astab": 28,
       "aslash": 134,
       "acrush": 66,
-      "str": 121,
+      "str": 125,
       "aspeed": 5
     },
     "ge_limit": 5
@@ -85038,7 +85034,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28474": {
@@ -85058,7 +85054,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28475": {
@@ -85078,7 +85074,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28476": {
@@ -85098,7 +85094,7 @@
       "str": 60,
       "prayer": -1,
       "aspeed": 4,
-      "mdmg": 5.0
+      "mdmg": 10.0
     }
   },
   "28477": {
@@ -86328,6 +86324,10 @@
   "28929": {
     "name": "Sunfire rune",
     "ge_limit": 18000
+  },
+  "28931": {
+    "name": "Searing page",
+    "ge_limit": 11000
   },
   "28933": {
     "name": "Sunfire fanatic helm",
@@ -95234,7 +95234,8 @@
   },
   "32352": {
     "name": "Marlin",
-    "weight": 0.65
+    "weight": 0.65,
+    "ge_limit": 10000
   },
   "32355": {
     "name": "Burnt marlin",
@@ -99337,11 +99338,13 @@
   },
   "32889": {
     "name": "Lead bar",
-    "weight": 1.814
+    "weight": 1.814,
+    "ge_limit": 10000
   },
   "32892": {
     "name": "Cupronickel bar",
-    "weight": 1.814
+    "weight": 1.814,
+    "ge_limit": 10000
   },
   "32902": {
     "name": "Jatoba logs",
@@ -101143,7 +101146,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 4
   },
   "33263": {
     "name": "Demonic robe top (t1)",
@@ -101151,7 +101155,8 @@
     "equipable": true,
     "equipment": {
       "slot": 4
-    }
+    },
+    "ge_limit": 4
   },
   "33266": {
     "name": "Demonic robe bottom (t1)",
@@ -101159,7 +101164,8 @@
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 4
   },
   "33269": {
     "name": "Demonic boots (t1)",
@@ -101167,7 +101173,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 4
   },
   "33272": {
     "name": "Demonic hood (t2)",
@@ -101175,7 +101182,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 4
   },
   "33275": {
     "name": "Demonic robe top (t2)",
@@ -101183,7 +101191,8 @@
     "equipable": true,
     "equipment": {
       "slot": 4
-    }
+    },
+    "ge_limit": 4
   },
   "33278": {
     "name": "Demonic robe bottom (t2)",
@@ -101191,7 +101200,8 @@
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 4
   },
   "33281": {
     "name": "Demonic boots (t2)",
@@ -101199,7 +101209,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 4
   },
   "33284": {
     "name": "Demonic hood (t3)",
@@ -101207,7 +101218,8 @@
     "equipable": true,
     "equipment": {
       "slot": 0
-    }
+    },
+    "ge_limit": 4
   },
   "33287": {
     "name": "Demonic robe top (t3)",
@@ -101215,7 +101227,8 @@
     "equipable": true,
     "equipment": {
       "slot": 4
-    }
+    },
+    "ge_limit": 4
   },
   "33290": {
     "name": "Demonic robe bottom (t3)",
@@ -101223,7 +101236,8 @@
     "equipable": true,
     "equipment": {
       "slot": 7
-    }
+    },
+    "ge_limit": 4
   },
   "33293": {
     "name": "Demonic boots (t3)",
@@ -101231,7 +101245,8 @@
     "equipable": true,
     "equipment": {
       "slot": 10
-    }
+    },
+    "ge_limit": 4
   },
   "33296": {
     "name": "Demonic sceptre",
@@ -101443,7 +101458,7 @@
       "astab": 28,
       "aslash": 134,
       "acrush": 66,
-      "str": 121,
+      "str": 125,
       "aspeed": 5
     }
   },
@@ -101758,21 +101773,318 @@
       "str": 6
     }
   },
+  "33464": {
+    "name": "Void melee helm (l) (broken)",
+    "weight": 0.453
+  },
+  "33466": {
+    "name": "Void melee helm (l) (mangled)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "33468": {
+    "name": "Void mage helm (l) (broken)",
+    "weight": 0.453
+  },
+  "33470": {
+    "name": "Void mage helm (l) (mangled)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "33472": {
+    "name": "Void ranger helm (l) (broken)",
+    "weight": 0.453
+  },
+  "33474": {
+    "name": "Void ranger helm (l) (mangled)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 6,
+      "drange": 6
+    }
+  },
+  "33476": {
+    "name": "Void knight top (l) (broken)",
+    "weight": 6.803
+  },
+  "33478": {
+    "name": "Void knight top (l) (mangled)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45
+    }
+  },
+  "33480": {
+    "name": "Elite void top (l) (broken)",
+    "weight": 6.803
+  },
+  "33482": {
+    "name": "Elite void top (l) (mangled)",
+    "weight": 6.803,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "dstab": 45,
+      "dslash": 45,
+      "dcrush": 45,
+      "dmagic": 45,
+      "drange": 45,
+      "prayer": 3
+    }
+  },
+  "33484": {
+    "name": "Void knight robe (l) (broken)",
+    "weight": 8.164
+  },
+  "33486": {
+    "name": "Void knight robe (l) (mangled)",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30
+    }
+  },
+  "33488": {
+    "name": "Elite void robe (l) (broken)",
+    "weight": 8.164
+  },
+  "33490": {
+    "name": "Elite void robe (l) (mangled)",
+    "weight": 8.164,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "prayer": 3
+    }
+  },
+  "33492": {
+    "name": "Void knight gloves (l) (broken)",
+    "weight": 0.453
+  },
+  "33494": {
+    "name": "Void knight gloves (l) (mangled)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "dstab": 6,
+      "dslash": 6,
+      "dcrush": 6,
+      "dmagic": 4,
+      "drange": 6
+    }
+  },
+  "33496": {
+    "name": "Infernal max cape (l) (broken)",
+    "weight": 0.453
+  },
+  "33498": {
+    "name": "Infernal max cape (l) (mangled)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 1,
+      "arange": 1,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 12,
+      "drange": 12,
+      "str": 8,
+      "prayer": 2
+    }
+  },
   "33500": {
     "name": "Infernal cape (l) (broken)",
     "weight": 1.814
   },
   "33502": {
     "name": "Infernal cape (l) (mangled)",
-    "weight": 1.814
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "astab": 4,
+      "aslash": 4,
+      "acrush": 4,
+      "amagic": 1,
+      "arange": 1,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 12,
+      "drange": 12,
+      "str": 8,
+      "prayer": 2
+    }
   },
-  "33506": {
-    "name": "Dizana's quiver (l) (mangled)",
-    "weight": 0.453
+  "33504": {
+    "name": "Blood ancient sceptre (l) (broken)",
+    "weight": 2.267
+  },
+  "33508": {
+    "name": "Ice ancient sceptre (l) (broken)",
+    "weight": 2.267
+  },
+  "33510": {
+    "name": "Ice ancient sceptre (l) (mangled)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "prayer": -1,
+      "aspeed": 4,
+      "mdmg": 10.0
+    }
+  },
+  "33512": {
+    "name": "Smoke ancient sceptre (l) (broken)",
+    "weight": 2.267
+  },
+  "33514": {
+    "name": "Smoke ancient sceptre (l) (mangled)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "prayer": -1,
+      "aspeed": 4,
+      "mdmg": 10.0
+    }
+  },
+  "33516": {
+    "name": "Shadow ancient sceptre (l) (broken)",
+    "weight": 2.267
+  },
+  "33518": {
+    "name": "Shadow ancient sceptre (l) (mangled)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "prayer": -1,
+      "aspeed": 4,
+      "mdmg": 10.0
+    }
+  },
+  "33520": {
+    "name": "Fighter torso (l) (broken)",
+    "weight": 4.0
+  },
+  "33522": {
+    "name": "Fighter torso (l) (mangled)",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -40,
+      "dstab": 62,
+      "dslash": 85,
+      "dcrush": 62,
+      "dmagic": -10,
+      "drange": 67,
+      "str": 4
+    }
   },
   "33524": {
     "name": "Dizana's quiver (l) (broken)",
     "weight": 0.453
+  },
+  "33528": {
+    "name": "Blessed dizana's quiver (l) (broken)",
+    "weight": 0.453
+  },
+  "33530": {
+    "name": "Blessed dizana's quiver (l) (mangled)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 18,
+      "rstr": 3
+    }
+  },
+  "33532": {
+    "name": "Dizana's max cape (l) (broken)",
+    "weight": 0.453
+  },
+  "33533": {
+    "name": "Dizana's max cape (l) (mangled)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "arange": 18,
+      "rstr": 3
+    }
   },
   "33534": {
     "name": "Etched araxyte fang",
@@ -101784,19 +102096,10 @@
   },
   "33539": {
     "name": "Bucket of bloodwood sap",
-    "weight": 2.5
-  },
-  "33541": {
-    "name": "Seeking arrow shaft",
-    "weight": 0.01
-  },
-  "33547": {
-    "name": "Seeking headless arrow",
-    "weight": 0.012
+    "weight": 4.4
   },
   "33553": {
     "name": "Seeking bronze arrow",
-    "weight": 0.016,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101806,7 +102109,6 @@
   },
   "33559": {
     "name": "Seeking iron arrow",
-    "weight": 0.016,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101816,7 +102118,6 @@
   },
   "33565": {
     "name": "Seeking steel arrow",
-    "weight": 0.016,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101826,7 +102127,6 @@
   },
   "33571": {
     "name": "Seeking mithril arrow",
-    "weight": 0.014,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101836,7 +102136,6 @@
   },
   "33577": {
     "name": "Seeking adamant arrow",
-    "weight": 0.018,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101846,7 +102145,6 @@
   },
   "33583": {
     "name": "Seeking rune arrow",
-    "weight": 0.016,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101856,7 +102154,6 @@
   },
   "33589": {
     "name": "Seeking amethyst arrow",
-    "weight": 0.016,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101866,17 +102163,16 @@
   },
   "33595": {
     "name": "Seeking dragon arrow",
-    "weight": 0.016,
     "equipable": true,
     "equipment": {
       "slot": 13,
       "arange": 20,
       "rstr": 60
-    }
+    },
+    "ge_limit": 11000
   },
   "33601": {
     "name": "Seeking broad arrows",
-    "weight": 0.016,
     "equipable": true,
     "equipment": {
       "slot": 13,
@@ -101915,10 +102211,6 @@
   "33621": {
     "name": "Leechfin",
     "weight": 0.7
-  },
-  "33625": {
-    "name": "Letvek",
-    "weight": 0.02
   },
   "33627": {
     "name": "Dull ancient medal",
@@ -101962,7 +102254,8 @@
       "arange": 20,
       "rstr": 8,
       "prayer": 3
-    }
+    },
+    "ge_limit": 8
   },
   "33642": {
     "name": "Maggot marquess",
@@ -101984,10 +102277,6 @@
   "33657": {
     "name": "Orikalkum gravel",
     "weight": 0.907
-  },
-  "33659": {
-    "name": "Grapevine",
-    "weight": 0.25
   },
   "33677": {
     "name": "Tarnished longsword",
@@ -102014,7 +102303,7 @@
     "weight": 0.01
   },
   "33689": {
-    "name": "Tarnished necklace{{sic}}",
+    "name": "Tarnished bracelet",
     "weight": 0.01
   },
   "33691": {
@@ -102144,6 +102433,14 @@
       "aspeed": 4
     }
   },
+  "33720": {
+    "name": "Ivan strom",
+    "weight": 0.001
+  },
+  "33721": {
+    "name": "Veliaf hurtz",
+    "weight": 0.001
+  },
   "33722": {
     "name": "Sunspear",
     "weight": 3.0,
@@ -102188,6 +102485,18 @@
   "33730": {
     "name": "Solid key",
     "weight": 0.02
+  },
+  "33731": {
+    "name": "Drakan emblem",
+    "weight": 0.05
+  },
+  "33732": {
+    "name": "Drakan emblem",
+    "weight": 0.05
+  },
+  "33733": {
+    "name": "Drakan emblem",
+    "weight": 0.05
   },
   "33734": {
     "name": "Left crest half",
@@ -102274,7 +102583,7 @@
     "weight": 0.06
   },
   "33755": {
-    "name": "Full  syringe",
+    "name": "Full syringe",
     "weight": 0.07
   },
   "33756": {
@@ -102560,5 +102869,33 @@
   "33821": {
     "name": "Raw impaler meat",
     "weight": 0.425
+  },
+  "33827": {
+    "name": "Ancient sceptre (l) (broken)",
+    "weight": 2.267
+  },
+  "33829": {
+    "name": "Ancient sceptre (l) (mangled)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "prayer": -1,
+      "aspeed": 4,
+      "mdmg": 10.0
+    }
+  },
+  "33833": {
+    "name": "Letvek in a bucket",
+    "weight": 3.4
   }
 }

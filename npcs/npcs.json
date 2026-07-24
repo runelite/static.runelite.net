@@ -687,10 +687,6 @@
     "name": "Gargoyle",
     "hitpoints": 105
   },
-  "413": {
-    "name": "Gargoyle",
-    "hitpoints": 105
-  },
   "414": {
     "name": "Banshee",
     "hitpoints": 22
@@ -2562,10 +2558,6 @@
   "1541": {
     "name": "Skeleton thug",
     "hitpoints": 114
-  },
-  "1543": {
-    "name": "Gargoyle",
-    "hitpoints": 105
   },
   "1545": {
     "name": "Black knight",
@@ -11121,7 +11113,7 @@
   },
   "9026": {
     "name": "Crystalline Rat",
-    "hitpoints": 14
+    "hitpoints": 12
   },
   "9027": {
     "name": "Crystalline Spider",
@@ -11129,11 +11121,11 @@
   },
   "9028": {
     "name": "Crystalline Bat",
-    "hitpoints": 14
+    "hitpoints": 12
   },
   "9029": {
     "name": "Crystalline Unicorn",
-    "hitpoints": 44
+    "hitpoints": 38
   },
   "9030": {
     "name": "Crystalline Scorpion",
@@ -11141,7 +11133,7 @@
   },
   "9031": {
     "name": "Crystalline Wolf",
-    "hitpoints": 52
+    "hitpoints": 38
   },
   "9032": {
     "name": "Crystalline Bear",
@@ -11173,7 +11165,7 @@
   },
   "9040": {
     "name": "Corrupted Rat",
-    "hitpoints": 14
+    "hitpoints": 12
   },
   "9041": {
     "name": "Corrupted Spider",
@@ -11181,11 +11173,11 @@
   },
   "9042": {
     "name": "Corrupted Bat",
-    "hitpoints": 14
+    "hitpoints": 12
   },
   "9043": {
     "name": "Corrupted Unicorn",
-    "hitpoints": 44
+    "hitpoints": 38
   },
   "9044": {
     "name": "Corrupted Scorpion",
@@ -11193,7 +11185,7 @@
   },
   "9045": {
     "name": "Corrupted Wolf",
-    "hitpoints": 52
+    "hitpoints": 38
   },
   "9046": {
     "name": "Corrupted Bear",
@@ -14936,7 +14928,7 @@
     "hitpoints": 345
   },
   "15770": {
-    "name": "Superior venator",
+    "name": "Blood-starved venator",
     "hitpoints": 345
   },
   "16204": {
@@ -14978,5 +14970,9 @@
   "16232": {
     "name": "Ancient feral vyre",
     "hitpoints": 81
+  },
+  "16233": {
+    "name": "Maxilla beast",
+    "hitpoints": 200
   }
 }
