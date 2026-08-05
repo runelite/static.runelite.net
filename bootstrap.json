@@ -3,26 +3,34 @@
         {
             "diffs": [
                 {
+                    "from": "client-1.12.34.1.jar",
+                    "fromHash": "2845393f1de3eab15087f142bf7eb1a13e1a37ba2a8c4d2251829a297177acc1",
+                    "hash": "c87bd1688a0a691d2dc76e8d5dd9480f26e30f6a7d402ba407b7482d4b38f987",
+                    "name": "client-1.12.35.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.12.34.1.jar-client-1.12.35.jar.apdiff.gz.jar",
+                    "size": 14164
+                },
+                {
                     "from": "client-1.12.34.jar",
                     "fromHash": "7e62ab75d54275d064a3b7d51116152f9ba7bfa6059d2b8ba6cabc68299e74e3",
-                    "hash": "0e34c9494a511929613a4c03203a686560cdae1ff93d9356557e6872209ebbdb",
-                    "name": "client-1.12.34.1.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.12.34.jar-client-1.12.34.1.jar.apdiff.gz.jar",
-                    "size": 9593
+                    "hash": "9fddf23293921b16feeed03eb0bde29d38820b15260cbf9e44a88b59fe9ced70",
+                    "name": "client-1.12.35.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.12.34.jar-client-1.12.35.jar.apdiff.gz.jar",
+                    "size": 14229
                 },
                 {
                     "from": "client-1.12.33.jar",
                     "fromHash": "fc121d70dd2696eaddd7e6004d1028eb1d162b2aea7779c33c6f27baf2fd9920",
-                    "hash": "21600b0e11bfc86dbf4dab32d6c833ea5aaaf716a5daea73060bc555bf4cc7e9",
-                    "name": "client-1.12.34.1.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.12.33.jar-client-1.12.34.1.jar.apdiff.gz.jar",
-                    "size": 43256
+                    "hash": "4ff8983120d9ca4ad50ce3cea8bf1924ed5a81ce05ece79bf53999dddd0aad71",
+                    "name": "client-1.12.35.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.12.33.jar-client-1.12.35.jar.apdiff.gz.jar",
+                    "size": 47333
                 }
             ],
-            "hash": "2845393f1de3eab15087f142bf7eb1a13e1a37ba2a8c4d2251829a297177acc1",
-            "name": "client-1.12.34.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.12.34.1/client-1.12.34.1.jar",
-            "size": 5250602
+            "hash": "3bcf1c2f98c6c6f834355c27b14fa92cb739657fd7b9b0ce588f377cd722dd21",
+            "name": "client-1.12.35.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.12.35/client-1.12.35.jar",
+            "size": 5250591
         },
         {
             "hash": "afefa5239fb6e437f93cc41c54f3030cf7b1663397a6b34f1bbe3065114c9b66",
@@ -169,9 +177,9 @@
             "size": 238152
         },
         {
-            "hash": "006d8ed24b7ecff210a6314e6a8e7a490183d843215cb9a648f366efd6a1bf16",
-            "name": "injected-client-1.12.34.1.jar",
-            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.34.1/injected-client-1.12.34.1.jar",
+            "hash": "18715d37a0b51c995ffaa8ec8d89caffe1c2bfab5598d683f57c5a841213b412",
+            "name": "injected-client-1.12.35.jar",
+            "path": "https://repo.runelite.net/net/runelite/injected-client/1.12.35/injected-client-1.12.35.jar",
             "size": 4212204
         },
         {
@@ -356,25 +364,33 @@
         {
             "diffs": [
                 {
+                    "from": "runelite-api-1.12.34.1-runtime.jar",
+                    "fromHash": "82a47eff3fb06a71dbd0fcdb32711b4deeebef5ca40908a714be24e3c2b41391",
+                    "hash": "4c05bb8f4f90f5f0722da2ec743bf1c09babca234e1617df67baf8823271e587",
+                    "name": "runelite-api-1.12.35-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.34.1-runtime.jar-runelite-api-1.12.35-runtime.jar.apdiff.gz.jar",
+                    "size": 360
+                },
+                {
                     "from": "runelite-api-1.12.34-runtime.jar",
                     "fromHash": "82a47eff3fb06a71dbd0fcdb32711b4deeebef5ca40908a714be24e3c2b41391",
                     "hash": "4c05bb8f4f90f5f0722da2ec743bf1c09babca234e1617df67baf8823271e587",
-                    "name": "runelite-api-1.12.34.1-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.34-runtime.jar-runelite-api-1.12.34.1-runtime.jar.apdiff.gz.jar",
+                    "name": "runelite-api-1.12.35-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.34-runtime.jar-runelite-api-1.12.35-runtime.jar.apdiff.gz.jar",
                     "size": 360
                 },
                 {
                     "from": "runelite-api-1.12.33-runtime.jar",
                     "fromHash": "da5e9df7c02b60350f99da1af6f43e1e3381abfabe1642c1810302d1444f116f",
                     "hash": "0fcb612df93a747f0659aa1a2c60a4c6f8bf50e085ee7e14a5cd3b496c608cd7",
-                    "name": "runelite-api-1.12.34.1-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.33-runtime.jar-runelite-api-1.12.34.1-runtime.jar.apdiff.gz.jar",
+                    "name": "runelite-api-1.12.35-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.12.33-runtime.jar-runelite-api-1.12.35-runtime.jar.apdiff.gz.jar",
                     "size": 2643
                 }
             ],
             "hash": "82a47eff3fb06a71dbd0fcdb32711b4deeebef5ca40908a714be24e3c2b41391",
-            "name": "runelite-api-1.12.34.1-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.34.1/runelite-api-1.12.34.1-runtime.jar",
+            "name": "runelite-api-1.12.35-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.12.35/runelite-api-1.12.35-runtime.jar",
             "size": 272790
         }
     ],
@@ -453,5 +469,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.12.34.1"
+    "version": "1.12.35"
 }
