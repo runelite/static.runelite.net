@@ -14839,6 +14839,18 @@
     "name": "Black dragon",
     "hitpoints": 190
   },
+  "15612": {
+    "name": "Cerberus (Echo)",
+    "hitpoints": 1620
+  },
+  "15616": {
+    "name": "Kalphite Queen (Echo)",
+    "hitpoints": 561
+  },
+  "15617": {
+    "name": "Kalphite Queen (Echo)",
+    "hitpoints": 561
+  },
   "15626": {
     "name": "Brutus",
     "hitpoints": 58
@@ -14974,5 +14986,57 @@
   "16233": {
     "name": "Maxilla beast",
     "hitpoints": 200
+  },
+  "16271": {
+    "name": "Monk of Zamorak",
+    "hitpoints": 20
+  },
+  "16272": {
+    "name": "Monk of Zamorak",
+    "hitpoints": 10
+  },
+  "16273": {
+    "name": "Monk of Zamorak",
+    "hitpoints": 25
+  },
+  "16296": {
+    "name": "Wyrmling",
+    "hitpoints": 65
+  },
+  "16297": {
+    "name": "Wyrmling",
+    "hitpoints": 65
+  },
+  "16305": {
+    "name": "Mad Angel",
+    "hitpoints": 755
+  },
+  "16307": {
+    "name": "Mad Angel",
+    "hitpoints": 755
+  },
+  "16309": {
+    "name": "Mad Angel",
+    "hitpoints": 565
+  },
+  "16311": {
+    "name": "Mad Angel",
+    "hitpoints": 565
+  },
+  "16330": {
+    "name": "Mountain troll",
+    "hitpoints": 90
+  },
+  "16331": {
+    "name": "Mountain troll",
+    "hitpoints": 90
+  },
+  "16332": {
+    "name": "Mountain troll",
+    "hitpoints": 90
+  },
+  "16344": {
+    "name": "Vampyre Snail",
+    "hitpoints": 500
   }
 }

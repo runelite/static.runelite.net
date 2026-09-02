@@ -281,7 +281,7 @@
     "weight": 0.056
   },
   "84": {
-    "name": "Staff of armadyl",
+    "name": "Staff of Armadyl",
     "weight": 1.814
   },
   "85": {
@@ -289,7 +289,7 @@
     "weight": 0.01
   },
   "86": {
-    "name": "Pendant of lucien",
+    "name": "Pendant of Lucien",
     "weight": 0.01,
     "equipable": true,
     "equipment": {
@@ -715,7 +715,7 @@
     "ge_limit": 13000
   },
   "245": {
-    "name": "Wine of zamorak",
+    "name": "Wine of Zamorak",
     "weight": 0.085,
     "ge_limit": 11000
   },
@@ -894,7 +894,7 @@
     "weight": 0.028
   },
   "292": {
-    "name": "Book on baxtorian",
+    "name": "Book on Baxtorian",
     "weight": 0.51
   },
   "293": {
@@ -1629,11 +1629,11 @@
     "weight": 5.0
   },
   "587": {
-    "name": "Orb of protection",
+    "name": "Orb of Protection",
     "weight": 1.0
   },
   "588": {
-    "name": "Orbs of protection",
+    "name": "Orbs of Protection",
     "weight": 2.0
   },
   "589": {
@@ -1739,7 +1739,7 @@
     "weight": 0.907
   },
   "616": {
-    "name": "Beads of the dead",
+    "name": "Beads of the Dead",
     "weight": 0.01,
     "equipable": true,
     "equipment": {
@@ -3462,7 +3462,7 @@
     "weight": 0.001
   },
   "981": {
-    "name": "Disk of returning",
+    "name": "Disk of Returning",
     "weight": 0.453,
     "ge_limit": 50
   },
@@ -5975,7 +5975,7 @@
       "aslash": -4,
       "acrush": 18,
       "amagic": -4,
-      "str": 16,
+      "str": 18,
       "aspeed": 6
     },
     "ge_limit": 125
@@ -6886,7 +6886,7 @@
     "weight": 1.2
   },
   "1492": {
-    "name": "Doll of iban",
+    "name": "Doll of Iban",
     "weight": 0.3
   },
   "1493": {
@@ -6894,7 +6894,7 @@
     "weight": 0.226
   },
   "1494": {
-    "name": "History of iban",
+    "name": "History of Iban",
     "weight": 0.226
   },
   "1495": {
@@ -6917,15 +6917,15 @@
     "weight": 0.1
   },
   "1497": {
-    "name": "Amulet of othanian",
+    "name": "Amulet of Othanian",
     "weight": 0.01
   },
   "1498": {
-    "name": "Amulet of doomion",
+    "name": "Amulet of Doomion",
     "weight": 0.01
   },
   "1499": {
-    "name": "Amulet of holthion",
+    "name": "Amulet of Holthion",
     "weight": 0.01
   },
   "1500": {
@@ -15210,7 +15210,7 @@
     }
   },
   "3844": {
-    "name": "Book of balance",
+    "name": "Book of Balance",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -16300,7 +16300,7 @@
     "weight": 3.628
   },
   "4202": {
-    "name": "Ring of charos",
+    "name": "Ring of Charos",
     "weight": 0.005,
     "equipable": true,
     "equipment": {
@@ -16388,7 +16388,7 @@
     "weight": 0.907
   },
   "4248": {
-    "name": "Book of haricanto",
+    "name": "Book of Haricanto",
     "weight": 1.814
   },
   "4249": {
@@ -18822,7 +18822,7 @@
     "ge_limit": 70
   },
   "4829": {
-    "name": "Book of 'h.a.m'",
+    "name": "Book of 'H.A.M'",
     "weight": 1.0
   },
   "4830": {
@@ -23835,7 +23835,7 @@
     "ge_limit": 11000
   },
   "6040": {
-    "name": "Amulet of nature",
+    "name": "Amulet of Nature",
     "weight": 0.007,
     "equipable": true,
     "equipment": {
@@ -25695,7 +25695,7 @@
     "weight": 0.907
   },
   "6465": {
-    "name": "Ring of charos(a)",
+    "name": "Ring of Charos(a)",
     "weight": 0.005,
     "equipable": true,
     "equipment": {
@@ -27146,7 +27146,7 @@
     "weight": 0.001
   },
   "6786": {
-    "name": "Robe of elidinis",
+    "name": "Robe of Elidinis",
     "weight": 0.005,
     "equipable": true,
     "equipment": {
@@ -27154,7 +27154,7 @@
     }
   },
   "6787": {
-    "name": "Robe of elidinis",
+    "name": "Robe of Elidinis",
     "weight": 0.005,
     "equipable": true,
     "equipment": {
@@ -28153,7 +28153,7 @@
     "weight": 0.005
   },
   "7144": {
-    "name": "Book o' piracy",
+    "name": "Book o' Piracy",
     "weight": 0.001
   },
   "7145": {
@@ -29934,7 +29934,7 @@
     "weight": 0.005
   },
   "7542": {
-    "name": "Cake of guidance",
+    "name": "Cake of Guidance",
     "weight": 0.3
   },
   "7543": {
@@ -30124,7 +30124,7 @@
     "weight": 0.01
   },
   "7634": {
-    "name": "Histories of the hallowland",
+    "name": "Histories of the Hallowland",
     "weight": 0.51
   },
   "7635": {
@@ -30144,7 +30144,7 @@
     "weight": 0.001
   },
   "7639": {
-    "name": "Rod of ivandis (10)",
+    "name": "Rod of Ivandis (10)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30161,7 +30161,7 @@
     }
   },
   "7640": {
-    "name": "Rod of ivandis (9)",
+    "name": "Rod of Ivandis (9)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30178,7 +30178,7 @@
     }
   },
   "7641": {
-    "name": "Rod of ivandis (8)",
+    "name": "Rod of Ivandis (8)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30195,7 +30195,7 @@
     }
   },
   "7642": {
-    "name": "Rod of ivandis (7)",
+    "name": "Rod of Ivandis (7)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30212,7 +30212,7 @@
     }
   },
   "7643": {
-    "name": "Rod of ivandis (6)",
+    "name": "Rod of Ivandis (6)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30229,7 +30229,7 @@
     }
   },
   "7644": {
-    "name": "Rod of ivandis (5)",
+    "name": "Rod of Ivandis (5)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30246,7 +30246,7 @@
     }
   },
   "7645": {
-    "name": "Rod of ivandis (4)",
+    "name": "Rod of Ivandis (4)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30263,7 +30263,7 @@
     }
   },
   "7646": {
-    "name": "Rod of ivandis (3)",
+    "name": "Rod of Ivandis (3)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30280,7 +30280,7 @@
     }
   },
   "7647": {
-    "name": "Rod of ivandis (2)",
+    "name": "Rod of Ivandis (2)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30297,7 +30297,7 @@
     }
   },
   "7648": {
-    "name": "Rod of ivandis (1)",
+    "name": "Rod of Ivandis (1)",
     "weight": 0.001,
     "equipable": true,
     "equipment": {
@@ -30591,6 +30591,11 @@
     "name": "Beer",
     "weight": 0.55,
     "ge_limit": 2000
+  },
+  "7742": {
+    "name": "Beer glass",
+    "weight": 0.05,
+    "ge_limit": 10000
   },
   "7744": {
     "name": "Asgarnian ale",
@@ -36082,7 +36087,7 @@
     "ge_limit": 70
   },
   "9735": {
-    "name": "Desert goat horn",
+    "name": "Goat horn",
     "weight": 0.453,
     "ge_limit": 13000
   },
@@ -38600,7 +38605,7 @@
     "weight": 0.003
   },
   "10330": {
-    "name": "3rd age range top",
+    "name": "3rd Age range top",
     "weight": 4.0,
     "equipable": true,
     "equipment": {
@@ -38616,7 +38621,7 @@
     "ge_limit": 8
   },
   "10332": {
-    "name": "3rd age range legs",
+    "name": "3rd Age range legs",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -38632,7 +38637,7 @@
     "ge_limit": 8
   },
   "10334": {
-    "name": "3rd age range coif",
+    "name": "3rd Age range coif",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -38648,7 +38653,7 @@
     "ge_limit": 8
   },
   "10336": {
-    "name": "3rd age vambraces",
+    "name": "3rd Age vambraces",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -38663,7 +38668,7 @@
     "ge_limit": 8
   },
   "10338": {
-    "name": "3rd age robe top",
+    "name": "3rd Age robe top",
     "weight": 2.7,
     "equipable": true,
     "equipment": {
@@ -38675,7 +38680,7 @@
     "ge_limit": 8
   },
   "10340": {
-    "name": "3rd age robe",
+    "name": "3rd Age robe",
     "weight": 1.8,
     "equipable": true,
     "equipment": {
@@ -38687,7 +38692,7 @@
     "ge_limit": 8
   },
   "10342": {
-    "name": "3rd age mage hat",
+    "name": "3rd Age mage hat",
     "weight": 0.4,
     "equipable": true,
     "equipment": {
@@ -38699,7 +38704,7 @@
     "ge_limit": 8
   },
   "10344": {
-    "name": "3rd age amulet",
+    "name": "3rd Age amulet",
     "weight": 0.003,
     "equipable": true,
     "equipment": {
@@ -38710,7 +38715,7 @@
     "ge_limit": 8
   },
   "10346": {
-    "name": "3rd age platelegs",
+    "name": "3rd Age platelegs",
     "weight": 2.721,
     "equipable": true,
     "equipment": {
@@ -38726,7 +38731,7 @@
     "ge_limit": 8
   },
   "10348": {
-    "name": "3rd age platebody",
+    "name": "3rd Age platebody",
     "weight": 9.979,
     "equipable": true,
     "equipment": {
@@ -38741,7 +38746,7 @@
     "ge_limit": 8
   },
   "10350": {
-    "name": "3rd age full helmet",
+    "name": "3rd Age full helmet",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -38757,7 +38762,7 @@
     "ge_limit": 8
   },
   "10352": {
-    "name": "3rd age kiteshield",
+    "name": "3rd Age kiteshield",
     "weight": 2.721,
     "equipable": true,
     "equipment": {
@@ -40254,7 +40259,7 @@
     "ge_limit": 70
   },
   "10828": {
-    "name": "Helm of neitiznot",
+    "name": "Helm of Neitiznot",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -42930,7 +42935,7 @@
     "ge_limit": 2000
   },
   "11640": {
-    "name": "Book of knowledge",
+    "name": "Book of Knowledge",
     "weight": 1.0
   },
   "11656": {
@@ -43576,7 +43581,7 @@
     "ge_limit": 8
   },
   "11791": {
-    "name": "Staff of the dead",
+    "name": "Staff of the Dead",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -44308,7 +44313,7 @@
     "weight": 0.51
   },
   "11905": {
-    "name": "Trident of the seas (full)",
+    "name": "Trident of the Seas (full)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -44323,7 +44328,7 @@
     "ge_limit": 8
   },
   "11907": {
-    "name": "Trident of the seas",
+    "name": "Trident of the Seas",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -44350,10 +44355,6 @@
       "aspeed": 4
     },
     "ge_limit": 8
-  },
-  "11916": {
-    "name": "Slice of birthday cake",
-    "weight": 0.1
   },
   "11919": {
     "name": "Cow mask",
@@ -44718,7 +44719,7 @@
     "ge_limit": 11000
   },
   "11995": {
-    "name": "Pet chaos elemental",
+    "name": "Pet Chaos Elemental",
     "weight": 0.015
   },
   "11996": {
@@ -44796,7 +44797,7 @@
     }
   },
   "12007": {
-    "name": "Jar of dirt",
+    "name": "Jar of Dirt",
     "weight": 0.02,
     "ge_limit": 4
   },
@@ -46906,11 +46907,10 @@
       "amagic": 20,
       "dmagic": 20,
       "aspeed": 4
-    },
-    "ge_limit": 8
+    }
   },
   "12424": {
-    "name": "3rd age bow",
+    "name": "3rd Age bow",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -46922,7 +46922,7 @@
     "ge_limit": 8
   },
   "12426": {
-    "name": "3rd age longsword",
+    "name": "3rd Age longsword",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -46993,7 +46993,7 @@
     }
   },
   "12437": {
-    "name": "3rd age cloak",
+    "name": "3rd Age cloak",
     "weight": 0.005,
     "equipable": true,
     "equipment": {
@@ -47897,7 +47897,7 @@
     }
   },
   "12608": {
-    "name": "Book of war",
+    "name": "Book of War",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -47916,7 +47916,7 @@
     }
   },
   "12610": {
-    "name": "Book of law",
+    "name": "Book of Law",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -47935,7 +47935,7 @@
     }
   },
   "12612": {
-    "name": "Book of darkness",
+    "name": "Book of Darkness",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -48077,55 +48077,55 @@
     "ge_limit": 15000
   },
   "12643": {
-    "name": "Pet dagannoth supreme",
+    "name": "Pet Dagannoth Supreme",
     "weight": 0.015
   },
   "12644": {
-    "name": "Pet dagannoth prime",
+    "name": "Pet Dagannoth Prime",
     "weight": 0.015
   },
   "12645": {
-    "name": "Pet dagannoth rex",
+    "name": "Pet Dagannoth Rex",
     "weight": 0.015
   },
   "12646": {
-    "name": "Baby mole",
+    "name": "Baby Mole",
     "weight": 0.015
   },
   "12647": {
-    "name": "Kalphite princess",
+    "name": "Kalphite Princess",
     "weight": 0.015
   },
   "12648": {
-    "name": "Pet smoke devil",
+    "name": "Pet Smoke Devil",
     "weight": 0.015
   },
   "12649": {
-    "name": "Pet kree'arra",
+    "name": "Pet Kree'arra",
     "weight": 0.015
   },
   "12650": {
-    "name": "Pet general graardor",
+    "name": "Pet General Graardor",
     "weight": 0.015
   },
   "12651": {
-    "name": "Pet zilyana",
+    "name": "Pet Zilyana",
     "weight": 0.015
   },
   "12652": {
-    "name": "Pet k'ril tsutsaroth",
+    "name": "Pet K'ril Tsutsaroth",
     "weight": 0.015
   },
   "12653": {
-    "name": "Prince black dragon",
+    "name": "Prince Black Dragon",
     "weight": 0.015
   },
   "12654": {
-    "name": "Kalphite princess",
+    "name": "Kalphite Princess",
     "weight": 0.015
   },
   "12655": {
-    "name": "Pet kraken",
+    "name": "Pet Kraken",
     "weight": 0.015
   },
   "12658": {
@@ -48187,7 +48187,7 @@
     "ge_limit": 2000
   },
   "12703": {
-    "name": "Pet penance queen",
+    "name": "Pet Penance Queen",
     "weight": 0.015
   },
   "12727": {
@@ -48786,7 +48786,7 @@
     "ge_limit": 50
   },
   "12851": {
-    "name": "Amulet of the damned (full)",
+    "name": "Amulet of the Damned (full)",
     "weight": 0.1,
     "equipable": true,
     "equipment": {
@@ -48807,7 +48807,7 @@
     "ge_limit": 8
   },
   "12853": {
-    "name": "Amulet of the damned",
+    "name": "Amulet of the Damned",
     "weight": 0.1,
     "equipable": true,
     "equipment": {
@@ -48910,7 +48910,7 @@
     "ge_limit": 8
   },
   "12885": {
-    "name": "Jar of sand",
+    "name": "Jar of Sand",
     "weight": 0.02,
     "ge_limit": 5
   },
@@ -48995,7 +48995,7 @@
     }
   },
   "12899": {
-    "name": "Trident of the swamp",
+    "name": "Trident of the Swamp",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -49099,7 +49099,7 @@
     "ge_limit": 2000
   },
   "12921": {
-    "name": "Pet snakeling",
+    "name": "Pet Snakeling",
     "weight": 0.015
   },
   "12922": {
@@ -49176,7 +49176,7 @@
     "weight": 0.453
   },
   "12936": {
-    "name": "Jar of swamp",
+    "name": "Jar of Swamp",
     "weight": 0.02,
     "ge_limit": 4
   },
@@ -49185,11 +49185,11 @@
     "ge_limit": 10000
   },
   "12939": {
-    "name": "Pet snakeling",
+    "name": "Pet Snakeling",
     "weight": 0.015
   },
   "12940": {
-    "name": "Pet snakeling",
+    "name": "Pet Snakeling",
     "weight": 0.015
   },
   "12954": {
@@ -50185,22 +50185,22 @@
     "ge_limit": 5
   },
   "13153": {
-    "name": "Book of balance page set",
+    "name": "Book of Balance page set",
     "weight": 0.05,
     "ge_limit": 5
   },
   "13155": {
-    "name": "Book of war page set",
+    "name": "Book of War page set",
     "weight": 0.05,
     "ge_limit": 5
   },
   "13157": {
-    "name": "Book of law page set",
+    "name": "Book of Law page set",
     "weight": 0.05,
     "ge_limit": 5
   },
   "13159": {
-    "name": "Book of darkness page set",
+    "name": "Book of Darkness page set",
     "weight": 0.05,
     "ge_limit": 5
   },
@@ -50253,11 +50253,11 @@
     "weight": 0.015
   },
   "13179": {
-    "name": "Vet'ion jr.",
+    "name": "Vet'ion Jr.",
     "weight": 0.015
   },
   "13180": {
-    "name": "Vet'ion jr.",
+    "name": "Vet'ion Jr.",
     "weight": 0.015
   },
   "13181": {
@@ -50371,7 +50371,7 @@
     }
   },
   "13203": {
-    "name": "Mask of balance",
+    "name": "Mask of Balance",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -50434,7 +50434,7 @@
     }
   },
   "13225": {
-    "name": "Tzrek-jad",
+    "name": "TzRek-Jad",
     "weight": 0.015
   },
   "13226": {
@@ -50569,7 +50569,7 @@
     }
   },
   "13245": {
-    "name": "Jar of souls",
+    "name": "Jar of Souls",
     "weight": 0.02,
     "ge_limit": 4
   },
@@ -50707,10 +50707,6 @@
     },
     "ge_limit": 8
   },
-  "13273": {
-    "name": "Unsired",
-    "weight": 1.4
-  },
   "13274": {
     "name": "Bludgeon spine",
     "weight": 2.5
@@ -50724,7 +50720,7 @@
     "weight": 2.5
   },
   "13277": {
-    "name": "Jar of miasma",
+    "name": "Jar of Miasma",
     "weight": 0.04,
     "ge_limit": 4
   },
@@ -51894,7 +51890,7 @@
     "weight": 0.2
   },
   "13524": {
-    "name": "Rada's census",
+    "name": "Rada's Census",
     "weight": 0.51
   },
   "13525": {
@@ -51902,11 +51898,11 @@
     "weight": 0.51
   },
   "13526": {
-    "name": "Eathram & rada extract",
+    "name": "Eathram & Rada extract",
     "weight": 0.51
   },
   "13527": {
-    "name": "Killing of a king",
+    "name": "Killing of a King",
     "weight": 0.028
   },
   "13528": {
@@ -51914,39 +51910,39 @@
     "weight": 0.028
   },
   "13529": {
-    "name": "Wintertodt parable",
+    "name": "Wintertodt Parable",
     "weight": 0.51
   },
   "13530": {
-    "name": "Twill accord",
+    "name": "Twill Accord",
     "weight": 0.005
   },
   "13531": {
-    "name": "Byrne's coronation speech",
+    "name": "Byrne's Coronation Speech",
     "weight": 0.028
   },
   "13532": {
-    "name": "Ideology of darkness",
+    "name": "Ideology of Darkness",
     "weight": 0.51
   },
   "13533": {
-    "name": "Rada's journey",
+    "name": "Rada's Journey",
     "weight": 0.028
   },
   "13534": {
-    "name": "Transvergence theory",
+    "name": "Transvergence Theory",
     "weight": 0.51
   },
   "13535": {
-    "name": "Tristessa's tragedy",
+    "name": "Tristessa's Tragedy",
     "weight": 0.028
   },
   "13536": {
-    "name": "Treachery of royalty",
+    "name": "Treachery of Royalty",
     "weight": 0.51
   },
   "13537": {
-    "name": "Transportation incantations",
+    "name": "Transportation Incantations",
     "weight": 0.51
   },
   "13571": {
@@ -52846,7 +52842,7 @@
     "weight": 0.01
   },
   "19515": {
-    "name": "Book of spyology",
+    "name": "Book of Spyology",
     "weight": 0.51
   },
   "19517": {
@@ -53142,7 +53138,7 @@
     "weight": 0.42
   },
   "19637": {
-    "name": "Soul journey",
+    "name": "Soul Journey",
     "weight": 0.51
   },
   "19639": {
@@ -53301,7 +53297,7 @@
     "weight": 0.009
   },
   "19687": {
-    "name": "Helm of raedwald",
+    "name": "Helm of Raedwald",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -53382,7 +53378,7 @@
     }
   },
   "19701": {
-    "name": "Jar of darkness",
+    "name": "Jar of Darkness",
     "weight": 0.04,
     "ge_limit": 4
   },
@@ -54469,7 +54465,7 @@
     "ge_limit": 4
   },
   "20011": {
-    "name": "3rd age axe",
+    "name": "3rd Age axe",
     "weight": 1.36,
     "equipable": true,
     "equipment": {
@@ -54484,7 +54480,7 @@
     "ge_limit": 40
   },
   "20014": {
-    "name": "3rd age pickaxe",
+    "name": "3rd Age pickaxe",
     "weight": 2.4,
     "equipable": true,
     "equipment": {
@@ -56471,7 +56467,7 @@
     }
   },
   "20659": {
-    "name": "Giant squirrel",
+    "name": "Giant Squirrel",
     "weight": 0.015
   },
   "20661": {
@@ -56619,7 +56615,7 @@
     }
   },
   "20714": {
-    "name": "Tome of fire",
+    "name": "Tome of Fire",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -56629,7 +56625,7 @@
     }
   },
   "20716": {
-    "name": "Tome of fire (empty)",
+    "name": "Tome of Fire (empty)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -58581,7 +58577,7 @@
     "weight": 0.453
   },
   "21291": {
-    "name": "Jal-nib-rek",
+    "name": "Jal-Nib-Rek",
     "weight": 0.015
   },
   "21293": {
@@ -58908,7 +58904,19 @@
     "weight": 0.01,
     "equipable": true,
     "equipment": {
-      "slot": 2
+      "slot": 2,
+      "astab": 100,
+      "aslash": 100,
+      "acrush": 100,
+      "amagic": 100,
+      "arange": 100,
+      "dstab": 100,
+      "dslash": 100,
+      "dcrush": 100,
+      "dmagic": 100,
+      "drange": 100,
+      "str": 50,
+      "prayer": 50
     }
   },
   "21434": {
@@ -59547,7 +59555,7 @@
     "ge_limit": 8
   },
   "21745": {
-    "name": "Jar of stone",
+    "name": "Jar of Stone",
     "weight": 1.0,
     "ge_limit": 4
   },
@@ -59594,23 +59602,23 @@
     }
   },
   "21762": {
-    "name": "Lunch by the lancalliums",
+    "name": "Lunch by the Lancalliums",
     "weight": 0.01
   },
   "21764": {
-    "name": "The fisher's flute",
+    "name": "The Fisher's Flute",
     "weight": 0.01
   },
   "21766": {
-    "name": "History and hearsay",
+    "name": "History and Hearsay",
     "weight": 0.01
   },
   "21768": {
-    "name": "Jewellery of jubilation",
+    "name": "Jewellery of Jubilation",
     "weight": 0.01
   },
   "21770": {
-    "name": "A dark disposition",
+    "name": "A Dark Disposition",
     "weight": 0.01
   },
   "21772": {
@@ -59622,7 +59630,7 @@
     "weight": 0.003
   },
   "21776": {
-    "name": "Imbued saradomin max cape",
+    "name": "Imbued Saradomin max cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59636,7 +59644,7 @@
     }
   },
   "21778": {
-    "name": "Imbued saradomin max hood",
+    "name": "Imbued Saradomin max hood",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59644,7 +59652,7 @@
     }
   },
   "21780": {
-    "name": "Imbued zamorak max cape",
+    "name": "Imbued Zamorak max cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59658,7 +59666,7 @@
     }
   },
   "21782": {
-    "name": "Imbued zamorak max hood",
+    "name": "Imbued Zamorak max hood",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59666,7 +59674,7 @@
     }
   },
   "21784": {
-    "name": "Imbued guthix max cape",
+    "name": "Imbued Guthix max cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59680,7 +59688,7 @@
     }
   },
   "21786": {
-    "name": "Imbued guthix max hood",
+    "name": "Imbued Guthix max hood",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59688,7 +59696,7 @@
     }
   },
   "21791": {
-    "name": "Imbued saradomin cape",
+    "name": "Imbued Saradomin cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59702,7 +59710,7 @@
     }
   },
   "21793": {
-    "name": "Imbued guthix cape",
+    "name": "Imbued Guthix cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -59716,7 +59724,7 @@
     }
   },
   "21795": {
-    "name": "Imbued zamorak cape",
+    "name": "Imbued Zamorak cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -60585,7 +60593,7 @@
     "ge_limit": 50
   },
   "22106": {
-    "name": "Jar of decay",
+    "name": "Jar of Decay",
     "weight": 0.04,
     "ge_limit": 4
   },
@@ -61537,7 +61545,7 @@
     "weight": 0.01
   },
   "22288": {
-    "name": "Trident of the seas (e)",
+    "name": "Trident of the Seas (e)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -61566,7 +61574,7 @@
     "ge_limit": 8
   },
   "22292": {
-    "name": "Trident of the swamp (e)",
+    "name": "Trident of the Swamp (e)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -61595,7 +61603,7 @@
     "ge_limit": 8
   },
   "22296": {
-    "name": "Staff of light",
+    "name": "Staff of Light",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -61689,11 +61697,11 @@
     }
   },
   "22318": {
-    "name": "Pet corporeal critter",
+    "name": "Pet Corporeal Critter",
     "weight": 0.015
   },
   "22319": {
-    "name": "Tzrek-zuk",
+    "name": "TzRek-Zuk",
     "weight": 0.015
   },
   "22320": {
@@ -61752,7 +61760,7 @@
     "ge_limit": 8
   },
   "22325": {
-    "name": "Scythe of vitur",
+    "name": "Scythe of Vitur",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -62048,7 +62056,7 @@
     "weight": 0.015
   },
   "22382": {
-    "name": "Vasa minirio",
+    "name": "Vasa Minirio",
     "weight": 0.015
   },
   "22384": {
@@ -62177,11 +62185,11 @@
     "weight": 1.0
   },
   "22416": {
-    "name": "The turncloak",
+    "name": "The Turncloak",
     "weight": 0.51
   },
   "22418": {
-    "name": "Explosive discovery",
+    "name": "Explosive Discovery",
     "weight": 0.51
   },
   "22420": {
@@ -62189,11 +62197,11 @@
     "weight": 0.51
   },
   "22422": {
-    "name": "Elixir of everlasting",
+    "name": "Elixir of Everlasting",
     "weight": 0.028
   },
   "22424": {
-    "name": "Buried alive",
+    "name": "Buried Alive",
     "weight": 0.028
   },
   "22426": {
@@ -62303,7 +62311,7 @@
     "ge_limit": 2000
   },
   "22473": {
-    "name": "Lil' zik",
+    "name": "Lil' Zik",
     "weight": 0.015
   },
   "22475": {
@@ -62332,7 +62340,7 @@
     "ge_limit": 8
   },
   "22486": {
-    "name": "Scythe of vitur (uncharged)",
+    "name": "Scythe of Vitur (uncharged)",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -62394,23 +62402,23 @@
     "weight": 0.51
   },
   "22506": {
-    "name": "The butcher",
+    "name": "The Butcher",
     "weight": 0.51
   },
   "22508": {
-    "name": "Arachnids of vampyrium",
+    "name": "Arachnids of Vampyrium",
     "weight": 0.51
   },
   "22510": {
-    "name": "The shadow realm",
+    "name": "The Shadow Realm",
     "weight": 0.51
   },
   "22512": {
-    "name": "The wild hunt",
+    "name": "The Wild Hunt",
     "weight": 0.51
   },
   "22514": {
-    "name": "Verzik vitur - patient record",
+    "name": "Verzik Vitur - Patient Record",
     "weight": 0.51
   },
   "22516": {
@@ -62877,11 +62885,11 @@
     "weight": 0.453
   },
   "22663": {
-    "name": "Pet smoke devil",
+    "name": "Pet Smoke Devil",
     "weight": 0.015
   },
   "22664": {
-    "name": "Scythe of vitur",
+    "name": "Scythe of Vitur",
     "weight": 3.175,
     "equipable": true,
     "equipment": {}
@@ -63167,19 +63175,19 @@
     }
   },
   "22746": {
-    "name": "Ikkle hydra",
+    "name": "Ikkle Hydra",
     "weight": 0.015
   },
   "22748": {
-    "name": "Ikkle hydra",
+    "name": "Ikkle Hydra",
     "weight": 0.015
   },
   "22750": {
-    "name": "Ikkle hydra",
+    "name": "Ikkle Hydra",
     "weight": 0.015
   },
   "22752": {
-    "name": "Ikkle hydra",
+    "name": "Ikkle Hydra",
     "weight": 0.015
   },
   "22754": {
@@ -63562,7 +63570,7 @@
     "ge_limit": 10000
   },
   "22951": {
-    "name": "Boots of brimstone",
+    "name": "Boots of Brimstone",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -63866,7 +63874,7 @@
     "weight": 1.6
   },
   "23064": {
-    "name": "Jar of chemicals",
+    "name": "Jar of Chemicals",
     "weight": 0.04,
     "ge_limit": 4
   },
@@ -64280,7 +64288,7 @@
     "weight": 5.0
   },
   "23185": {
-    "name": "Ring of 3rd age",
+    "name": "Ring of 3rd Age",
     "weight": 0.005,
     "equipable": true,
     "equipment": {
@@ -64579,7 +64587,7 @@
     }
   },
   "23242": {
-    "name": "3rd age plateskirt",
+    "name": "3rd Age plateskirt",
     "weight": 2.721,
     "equipable": true,
     "equipment": {
@@ -64882,17 +64890,17 @@
     "ge_limit": 4
   },
   "23321": {
-    "name": "Rune scimitar ornament kit (guthix)",
+    "name": "Rune scimitar ornament kit (Guthix)",
     "weight": 0.5,
     "ge_limit": 4
   },
   "23324": {
-    "name": "Rune scimitar ornament kit (saradomin)",
+    "name": "Rune scimitar ornament kit (Saradomin)",
     "weight": 0.5,
     "ge_limit": 4
   },
   "23327": {
-    "name": "Rune scimitar ornament kit (zamorak)",
+    "name": "Rune scimitar ornament kit (Zamorak)",
     "weight": 0.5,
     "ge_limit": 4
   },
@@ -64942,7 +64950,7 @@
     "ge_limit": 70
   },
   "23336": {
-    "name": "3rd age druidic robe top",
+    "name": "3rd Age druidic robe top",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -64952,7 +64960,7 @@
     "ge_limit": 4
   },
   "23339": {
-    "name": "3rd age druidic robe bottoms",
+    "name": "3rd Age druidic robe bottoms",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -64962,7 +64970,7 @@
     "ge_limit": 4
   },
   "23342": {
-    "name": "3rd age druidic staff",
+    "name": "3rd Age druidic staff",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -64982,7 +64990,7 @@
     "ge_limit": 8
   },
   "23345": {
-    "name": "3rd age druidic cloak",
+    "name": "3rd Age druidic cloak",
     "weight": 0.4,
     "equipable": true,
     "equipment": {
@@ -65060,7 +65068,7 @@
     "ge_limit": 100
   },
   "23363": {
-    "name": "Staff of bob the cat",
+    "name": "Staff of Bob the Cat",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -65644,15 +65652,15 @@
     "weight": 0.001
   },
   "23504": {
-    "name": "Tome of the moon",
+    "name": "Tome of the Moon",
     "weight": 1.0
   },
   "23506": {
-    "name": "Tome of the sun",
+    "name": "Tome of the Sun",
     "weight": 1.0
   },
   "23508": {
-    "name": "Tome of the temple",
+    "name": "Tome of the Temple",
     "weight": 1.0
   },
   "23516": {
@@ -65669,7 +65677,7 @@
     "weight": 3.0
   },
   "23522": {
-    "name": "Mask of ranul",
+    "name": "Mask of Ranul",
     "weight": 0.35,
     "equipable": true,
     "equipment": {
@@ -65680,7 +65688,7 @@
     "ge_limit": 70
   },
   "23525": {
-    "name": "Jar of eyes",
+    "name": "Jar of Eyes",
     "weight": 0.02,
     "ge_limit": 4
   },
@@ -65803,7 +65811,7 @@
     "ge_limit": 2000
   },
   "23591": {
-    "name": "Helm of neitiznot",
+    "name": "Helm of Neitiznot",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -65893,7 +65901,7 @@
     "ge_limit": 70
   },
   "23603": {
-    "name": "Imbued guthix cape",
+    "name": "Imbued Guthix cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -65907,7 +65915,7 @@
     }
   },
   "23605": {
-    "name": "Imbued zamorak cape",
+    "name": "Imbued Zamorak cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -65921,7 +65929,7 @@
     }
   },
   "23607": {
-    "name": "Imbued saradomin cape",
+    "name": "Imbued Saradomin cape",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -65947,7 +65955,7 @@
     "ge_limit": 8
   },
   "23613": {
-    "name": "Staff of the dead",
+    "name": "Staff of the Dead",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -66455,7 +66463,7 @@
     "weight": 0.015
   },
   "23759": {
-    "name": "Corrupted youngllef",
+    "name": "Corrupted Youngllef",
     "weight": 0.015
   },
   "23760": {
@@ -67513,35 +67521,35 @@
     }
   },
   "23927": {
-    "name": "Crystal of ithell",
+    "name": "Crystal of Ithell",
     "weight": 0.453
   },
   "23929": {
-    "name": "Crystal of iorwerth",
+    "name": "Crystal of Iorwerth",
     "weight": 0.453
   },
   "23931": {
-    "name": "Crystal of trahaearn",
+    "name": "Crystal of Trahaearn",
     "weight": 0.453
   },
   "23933": {
-    "name": "Crystal of cadarn",
+    "name": "Crystal of Cadarn",
     "weight": 0.453
   },
   "23935": {
-    "name": "Crystal of crwys",
+    "name": "Crystal of Crwys",
     "weight": 0.453
   },
   "23937": {
-    "name": "Crystal of meilyr",
+    "name": "Crystal of Meilyr",
     "weight": 0.453
   },
   "23939": {
-    "name": "Crystal of hefin",
+    "name": "Crystal of Hefin",
     "weight": 0.453
   },
   "23941": {
-    "name": "Crystal of amlodd",
+    "name": "Crystal of Amlodd",
     "weight": 0.453
   },
   "23943": {
@@ -67732,7 +67740,7 @@
     }
   },
   "23995": {
-    "name": "Blade of saeldor",
+    "name": "Blade of Saeldor",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -67744,7 +67752,7 @@
     }
   },
   "23997": {
-    "name": "Blade of saeldor (inactive)",
+    "name": "Blade of Saeldor (inactive)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -67918,11 +67926,11 @@
     "weight": 0.226
   },
   "24051": {
-    "name": "A dear friend",
+    "name": "A Dear Friend",
     "weight": 0.226
   },
   "24053": {
-    "name": "On leprechauns",
+    "name": "On Leprechauns",
     "weight": 0.226
   },
   "24055": {
@@ -67930,7 +67938,7 @@
     "weight": 0.226
   },
   "24057": {
-    "name": "The eight clans",
+    "name": "The Eight Clans",
     "weight": 0.226
   },
   "24059": {
@@ -67938,7 +67946,7 @@
     "weight": 0.226
   },
   "24061": {
-    "name": "Niff & harry",
+    "name": "Niff & Harry",
     "weight": 0.226
   },
   "24063": {
@@ -67954,19 +67962,19 @@
     "weight": 0.226
   },
   "24069": {
-    "name": "The truth behind the myth (excerpt)",
+    "name": "The Truth Behind the Myth (excerpt)",
     "weight": 0.226
   },
   "24071": {
-    "name": "The living statues",
+    "name": "The Living Statues",
     "weight": 0.226
   },
   "24073": {
-    "name": "The spurned demon",
+    "name": "The Spurned Demon",
     "weight": 0.226
   },
   "24075": {
-    "name": "Legends of the mountain",
+    "name": "Legends of the Mountain",
     "weight": 0.226
   },
   "24123": {
@@ -68227,7 +68235,7 @@
     }
   },
   "24144": {
-    "name": "Staff of balance",
+    "name": "Staff of Balance",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -69003,7 +69011,7 @@
     "ge_limit": 50
   },
   "24232": {
-    "name": "Imbued saradomin max cape (l)",
+    "name": "Imbued Saradomin max cape (l)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -69017,7 +69025,7 @@
     }
   },
   "24233": {
-    "name": "Imbued zamorak max cape (l)",
+    "name": "Imbued Zamorak max cape (l)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -69031,7 +69039,7 @@
     }
   },
   "24234": {
-    "name": "Imbued guthix max cape (l)",
+    "name": "Imbued Guthix max cape (l)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -69045,31 +69053,31 @@
     }
   },
   "24236": {
-    "name": "Imbued saradomin cape (broken)",
+    "name": "Imbued Saradomin cape (broken)",
     "weight": 0.453
   },
   "24238": {
-    "name": "Imbued saradomin max cape (broken)",
+    "name": "Imbued Saradomin max cape (broken)",
     "weight": 0.453
   },
   "24240": {
-    "name": "Imbued guthix cape (broken)",
+    "name": "Imbued Guthix cape (broken)",
     "weight": 0.453
   },
   "24242": {
-    "name": "Imbued guthix max cape (broken)",
+    "name": "Imbued Guthix max cape (broken)",
     "weight": 0.453
   },
   "24244": {
-    "name": "Imbued zamorak cape (broken)",
+    "name": "Imbued Zamorak cape (broken)",
     "weight": 0.453
   },
   "24246": {
-    "name": "Imbued zamorak max cape (broken)",
+    "name": "Imbued Zamorak max cape (broken)",
     "weight": 0.453
   },
   "24248": {
-    "name": "Imbued saradomin cape (l)",
+    "name": "Imbued Saradomin cape (l)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -69083,7 +69091,7 @@
     }
   },
   "24249": {
-    "name": "Imbued guthix cape (l)",
+    "name": "Imbued Guthix cape (l)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -69097,7 +69105,7 @@
     }
   },
   "24250": {
-    "name": "Imbued zamorak cape (l)",
+    "name": "Imbued Zamorak cape (l)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -69151,7 +69159,7 @@
     "weight": 1.36
   },
   "24263": {
-    "name": "Ballad of the basilisk",
+    "name": "Ballad of the Basilisk",
     "weight": 0.226
   },
   "24265": {
@@ -69701,7 +69709,7 @@
     "ge_limit": 8
   },
   "24423": {
-    "name": "Harmonised nightmare staff",
+    "name": "Harmonised Nightmare staff",
     "weight": 1.6,
     "equipable": true,
     "equipment": {
@@ -69713,7 +69721,7 @@
     }
   },
   "24424": {
-    "name": "Volatile nightmare staff",
+    "name": "Volatile Nightmare staff",
     "weight": 1.6,
     "equipable": true,
     "equipment": {
@@ -69725,7 +69733,7 @@
     }
   },
   "24425": {
-    "name": "Eldritch nightmare staff",
+    "name": "Eldritch Nightmare staff",
     "weight": 1.6,
     "equipable": true,
     "equipment": {
@@ -69842,7 +69850,7 @@
     "weight": 0.05
   },
   "24491": {
-    "name": "Little nightmare",
+    "name": "Little Nightmare",
     "weight": 0.015
   },
   "24493": {
@@ -69850,7 +69858,7 @@
     "weight": 0.02
   },
   "24495": {
-    "name": "Jar of dreams",
+    "name": "Jar of Dreams",
     "weight": 0.04,
     "ge_limit": 4
   },
@@ -69902,7 +69910,7 @@
     }
   },
   "24528": {
-    "name": "Lamp of the gatherer",
+    "name": "Lamp of the Gatherer",
     "weight": 0.1
   },
   "24529": {
@@ -69961,7 +69969,7 @@
     }
   },
   "24551": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -70148,11 +70156,11 @@
     "ge_limit": 3000
   },
   "24656": {
-    "name": "Enraged tektiny",
+    "name": "Enraged Tektiny",
     "weight": 0.015
   },
   "24658": {
-    "name": "Flying vespina",
+    "name": "Flying Vespina",
     "weight": 0.015
   },
   "24664": {
@@ -70336,7 +70344,7 @@
     }
   },
   "24701": {
-    "name": "Dark squirrel",
+    "name": "Dark Squirrel",
     "weight": 0.015
   },
   "24704": {
@@ -71446,7 +71454,7 @@
     }
   },
   "25104": {
-    "name": "Crystal of echoes",
+    "name": "Crystal of Echoes",
     "equipable": true,
     "equipment": {}
   },
@@ -72453,7 +72461,7 @@
     "weight": 0.035
   },
   "25342": {
-    "name": "Spoils of war",
+    "name": "Spoils of War",
     "weight": 1.285
   },
   "25344": {
@@ -72475,11 +72483,11 @@
     }
   },
   "25348": {
-    "name": "Lil' creator",
+    "name": "Lil' Creator",
     "weight": 0.015
   },
   "25350": {
-    "name": "Lil' destructor",
+    "name": "Lil' Destructor",
     "weight": 0.015
   },
   "25367": {
@@ -72971,7 +72979,7 @@
     "ge_limit": 15
   },
   "25517": {
-    "name": "Volatile nightmare staff",
+    "name": "Volatile Nightmare staff",
     "weight": 1.6,
     "equipable": true,
     "equipment": {
@@ -72983,16 +72991,16 @@
     }
   },
   "25519": {
-    "name": "Jalrek-jad",
+    "name": "JalRek-Jad",
     "weight": 0.015
   },
   "25521": {
-    "name": "Jar of spirits",
+    "name": "Jar of Spirits",
     "weight": 0.04,
     "ge_limit": 4
   },
   "25524": {
-    "name": "Jar of smoke",
+    "name": "Jar of Smoke",
     "weight": 0.04,
     "ge_limit": 4
   },
@@ -73118,7 +73126,7 @@
     "weight": 0.02
   },
   "25574": {
-    "name": "Tome of water",
+    "name": "Tome of Water",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -73128,7 +73136,7 @@
     }
   },
   "25576": {
-    "name": "Tome of water (empty)",
+    "name": "Tome of Water (empty)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -73247,7 +73255,7 @@
     "weight": 0.1
   },
   "25613": {
-    "name": "Baby mole-rat",
+    "name": "Baby Mole-rat",
     "weight": 0.015
   },
   "25615": {
@@ -73725,23 +73733,23 @@
     "weight": 0.19
   },
   "25748": {
-    "name": "Lil' maiden",
+    "name": "Lil' Maiden",
     "weight": 0.015
   },
   "25749": {
-    "name": "Lil' bloat",
+    "name": "Lil' Bloat",
     "weight": 0.015
   },
   "25750": {
-    "name": "Lil' nylo",
+    "name": "Lil' Nylo",
     "weight": 0.015
   },
   "25751": {
-    "name": "Lil' sot",
+    "name": "Lil' Sot",
     "weight": 0.015
   },
   "25752": {
-    "name": "Lil' xarp",
+    "name": "Lil' Xarp",
     "weight": 0.015
   },
   "25753": {
@@ -73965,7 +73973,7 @@
     "weight": 0.003
   },
   "25818": {
-    "name": "Book of the dead",
+    "name": "Book of the Dead",
     "weight": 0.2,
     "equipable": true,
     "equipment": {
@@ -74009,7 +74017,7 @@
     "weight": 0.425
   },
   "25836": {
-    "name": "Little parasite",
+    "name": "Little Parasite",
     "weight": 0.015
   },
   "25837": {
@@ -74094,7 +74102,7 @@
     "ge_limit": 70
   },
   "25862": {
-    "name": "Bow of faerdhinen (inactive)",
+    "name": "Bow of Faerdhinen (inactive)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74104,7 +74112,7 @@
     }
   },
   "25865": {
-    "name": "Bow of faerdhinen",
+    "name": "Bow of Faerdhinen",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74116,7 +74124,7 @@
     }
   },
   "25867": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74128,7 +74136,7 @@
     }
   },
   "25870": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -74140,7 +74148,7 @@
     }
   },
   "25872": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -74152,7 +74160,7 @@
     }
   },
   "25874": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -74164,7 +74172,7 @@
     }
   },
   "25876": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -74176,7 +74184,7 @@
     }
   },
   "25878": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -74188,7 +74196,7 @@
     }
   },
   "25880": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -74200,7 +74208,7 @@
     }
   },
   "25882": {
-    "name": "Blade of saeldor (c)",
+    "name": "Blade of Saeldor (c)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -74212,7 +74220,7 @@
     }
   },
   "25884": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74224,7 +74232,7 @@
     }
   },
   "25886": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74236,7 +74244,7 @@
     }
   },
   "25888": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74248,7 +74256,7 @@
     }
   },
   "25890": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74260,7 +74268,7 @@
     }
   },
   "25892": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74272,7 +74280,7 @@
     }
   },
   "25894": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -74284,7 +74292,7 @@
     }
   },
   "25896": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -75711,19 +75719,19 @@
     "weight": 0.04
   },
   "26358": {
-    "name": "Frozen key piece (armadyl)",
+    "name": "Frozen key piece (Armadyl)",
     "weight": 0.01
   },
   "26360": {
-    "name": "Frozen key piece (bandos)",
+    "name": "Frozen key piece (Bandos)",
     "weight": 0.01
   },
   "26362": {
-    "name": "Frozen key piece (zamorak)",
+    "name": "Frozen key piece (Zamorak)",
     "weight": 0.01
   },
   "26364": {
-    "name": "Frozen key piece (saradomin)",
+    "name": "Frozen key piece (Saradomin)",
     "weight": 0.01
   },
   "26366": {
@@ -76133,7 +76141,7 @@
     }
   },
   "26488": {
-    "name": "Book of balance (or)",
+    "name": "Book of Balance (or)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -76152,7 +76160,7 @@
     }
   },
   "26490": {
-    "name": "Book of darkness (or)",
+    "name": "Book of Darkness (or)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -76162,7 +76170,7 @@
     }
   },
   "26492": {
-    "name": "Book of law (or)",
+    "name": "Book of Law (or)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -76172,7 +76180,7 @@
     }
   },
   "26494": {
-    "name": "Book of war (or)",
+    "name": "Book of War (or)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -77189,7 +77197,7 @@
     }
   },
   "26723": {
-    "name": "Wristbands of the arena",
+    "name": "Wristbands of the Arena",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -77208,7 +77216,7 @@
     }
   },
   "26724": {
-    "name": "Wristbands of the arena (l)",
+    "name": "Wristbands of the Arena (l)",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -77227,7 +77235,7 @@
     }
   },
   "26725": {
-    "name": "Wristbands of the arena (c)",
+    "name": "Wristbands of the Arena (c)",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -77246,7 +77254,7 @@
     }
   },
   "26726": {
-    "name": "Wristbands of the arena (cl)",
+    "name": "Wristbands of the Arena (cl)",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -77265,7 +77273,7 @@
     }
   },
   "26727": {
-    "name": "Wristbands of the arena (i)",
+    "name": "Wristbands of the Arena (i)",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -77284,7 +77292,7 @@
     }
   },
   "26728": {
-    "name": "Wristbands of the arena (il)",
+    "name": "Wristbands of the Arena (il)",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -77303,7 +77311,7 @@
     }
   },
   "26729": {
-    "name": "Wristbands of the arena (ic)",
+    "name": "Wristbands of the Arena (ic)",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -77322,7 +77330,7 @@
     }
   },
   "26730": {
-    "name": "Wristbands of the arena (ilc)",
+    "name": "Wristbands of the Arena (ilc)",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -78315,7 +78323,7 @@
     }
   },
   "26850": {
-    "name": "Hat of the eye",
+    "name": "Hat of the Eye",
     "weight": 0.4,
     "equipable": true,
     "equipment": {
@@ -78323,7 +78331,7 @@
     }
   },
   "26852": {
-    "name": "Robe top of the eye",
+    "name": "Robe top of the Eye",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78331,7 +78339,7 @@
     }
   },
   "26854": {
-    "name": "Robe bottoms of the eye",
+    "name": "Robe bottoms of the Eye",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78339,7 +78347,7 @@
     }
   },
   "26856": {
-    "name": "Boots of the eye",
+    "name": "Boots of the Eye",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78347,7 +78355,7 @@
     }
   },
   "26858": {
-    "name": "Hat of the eye (red)",
+    "name": "Hat of the Eye (red)",
     "weight": 0.4,
     "equipable": true,
     "equipment": {
@@ -78355,7 +78363,7 @@
     }
   },
   "26860": {
-    "name": "Robe top of the eye (red)",
+    "name": "Robe top of the Eye (red)",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78363,7 +78371,7 @@
     }
   },
   "26862": {
-    "name": "Robe bottoms of the eye (red)",
+    "name": "Robe bottoms of the Eye (red)",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78371,7 +78379,7 @@
     }
   },
   "26864": {
-    "name": "Hat of the eye (green)",
+    "name": "Hat of the Eye (green)",
     "weight": 0.4,
     "equipable": true,
     "equipment": {
@@ -78379,7 +78387,7 @@
     }
   },
   "26866": {
-    "name": "Robe top of the eye (green)",
+    "name": "Robe top of the Eye (green)",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78387,7 +78395,7 @@
     }
   },
   "26868": {
-    "name": "Robe bottoms of the eye (green)",
+    "name": "Robe bottoms of the Eye (green)",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78395,7 +78403,7 @@
     }
   },
   "26870": {
-    "name": "Hat of the eye (blue)",
+    "name": "Hat of the Eye (blue)",
     "weight": 0.4,
     "equipable": true,
     "equipment": {
@@ -78403,7 +78411,7 @@
     }
   },
   "26872": {
-    "name": "Robe top of the eye (blue)",
+    "name": "Robe top of the Eye (blue)",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78411,7 +78419,7 @@
     }
   },
   "26874": {
-    "name": "Robe bottoms of the eye (blue)",
+    "name": "Robe bottoms of the Eye (blue)",
     "weight": 0.6,
     "equipable": true,
     "equipment": {
@@ -78487,7 +78495,7 @@
     }
   },
   "26914": {
-    "name": "Amulet of the eye",
+    "name": "Amulet of the Eye",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -78613,7 +78621,7 @@
     "weight": 0.01
   },
   "26961": {
-    "name": "Lily of the elid",
+    "name": "Lily of the Elid",
     "weight": 0.02
   },
   "26962": {
@@ -78673,7 +78681,7 @@
     }
   },
   "26990": {
-    "name": "Amulet of the eye",
+    "name": "Amulet of the Eye",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -78681,7 +78689,7 @@
     }
   },
   "26992": {
-    "name": "Amulet of the eye",
+    "name": "Amulet of the Eye",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -78689,7 +78697,7 @@
     }
   },
   "26994": {
-    "name": "Amulet of the eye",
+    "name": "Amulet of the Eye",
     "weight": 0.25,
     "equipable": true,
     "equipment": {
@@ -79519,7 +79527,7 @@
     "ge_limit": 8
   },
   "27187": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -79817,7 +79825,7 @@
     "weight": 0.5
   },
   "27272": {
-    "name": "Lily of the sands",
+    "name": "Lily of the Sands",
     "weight": 0.003,
     "ge_limit": 13000
   },
@@ -79849,7 +79857,7 @@
     "ge_limit": 8
   },
   "27279": {
-    "name": "Thread of elidinis",
+    "name": "Thread of Elidinis",
     "weight": 0.003
   },
   "27281": {
@@ -79857,11 +79865,11 @@
     "weight": 0.878
   },
   "27283": {
-    "name": "Breach of the scarab",
+    "name": "Breach of the Scarab",
     "weight": 0.951
   },
   "27285": {
-    "name": "Eye of the corruptor",
+    "name": "Eye of the Corruptor",
     "weight": 0.951
   },
   "27287": {
@@ -79880,7 +79888,7 @@
     }
   },
   "27289": {
-    "name": "Jewel of the sun",
+    "name": "Jewel of the Sun",
     "weight": 0.951
   },
   "27291": {
@@ -79975,19 +79983,19 @@
     "weight": 0.453
   },
   "27327": {
-    "name": "Tears of elidinis (4)",
+    "name": "Tears of Elidinis (4)",
     "weight": 0.453
   },
   "27329": {
-    "name": "Tears of elidinis (3)",
+    "name": "Tears of Elidinis (3)",
     "weight": 0.453
   },
   "27331": {
-    "name": "Tears of elidinis (2)",
+    "name": "Tears of Elidinis (2)",
     "weight": 0.453
   },
   "27333": {
-    "name": "Tears of elidinis (1)",
+    "name": "Tears of Elidinis (1)",
     "weight": 0.453
   },
   "27335": {
@@ -80036,7 +80044,7 @@
     "ge_limit": 5
   },
   "27358": {
-    "name": "Tome of fire",
+    "name": "Tome of Fire",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -80100,7 +80108,7 @@
     "weight": 0.01
   },
   "27370": {
-    "name": "Mask of rebirth",
+    "name": "Mask of Rebirth",
     "weight": 0.35,
     "equipable": true,
     "equipment": {
@@ -80142,19 +80150,19 @@
     }
   },
   "27377": {
-    "name": "Remnant of akkha",
+    "name": "Remnant of Akkha",
     "weight": 0.19
   },
   "27378": {
-    "name": "Remnant of ba-ba",
+    "name": "Remnant of Ba-Ba",
     "weight": 0.19
   },
   "27379": {
-    "name": "Remnant of kephri",
+    "name": "Remnant of Kephri",
     "weight": 0.19
   },
   "27380": {
-    "name": "Remnant of zebak",
+    "name": "Remnant of Zebak",
     "weight": 0.19
   },
   "27381": {
@@ -80797,11 +80805,7 @@
   },
   "27544": {
     "name": "Ghommal's lucky penny",
-    "weight": 0.05,
-    "equipable": true,
-    "equipment": {
-      "slot": 13
-    }
+    "weight": 0.05
   },
   "27550": {
     "name": "Ghommal's avernic defender 5",
@@ -81215,11 +81219,11 @@
     "weight": 0.015
   },
   "27650": {
-    "name": "Vet'ion jr.",
+    "name": "Vet'ion Jr.",
     "weight": 0.015
   },
   "27651": {
-    "name": "Vet'ion jr.",
+    "name": "Vet'ion Jr.",
     "weight": 0.015
   },
   "27652": {
@@ -81299,16 +81303,16 @@
     }
   },
   "27667": {
-    "name": "Claws of callisto",
+    "name": "Claws of Callisto",
     "weight": 2.0
   },
   "27670": {
-    "name": "Fangs of venenatis",
+    "name": "Fangs of Venenatis",
     "weight": 2.0,
     "ge_limit": 8
   },
   "27673": {
-    "name": "Skull of vet'ion",
+    "name": "Skull of Vet'ion",
     "weight": 2.0,
     "ge_limit": 8
   },
@@ -83613,7 +83617,7 @@
     }
   },
   "28070": {
-    "name": "Helm of neitiznot (or)",
+    "name": "Helm of Neitiznot (or)",
     "weight": 2.267,
     "equipable": true,
     "equipment": {
@@ -84125,7 +84129,7 @@
     }
   },
   "28226": {
-    "name": "3rd age felling axe",
+    "name": "3rd Age felling axe",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -84451,7 +84455,7 @@
     "weight": 0.001
   },
   "28321": {
-    "name": "Eye of the duke",
+    "name": "Eye of the Duke",
     "weight": 0.001
   },
   "28323": {
@@ -85985,7 +85989,7 @@
     "weight": 0.2
   },
   "28807": {
-    "name": "Shield of arrav",
+    "name": "Shield of Arrav",
     "weight": 3.628
   },
   "28808": {
@@ -86040,7 +86044,7 @@
     "weight": 0.453
   },
   "28828": {
-    "name": "Blessed dizana's quiver (broken)",
+    "name": "Blessed Dizana's quiver (broken)",
     "weight": 0.453
   },
   "28830": {
@@ -86294,7 +86298,7 @@
     "weight": 0.02
   },
   "28919": {
-    "name": "Tonalztics of ralos (uncharged)",
+    "name": "Tonalztics of Ralos (uncharged)",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -86306,7 +86310,7 @@
     }
   },
   "28922": {
-    "name": "Tonalztics of ralos",
+    "name": "Tonalztics of Ralos",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -86440,7 +86444,7 @@
     }
   },
   "28955": {
-    "name": "Blessed dizana's quiver",
+    "name": "Blessed Dizana's quiver",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -86450,7 +86454,7 @@
     }
   },
   "28957": {
-    "name": "Blessed dizana's quiver (l)",
+    "name": "Blessed Dizana's quiver (l)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -86464,7 +86468,7 @@
     "weight": 0.003
   },
   "28960": {
-    "name": "Smol heredit",
+    "name": "Smol Heredit",
     "weight": 0.015
   },
   "28962": {
@@ -86521,7 +86525,7 @@
     "weight": 0.007
   },
   "28977": {
-    "name": "Knight of varlamore",
+    "name": "Knight of Varlamore",
     "weight": 0.001
   },
   "28978": {
@@ -87444,7 +87448,8 @@
       "dmagic": 3,
       "drange": 3,
       "str": 2
-    }
+    },
+    "ge_limit": 100
   },
   "29289": {
     "name": "Mixed hide cape",
@@ -87741,7 +87746,7 @@
     "weight": 0.003
   },
   "29433": {
-    "name": "Book of egg",
+    "name": "Book of Egg",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -88346,7 +88351,7 @@
     }
   },
   "29602": {
-    "name": "Corrupted volatile nightmare staff",
+    "name": "Corrupted Volatile Nightmare staff",
     "weight": 1.6,
     "equipable": true,
     "equipment": {
@@ -88358,7 +88363,7 @@
     }
   },
   "29605": {
-    "name": "Armadyl godsword (deadman)",
+    "name": "Armadyl godsword (Deadman)",
     "weight": 10.0,
     "equipable": true,
     "equipment": {
@@ -88372,7 +88377,7 @@
     }
   },
   "29607": {
-    "name": "Voidwaker (deadman)",
+    "name": "Voidwaker (Deadman)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -88388,7 +88393,7 @@
     }
   },
   "29609": {
-    "name": "Volatile nightmare staff (deadman)",
+    "name": "Volatile Nightmare staff (Deadman)",
     "weight": 1.6,
     "equipable": true,
     "equipment": {
@@ -88400,7 +88405,7 @@
     }
   },
   "29611": {
-    "name": "Dark bow (deadman)",
+    "name": "Dark bow (Deadman)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -88411,7 +88416,7 @@
     }
   },
   "29613": {
-    "name": "Imbued zamorak cape (deadman)",
+    "name": "Imbued Zamorak cape (Deadman)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -88425,7 +88430,7 @@
     }
   },
   "29615": {
-    "name": "Imbued guthix cape (deadman)",
+    "name": "Imbued Guthix cape (Deadman)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -88439,7 +88444,7 @@
     }
   },
   "29617": {
-    "name": "Imbued saradomin cape (deadman)",
+    "name": "Imbued Saradomin cape (Deadman)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -88969,7 +88974,7 @@
     "ge_limit": 11000
   },
   "29786": {
-    "name": "Jar of venom",
+    "name": "Jar of Venom",
     "weight": 0.04
   },
   "29788": {
@@ -89443,7 +89448,7 @@
   },
   "29884": {
     "name": "Bandages",
-    "weight": 5.0
+    "weight": 0.005
   },
   "29885": {
     "name": "Icon",
@@ -89477,7 +89482,7 @@
     "ge_limit": 15
   },
   "29892": {
-    "name": "Pendant of ates (inert)",
+    "name": "Pendant of Ates (inert)",
     "weight": 0.06,
     "equipable": true,
     "equipment": {
@@ -89486,7 +89491,7 @@
     }
   },
   "29893": {
-    "name": "Pendant of ates",
+    "name": "Pendant of Ates",
     "weight": 0.06,
     "equipable": true,
     "equipment": {
@@ -90057,7 +90062,7 @@
     }
   },
   "30064": {
-    "name": "Tome of earth",
+    "name": "Tome of Earth",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -90067,7 +90072,7 @@
     }
   },
   "30066": {
-    "name": "Tome of earth (empty)",
+    "name": "Tome of Earth (empty)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -90090,7 +90095,7 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 16,
-      "aspeed": 5,
+      "aspeed": 4,
       "mdmg": 10.0
     },
     "ge_limit": 8
@@ -90298,7 +90303,7 @@
     "weight": 0.001
   },
   "30151": {
-    "name": "Bone squirrel",
+    "name": "Bone Squirrel",
     "weight": 0.015
   },
   "30152": {
@@ -91109,6 +91114,40 @@
       "slot": 1
     }
   },
+  "30371": {
+    "name": "Devil's element",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 20,
+      "prayer": 3,
+      "mdmg": 6.0
+    }
+  },
+  "30373": {
+    "name": "Drygore blowpipe (empty)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 50,
+      "aspeed": 3
+    }
+  },
+  "30374": {
+    "name": "Drygore blowpipe",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 50,
+      "rstr": 10,
+      "aspeed": 3
+    }
+  },
   "30384": {
     "name": "Crystal blessing",
     "weight": 0.453,
@@ -91117,42 +91156,6 @@
       "slot": 13,
       "prayer": 5
     }
-  },
-  "30393": {
-    "name": "Asgarnia echo orb",
-    "weight": 0.4
-  },
-  "30394": {
-    "name": "Desert echo orb",
-    "weight": 0.4
-  },
-  "30395": {
-    "name": "Fremennik echo orb",
-    "weight": 0.4
-  },
-  "30396": {
-    "name": "Kandarin echo orb",
-    "weight": 0.4
-  },
-  "30397": {
-    "name": "Morytania echo orb",
-    "weight": 0.4
-  },
-  "30398": {
-    "name": "Tirannwn echo orb",
-    "weight": 0.4
-  },
-  "30399": {
-    "name": "Wilderness echo orb",
-    "weight": 0.4
-  },
-  "30400": {
-    "name": "Kourend echo orb",
-    "weight": 0.4
-  },
-  "30401": {
-    "name": "Varlamore echo orb",
-    "weight": 0.4
   },
   "30402": {
     "name": "Raids megarare voucher",
@@ -91410,7 +91413,7 @@
     "weight": 0.1
   },
   "30457": {
-    "name": "Raging echoes npc contact scroll",
+    "name": "Raging echoes astral contact scroll",
     "weight": 0.1
   },
   "30459": {
@@ -92388,57 +92391,57 @@
     "weight": 0.028
   },
   "30810": {
-    "name": "Contract of glyphic attenuation",
+    "name": "Contract of Glyphic Attenuation",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30813": {
-    "name": "Contract of sensory clouding",
+    "name": "Contract of Sensory Clouding",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30816": {
-    "name": "Contract of bloodied blows",
+    "name": "Contract of Bloodied Blows",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30819": {
-    "name": "Contract of divine severance",
+    "name": "Contract of Divine Severance",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30822": {
-    "name": "Contract of forfeit breath",
+    "name": "Contract of Forfeit Breath",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30825": {
-    "name": "Contract of oathplate acquisition",
+    "name": "Contract of Oathplate Acquisition",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30828": {
-    "name": "Contract of shard acquisition",
+    "name": "Contract of Shard Acquisition",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30831": {
-    "name": "Contract of catalyst acquisition",
+    "name": "Contract of Catalyst Acquisition",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30834": {
-    "name": "Contract of worm acquisition",
+    "name": "Contract of Worm Acquisition",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30837": {
-    "name": "Contract of harmony acquisition",
+    "name": "Contract of Harmony Acquisition",
     "weight": 0.4,
     "ge_limit": 50
   },
   "30840": {
-    "name": "Contract of familiar acquisition",
+    "name": "Contract of Familiar Acquisition",
     "weight": 0.4,
     "ge_limit": 50
   },
@@ -92512,7 +92515,7 @@
     }
   },
   "30893": {
-    "name": "Jewel of amascut",
+    "name": "Jewel of Amascut",
     "weight": 0.951
   },
   "30895": {
@@ -92811,8 +92814,12 @@
     "name": "Atlatl dart shaft",
     "ge_limit": 11000
   },
+  "31010": {
+    "name": "Headless atlatl dart",
+    "ge_limit": 11000
+  },
   "31016": {
-    "name": "Sacraments of ent folk",
+    "name": "Sacraments of Ent Folk",
     "weight": 0.1
   },
   "31018": {
@@ -93160,7 +93167,7 @@
     "ge_limit": 13000
   },
   "31113": {
-    "name": "Eye of ayak",
+    "name": "Eye of Ayak",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -93175,7 +93182,7 @@
     }
   },
   "31115": {
-    "name": "Eye of ayak (uncharged)",
+    "name": "Eye of Ayak (uncharged)",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -93449,7 +93456,7 @@
     "ge_limit": 11000
   },
   "31241": {
-    "name": "Horn of plenty",
+    "name": "Horn of Plenty",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -93457,12 +93464,13 @@
     }
   },
   "31243": {
-    "name": "Horn of plenty (empty)",
+    "name": "Horn of Plenty (empty)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
       "slot": 5
-    }
+    },
+    "ge_limit": 15
   },
   "31245": {
     "name": "Belle's folly (tarnished)",
@@ -93665,7 +93673,7 @@
     "weight": 2.267
   },
   "31331": {
-    "name": "Mayor of catherby",
+    "name": "Mayor of Catherby",
     "weight": 2.267
   },
   "31333": {
@@ -93908,7 +93916,8 @@
   },
   "31432": {
     "name": "Camphor plank",
-    "weight": 0.8
+    "weight": 0.8,
+    "ge_limit": 13000
   },
   "31435": {
     "name": "Ironwood plank",
@@ -94450,7 +94459,7 @@
     "weight": 0.02
   },
   "31757": {
-    "name": "Heart of ithell",
+    "name": "Heart of Ithell",
     "weight": 2.0
   },
   "31758": {
@@ -94582,7 +94591,7 @@
     "weight": 0.003
   },
   "31832": {
-    "name": "Bottle of sorodamin's bru",
+    "name": "Bottle of sOrodamin's bru",
     "weight": 0.003
   },
   "31833": {
@@ -94590,7 +94599,7 @@
     "weight": 0.003
   },
   "31834": {
-    "name": "Bottle of potterington's marrow wine",
+    "name": "Bottle of Potterington's marrow wine",
     "weight": 0.003
   },
   "31835": {
@@ -94602,7 +94611,7 @@
     "weight": 0.003
   },
   "31837": {
-    "name": "Bottle of barracuda brew",
+    "name": "Bottle of Barracuda brew",
     "weight": 0.003
   },
   "31838": {
@@ -94610,11 +94619,11 @@
     "weight": 0.003
   },
   "31839": {
-    "name": "Bottle of kharazi cooler",
+    "name": "Bottle of Kharazi cooler",
     "weight": 0.003
   },
   "31840": {
-    "name": "Bottle of dognose draught",
+    "name": "Bottle of Dognose draught",
     "weight": 0.003
   },
   "31841": {
@@ -94638,7 +94647,7 @@
     "weight": 0.003
   },
   "31846": {
-    "name": "Bottle of oo'glug",
+    "name": "Bottle of Oo'glug",
     "weight": 0.003
   },
   "31847": {
@@ -94670,7 +94679,7 @@
     "weight": 0.003
   },
   "31854": {
-    "name": "Bottle of captain clop's mango gin",
+    "name": "Bottle of Captain Clop's mango gin",
     "weight": 0.003
   },
   "31855": {
@@ -94730,7 +94739,7 @@
     "weight": 0.003
   },
   "31872": {
-    "name": "Bottle of waterbirth blue lagoon",
+    "name": "Bottle of Waterbirth blue lagoon",
     "weight": 0.003
   },
   "31873": {
@@ -94766,7 +94775,7 @@
     "weight": 0.003
   },
   "31882": {
-    "name": "Bottle of kgp standard issue martini",
+    "name": "Bottle of KGP standard issue martini",
     "weight": 0.003
   },
   "31883": {
@@ -94774,7 +94783,7 @@
     "weight": 0.003
   },
   "31884": {
-    "name": "Bottle of weiss meltwater",
+    "name": "Bottle of Weiss meltwater",
     "weight": 0.003
   },
   "31885": {
@@ -94782,7 +94791,7 @@
     "weight": 0.003
   },
   "31886": {
-    "name": "Bottle of elidinis's life water",
+    "name": "Bottle of Elidinis's life water",
     "weight": 0.003
   },
   "31887": {
@@ -94826,11 +94835,11 @@
     "weight": 0.003
   },
   "31897": {
-    "name": "Bottle of robert's port",
+    "name": "Bottle of Robert's Port",
     "weight": 0.003
   },
   "31898": {
-    "name": "Bottle of sea shandy 2",
+    "name": "Bottle of Sea Shandy 2",
     "weight": 0.003
   },
   "31899": {
@@ -94854,7 +94863,7 @@
     "weight": 0.085
   },
   "31905": {
-    "name": "Bottle of captain cat's black rum",
+    "name": "Bottle of Captain Cat's black rum",
     "weight": 0.003
   },
   "31906": {
@@ -95322,7 +95331,7 @@
     "ge_limit": 250
   },
   "32386": {
-    "name": "Medallion of the deep",
+    "name": "Medallion of the Deep",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -99365,7 +99374,7 @@
     "ge_limit": 12000
   },
   "32921": {
-    "name": "Jar of feathers",
+    "name": "Jar of Feathers",
     "weight": 0.04
   },
   "32924": {
@@ -100102,7 +100111,7 @@
     "ge_limit": 5
   },
   "33021": {
-    "name": "Bow of faerdhinen (c)",
+    "name": "Bow of Faerdhinen (c)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -100204,7 +100213,7 @@
     "ge_limit": 8
   },
   "33036": {
-    "name": "Toxic staff (deadman)",
+    "name": "Toxic staff (Deadman)",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -100533,6 +100542,10 @@
   "33120": {
     "name": "Perfected quetzal whistle(i)",
     "weight": 0.004
+  },
+  "33122": {
+    "name": "Annihilation exit portal blueprints",
+    "weight": 0.1
   },
   "33124": {
     "name": "Beef",
@@ -101065,6 +101078,24 @@
       "aspeed": 4
     }
   },
+  "33247": {
+    "name": "V's helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 8,
+      "arange": 12,
+      "dstab": 40,
+      "dslash": 40,
+      "dcrush": 40,
+      "dmagic": 10,
+      "drange": 40,
+      "str": 8,
+      "rstr": 2,
+      "mdmg": 3.0
+    }
+  },
   "33249": {
     "name": "Fang of the hound",
     "weight": 0.666,
@@ -101283,7 +101314,7 @@
     "weight": 0.1
   },
   "33314": {
-    "name": "Trident of the swamp (o)",
+    "name": "Trident of the Swamp (o)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -101311,7 +101342,7 @@
     }
   },
   "33318": {
-    "name": "Trident of the swamp (e) (o)",
+    "name": "Trident of the Swamp (e) (o)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -101339,12 +101370,12 @@
     }
   },
   "33322": {
-    "name": "Trident of the seas (o)",
+    "name": "Trident of the Seas (o)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "amagic": 25,
+      "amagic": 15,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
@@ -101353,12 +101384,12 @@
     }
   },
   "33323": {
-    "name": "Trident of the seas (full) (o)",
+    "name": "Trident of the Seas (full) (o)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "amagic": 25,
+      "amagic": 15,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
@@ -101367,12 +101398,12 @@
     }
   },
   "33326": {
-    "name": "Trident of the seas (e) (o)",
+    "name": "Trident of the Seas (e) (o)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "amagic": 25,
+      "amagic": 15,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
@@ -101386,7 +101417,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "amagic": 25,
+      "amagic": 15,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
@@ -101636,7 +101667,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "amagic": 25,
+      "amagic": 15,
       "dstab": 2,
       "dslash": 3,
       "dcrush": 1,
@@ -101963,6 +101994,26 @@
     "name": "Blood ancient sceptre (l) (broken)",
     "weight": 2.267
   },
+  "33506": {
+    "name": "Blood ancient sceptre (l) (mangled)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": -1,
+      "acrush": 50,
+      "amagic": 20,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 15,
+      "str": 60,
+      "prayer": -1,
+      "aspeed": 4,
+      "mdmg": 10.0
+    }
+  },
   "33508": {
     "name": "Ice ancient sceptre (l) (broken)",
     "weight": 2.267
@@ -102058,12 +102109,16 @@
     "name": "Dizana's quiver (l) (broken)",
     "weight": 0.453
   },
+  "33526": {
+    "name": "Dizana's quiver (l) (mangled)",
+    "weight": 0.453
+  },
   "33528": {
-    "name": "Blessed dizana's quiver (l) (broken)",
+    "name": "Blessed Dizana's quiver (l) (broken)",
     "weight": 0.453
   },
   "33530": {
-    "name": "Blessed dizana's quiver (l) (mangled)",
+    "name": "Blessed Dizana's quiver (l) (mangled)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -102259,16 +102314,7 @@
   },
   "33642": {
     "name": "Maggot marquess",
-    "weight": 15.0
-  },
-  "33644": {
-    "name": "Dummy stymphike feather",
-    "weight": 2.0,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "aspeed": 3
-    }
+    "weight": 0.015
   },
   "33653": {
     "name": "Stymphike carcass",
@@ -102897,5 +102943,693 @@
   "33833": {
     "name": "Letvek in a bucket",
     "weight": 3.4
+  },
+  "33835": {
+    "name": "Wyrmscraig goat hoof",
+    "weight": 1.0
+  },
+  "33836": {
+    "name": "Noble robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33839": {
+    "name": "Noble robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33842": {
+    "name": "Noble robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33845": {
+    "name": "Noble robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33848": {
+    "name": "Noble robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33851": {
+    "name": "Noble robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33854": {
+    "name": "Noble robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33857": {
+    "name": "Wyrmscraig noble skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33860": {
+    "name": "Wyrmscraig noble skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33863": {
+    "name": "Wyrmscraig noble skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33866": {
+    "name": "Wyrmscraig noble skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33869": {
+    "name": "Wyrmscraig noble skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33872": {
+    "name": "Wyrmscraig noble skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33875": {
+    "name": "Wyrmscraig noble skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33878": {
+    "name": "Wyrmscraig shoes",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33881": {
+    "name": "Wyrmscraig boots",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "33884": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33887": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33890": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33893": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33896": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33899": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33902": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33905": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33908": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33911": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33914": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33917": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33920": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33923": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33926": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33929": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33932": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33935": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33938": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33941": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33944": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33947": {
+    "name": "Wyrmscraig villager robe bottom",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33950": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33953": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33956": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33959": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33962": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33965": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33968": {
+    "name": "Wyrmscraig villager robe top",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "33971": {
+    "name": "Wyrmscraig villager skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33974": {
+    "name": "Wyrmscraig villager skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33977": {
+    "name": "Wyrmscraig villager skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33980": {
+    "name": "Wyrmscraig villager skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33983": {
+    "name": "Wyrmscraig villager skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33986": {
+    "name": "Wyrmscraig villager skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33989": {
+    "name": "Wyrmscraig villager skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33992": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33995": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "33998": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "34001": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "34004": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "34007": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "34010": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "34013": {
+    "name": "Wyrmscraig villager work skirt",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "34016": {
+    "name": "Wooden spikes",
+    "weight": 0.001
+  },
+  "34017": {
+    "name": "Wyrmscraig goat fur",
+    "weight": 3.0
+  },
+  "34020": {
+    "name": "Sunstone",
+    "weight": 2.5
+  },
+  "34022": {
+    "name": "Sunstone core",
+    "weight": 2.5
+  },
+  "34024": {
+    "name": "Jeweller's chisel",
+    "weight": 0.453
+  },
+  "34027": {
+    "name": "Hallowfell",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 117,
+      "acrush": 25,
+      "str": 110,
+      "prayer": 4,
+      "aspeed": 6
+    },
+    "ge_limit": 100
+  },
+  "34030": {
+    "name": "Jar of Light",
+    "weight": 0.04
+  },
+  "34032": {
+    "name": "Sunstone crystal",
+    "weight": 1.0
+  },
+  "34035": {
+    "name": "Placeholder",
+    "weight": 10.0
+  },
+  "34040": {
+    "name": "Mr McGroot",
+    "weight": 0.015
+  },
+  "34042": {
+    "name": "Aggy",
+    "weight": 0.015
+  },
+  "34044": {
+    "name": "Large hat",
+    "weight": 0.1
+  },
+  "34045": {
+    "name": "Worn journal",
+    "weight": 0.453
+  },
+  "34046": {
+    "name": "Scrawled notebook",
+    "weight": 0.453
+  },
+  "34048": {
+    "name": "Scorched note",
+    "weight": 0.453
+  },
+  "34049": {
+    "name": "Scorched note",
+    "weight": 0.453
+  },
+  "34050": {
+    "name": "Scorched note",
+    "weight": 0.453
+  },
+  "34051": {
+    "name": "Observations",
+    "weight": 0.453
+  },
+  "34052": {
+    "name": "Warning note",
+    "weight": 0.453
+  },
+  "34053": {
+    "name": "Golem primer",
+    "weight": 0.453
+  },
+  "34054": {
+    "name": "Ancient sunstone core",
+    "weight": 2.5
+  },
+  "34055": {
+    "name": "Staircase key",
+    "weight": 0.01
+  },
+  "34056": {
+    "name": "Dull sunstone core",
+    "weight": 2.5
+  },
+  "34057": {
+    "name": "Final letter",
+    "weight": 0.453
+  },
+  "34059": {
+    "name": "Fairy tale quest lamp",
+    "weight": 0.1
+  },
+  "34063": {
+    "name": "Vampyre snelm",
+    "weight": 0.777,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 7,
+      "dslash": 8,
+      "dcrush": 6,
+      "dmagic": -1,
+      "drange": 7
+    }
+  },
+  "34065": {
+    "name": "Shark lure pack",
+    "weight": 4.535
+  },
+  "34377": {
+    "name": "Tiny port coin bag",
+    "weight": 1.0
+  },
+  "34379": {
+    "name": "Small port coin bag",
+    "weight": 1.0
+  },
+  "34381": {
+    "name": "Medium port coin bag",
+    "weight": 1.0
+  },
+  "34383": {
+    "name": "Large port coin bag",
+    "weight": 1.0
+  },
+  "34385": {
+    "name": "Huge port coin bag",
+    "weight": 1.0
+  },
+  "34401": {
+    "name": "Necklace of fangs",
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "arange": 12,
+      "rstr": 1
+    }
+  },
+  "34407": {
+    "name": "Amulet of air",
+    "weight": 0.101,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "amagic": 10
+    }
+  },
+  "34413": {
+    "name": "Amulet of water",
+    "weight": 0.107,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "amagic": 10
+    }
+  },
+  "34419": {
+    "name": "Amulet of earth",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "amagic": 10
+    }
+  },
+  "34425": {
+    "name": "Amulet of fire",
+    "weight": 0.107,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "amagic": 10
+    }
+  },
+  "34428": {
+    "name": "Elemental amulet",
+    "weight": 0.007,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "amagic": 10
+    }
   }
 }
