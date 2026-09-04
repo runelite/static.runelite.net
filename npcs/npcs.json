@@ -15038,5 +15038,21 @@
   "16344": {
     "name": "Vampyre Snail",
     "hitpoints": 500
+  },
+  "16354": {
+    "name": "Giant Mole (Zamorak)",
+    "hitpoints": 1000
+  },
+  "16355": {
+    "name": "Giant Mole (Saradomin)",
+    "hitpoints": 1000
+  },
+  "16356": {
+    "name": "Giant Mole (Guthix)",
+    "hitpoints": 1000
+  },
+  "16357": {
+    "name": "Giant Mole (Bandos)",
+    "hitpoints": 1000
   }
 }

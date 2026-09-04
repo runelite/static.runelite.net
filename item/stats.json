@@ -46899,7 +46899,7 @@
     }
   },
   "12422": {
-    "name": "3rd age wand",
+    "name": "3rd Age wand",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -46907,7 +46907,8 @@
       "amagic": 20,
       "dmagic": 20,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "12424": {
     "name": "3rd Age bow",
@@ -103578,14 +103579,27 @@
     "name": "Huge port coin bag",
     "weight": 1.0
   },
+  "34388": {
+    "name": "Big red button",
+    "weight": 0.1
+  },
+  "34390": {
+    "name": "Lanscape coins",
+    "weight": 0.002
+  },
   "34401": {
     "name": "Necklace of fangs",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
       "arange": 12,
       "rstr": 1
     }
+  },
+  "34404": {
+    "name": "Air diamond",
+    "weight": 0.001
   },
   "34407": {
     "name": "Amulet of air",
@@ -103596,6 +103610,10 @@
       "amagic": 10
     }
   },
+  "34410": {
+    "name": "Water sapphire",
+    "weight": 0.1
+  },
   "34413": {
     "name": "Amulet of water",
     "weight": 0.107,
@@ -103605,6 +103623,10 @@
       "amagic": 10
     }
   },
+  "34416": {
+    "name": "Earth emerald",
+    "weight": 1.0
+  },
   "34419": {
     "name": "Amulet of earth",
     "weight": 2.0,
@@ -103613,6 +103635,10 @@
       "slot": 2,
       "amagic": 10
     }
+  },
+  "34422": {
+    "name": "Fire ruby",
+    "weight": 0.1
   },
   "34425": {
     "name": "Amulet of fire",
