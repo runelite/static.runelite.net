@@ -46899,7 +46899,7 @@
     }
   },
   "12422": {
-    "name": "3rd age wand",
+    "name": "3rd Age wand",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -46907,7 +46907,8 @@
       "amagic": 20,
       "dmagic": 20,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "12424": {
     "name": "3rd Age bow",
@@ -103578,14 +103579,27 @@
     "name": "Huge port coin bag",
     "weight": 1.0
   },
+  "34388": {
+    "name": "Big red button",
+    "weight": 0.1
+  },
+  "34390": {
+    "name": "Lanscape coins",
+    "weight": 0.002
+  },
   "34401": {
     "name": "Necklace of fangs",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
       "arange": 12,
       "rstr": 1
     }
+  },
+  "34404": {
+    "name": "Air diamond",
+    "weight": 0.001
   },
   "34407": {
     "name": "Amulet of air",
@@ -103596,6 +103610,10 @@
       "amagic": 10
     }
   },
+  "34410": {
+    "name": "Water sapphire",
+    "weight": 0.1
+  },
   "34413": {
     "name": "Amulet of water",
     "weight": 0.107,
@@ -103605,6 +103623,10 @@
       "amagic": 10
     }
   },
+  "34416": {
+    "name": "Earth emerald",
+    "weight": 1.0
+  },
   "34419": {
     "name": "Amulet of earth",
     "weight": 2.0,
@@ -103613,6 +103635,10 @@
       "slot": 2,
       "amagic": 10
     }
+  },
+  "34422": {
+    "name": "Fire ruby",
+    "weight": 0.1
   },
   "34425": {
     "name": "Amulet of fire",
@@ -103631,5 +103657,369 @@
       "slot": 2,
       "amagic": 10
     }
+  },
+  "34431": {
+    "name": "Labrador",
+    "weight": 0.75
+  },
+  "34433": {
+    "name": "Labrador",
+    "weight": 0.75
+  },
+  "34435": {
+    "name": "Labrador",
+    "weight": 0.75
+  },
+  "34437": {
+    "name": "Chihuahua",
+    "weight": 0.75
+  },
+  "34439": {
+    "name": "Chihuahua",
+    "weight": 0.75
+  },
+  "34441": {
+    "name": "Chihuahua",
+    "weight": 0.75
+  },
+  "34443": {
+    "name": "Border collie",
+    "weight": 0.75
+  },
+  "34445": {
+    "name": "Border collie",
+    "weight": 0.75
+  },
+  "34447": {
+    "name": "Border collie",
+    "weight": 0.75
+  },
+  "34449": {
+    "name": "Corgi",
+    "weight": 0.75
+  },
+  "34451": {
+    "name": "Corgi",
+    "weight": 0.75
+  },
+  "34453": {
+    "name": "Corgi",
+    "weight": 0.75
+  },
+  "34455": {
+    "name": "Greyhound",
+    "weight": 0.75
+  },
+  "34457": {
+    "name": "Greyhound",
+    "weight": 0.75
+  },
+  "34459": {
+    "name": "Greyhound",
+    "weight": 0.75
+  },
+  "34461": {
+    "name": "Husky",
+    "weight": 0.75
+  },
+  "34463": {
+    "name": "Husky",
+    "weight": 0.75
+  },
+  "34465": {
+    "name": "Husky",
+    "weight": 0.75
+  },
+  "34467": {
+    "name": "Pug",
+    "weight": 0.75
+  },
+  "34469": {
+    "name": "Pug",
+    "weight": 0.75
+  },
+  "34471": {
+    "name": "Pug",
+    "weight": 0.75
+  },
+  "34473": {
+    "name": "Samoyed",
+    "weight": 0.75
+  },
+  "34475": {
+    "name": "Samoyed",
+    "weight": 0.75
+  },
+  "34477": {
+    "name": "Samoyed",
+    "weight": 0.75
+  },
+  "34479": {
+    "name": "Bernese mountain dog",
+    "weight": 0.75
+  },
+  "34481": {
+    "name": "Bernese mountain dog",
+    "weight": 0.75
+  },
+  "34483": {
+    "name": "Bernese mountain dog",
+    "weight": 0.75
+  },
+  "34485": {
+    "name": "Shiba",
+    "weight": 0.75
+  },
+  "34487": {
+    "name": "Shiba",
+    "weight": 0.75
+  },
+  "34489": {
+    "name": "Shiba",
+    "weight": 0.75
+  },
+  "34491": {
+    "name": "Spaniel",
+    "weight": 0.75
+  },
+  "34493": {
+    "name": "Spaniel",
+    "weight": 0.75
+  },
+  "34495": {
+    "name": "Spaniel",
+    "weight": 0.75
+  },
+  "34497": {
+    "name": "Yorkie",
+    "weight": 0.75
+  },
+  "34499": {
+    "name": "Yorkie",
+    "weight": 0.75
+  },
+  "34501": {
+    "name": "Yorkie",
+    "weight": 0.75
+  },
+  "34503": {
+    "name": "Labrador puppy",
+    "weight": 0.75
+  },
+  "34505": {
+    "name": "Labrador puppy",
+    "weight": 0.75
+  },
+  "34507": {
+    "name": "Labrador puppy",
+    "weight": 0.75
+  },
+  "34509": {
+    "name": "Husky puppy",
+    "weight": 0.75
+  },
+  "34511": {
+    "name": "Husky puppy",
+    "weight": 0.75
+  },
+  "34513": {
+    "name": "Husky puppy",
+    "weight": 0.75
+  },
+  "34515": {
+    "name": "Chihuahua puppy",
+    "weight": 0.75
+  },
+  "34517": {
+    "name": "Chihuahua puppy",
+    "weight": 0.75
+  },
+  "34519": {
+    "name": "Chihuahua puppy",
+    "weight": 0.75
+  },
+  "34521": {
+    "name": "Border collie puppy",
+    "weight": 0.75
+  },
+  "34523": {
+    "name": "Border collie puppy",
+    "weight": 0.75
+  },
+  "34525": {
+    "name": "Border collie puppy",
+    "weight": 0.75
+  },
+  "34527": {
+    "name": "Corgi puppy",
+    "weight": 0.75
+  },
+  "34529": {
+    "name": "Corgi puppy",
+    "weight": 0.75
+  },
+  "34531": {
+    "name": "Corgi puppy",
+    "weight": 0.75
+  },
+  "34533": {
+    "name": "Greyhound puppy",
+    "weight": 0.75
+  },
+  "34535": {
+    "name": "Greyhound puppy",
+    "weight": 0.75
+  },
+  "34537": {
+    "name": "Greyhound puppy",
+    "weight": 0.75
+  },
+  "34539": {
+    "name": "Pug puppy",
+    "weight": 0.75
+  },
+  "34541": {
+    "name": "Pug puppy",
+    "weight": 0.75
+  },
+  "34543": {
+    "name": "Pug puppy",
+    "weight": 0.75
+  },
+  "34545": {
+    "name": "Samoyed puppy",
+    "weight": 0.75
+  },
+  "34547": {
+    "name": "Samoyed puppy",
+    "weight": 0.75
+  },
+  "34549": {
+    "name": "Samoyed puppy",
+    "weight": 0.75
+  },
+  "34551": {
+    "name": "Bernese mountain dog puppy",
+    "weight": 0.75
+  },
+  "34553": {
+    "name": "Bernese mountain dog puppy",
+    "weight": 0.75
+  },
+  "34555": {
+    "name": "Bernese mountain dog puppy",
+    "weight": 0.75
+  },
+  "34563": {
+    "name": "Spaniel puppy",
+    "weight": 0.75
+  },
+  "34566": {
+    "name": "Spaniel puppy",
+    "weight": 0.75
+  },
+  "34567": {
+    "name": "Spaniel puppy",
+    "weight": 0.75
+  },
+  "34575": {
+    "name": "Shell",
+    "weight": 0.15
+  },
+  "34576": {
+    "name": "Shell",
+    "weight": 0.14
+  },
+  "34577": {
+    "name": "Shell",
+    "weight": 0.13
+  },
+  "34578": {
+    "name": "Shell",
+    "weight": 0.12
+  },
+  "34579": {
+    "name": "Shell",
+    "weight": 0.11
+  },
+  "34580": {
+    "name": "Shell",
+    "weight": 0.1
+  },
+  "34581": {
+    "name": "Shell",
+    "weight": 0.09
+  },
+  "34582": {
+    "name": "Shell",
+    "weight": 0.12
+  },
+  "34583": {
+    "name": "Shell",
+    "weight": 0.12
+  },
+  "34584": {
+    "name": "Weathered rosewood plank",
+    "weight": 0.4
+  },
+  "34585": {
+    "name": "Battered barrel",
+    "weight": 1.2
+  },
+  "34586": {
+    "name": "Sea-soaked bowstring",
+    "weight": 0.02
+  },
+  "34587": {
+    "name": "Instrument",
+    "weight": 1.218
+  },
+  "34589": {
+    "name": "Shell collection",
+    "weight": 0.84
+  },
+  "34591": {
+    "name": "Shell C",
+    "weight": 0.15
+  },
+  "34592": {
+    "name": "Shell D",
+    "weight": 0.14
+  },
+  "34593": {
+    "name": "Shell E",
+    "weight": 0.13
+  },
+  "34594": {
+    "name": "Shell F",
+    "weight": 0.12
+  },
+  "34595": {
+    "name": "Shell G",
+    "weight": 0.11
+  },
+  "34596": {
+    "name": "Shell A",
+    "weight": 0.1
+  },
+  "34597": {
+    "name": "Shell A#",
+    "weight": 0.09
+  },
+  "34598": {
+    "name": "Stray puppy",
+    "weight": 3.0
+  },
+  "34599": {
+    "name": "Stray puppy",
+    "weight": 3.0
+  },
+  "34600": {
+    "name": "Stray puppy",
+    "weight": 3.0
+  },
+  "34602": {
+    "name": "Stuffed dog",
+    "weight": 0.907
   }
 }
