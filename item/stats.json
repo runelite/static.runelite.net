@@ -3741,7 +3741,7 @@
     "ge_limit": 5
   },
   "1052": {
-    "name": "Cape of legends",
+    "name": "Cape of Legends",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -10167,7 +10167,7 @@
     "ge_limit": 8
   },
   "2581": {
-    "name": "Robin hood hat",
+    "name": "Robin Hood hat",
     "weight": 0.283,
     "equipable": true,
     "equipment": {
@@ -13076,7 +13076,7 @@
     "ge_limit": 6000
   },
   "3230": {
-    "name": "Big book of bangs",
+    "name": "Big Book of Bangs",
     "weight": 0.226
   },
   "3231": {
@@ -34510,7 +34510,7 @@
     "weight": 0.007
   },
   "9083": {
-    "name": "Seal of passage",
+    "name": "Seal of Passage",
     "weight": 4.535,
     "equipable": true,
     "equipment": {
@@ -35458,7 +35458,7 @@
     "ge_limit": 10000
   },
   "9477": {
-    "name": "Aluft aloft box",
+    "name": "Aluft Aloft box",
     "weight": 0.1
   },
   "9478": {
@@ -35768,15 +35768,15 @@
     "weight": 0.001
   },
   "9656": {
-    "name": "Tome of experience (3)",
+    "name": "Tome of Experience (3)",
     "weight": 1.0
   },
   "9657": {
-    "name": "Tome of experience (2)",
+    "name": "Tome of Experience (2)",
     "weight": 1.0
   },
   "9658": {
-    "name": "Tome of experience (1)",
+    "name": "Tome of Experience (1)",
     "weight": 1.0
   },
   "9665": {
@@ -44719,7 +44719,7 @@
     "ge_limit": 11000
   },
   "11995": {
-    "name": "Pet Chaos Elemental",
+    "name": "Pet chaos elemental",
     "weight": 0.015
   },
   "11996": {
@@ -46899,7 +46899,7 @@
     }
   },
   "12422": {
-    "name": "3rd age wand",
+    "name": "3rd Age wand",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -46907,7 +46907,8 @@
       "amagic": 20,
       "dmagic": 20,
       "aspeed": 4
-    }
+    },
+    "ge_limit": 8
   },
   "12424": {
     "name": "3rd Age bow",
@@ -49042,7 +49043,7 @@
     "ge_limit": 8
   },
   "12904": {
-    "name": "Toxic staff of the dead",
+    "name": "Toxic Staff of the Dead",
     "weight": 1.5,
     "equipable": true,
     "equipment": {
@@ -51886,7 +51887,7 @@
     "ge_limit": 7500
   },
   "13513": {
-    "name": "Book of arcane knowledge",
+    "name": "Book of Arcane Knowledge",
     "weight": 0.2
   },
   "13524": {
@@ -59083,7 +59084,7 @@
     "weight": 2.267
   },
   "21531": {
-    "name": "Potion of sealegs",
+    "name": "Potion of Sealegs",
     "weight": 0.056
   },
   "21539": {
@@ -59585,11 +59586,11 @@
     "ge_limit": 11000
   },
   "21756": {
-    "name": "Varlamore envoy",
+    "name": "Varlamore Envoy",
     "weight": 0.51
   },
   "21758": {
-    "name": "Royal accord of twill",
+    "name": "Royal Accord of Twill",
     "weight": 0.003
   },
   "21760": {
@@ -62181,7 +62182,7 @@
     "weight": 0.003
   },
   "22415": {
-    "name": "Tome of experience",
+    "name": "Tome of Experience",
     "weight": 1.0
   },
   "22416": {
@@ -62551,7 +62552,7 @@
     "weight": 0.01
   },
   "22588": {
-    "name": "Old man's coffin",
+    "name": "Old Man's coffin",
     "weight": 32.0
   },
   "22589": {
@@ -69886,7 +69887,7 @@
     }
   },
   "24523": {
-    "name": "Death's coffer",
+    "name": "Death's Coffer",
     "weight": 10.0
   },
   "24524": {
@@ -70269,7 +70270,7 @@
     "weight": 7.711
   },
   "24690": {
-    "name": "Tome of experience",
+    "name": "Tome of Experience",
     "weight": 1.0
   },
   "24691": {
@@ -73651,7 +73652,7 @@
     }
   },
   "25736": {
-    "name": "Holy scythe of vitur",
+    "name": "Holy Scythe of Vitur",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -73669,7 +73670,7 @@
     }
   },
   "25738": {
-    "name": "Holy scythe of vitur (uncharged)",
+    "name": "Holy Scythe of Vitur (uncharged)",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -73686,7 +73687,7 @@
     }
   },
   "25739": {
-    "name": "Sanguine scythe of vitur",
+    "name": "Sanguine Scythe of Vitur",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -73704,7 +73705,7 @@
     }
   },
   "25741": {
-    "name": "Sanguine scythe of vitur (uncharged)",
+    "name": "Sanguine Scythe of Vitur (uncharged)",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -73969,7 +73970,7 @@
     "weight": 0.28
   },
   "25817": {
-    "name": "Royal accord of twill",
+    "name": "Royal Accord of Twill",
     "weight": 0.003
   },
   "25818": {
@@ -74630,24 +74631,22 @@
     "ge_limit": 8
   },
   "25990": {
-    "name": "Sigil of resilience",
+    "name": "Sigil of Resilience",
     "weight": 0.1,
     "ge_limit": 10
   },
   "25991": {
-    "name": "Sigil of resilience",
+    "name": "Sigil of Resilience",
     "weight": 0.1,
     "ge_limit": 10
   },
   "25993": {
-    "name": "Sigil of consistency",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Consistency",
+    "weight": 0.1
   },
   "25994": {
-    "name": "Sigil of consistency",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Consistency",
+    "weight": 0.1
   },
   "25996": {
     "name": "Sigil of the formidable fighter",
@@ -74655,449 +74654,360 @@
     "ge_limit": 10
   },
   "25997": {
-    "name": "Sigil of the formidable fighter",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Formidable Fighter",
+    "weight": 0.1
   },
   "25999": {
-    "name": "Sigil of the rigorous ranger",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Rigorous Ranger",
+    "weight": 0.1
   },
   "26000": {
-    "name": "Sigil of the rigorous ranger",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Rigorous Ranger",
+    "weight": 0.1
   },
   "26002": {
-    "name": "Sigil of the meticulous mage",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Meticulous Mage",
+    "weight": 0.1
   },
   "26003": {
-    "name": "Sigil of the meticulous mage",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Meticulous Mage",
+    "weight": 0.1
   },
   "26005": {
-    "name": "Sigil of fortification",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Fortification",
+    "weight": 0.1
   },
   "26006": {
-    "name": "Sigil of fortification",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Fortification",
+    "weight": 0.1
   },
   "26008": {
-    "name": "Sigil of barrows",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Barrows",
+    "weight": 0.1
   },
   "26009": {
-    "name": "Sigil of barrows",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Barrows",
+    "weight": 0.1
   },
   "26011": {
-    "name": "Sigil of deft strikes",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Deft Strikes",
+    "weight": 0.1
   },
   "26012": {
-    "name": "Sigil of deft strikes",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Deft Strikes",
+    "weight": 0.1
   },
   "26014": {
-    "name": "Sigil of freedom",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Freedom",
+    "weight": 0.1
   },
   "26015": {
-    "name": "Sigil of freedom",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Freedom",
+    "weight": 0.1
   },
   "26017": {
-    "name": "Sigil of enhanced harvest",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Enhanced Harvest",
+    "weight": 0.1
   },
   "26018": {
-    "name": "Sigil of enhanced harvest",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Enhanced Harvest",
+    "weight": 0.1
   },
   "26020": {
-    "name": "Sigil of storage",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Storage",
+    "weight": 0.1
   },
   "26021": {
-    "name": "Sigil of storage",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Storage",
+    "weight": 0.1
   },
   "26023": {
-    "name": "Sigil of the smith",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Smith",
+    "weight": 0.1
   },
   "26024": {
-    "name": "Sigil of the smith",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Smith",
+    "weight": 0.1
   },
   "26026": {
-    "name": "Sigil of the alchemist",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Alchemist",
+    "weight": 0.1
   },
   "26027": {
-    "name": "Sigil of the alchemist",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Alchemist",
+    "weight": 0.1
   },
   "26029": {
-    "name": "Sigil of the fletcher",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Fletcher",
+    "weight": 0.1
   },
   "26030": {
-    "name": "Sigil of the fletcher",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Fletcher",
+    "weight": 0.1
   },
   "26032": {
-    "name": "Sigil of the chef",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Chef",
+    "weight": 0.1
   },
   "26033": {
-    "name": "Sigil of the chef",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Chef",
+    "weight": 0.1
   },
   "26035": {
-    "name": "Sigil of the craftsman",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Craftsman",
+    "weight": 0.1
   },
   "26036": {
-    "name": "Sigil of the craftsman",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Craftsman",
+    "weight": 0.1
   },
   "26038": {
-    "name": "Sigil of the abyss",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Abyss",
+    "weight": 0.1
   },
   "26039": {
-    "name": "Sigil of the abyss",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Abyss",
+    "weight": 0.1
   },
   "26041": {
-    "name": "Sigil of stamina",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Stamina",
+    "weight": 0.1
   },
   "26042": {
-    "name": "Sigil of stamina",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Stamina",
+    "weight": 0.1
   },
   "26044": {
-    "name": "Sigil of the potion master",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Potion Master",
+    "weight": 0.1
   },
   "26045": {
-    "name": "Sigil of the potion master",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Potion Master",
+    "weight": 0.1
   },
   "26047": {
-    "name": "Sigil of the eternal jeweller",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Eternal Jeweller",
+    "weight": 0.1
   },
   "26048": {
-    "name": "Sigil of the eternal jeweller",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Eternal Jeweller",
+    "weight": 0.1
   },
   "26050": {
-    "name": "Sigil of the treasure hunter",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Treasure Hunter",
+    "weight": 0.1
   },
   "26051": {
-    "name": "Sigil of the treasure hunter",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of the Treasure Hunter",
+    "weight": 0.1
   },
   "26053": {
-    "name": "Sigil of mobility",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Mobility",
+    "weight": 0.1
   },
   "26054": {
-    "name": "Sigil of mobility",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Mobility",
+    "weight": 0.1
   },
   "26056": {
-    "name": "Sigil of exaggeration",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Exaggeration",
+    "weight": 0.1
   },
   "26057": {
-    "name": "Sigil of exaggeration",
-    "weight": 0.1,
-    "ge_limit": 10
+    "name": "Sigil of Exaggeration",
+    "weight": 0.1
   },
   "26059": {
-    "name": "Sigil of specialised strikes",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Specialised Strikes",
+    "weight": 0.1
   },
   "26060": {
-    "name": "Sigil of specialised strikes",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Specialised Strikes",
+    "weight": 0.1
   },
   "26062": {
-    "name": "Sigil of the porcupine",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Porcupine",
+    "weight": 0.1
   },
   "26063": {
-    "name": "Sigil of the porcupine",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Porcupine",
+    "weight": 0.1
   },
   "26065": {
-    "name": "Sigil of binding",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Binding",
+    "weight": 0.1
   },
   "26066": {
-    "name": "Sigil of binding",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Binding",
+    "weight": 0.1
   },
   "26068": {
-    "name": "Sigil of escaping",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Escaping",
+    "weight": 0.1
   },
   "26069": {
-    "name": "Sigil of escaping",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Escaping",
+    "weight": 0.1
   },
   "26071": {
-    "name": "Sigil of the ruthless ranger",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Ruthless Ranger",
+    "weight": 0.1
   },
   "26072": {
-    "name": "Sigil of the ruthless ranger",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Ruthless Ranger",
+    "weight": 0.1
   },
   "26074": {
-    "name": "Sigil of the feral fighter",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Feral Fighter",
+    "weight": 0.1
   },
   "26075": {
-    "name": "Sigil of the feral fighter",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Feral Fighter",
+    "weight": 0.1
   },
   "26077": {
-    "name": "Sigil of the menacing mage",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Menacing Mage",
+    "weight": 0.1
   },
   "26078": {
-    "name": "Sigil of the menacing mage",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Menacing Mage",
+    "weight": 0.1
   },
   "26080": {
-    "name": "Sigil of prosperity",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Prosperity",
+    "weight": 0.1
   },
   "26081": {
-    "name": "Sigil of prosperity",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Prosperity",
+    "weight": 0.1
   },
   "26083": {
-    "name": "Sigil of the dwarves",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Dwarves",
+    "weight": 0.1
   },
   "26084": {
-    "name": "Sigil of the dwarves",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Dwarves",
+    "weight": 0.1
   },
   "26086": {
-    "name": "Sigil of the elves",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Elves",
+    "weight": 0.1
   },
   "26087": {
-    "name": "Sigil of the elves",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Elves",
+    "weight": 0.1
   },
   "26089": {
-    "name": "Sigil of the barbarians",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Barbarians",
+    "weight": 0.1
   },
   "26090": {
-    "name": "Sigil of the barbarians",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Barbarians",
+    "weight": 0.1
   },
   "26092": {
-    "name": "Sigil of the gnomes",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Gnomes",
+    "weight": 0.1
   },
   "26093": {
-    "name": "Sigil of the gnomes",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Gnomes",
+    "weight": 0.1
   },
   "26095": {
-    "name": "Sigil of nature",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Nature",
+    "weight": 0.1
   },
   "26096": {
-    "name": "Sigil of nature",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Nature",
+    "weight": 0.1
   },
   "26098": {
-    "name": "Sigil of devotion",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Devotion",
+    "weight": 0.1
   },
   "26099": {
-    "name": "Sigil of devotion",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Devotion",
+    "weight": 0.1
   },
   "26101": {
-    "name": "Sigil of the forager",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Forager",
+    "weight": 0.1
   },
   "26102": {
-    "name": "Sigil of the forager",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Forager",
+    "weight": 0.1
   },
   "26104": {
-    "name": "Sigil of garments",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Garments",
+    "weight": 0.1
   },
   "26105": {
-    "name": "Sigil of garments",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Garments",
+    "weight": 0.1
   },
   "26107": {
-    "name": "Sigil of slaughter",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Slaughter",
+    "weight": 0.1
   },
   "26108": {
-    "name": "Sigil of slaughter",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Slaughter",
+    "weight": 0.1
   },
   "26110": {
-    "name": "Sigil of the fortune farmer",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Fortune Farmer",
+    "weight": 0.1
   },
   "26111": {
-    "name": "Sigil of the fortune farmer",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Fortune Farmer",
+    "weight": 0.1
   },
   "26113": {
-    "name": "Sigil of versatility",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Versatility",
+    "weight": 0.1
   },
   "26114": {
-    "name": "Sigil of versatility",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Versatility",
+    "weight": 0.1
   },
   "26116": {
-    "name": "Sigil of the serpent",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Serpent",
+    "weight": 0.1
   },
   "26117": {
-    "name": "Sigil of the serpent",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of the Serpent",
+    "weight": 0.1
   },
   "26119": {
-    "name": "Sigil of supreme stamina",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Supreme Stamina",
+    "weight": 0.1
   },
   "26120": {
-    "name": "Sigil of supreme stamina",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Supreme Stamina",
+    "weight": 0.1
   },
   "26122": {
-    "name": "Sigil of preservation",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Preservation",
+    "weight": 0.1
   },
   "26123": {
-    "name": "Sigil of preservation",
-    "weight": 0.1,
-    "ge_limit": 8
+    "name": "Sigil of Preservation",
+    "weight": 0.1
   },
   "26125": {
-    "name": "Sigil of finality",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Finality",
+    "weight": 0.1
   },
   "26126": {
-    "name": "Sigil of finality",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Finality",
+    "weight": 0.1
   },
   "26128": {
-    "name": "Sigil of pious protection",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Pious Protection",
+    "weight": 0.1
   },
   "26129": {
-    "name": "Sigil of pious protection",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Pious Protection",
+    "weight": 0.1
   },
   "26131": {
     "name": "Sigil of aggression",
@@ -75105,59 +75015,48 @@
     "ge_limit": 4
   },
   "26132": {
-    "name": "Sigil of aggression",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Aggression",
+    "weight": 0.1
   },
   "26134": {
-    "name": "Sigil of rampage",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Rampage",
+    "weight": 0.1
   },
   "26135": {
-    "name": "Sigil of rampage",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Rampage",
+    "weight": 0.1
   },
   "26137": {
-    "name": "Sigil of the skiller",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of the Skiller",
+    "weight": 0.1
   },
   "26138": {
-    "name": "Sigil of the skiller",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of the Skiller",
+    "weight": 0.1
   },
   "26140": {
-    "name": "Sigil of remote storage",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Remote Storage",
+    "weight": 0.1
   },
   "26141": {
-    "name": "Sigil of remote storage",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Remote Storage",
+    "weight": 0.1
   },
   "26143": {
-    "name": "Sigil of last recall",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Last Recall",
+    "weight": 0.1
   },
   "26144": {
-    "name": "Sigil of last recall",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of Last Recall",
+    "weight": 0.1
   },
   "26146": {
-    "name": "Sigil of the guardian angel",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of the Guardian Angel",
+    "weight": 0.1
   },
   "26147": {
-    "name": "Sigil of the guardian angel",
-    "weight": 0.1,
-    "ge_limit": 4
+    "name": "Sigil of the Guardian Angel",
+    "weight": 0.1
   },
   "26149": {
     "name": "Tuna",
@@ -80380,7 +80279,7 @@
     "weight": 0.02
   },
   "27428": {
-    "name": "Hood of ruin",
+    "name": "Hood of Ruin",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -80388,7 +80287,7 @@
     }
   },
   "27430": {
-    "name": "Robe top of ruin",
+    "name": "Robe top of Ruin",
     "weight": 2.721,
     "equipable": true,
     "equipment": {
@@ -80396,7 +80295,7 @@
     }
   },
   "27432": {
-    "name": "Robe bottom of ruin",
+    "name": "Robe bottom of Ruin",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -80404,7 +80303,7 @@
     }
   },
   "27434": {
-    "name": "Gloves of ruin",
+    "name": "Gloves of Ruin",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -80412,7 +80311,7 @@
     }
   },
   "27436": {
-    "name": "Socks of ruin",
+    "name": "Socks of Ruin",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -80420,7 +80319,7 @@
     }
   },
   "27438": {
-    "name": "Cloak of ruin",
+    "name": "Cloak of Ruin",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -85102,147 +85001,147 @@
     }
   },
   "28477": {
-    "name": "Sigil of sustenance",
+    "name": "Sigil of Sustenance",
     "weight": 0.4
   },
   "28478": {
-    "name": "Sigil of sustenance",
+    "name": "Sigil of Sustenance",
     "weight": 0.4
   },
   "28480": {
-    "name": "Sigil of hoarding",
+    "name": "Sigil of Hoarding",
     "weight": 0.4
   },
   "28481": {
-    "name": "Sigil of hoarding",
+    "name": "Sigil of Hoarding",
     "weight": 0.4
   },
   "28483": {
-    "name": "Sigil of the alchemaniac",
+    "name": "Sigil of the Alchemaniac",
     "weight": 0.4
   },
   "28484": {
-    "name": "Sigil of the alchemaniac",
+    "name": "Sigil of the Alchemaniac",
     "weight": 0.4
   },
   "28486": {
-    "name": "Sigil of the hunter",
+    "name": "Sigil of the Hunter",
     "weight": 0.4
   },
   "28487": {
-    "name": "Sigil of the hunter",
+    "name": "Sigil of the Hunter",
     "weight": 0.4
   },
   "28489": {
-    "name": "Sigil of resistance",
+    "name": "Sigil of Resistance",
     "weight": 0.4
   },
   "28490": {
-    "name": "Sigil of resistance",
+    "name": "Sigil of Resistance",
     "weight": 0.4
   },
   "28492": {
-    "name": "Sigil of agile fortune",
+    "name": "Sigil of Agile Fortune",
     "weight": 0.4
   },
   "28493": {
-    "name": "Sigil of agile fortune",
+    "name": "Sigil of Agile Fortune",
     "weight": 0.4
   },
   "28495": {
-    "name": "Sigil of the food master",
+    "name": "Sigil of the Food Master",
     "weight": 0.4
   },
   "28496": {
-    "name": "Sigil of the food master",
+    "name": "Sigil of the Food Master",
     "weight": 0.4
   },
   "28498": {
-    "name": "Sigil of the well fed",
+    "name": "Sigil of the Well Fed",
     "weight": 0.4
   },
   "28499": {
-    "name": "Sigil of the well fed",
+    "name": "Sigil of The Well Fed",
     "weight": 0.4
   },
   "28501": {
-    "name": "Sigil of the infernal chef",
+    "name": "Sigil of the Infernal Chef",
     "weight": 0.4
   },
   "28502": {
-    "name": "Sigil of the infernal chef",
+    "name": "Sigil of the Infernal Chef",
     "weight": 0.4
   },
   "28504": {
-    "name": "Sigil of the infernal smith",
+    "name": "Sigil of the Infernal Smith",
     "weight": 0.4
   },
   "28505": {
-    "name": "Sigil of the infernal smith",
+    "name": "Sigil of the Infernal Smith",
     "weight": 0.4
   },
   "28507": {
-    "name": "Sigil of the lightbearer",
+    "name": "Sigil of the Lightbearer",
     "weight": 0.4
   },
   "28508": {
-    "name": "Sigil of the lightbearer",
+    "name": "Sigil of the Lightbearer",
     "weight": 0.4
   },
   "28510": {
-    "name": "Sigil of the bloodhound",
+    "name": "Sigil of the Bloodhound",
     "weight": 0.4
   },
   "28511": {
-    "name": "Sigil of the bloodhound",
+    "name": "Sigil of the Bloodhound",
     "weight": 0.4
   },
   "28513": {
-    "name": "Sigil of precision",
+    "name": "Sigil of Precision",
     "weight": 0.4
   },
   "28514": {
-    "name": "Sigil of precision",
+    "name": "Sigil of Precision",
     "weight": 0.4
   },
   "28516": {
-    "name": "Sigil of the augmented thrall",
+    "name": "Sigil of the Augmented Thrall",
     "weight": 0.4
   },
   "28517": {
-    "name": "Sigil of the augmented thrall",
+    "name": "Sigil of the Augmented Thrall",
     "weight": 0.4
   },
   "28519": {
-    "name": "Sigil of faith",
+    "name": "Sigil of Faith",
     "weight": 0.4
   },
   "28520": {
-    "name": "Sigil of faith",
+    "name": "Sigil of Faith",
     "weight": 0.4
   },
   "28522": {
-    "name": "Sigil of titanium",
+    "name": "Sigil of Titanium",
     "weight": 0.4
   },
   "28523": {
-    "name": "Sigil of titanium",
+    "name": "Sigil of Titanium",
     "weight": 0.4
   },
   "28525": {
-    "name": "Sigil of the ninja",
+    "name": "Sigil of the Ninja",
     "weight": 0.4
   },
   "28526": {
-    "name": "Sigil of the ninja",
+    "name": "Sigil of the Ninja",
     "weight": 0.4
   },
   "28528": {
-    "name": "Sigil of woodcraft",
+    "name": "Sigil of Woodcraft",
     "weight": 0.4
   },
   "28529": {
-    "name": "Sigil of woodcraft",
+    "name": "Sigil of Woodcraft",
     "weight": 0.4
   },
   "28531": {
@@ -85305,7 +85204,7 @@
     }
   },
   "28543": {
-    "name": "Corrupted scythe of vitur",
+    "name": "Corrupted Scythe of Vitur",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -85323,7 +85222,7 @@
     }
   },
   "28545": {
-    "name": "Corrupted scythe of vitur (uncharged)",
+    "name": "Corrupted Scythe of Vitur (uncharged)",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -86565,7 +86464,7 @@
     "weight": 0.001
   },
   "28988": {
-    "name": "Blue moon spear",
+    "name": "Blue Moon spear",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -86623,7 +86522,7 @@
     "ge_limit": 15
   },
   "29004": {
-    "name": "Eclipse moon chestplate",
+    "name": "Eclipse Moon chestplate",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -86640,7 +86539,7 @@
     "ge_limit": 15
   },
   "29007": {
-    "name": "Eclipse moon tassets",
+    "name": "Eclipse Moon tassets",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -86657,7 +86556,7 @@
     "ge_limit": 15
   },
   "29010": {
-    "name": "Eclipse moon helm",
+    "name": "Eclipse Moon helm",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -86674,7 +86573,7 @@
     "ge_limit": 15
   },
   "29013": {
-    "name": "Blue moon chestplate",
+    "name": "Blue Moon chestplate",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -86688,7 +86587,7 @@
     "ge_limit": 15
   },
   "29016": {
-    "name": "Blue moon tassets",
+    "name": "Blue Moon tassets",
     "weight": 1.36,
     "equipable": true,
     "equipment": {
@@ -86702,7 +86601,7 @@
     "ge_limit": 15
   },
   "29019": {
-    "name": "Blue moon helm",
+    "name": "Blue Moon helm",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -86716,7 +86615,7 @@
     "ge_limit": 15
   },
   "29022": {
-    "name": "Blood moon chestplate",
+    "name": "Blood Moon chestplate",
     "weight": 5.443,
     "equipable": true,
     "equipment": {
@@ -86733,7 +86632,7 @@
     "ge_limit": 15
   },
   "29025": {
-    "name": "Blood moon tassets",
+    "name": "Blood Moon tassets",
     "weight": 4.082,
     "equipable": true,
     "equipment": {
@@ -86750,7 +86649,7 @@
     "ge_limit": 15
   },
   "29028": {
-    "name": "Blood moon helm",
+    "name": "Blood Moon helm",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -86767,7 +86666,7 @@
     "ge_limit": 15
   },
   "29031": {
-    "name": "Eclipse moon chestplate",
+    "name": "Eclipse Moon chestplate",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -86784,7 +86683,7 @@
     "ge_limit": 15
   },
   "29033": {
-    "name": "Eclipse moon tassets",
+    "name": "Eclipse Moon tassets",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -86801,7 +86700,7 @@
     "ge_limit": 15
   },
   "29035": {
-    "name": "Eclipse moon helm",
+    "name": "Eclipse Moon helm",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -86818,7 +86717,7 @@
     "ge_limit": 15
   },
   "29037": {
-    "name": "Blue moon chestplate",
+    "name": "Blue Moon chestplate",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -86832,7 +86731,7 @@
     "ge_limit": 15
   },
   "29039": {
-    "name": "Blue moon tassets",
+    "name": "Blue Moon tassets",
     "weight": 1.36,
     "equipable": true,
     "equipment": {
@@ -86846,7 +86745,7 @@
     "ge_limit": 15
   },
   "29041": {
-    "name": "Blue moon helm",
+    "name": "Blue Moon helm",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -86860,7 +86759,7 @@
     "ge_limit": 15
   },
   "29043": {
-    "name": "Blood moon chestplate",
+    "name": "Blood Moon chestplate",
     "weight": 5.443,
     "equipable": true,
     "equipment": {
@@ -86877,7 +86776,7 @@
     "ge_limit": 15
   },
   "29045": {
-    "name": "Blood moon tassets",
+    "name": "Blood Moon tassets",
     "weight": 4.082,
     "equipable": true,
     "equipment": {
@@ -86894,7 +86793,7 @@
     "ge_limit": 15
   },
   "29047": {
-    "name": "Blood moon helm",
+    "name": "Blood Moon helm",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -86911,7 +86810,7 @@
     "ge_limit": 15
   },
   "29049": {
-    "name": "Eclipse moon chestplate (broken)",
+    "name": "Eclipse Moon chestplate (broken)",
     "weight": 3.0,
     "equipable": true,
     "equipment": {
@@ -86920,7 +86819,7 @@
     "ge_limit": 15
   },
   "29052": {
-    "name": "Eclipse moon tassets (broken)",
+    "name": "Eclipse Moon tassets (broken)",
     "weight": 1.0,
     "equipable": true,
     "equipment": {
@@ -86929,7 +86828,7 @@
     "ge_limit": 15
   },
   "29055": {
-    "name": "Eclipse moon helm (broken)",
+    "name": "Eclipse Moon helm (broken)",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -86938,7 +86837,7 @@
     "ge_limit": 15
   },
   "29058": {
-    "name": "Blue moon chestplate (broken)",
+    "name": "Blue Moon chestplate (broken)",
     "weight": 3.175,
     "equipable": true,
     "equipment": {
@@ -86947,7 +86846,7 @@
     "ge_limit": 15
   },
   "29061": {
-    "name": "Blue moon tassets (broken)",
+    "name": "Blue Moon tassets (broken)",
     "weight": 1.36,
     "equipable": true,
     "equipment": {
@@ -86956,7 +86855,7 @@
     "ge_limit": 15
   },
   "29064": {
-    "name": "Blue moon helm (broken)",
+    "name": "Blue Moon helm (broken)",
     "weight": 0.453,
     "equipable": true,
     "equipment": {
@@ -86965,7 +86864,7 @@
     "ge_limit": 15
   },
   "29067": {
-    "name": "Blood moon chestplate (broken)",
+    "name": "Blood Moon chestplate (broken)",
     "weight": 5.443,
     "equipable": true,
     "equipment": {
@@ -86974,7 +86873,7 @@
     "ge_limit": 15
   },
   "29070": {
-    "name": "Blood moon tassets (broken)",
+    "name": "Blood Moon tassets (broken)",
     "weight": 4.082,
     "equipable": true,
     "equipment": {
@@ -86983,7 +86882,7 @@
     "ge_limit": 15
   },
   "29073": {
-    "name": "Blood moon helm (broken)",
+    "name": "Blood Moon helm (broken)",
     "weight": 0.907,
     "equipable": true,
     "equipment": {
@@ -88502,91 +88401,91 @@
     "weight": 0.01
   },
   "29648": {
-    "name": "Sigil of meticulousness",
+    "name": "Sigil of Meticulousness",
     "weight": 0.1
   },
   "29649": {
-    "name": "Sigil of meticulousness",
+    "name": "Sigil of Meticulousness",
     "weight": 0.1
   },
   "29651": {
-    "name": "Sigil of revoked limitation",
+    "name": "Sigil of Revoked Limitation",
     "weight": 0.1
   },
   "29652": {
-    "name": "Sigil of revoked limitation",
+    "name": "Sigil of Revoked Limitation",
     "weight": 0.1
   },
   "29654": {
-    "name": "Sigil of the rampart",
+    "name": "Sigil of the Rampart",
     "weight": 0.1
   },
   "29655": {
-    "name": "Sigil of the rampart",
+    "name": "Sigil of the Rampart",
     "weight": 0.1
   },
   "29657": {
-    "name": "Sigil of deception",
+    "name": "Sigil of Deception",
     "weight": 0.1
   },
   "29658": {
-    "name": "Sigil of deception",
+    "name": "Sigil of Deception",
     "weight": 0.1
   },
   "29660": {
-    "name": "Sigil of litheness",
+    "name": "Sigil of Litheness",
     "weight": 0.1
   },
   "29661": {
-    "name": "Sigil of litheness",
+    "name": "Sigil of Litheness",
     "weight": 0.1
   },
   "29663": {
-    "name": "Sigil of the adroit",
+    "name": "Sigil of the Adroit",
     "weight": 0.1
   },
   "29664": {
-    "name": "Sigil of the adroit",
+    "name": "Sigil of the Adroit",
     "weight": 0.1
   },
   "29666": {
-    "name": "Sigil of onslaught",
+    "name": "Sigil of Onslaught",
     "weight": 0.1
   },
   "29667": {
-    "name": "Sigil of onslaught",
+    "name": "Sigil of Onslaught",
     "weight": 0.1
   },
   "29669": {
-    "name": "Sigil of restoration",
+    "name": "Sigil of Restoration",
     "weight": 0.1
   },
   "29670": {
-    "name": "Sigil of restoration",
+    "name": "Sigil of Restoration",
     "weight": 0.1
   },
   "29672": {
-    "name": "Sigil of the swashbuckler",
+    "name": "Sigil of the Swashbuckler",
     "weight": 0.1
   },
   "29673": {
-    "name": "Sigil of the swashbuckler",
+    "name": "Sigil of the Swashbuckler",
     "weight": 0.1
   },
   "29675": {
-    "name": "Sigil of the gunslinger",
+    "name": "Sigil of the Gunslinger",
     "weight": 0.1
   },
   "29676": {
-    "name": "Sigil of the gunslinger",
+    "name": "Sigil of the Gunslinger",
     "weight": 0.1
   },
   "29678": {
-    "name": "Sigil of arcane swiftness",
+    "name": "Sigil of Arcane Swiftness",
     "weight": 0.1
   },
   "29679": {
-    "name": "Sigil of arcane swiftness",
+    "name": "Sigil of Arcane Swiftness",
     "weight": 0.1
   },
   "29686": {
@@ -89161,8 +89060,7 @@
       "dmagic": 55,
       "drange": 32,
       "str": 3
-    },
-    "ge_limit": 15
+    }
   },
   "29841": {
     "name": "Eclipse moon tassets",
@@ -89178,8 +89076,7 @@
       "dmagic": 31,
       "drange": 17,
       "str": 1
-    },
-    "ge_limit": 15
+    }
   },
   "29842": {
     "name": "Eclipse moon helm",
@@ -89195,8 +89092,7 @@
       "dmagic": 10,
       "drange": 4,
       "str": 3
-    },
-    "ge_limit": 15
+    }
   },
   "29843": {
     "name": "Blue moon chestplate",
@@ -89209,8 +89105,7 @@
       "dmagic": 28,
       "str": 2,
       "mdmg": 1.0
-    },
-    "ge_limit": 15
+    }
   },
   "29844": {
     "name": "Blue moon tassets",
@@ -89223,8 +89118,7 @@
       "dmagic": 32,
       "str": 1,
       "mdmg": 1.0
-    },
-    "ge_limit": 15
+    }
   },
   "29845": {
     "name": "Blue moon helm",
@@ -89237,8 +89131,7 @@
       "dmagic": 6,
       "str": 3,
       "mdmg": 1.0
-    },
-    "ge_limit": 15
+    }
   },
   "29846": {
     "name": "Blood moon chestplate",
@@ -89254,8 +89147,7 @@
       "dmagic": 40,
       "drange": 79,
       "str": 4
-    },
-    "ge_limit": 15
+    }
   },
   "29847": {
     "name": "Blood moon tassets",
@@ -89271,8 +89163,7 @@
       "dmagic": 32,
       "drange": 46,
       "str": 2
-    },
-    "ge_limit": 15
+    }
   },
   "29848": {
     "name": "Blood moon helm",
@@ -89288,8 +89179,7 @@
       "dmagic": 7,
       "drange": 29,
       "str": 4
-    },
-    "ge_limit": 15
+    }
   },
   "29849": {
     "name": "Blue moon spear",
@@ -89309,8 +89199,7 @@
       "str": 71,
       "aspeed": 5,
       "mdmg": 5.0
-    },
-    "ge_limit": 15
+    }
   },
   "29850": {
     "name": "Dual macuahuitl",
@@ -93258,17 +93147,17 @@
     }
   },
   "31136": {
-    "name": "Blood moon armour set",
+    "name": "Blood Moon armour set",
     "weight": 0.05,
     "ge_limit": 2
   },
   "31139": {
-    "name": "Blue moon armour set",
+    "name": "Blue Moon armour set",
     "weight": 0.05,
     "ge_limit": 2
   },
   "31142": {
-    "name": "Eclipse moon armour set",
+    "name": "Eclipse Moon armour set",
     "weight": 0.05,
     "ge_limit": 2
   },
@@ -94896,7 +94785,8 @@
   },
   "31949": {
     "name": "Bottled storm",
-    "weight": 0.5
+    "weight": 0.5,
+    "ge_limit": 15
   },
   "31952": {
     "name": "Swift albatross feather",
@@ -95431,83 +95321,83 @@
     "weight": 0.01
   },
   "32411": {
-    "name": "Small key (the pandemonium)",
+    "name": "Small key (The Pandemonium)",
     "weight": 0.01
   },
   "32412": {
-    "name": "Small key (the onyx crest)",
+    "name": "Small key (The Onyx Crest)",
     "weight": 0.01
   },
   "32413": {
-    "name": "Small key (tear of the soul)",
+    "name": "Small key (Tear of the Soul)",
     "weight": 0.01
   },
   "32414": {
-    "name": "Small key (ynysdail)",
+    "name": "Small key (Ynysdail)",
     "weight": 0.01
   },
   "32415": {
-    "name": "Small key (minotaurs' rest)",
+    "name": "Small key (Minotaurs' Rest)",
     "weight": 0.01
   },
   "32416": {
-    "name": "Small key (buccaneers' haven)",
+    "name": "Small key (Buccaneers' Haven)",
     "weight": 0.01
   },
   "32417": {
-    "name": "Small key (isle of bones)",
+    "name": "Small key (Isle of Bones)",
     "weight": 0.01
   },
   "32418": {
-    "name": "Small key (charred island)",
+    "name": "Small key (Charred Island)",
     "weight": 0.01
   },
   "32419": {
-    "name": "Small key (laguna aurorae)",
+    "name": "Small key (Laguna Aurorae)",
     "weight": 0.01
   },
   "32420": {
-    "name": "Small key (drumstick isle)",
+    "name": "Small key (Drumstick Isle)",
     "weight": 0.01
   },
   "32421": {
-    "name": "Lockbox directions (chinchompa island)",
+    "name": "Lockbox directions (Chinchompa Island)",
     "weight": 0.02
   },
   "32422": {
-    "name": "Lockbox directions (anglers' retreat)",
+    "name": "Lockbox directions (Anglers' Retreat)",
     "weight": 0.02
   },
   "32423": {
-    "name": "Lockbox directions (buccaneers' haven)",
+    "name": "Lockbox directions (Buccaneers' Haven)",
     "weight": 0.02
   },
   "32424": {
-    "name": "Lockbox directions (lledrith island)",
+    "name": "Lockbox directions (Lledrith Island)",
     "weight": 0.02
   },
   "32425": {
-    "name": "Lockbox directions (the crown jewel)",
+    "name": "Lockbox directions (The Crown Jewel)",
     "weight": 0.02
   },
   "32426": {
-    "name": "Lockbox directions (deepfin point)",
+    "name": "Lockbox directions (Deepfin Point)",
     "weight": 0.02
   },
   "32427": {
-    "name": "Lockbox directions (shimmering atoll)",
+    "name": "Lockbox directions (Shimmering Atoll)",
     "weight": 0.02
   },
   "32428": {
-    "name": "Lockbox directions (brittle isle)",
+    "name": "Lockbox directions (Brittle Isle)",
     "weight": 0.02
   },
   "32429": {
-    "name": "Lockbox directions (sunbleak island)",
+    "name": "Lockbox directions (Sunbleak Island)",
     "weight": 0.02
   },
   "32430": {
-    "name": "Lockbox directions (grimstone)",
+    "name": "Lockbox directions (Grimstone)",
     "weight": 0.02
   },
   "32431": {
@@ -100268,43 +100158,43 @@
     "weight": 1.0
   },
   "33053": {
-    "name": "Sigil of the gods",
+    "name": "Sigil of the Gods",
     "weight": 0.1
   },
   "33054": {
-    "name": "Sigil of the gods",
+    "name": "Sigil of the Gods",
     "weight": 0.1
   },
   "33055": {
-    "name": "Sigil of conclusion",
+    "name": "Sigil of Conclusion",
     "weight": 0.1
   },
   "33056": {
-    "name": "Sigil of conclusion",
+    "name": "Sigil of Conclusion",
     "weight": 0.1
   },
   "33057": {
-    "name": "Sigil of automation",
+    "name": "Sigil of Automation",
     "weight": 0.1
   },
   "33058": {
-    "name": "Sigil of automation",
+    "name": "Sigil of Automation",
     "weight": 0.1
   },
   "33059": {
-    "name": "Sigil of eternal belief",
+    "name": "Sigil of Eternal Belief",
     "weight": 0.1
   },
   "33060": {
-    "name": "Sigil of eternal belief",
+    "name": "Sigil of Eternal Belief",
     "weight": 0.1
   },
   "33061": {
-    "name": "Sigil of efficiency",
+    "name": "Sigil of Efficiency",
     "weight": 0.1
   },
   "33062": {
-    "name": "Sigil of efficiency",
+    "name": "Sigil of Efficiency",
     "weight": 0.1
   },
   "33063": {
@@ -102385,7 +102275,7 @@
     "weight": 0.28
   },
   "33705": {
-    "name": "Pious proceedings",
+    "name": "Pious Proceedings",
     "weight": 0.28
   },
   "33706": {
@@ -102449,7 +102339,7 @@
     }
   },
   "33715": {
-    "name": "Tome of experience",
+    "name": "Tome of Experience",
     "weight": 1.0
   },
   "33716": {
@@ -103578,14 +103468,27 @@
     "name": "Huge port coin bag",
     "weight": 1.0
   },
+  "34388": {
+    "name": "Big red button",
+    "weight": 0.1
+  },
+  "34390": {
+    "name": "Lanscape coins",
+    "weight": 0.002
+  },
   "34401": {
-    "name": "Necklace of fangs",
+    "name": "Necklace of Fangs",
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 2,
       "arange": 12,
       "rstr": 1
     }
+  },
+  "34404": {
+    "name": "Air diamond",
+    "weight": 0.001
   },
   "34407": {
     "name": "Amulet of air",
@@ -103596,6 +103499,10 @@
       "amagic": 10
     }
   },
+  "34410": {
+    "name": "Water sapphire",
+    "weight": 0.1
+  },
   "34413": {
     "name": "Amulet of water",
     "weight": 0.107,
@@ -103605,6 +103512,10 @@
       "amagic": 10
     }
   },
+  "34416": {
+    "name": "Earth emerald",
+    "weight": 1.0
+  },
   "34419": {
     "name": "Amulet of earth",
     "weight": 2.0,
@@ -103613,6 +103524,10 @@
       "slot": 2,
       "amagic": 10
     }
+  },
+  "34422": {
+    "name": "Fire ruby",
+    "weight": 0.1
   },
   "34425": {
     "name": "Amulet of fire",
@@ -103631,5 +103546,369 @@
       "slot": 2,
       "amagic": 10
     }
+  },
+  "34431": {
+    "name": "Labrador",
+    "weight": 0.75
+  },
+  "34433": {
+    "name": "Labrador",
+    "weight": 0.75
+  },
+  "34435": {
+    "name": "Labrador",
+    "weight": 0.75
+  },
+  "34437": {
+    "name": "Chihuahua",
+    "weight": 0.75
+  },
+  "34439": {
+    "name": "Chihuahua",
+    "weight": 0.75
+  },
+  "34441": {
+    "name": "Chihuahua",
+    "weight": 0.75
+  },
+  "34443": {
+    "name": "Border collie",
+    "weight": 0.75
+  },
+  "34445": {
+    "name": "Border collie",
+    "weight": 0.75
+  },
+  "34447": {
+    "name": "Border collie",
+    "weight": 0.75
+  },
+  "34449": {
+    "name": "Corgi",
+    "weight": 0.75
+  },
+  "34451": {
+    "name": "Corgi",
+    "weight": 0.75
+  },
+  "34453": {
+    "name": "Corgi",
+    "weight": 0.75
+  },
+  "34455": {
+    "name": "Greyhound",
+    "weight": 0.75
+  },
+  "34457": {
+    "name": "Greyhound",
+    "weight": 0.75
+  },
+  "34459": {
+    "name": "Greyhound",
+    "weight": 0.75
+  },
+  "34461": {
+    "name": "Husky",
+    "weight": 0.75
+  },
+  "34463": {
+    "name": "Husky",
+    "weight": 0.75
+  },
+  "34465": {
+    "name": "Husky",
+    "weight": 0.75
+  },
+  "34467": {
+    "name": "Pug",
+    "weight": 0.75
+  },
+  "34469": {
+    "name": "Pug",
+    "weight": 0.75
+  },
+  "34471": {
+    "name": "Pug",
+    "weight": 0.75
+  },
+  "34473": {
+    "name": "Samoyed",
+    "weight": 0.75
+  },
+  "34475": {
+    "name": "Samoyed",
+    "weight": 0.75
+  },
+  "34477": {
+    "name": "Samoyed",
+    "weight": 0.75
+  },
+  "34479": {
+    "name": "Bernese mountain dog",
+    "weight": 0.75
+  },
+  "34481": {
+    "name": "Bernese mountain dog",
+    "weight": 0.75
+  },
+  "34483": {
+    "name": "Bernese mountain dog",
+    "weight": 0.75
+  },
+  "34485": {
+    "name": "Shiba",
+    "weight": 0.75
+  },
+  "34487": {
+    "name": "Shiba",
+    "weight": 0.75
+  },
+  "34489": {
+    "name": "Shiba",
+    "weight": 0.75
+  },
+  "34491": {
+    "name": "Spaniel",
+    "weight": 0.75
+  },
+  "34493": {
+    "name": "Spaniel",
+    "weight": 0.75
+  },
+  "34495": {
+    "name": "Spaniel",
+    "weight": 0.75
+  },
+  "34497": {
+    "name": "Yorkie",
+    "weight": 0.75
+  },
+  "34499": {
+    "name": "Yorkie",
+    "weight": 0.75
+  },
+  "34501": {
+    "name": "Yorkie",
+    "weight": 0.75
+  },
+  "34503": {
+    "name": "Labrador puppy",
+    "weight": 0.75
+  },
+  "34505": {
+    "name": "Labrador puppy",
+    "weight": 0.75
+  },
+  "34507": {
+    "name": "Labrador puppy",
+    "weight": 0.75
+  },
+  "34509": {
+    "name": "Husky puppy",
+    "weight": 0.75
+  },
+  "34511": {
+    "name": "Husky puppy",
+    "weight": 0.75
+  },
+  "34513": {
+    "name": "Husky puppy",
+    "weight": 0.75
+  },
+  "34515": {
+    "name": "Chihuahua puppy",
+    "weight": 0.75
+  },
+  "34517": {
+    "name": "Chihuahua puppy",
+    "weight": 0.75
+  },
+  "34519": {
+    "name": "Chihuahua puppy",
+    "weight": 0.75
+  },
+  "34521": {
+    "name": "Border collie puppy",
+    "weight": 0.75
+  },
+  "34523": {
+    "name": "Border collie puppy",
+    "weight": 0.75
+  },
+  "34525": {
+    "name": "Border collie puppy",
+    "weight": 0.75
+  },
+  "34527": {
+    "name": "Corgi puppy",
+    "weight": 0.75
+  },
+  "34529": {
+    "name": "Corgi puppy",
+    "weight": 0.75
+  },
+  "34531": {
+    "name": "Corgi puppy",
+    "weight": 0.75
+  },
+  "34533": {
+    "name": "Greyhound puppy",
+    "weight": 0.75
+  },
+  "34535": {
+    "name": "Greyhound puppy",
+    "weight": 0.75
+  },
+  "34537": {
+    "name": "Greyhound puppy",
+    "weight": 0.75
+  },
+  "34539": {
+    "name": "Pug puppy",
+    "weight": 0.75
+  },
+  "34541": {
+    "name": "Pug puppy",
+    "weight": 0.75
+  },
+  "34543": {
+    "name": "Pug puppy",
+    "weight": 0.75
+  },
+  "34545": {
+    "name": "Samoyed puppy",
+    "weight": 0.75
+  },
+  "34547": {
+    "name": "Samoyed puppy",
+    "weight": 0.75
+  },
+  "34549": {
+    "name": "Samoyed puppy",
+    "weight": 0.75
+  },
+  "34551": {
+    "name": "Bernese mountain dog puppy",
+    "weight": 0.75
+  },
+  "34553": {
+    "name": "Bernese mountain dog puppy",
+    "weight": 0.75
+  },
+  "34555": {
+    "name": "Bernese mountain dog puppy",
+    "weight": 0.75
+  },
+  "34563": {
+    "name": "Spaniel puppy",
+    "weight": 0.75
+  },
+  "34566": {
+    "name": "Spaniel puppy",
+    "weight": 0.75
+  },
+  "34567": {
+    "name": "Spaniel puppy",
+    "weight": 0.75
+  },
+  "34575": {
+    "name": "Shell",
+    "weight": 0.15
+  },
+  "34576": {
+    "name": "Shell",
+    "weight": 0.14
+  },
+  "34577": {
+    "name": "Shell",
+    "weight": 0.13
+  },
+  "34578": {
+    "name": "Shell",
+    "weight": 0.12
+  },
+  "34579": {
+    "name": "Shell",
+    "weight": 0.11
+  },
+  "34580": {
+    "name": "Shell",
+    "weight": 0.1
+  },
+  "34581": {
+    "name": "Shell",
+    "weight": 0.09
+  },
+  "34582": {
+    "name": "Shell",
+    "weight": 0.12
+  },
+  "34583": {
+    "name": "Shell",
+    "weight": 0.12
+  },
+  "34584": {
+    "name": "Weathered rosewood plank",
+    "weight": 0.4
+  },
+  "34585": {
+    "name": "Battered barrel",
+    "weight": 1.2
+  },
+  "34586": {
+    "name": "Sea-soaked bowstring",
+    "weight": 0.02
+  },
+  "34587": {
+    "name": "Instrument",
+    "weight": 1.218
+  },
+  "34589": {
+    "name": "Shell collection",
+    "weight": 0.84
+  },
+  "34591": {
+    "name": "Shell C",
+    "weight": 0.15
+  },
+  "34592": {
+    "name": "Shell D",
+    "weight": 0.14
+  },
+  "34593": {
+    "name": "Shell E",
+    "weight": 0.13
+  },
+  "34594": {
+    "name": "Shell F",
+    "weight": 0.12
+  },
+  "34595": {
+    "name": "Shell G",
+    "weight": 0.11
+  },
+  "34596": {
+    "name": "Shell A",
+    "weight": 0.1
+  },
+  "34597": {
+    "name": "Shell A#",
+    "weight": 0.09
+  },
+  "34598": {
+    "name": "Stray puppy",
+    "weight": 3.0
+  },
+  "34599": {
+    "name": "Stray puppy",
+    "weight": 3.0
+  },
+  "34600": {
+    "name": "Stray puppy",
+    "weight": 3.0
+  },
+  "34602": {
+    "name": "Stuffed dog",
+    "weight": 0.907
   }
 }
