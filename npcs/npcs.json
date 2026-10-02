@@ -14951,6 +14951,26 @@
     "name": "Wyrd",
     "hitpoints": 1100
   },
+  "16213": {
+    "name": "Venator",
+    "hitpoints": 160
+  },
+  "16214": {
+    "name": "Venator",
+    "hitpoints": 160
+  },
+  "16215": {
+    "name": "Venator",
+    "hitpoints": 160
+  },
+  "16216": {
+    "name": "Venator",
+    "hitpoints": 160
+  },
+  "16217": {
+    "name": "Venator",
+    "hitpoints": 160
+  },
   "16223": {
     "name": "Sanguidae",
     "hitpoints": 10
@@ -15038,5 +15058,29 @@
   "16344": {
     "name": "Vampyre Snail",
     "hitpoints": 500
+  },
+  "16354": {
+    "name": "Giant Mole (Zamorak)",
+    "hitpoints": 1000
+  },
+  "16355": {
+    "name": "Giant Mole (Saradomin)",
+    "hitpoints": 1000
+  },
+  "16356": {
+    "name": "Giant Mole (Guthix)",
+    "hitpoints": 1000
+  },
+  "16357": {
+    "name": "Giant Mole (Bandos)",
+    "hitpoints": 1000
+  },
+  "16527": {
+    "name": "Outlaw",
+    "hitpoints": 20
+  },
+  "16528": {
+    "name": "Outlaw",
+    "hitpoints": 13
   }
 }
