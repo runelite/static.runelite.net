@@ -104,6 +104,7 @@ net.runelite.client.plugins.itemstats.food
 net.runelite.client.plugins.itemstats.potions
 net.runelite.client.plugins.itemstats.special
 net.runelite.client.plugins.itemstats.stats
+net.runelite.client.plugins.jagexauth
 net.runelite.client.plugins.keyremapping
 net.runelite.client.plugins.kingdomofmiscellania
 net.runelite.client.plugins.kourendlibrary
@@ -193,6 +194,7 @@ net.runelite.client.plugins.xptracker
 net.runelite.client.plugins.xpupdater
 net.runelite.client.plugins.zalcano
 net.runelite.client.rs
+net.runelite.client.rs.auth
 net.runelite.client.task
 net.runelite.client.ui
 net.runelite.client.ui.components
