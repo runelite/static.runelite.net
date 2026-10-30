@@ -92228,7 +92228,8 @@
   },
   "30744": {
     "name": "Oathplate armour set",
-    "weight": 0.05
+    "weight": 0.05,
+    "ge_limit": 5
   },
   "30747": {
     "name": "Demon dung",
@@ -94097,7 +94098,8 @@
   },
   "31569": {
     "name": "Squid paste",
-    "weight": 0.3
+    "weight": 0.3,
+    "ge_limit": 13000
   },
   "31572": {
     "name": "Squid beak",
@@ -104173,5 +104175,295 @@
   "34643": {
     "name": "Supply crate",
     "weight": 4.0
+  },
+  "34646": {
+    "name": "Orion",
+    "weight": 0.015
+  },
+  "34648": {
+    "name": "Orion\n",
+    "weight": 0.015
+  },
+  "34657": {
+    "name": "Alliance's message",
+    "weight": 0.003
+  },
+  "34658": {
+    "name": "Archive key",
+    "weight": 0.02
+  },
+  "34659": {
+    "name": "Living record (tier 1)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "34661": {
+    "name": "Living record (tier 2)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "34663": {
+    "name": "Living record (tier 3)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "34665": {
+    "name": "Living record (tier 4)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "34667": {
+    "name": "Living record (tier 5)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "34669": {
+    "name": "Ascension shards",
+    "ge_limit": 30000
+  },
+  "34671": {
+    "name": "Fragment of living earth",
+    "weight": 0.453
+  },
+  "34673": {
+    "name": "Fragment of deep water",
+    "weight": 0.453
+  },
+  "34675": {
+    "name": "Fragment of whispering wind",
+    "weight": 0.453
+  },
+  "34677": {
+    "name": "Fragment of burning fire",
+    "weight": 0.453
+  },
+  "34679": {
+    "name": "Horn of Bran",
+    "weight": 0.453
+  },
+  "34681": {
+    "name": "Ascension crossbows",
+    "weight": 6.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "amagic": 3,
+      "arange": 34,
+      "dstab": -7,
+      "dslash": -5,
+      "dmagic": 10,
+      "aspeed": 3
+    }
+  },
+  "34684": {
+    "name": "Ascension bolts",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 53
+    },
+    "ge_limit": 11000
+  },
+  "34690": {
+    "name": "Diamond ascension bolts",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 58
+    }
+  },
+  "34696": {
+    "name": "Diamond ascension bolts (e)",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 58
+    },
+    "ge_limit": 11000
+  },
+  "34702": {
+    "name": "Onyx ascension bolts",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 58
+    }
+  },
+  "34708": {
+    "name": "Onyx ascension bolts (e)",
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "rstr": 58
+    },
+    "ge_limit": 11000
+  },
+  "34715": {
+    "name": "Obligator",
+    "weight": 4.989,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 22,
+      "aslash": -8,
+      "acrush": 120,
+      "dslash": 16,
+      "dmagic": 3,
+      "drange": 8,
+      "str": 40,
+      "prayer": 3,
+      "aspeed": 5
+    }
+  },
+  "34717": {
+    "name": "Obligator (uncharged)",
+    "weight": 4.989,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 22,
+      "aslash": -8,
+      "acrush": 120,
+      "dslash": 16,
+      "dmagic": 3,
+      "drange": 8,
+      "str": 40,
+      "prayer": 3,
+      "aspeed": 5
+    }
+  },
+  "34719": {
+    "name": "Rondache",
+    "weight": 4.122,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -5,
+      "arange": -8,
+      "dstab": 35,
+      "dslash": 41,
+      "dcrush": 38,
+      "dmagic": -6,
+      "drange": 55,
+      "str": 8
+    },
+    "ge_limit": 8
+  },
+  "34722": {
+    "name": "Archivist's folio (inert)",
+    "weight": 0.06
+  },
+  "34723": {
+    "name": "Archivist's folio",
+    "weight": 0.06
+  },
+  "34725": {
+    "name": "Zorya's tome",
+    "weight": 5.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "amagic": 45,
+      "dstab": 1,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 10,
+      "prayer": 2,
+      "aspeed": 3,
+      "mdmg": 15.0
+    }
+  },
+  "34727": {
+    "name": "Zorya's tome (uncharged)",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "amagic": 45,
+      "dstab": 1,
+      "dslash": 5,
+      "dcrush": 5,
+      "dmagic": 10,
+      "prayer": 2,
+      "aspeed": 3,
+      "mdmg": 15.0
+    },
+    "ge_limit": 8
+  },
+  "34729": {
+    "name": "Alliance log",
+    "weight": 0.01
+  },
+  "34730": {
+    "name": "Leftovers",
+    "weight": 1.5
+  },
+  "34732": {
+    "name": "Candy onion",
+    "weight": 2.267
+  },
+  "34734": {
+    "name": "Sugar",
+    "weight": 1.36
+  },
+  "34736": {
+    "name": "Molten sugar",
+    "weight": 0.907
+  },
+  "34738": {
+    "name": "Old onion",
+    "weight": 1.36
+  },
+  "34740": {
+    "name": "Vampyre monocle",
+    "weight": 0.003,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "34742": {
+    "name": "Vampyre costume top",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "34744": {
+    "name": "Vampyre costume bottom",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "34746": {
+    "name": "Vampyre costume cape",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
   }
 }
