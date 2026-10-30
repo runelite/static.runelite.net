@@ -14331,6 +14331,10 @@
     "name": "Rockslug",
     "hitpoints": 27
   },
+  "14424": {
+    "name": "Giant Rock Crab",
+    "hitpoints": 180
+  },
   "14426": {
     "name": "Skeleton",
     "hitpoints": 30
@@ -15202,6 +15206,110 @@
   "16625": {
     "name": "Blink",
     "hitpoints": 99
+  },
+  "16640": {
+    "name": "Bork",
+    "hitpoints": 1500
+  },
+  "16641": {
+    "name": "The Smorks",
+    "hitpoints": 600
+  },
+  "16643": {
+    "name": "Dagon'hai Elder",
+    "hitpoints": 640
+  },
+  "16644": {
+    "name": "Dagon'hai Elder",
+    "hitpoints": 640
+  },
+  "16645": {
+    "name": "Dagon'hai Monk",
+    "hitpoints": 640
+  },
+  "16646": {
+    "name": "Dagon'hai Monk",
+    "hitpoints": 640
+  },
+  "16647": {
+    "name": "Dagon'hai Monk",
+    "hitpoints": 640
+  },
+  "16648": {
+    "name": "Dagon'hai Monk",
+    "hitpoints": 640
+  },
+  "16650": {
+    "name": "Imp",
+    "hitpoints": 44
+  },
+  "16652": {
+    "name": "Ezekiel",
+    "hitpoints": 3000
+  },
+  "16665": {
+    "name": "Dreadnoth the Jellied",
+    "hitpoints": 2100
+  },
+  "16666": {
+    "name": "Jelly",
+    "hitpoints": 61
+  },
+  "16667": {
+    "name": "Moia",
+    "hitpoints": 1900
+  },
+  "16670": {
+    "name": "Undead binder",
+    "hitpoints": 95
+  },
+  "16673": {
+    "name": "Ocellus",
+    "hitpoints": 2500
+  },
+  "16674": {
+    "name": "Ocellus",
+    "hitpoints": 2500
+  },
+  "16675": {
+    "name": "Ocellus",
+    "hitpoints": 1000
+  },
+  "16676": {
+    "name": "Ocellus",
+    "hitpoints": 1000
+  },
+  "16677": {
+    "name": "Ocellus",
+    "hitpoints": 5250
+  },
+  "16678": {
+    "name": "Void Rift",
+    "hitpoints": 44
+  },
+  "16679": {
+    "name": "Void Siphon",
+    "hitpoints": 44
+  },
+  "16680": {
+    "name": "Void Augmenter",
+    "hitpoints": 44
+  },
+  "16681": {
+    "name": "Void Vine",
+    "hitpoints": 44
+  },
+  "16684": {
+    "name": "Xarth",
+    "hitpoints": 2600
+  },
+  "16687": {
+    "name": "Corpse",
+    "hitpoints": 62
+  },
+  "16688": {
+    "name": "Corpse",
+    "hitpoints": 62
   },
   "19597": {
     "name": "Pete Kayer",
