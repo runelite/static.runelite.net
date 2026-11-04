@@ -104465,5 +104465,14 @@
     "equipment": {
       "slot": 1
     }
+  },
+  "34762": {
+    "name": "Amulet of sight",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "arange": 10
+    }
   }
 }
