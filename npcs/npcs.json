@@ -3515,10 +3515,6 @@
     "name": "TzHaar-Ket",
     "hitpoints": 140
   },
-  "2187": {
-    "name": "TzHaar-Ket",
-    "hitpoints": 140
-  },
   "2189": {
     "name": "Tz-Kih",
     "hitpoints": 10
@@ -12787,10 +12783,6 @@
     "name": "Assassin",
     "hitpoints": 400
   },
-  "12063": {
-    "name": "Strange Creature",
-    "hitpoints": 550
-  },
   "12073": {
     "name": "Strange Creature",
     "hitpoints": 550
@@ -14855,13 +14847,17 @@
     "name": "Kalphite Queen (Echo)",
     "hitpoints": 561
   },
+  "15625": {
+    "name": "Bull",
+    "hitpoints": 58
+  },
   "15626": {
     "name": "Brutus",
     "hitpoints": 58
   },
   "15627": {
     "name": "Brutus",
-    "hitpoints": 58
+    "hitpoints": 60
   },
   "15628": {
     "name": "Demonic Brutus",
@@ -15310,6 +15306,34 @@
   "16688": {
     "name": "Corpse",
     "hitpoints": 62
+  },
+  "16835": {
+    "name": "Outlaw",
+    "hitpoints": 9
+  },
+  "16836": {
+    "name": "Outlaw",
+    "hitpoints": 9
+  },
+  "16837": {
+    "name": "Outlaw",
+    "hitpoints": 9
+  },
+  "16839": {
+    "name": "Outlaw",
+    "hitpoints": 9
+  },
+  "16840": {
+    "name": "Outlaw",
+    "hitpoints": 9
+  },
+  "16842": {
+    "name": "Outlaw",
+    "hitpoints": 15
+  },
+  "16843": {
+    "name": "Outlaw",
+    "hitpoints": 15
   },
   "19597": {
     "name": "Pete Kayer",
