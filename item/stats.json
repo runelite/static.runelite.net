@@ -5472,7 +5472,7 @@
     "ge_limit": 40
   },
   "1277": {
-    "name": "Bronze sword",
+    "name": "Bronze shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -5488,7 +5488,7 @@
     "ge_limit": 125
   },
   "1279": {
-    "name": "Iron sword",
+    "name": "Iron shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -5504,7 +5504,7 @@
     "ge_limit": 125
   },
   "1281": {
-    "name": "Steel sword",
+    "name": "Steel shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -5520,7 +5520,7 @@
     "ge_limit": 125
   },
   "1283": {
-    "name": "Black sword",
+    "name": "Black shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -5536,7 +5536,7 @@
     "ge_limit": 125
   },
   "1285": {
-    "name": "Mithril sword",
+    "name": "Mithril shortsword",
     "weight": 1.587,
     "equipable": true,
     "equipment": {
@@ -5552,7 +5552,7 @@
     "ge_limit": 125
   },
   "1287": {
-    "name": "Adamant sword",
+    "name": "Adamant shortsword",
     "weight": 2.041,
     "equipable": true,
     "equipment": {
@@ -5568,7 +5568,7 @@
     "ge_limit": 125
   },
   "1289": {
-    "name": "Rune sword",
+    "name": "Rune shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -26259,7 +26259,7 @@
     "ge_limit": 125
   },
   "6605": {
-    "name": "White sword",
+    "name": "White shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -30403,7 +30403,7 @@
     }
   },
   "7675": {
-    "name": "Wooden sword",
+    "name": "Wooden shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -35960,53 +35960,6 @@
     "weight": 0.907,
     "equipable": true,
     "equipment": {}
-  },
-  "9703": {
-    "name": "Training sword",
-    "weight": 1.814,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "astab": 4,
-      "aslash": 3,
-      "acrush": -2,
-      "dslash": 2,
-      "dcrush": 1,
-      "str": 5,
-      "aspeed": 4
-    }
-  },
-  "9704": {
-    "name": "Training shield",
-    "weight": 5.443,
-    "equipable": true,
-    "equipment": {
-      "slot": 5,
-      "dstab": 4,
-      "dslash": 5,
-      "dcrush": 3,
-      "dmagic": 1,
-      "drange": 4
-    }
-  },
-  "9705": {
-    "name": "Training bow",
-    "weight": 1.36,
-    "equipable": true,
-    "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 8,
-      "aspeed": 4
-    }
-  },
-  "9706": {
-    "name": "Training arrows",
-    "equipable": true,
-    "equipment": {
-      "slot": 13,
-      "rstr": 7
-    }
   },
   "9715": {
     "name": "Slashed book",
@@ -57664,7 +57617,7 @@
     "ge_limit": 8
   },
   "21009": {
-    "name": "Dragon sword",
+    "name": "Dragon shortsword",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -83301,7 +83254,7 @@
     }
   },
   "28029": {
-    "name": "Dragon sword (cr)",
+    "name": "Dragon shortsword (cr)",
     "weight": 1.814,
     "equipable": true,
     "equipment": {
@@ -104096,6 +104049,123 @@
       "mdmg": 2.0
     }
   },
+  "34609": {
+    "name": "Karil's leatherskirt",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": -10,
+      "arange": 17,
+      "dstab": 26,
+      "dslash": 20,
+      "dcrush": 28,
+      "dmagic": 35,
+      "drange": 33
+    },
+    "ge_limit": 15
+  },
+  "34611": {
+    "name": "Bandos chestplate",
+    "weight": 12.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -15,
+      "arange": -10,
+      "dstab": 98,
+      "dslash": 93,
+      "dcrush": 105,
+      "dmagic": -6,
+      "drange": 133,
+      "str": 4,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "34613": {
+    "name": "Fighter torso",
+    "weight": 4.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": -40,
+      "dstab": 62,
+      "dslash": 85,
+      "dcrush": 62,
+      "dmagic": -10,
+      "drange": 67,
+      "str": 4
+    }
+  },
+  "34615": {
+    "name": "Black d'hide shield",
+    "weight": 8.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": -15,
+      "aslash": -15,
+      "acrush": -11,
+      "amagic": -10,
+      "arange": 7,
+      "dstab": 21,
+      "dslash": 18,
+      "dcrush": 16,
+      "dmagic": 15,
+      "drange": 14
+    },
+    "ge_limit": 125
+  },
+  "34617": {
+    "name": "Torva full helm",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -5,
+      "arange": -5,
+      "dstab": 59,
+      "dslash": 60,
+      "dcrush": 62,
+      "dmagic": -2,
+      "drange": 57,
+      "str": 8,
+      "prayer": 1
+    },
+    "ge_limit": 8
+  },
+  "34619": {
+    "name": "Abyssal tentacle",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aslash": 90,
+      "str": 86,
+      "aspeed": 4
+    }
+  },
+  "34621": {
+    "name": "Dragon boots",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 10,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 16,
+      "dslash": 17,
+      "dcrush": 18,
+      "str": 4
+    },
+    "ge_limit": 70
+  },
+  "34623": {
+    "name": "Anglerfish",
+    "weight": 0.4,
+    "ge_limit": 10000
+  },
   "34625": {
     "name": "Imbued ancient max cape",
     "weight": 0.453,
@@ -104464,6 +104534,71 @@
     "equipable": true,
     "equipment": {
       "slot": 1
+    }
+  },
+  "34748": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "34749": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "34750": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "34751": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "34752": {
+    "name": "Mudfoot",
+    "weight": 0.001
+  },
+  "34753": {
+    "name": "Mudfoot",
+    "weight": 0.001
+  },
+  "34754": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "34755": {
+    "name": "Antique lamp",
+    "weight": 0.1
+  },
+  "34756": {
+    "name": "Letter",
+    "weight": 0.003
+  },
+  "34757": {
+    "name": "Newspaper cutting",
+    "weight": 0.003
+  },
+  "34758": {
+    "name": "Bloody knife",
+    "weight": 0.2
+  },
+  "34759": {
+    "name": "Human head",
+    "weight": 0.6
+  },
+  "34760": {
+    "name": "Letter",
+    "weight": 0.003
+  },
+  "34761": {
+    "name": "Certificate",
+    "weight": 0.003
+  },
+  "34762": {
+    "name": "Amulet of sight",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "arange": 10
     }
   }
 }
