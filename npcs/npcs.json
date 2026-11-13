@@ -15205,11 +15205,11 @@
   },
   "16640": {
     "name": "Bork",
-    "hitpoints": 1500
+    "hitpoints": 1650
   },
   "16641": {
     "name": "The Smorks",
-    "hitpoints": 600
+    "hitpoints": 650
   },
   "16643": {
     "name": "Dagon'hai Elder",
@@ -15242,6 +15242,18 @@
   "16652": {
     "name": "Ezekiel",
     "hitpoints": 3000
+  },
+  "16653": {
+    "name": "Animated Sword",
+    "hitpoints": 120
+  },
+  "16661": {
+    "name": "Inert Guardian",
+    "hitpoints": 150
+  },
+  "16662": {
+    "name": "Inert Guardian",
+    "hitpoints": 150
   },
   "16665": {
     "name": "Dreadnoth the Jellied",
@@ -15297,7 +15309,7 @@
   },
   "16684": {
     "name": "Xarth",
-    "hitpoints": 2600
+    "hitpoints": 2450
   },
   "16687": {
     "name": "Corpse",
@@ -15334,6 +15346,14 @@
   "16843": {
     "name": "Outlaw",
     "hitpoints": 15
+  },
+  "16883": {
+    "name": "Leech",
+    "hitpoints": 25
+  },
+  "16885": {
+    "name": "SnelmLover500",
+    "hitpoints": 35
   },
   "19597": {
     "name": "Pete Kayer",

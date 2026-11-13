@@ -37239,7 +37239,7 @@
     "ge_limit": 250
   },
   "10010": {
-    "name": "Butterfly net",
+    "name": "Insect net",
     "weight": 0.226,
     "equipable": true,
     "equipment": {
@@ -41867,7 +41867,7 @@
     "weight": 1.0
   },
   "11259": {
-    "name": "Magic butterfly net",
+    "name": "Magic insect net",
     "weight": 0.226,
     "equipable": true,
     "equipment": {
@@ -104356,7 +104356,8 @@
     "equipment": {
       "slot": 13,
       "rstr": 58
-    }
+    },
+    "ge_limit": 11000
   },
   "34696": {
     "name": "Diamond ascension bolts (e)",
@@ -104418,7 +104419,8 @@
       "str": 40,
       "prayer": 3,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "34719": {
     "name": "Rondache",
@@ -104599,6 +104601,118 @@
     "equipment": {
       "slot": 2,
       "arange": 10
+    }
+  },
+  "34766": {
+    "name": "Painted shortsword",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 4,
+      "aslash": 3,
+      "acrush": -2,
+      "dslash": 2,
+      "dcrush": 1,
+      "str": 5,
+      "aspeed": 4
+    }
+  },
+  "34769": {
+    "name": "Painted kiteshield",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -8,
+      "arange": -3,
+      "dstab": 5,
+      "dslash": 7,
+      "dcrush": 6,
+      "dmagic": -1,
+      "drange": 6
+    }
+  },
+  "34772": {
+    "name": "Painted shortbow",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 8,
+      "aspeed": 4
+    }
+  },
+  "34775": {
+    "name": "Bee box",
+    "weight": 0.01
+  },
+  "34777": {
+    "name": "Bee hunter's hat",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "34779": {
+    "name": "Wasp sting",
+    "weight": 0.005
+  },
+  "34781": {
+    "name": "Killer wasp sting",
+    "weight": 0.005
+  },
+  "34783": {
+    "name": "Brown feather",
+    "weight": 0.002
+  },
+  "34785": {
+    "name": "Black feather",
+    "weight": 0.002
+  },
+  "34787": {
+    "name": "Wasp dart",
+    "weight": 0.01
+  },
+  "34789": {
+    "name": "Killer wasp dart",
+    "weight": 0.01
+  },
+  "34791": {
+    "name": "Bea's supplies",
+    "weight": 0.1
+  },
+  "34793": {
+    "name": "Fresh leaves",
+    "weight": 0.056
+  },
+  "34795": {
+    "name": "Dew-covered branch",
+    "weight": 0.056
+  },
+  "34797": {
+    "name": "Restorative dew",
+    "weight": 0.028
+  },
+  "34799": {
+    "name": "Strong sticks",
+    "weight": 0.056
+  },
+  "34801": {
+    "name": "Pink snelm",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 7,
+      "dslash": 8,
+      "dcrush": 6,
+      "dmagic": -1,
+      "drange": 7
     }
   }
 }
