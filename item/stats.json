@@ -30846,7 +30846,7 @@
     "weight": 0.003
   },
   "7813": {
-    "name": "Bone in vinegar",
+    "name": "Goblin skull in vinegar",
     "weight": 1.36
   },
   "7814": {
@@ -30858,7 +30858,7 @@
     "weight": 0.003
   },
   "7816": {
-    "name": "Bone in vinegar",
+    "name": "Bear ribs in vinegar",
     "weight": 1.36
   },
   "7817": {
@@ -30870,7 +30870,7 @@
     "weight": 0.003
   },
   "7819": {
-    "name": "Bone in vinegar",
+    "name": "Ram skull in vinegar",
     "weight": 1.36
   },
   "7820": {
@@ -30882,7 +30882,7 @@
     "weight": 0.003
   },
   "7822": {
-    "name": "Bone in vinegar",
+    "name": "Unicorn bone in vinegar",
     "weight": 1.36
   },
   "7823": {
@@ -30893,10 +30893,6 @@
     "name": "Giant rat bone",
     "weight": 0.003
   },
-  "7825": {
-    "name": "Bone in vinegar",
-    "weight": 1.36
-  },
   "7826": {
     "name": "Giant rat bone",
     "weight": 0.003
@@ -30904,10 +30900,6 @@
   "7827": {
     "name": "Giant bat wing",
     "weight": 0.907
-  },
-  "7828": {
-    "name": "Bone in vinegar",
-    "weight": 1.36
   },
   "7829": {
     "name": "Giant bat wing",
@@ -30918,7 +30910,7 @@
     "weight": 0.907
   },
   "7831": {
-    "name": "Bone in vinegar",
+    "name": "Wolf bone in vinegar",
     "weight": 1.36
   },
   "7832": {
@@ -30930,7 +30922,7 @@
     "weight": 0.907
   },
   "7834": {
-    "name": "Bone in vinegar",
+    "name": "Bat wing in vinegar",
     "weight": 1.36
   },
   "7835": {
@@ -30942,7 +30934,7 @@
     "weight": 0.003
   },
   "7837": {
-    "name": "Bone in vinegar",
+    "name": "Rat bone in vinegar",
     "weight": 1.36
   },
   "7838": {
@@ -30954,7 +30946,7 @@
     "weight": 0.907
   },
   "7840": {
-    "name": "Bone in vinegar",
+    "name": "Baby dragon bone in vinegar",
     "weight": 1.36
   },
   "7841": {
@@ -30966,7 +30958,7 @@
     "weight": 0.907
   },
   "7843": {
-    "name": "Bone in vinegar",
+    "name": "Ogre ribs in vinegar",
     "weight": 1.36
   },
   "7844": {
@@ -30978,7 +30970,7 @@
     "weight": 0.907
   },
   "7846": {
-    "name": "Bone in vinegar",
+    "name": "Jogre bone in vinegar",
     "weight": 1.36
   },
   "7847": {
@@ -30990,7 +30982,7 @@
     "weight": 0.907
   },
   "7849": {
-    "name": "Bone in vinegar",
+    "name": "Zogre bone in vinegar",
     "weight": 1.36
   },
   "7850": {
@@ -31002,7 +30994,7 @@
     "weight": 0.907
   },
   "7852": {
-    "name": "Bone in vinegar",
+    "name": "Mogre bone in vinegar",
     "weight": 1.36
   },
   "7853": {
@@ -31014,7 +31006,7 @@
     "weight": 0.003
   },
   "7855": {
-    "name": "Bone in vinegar",
+    "name": "Monkey paw in vinegar",
     "weight": 1.36
   },
   "7856": {
@@ -31026,7 +31018,7 @@
     "weight": 0.907
   },
   "7858": {
-    "name": "Bone in vinegar",
+    "name": "Dagannoth ribs in vinegar",
     "weight": 1.36
   },
   "7859": {
@@ -31038,7 +31030,7 @@
     "weight": 0.907
   },
   "7861": {
-    "name": "Bone in vinegar",
+    "name": "Snake spine in vinegar",
     "weight": 1.36
   },
   "7862": {
@@ -31050,7 +31042,7 @@
     "weight": 0.907
   },
   "7864": {
-    "name": "Bone in vinegar",
+    "name": "Zombie bone in vinegar",
     "weight": 1.36
   },
   "7865": {
@@ -31062,7 +31054,7 @@
     "weight": 0.907
   },
   "7867": {
-    "name": "Bone in vinegar",
+    "name": "Werewolf bone in vinegar",
     "weight": 1.36
   },
   "7868": {
@@ -31074,7 +31066,7 @@
     "weight": 0.003
   },
   "7870": {
-    "name": "Bone in vinegar",
+    "name": "Moss giant bone in vinegar",
     "weight": 0.907
   },
   "7871": {
@@ -31086,7 +31078,7 @@
     "weight": 0.907
   },
   "7873": {
-    "name": "Bone in vinegar",
+    "name": "Fire giant bone in vinegar",
     "weight": 1.36
   },
   "7874": {
@@ -31098,7 +31090,7 @@
     "weight": 0.907
   },
   "7876": {
-    "name": "Bone in vinegar",
+    "name": "Ice giant ribs in vinegar",
     "weight": 1.36
   },
   "7877": {
@@ -31110,7 +31102,7 @@
     "weight": 0.907
   },
   "7879": {
-    "name": "Bone in vinegar",
+    "name": "Terrorbird wing in vinegar",
     "weight": 1.36
   },
   "7880": {
@@ -31122,7 +31114,7 @@
     "weight": 0.907
   },
   "7882": {
-    "name": "Bone in vinegar",
+    "name": "Ghoul bone in vinegar",
     "weight": 1.36
   },
   "7883": {
@@ -31134,7 +31126,7 @@
     "weight": 0.907
   },
   "7885": {
-    "name": "Bone in vinegar",
+    "name": "Troll bone in vinegar",
     "weight": 1.36
   },
   "7886": {
@@ -31146,7 +31138,7 @@
     "weight": 0.907
   },
   "7888": {
-    "name": "Bone in vinegar",
+    "name": "Seagull wing in vinegar",
     "weight": 1.36
   },
   "7889": {
@@ -31158,7 +31150,7 @@
     "weight": 0.907
   },
   "7891": {
-    "name": "Bone in vinegar",
+    "name": "Undead cow ribs in vinegar",
     "weight": 1.36
   },
   "7892": {
@@ -31170,7 +31162,7 @@
     "weight": 0.907
   },
   "7894": {
-    "name": "Bone in vinegar",
+    "name": "Experiment bone in vinegar",
     "weight": 1.36
   },
   "7895": {
@@ -31182,7 +31174,7 @@
     "weight": 0.907
   },
   "7897": {
-    "name": "Bone in vinegar",
+    "name": "Rabbit bone in vinegar",
     "weight": 1.36
   },
   "7898": {
@@ -31194,7 +31186,7 @@
     "weight": 0.907
   },
   "7900": {
-    "name": "Bone in vinegar",
+    "name": "Basilisk bone in vinegar",
     "weight": 1.36
   },
   "7901": {
@@ -31206,20 +31198,12 @@
     "weight": 0.907
   },
   "7903": {
-    "name": "Bone in vinegar",
+    "name": "Desert lizard bone in vinegar",
     "weight": 1.36
   },
   "7904": {
     "name": "Desert lizard bone",
     "weight": 0.907
-  },
-  "7905": {
-    "name": "Cave goblin skull",
-    "weight": 0.907
-  },
-  "7906": {
-    "name": "Bone in vinegar",
-    "weight": 1.36
   },
   "7907": {
     "name": "Cave goblin skull",
@@ -31230,7 +31214,7 @@
     "weight": 0.907
   },
   "7909": {
-    "name": "Bone in vinegar",
+    "name": "Big frog leg in vinegar",
     "weight": 1.36
   },
   "7910": {
@@ -31242,7 +31226,7 @@
     "weight": 0.907
   },
   "7912": {
-    "name": "Bone in vinegar",
+    "name": "Vulture wing in vinegar",
     "weight": 1.36
   },
   "7913": {
@@ -31254,7 +31238,7 @@
     "weight": 0.003
   },
   "7915": {
-    "name": "Bone in vinegar",
+    "name": "Jackal bone in vinegar",
     "weight": 1.36
   },
   "7916": {
@@ -37239,7 +37223,7 @@
     "ge_limit": 250
   },
   "10010": {
-    "name": "Butterfly net",
+    "name": "Insect net",
     "weight": 0.226,
     "equipable": true,
     "equipment": {
@@ -41867,7 +41851,7 @@
     "weight": 1.0
   },
   "11259": {
-    "name": "Magic butterfly net",
+    "name": "Magic insect net",
     "weight": 0.226,
     "equipable": true,
     "equipment": {
@@ -103791,49 +103775,97 @@
     "name": "Yorkie",
     "weight": 0.75
   },
+  "34502": {
+    "name": "Goat ribs",
+    "weight": 0.003
+  },
   "34503": {
     "name": "Labrador puppy",
     "weight": 0.75
+  },
+  "34504": {
+    "name": "Hill giant bone",
+    "weight": 0.003
   },
   "34505": {
     "name": "Labrador puppy",
     "weight": 0.75
   },
+  "34506": {
+    "name": "Infernal mage bone",
+    "weight": 0.003
+  },
   "34507": {
     "name": "Labrador puppy",
     "weight": 0.75
+  },
+  "34508": {
+    "name": "Lizardman bone",
+    "weight": 0.003
   },
   "34509": {
     "name": "Husky puppy",
     "weight": 0.75
   },
+  "34510": {
+    "name": "Lynx bone",
+    "weight": 0.003
+  },
   "34511": {
     "name": "Husky puppy",
     "weight": 0.75
+  },
+  "34512": {
+    "name": "Minotaur bone",
+    "weight": 0.003
   },
   "34513": {
     "name": "Husky puppy",
     "weight": 0.75
   },
+  "34514": {
+    "name": "Ork skull",
+    "weight": 0.003
+  },
   "34515": {
     "name": "Chihuahua puppy",
     "weight": 0.75
+  },
+  "34516": {
+    "name": "Sorebones bone",
+    "weight": 0.003
   },
   "34517": {
     "name": "Chihuahua puppy",
     "weight": 0.75
   },
+  "34518": {
+    "name": "Tortoise bone",
+    "weight": 0.003
+  },
   "34519": {
     "name": "Chihuahua puppy",
     "weight": 0.75
+  },
+  "34520": {
+    "name": "Turoth leg",
+    "weight": 0.003
   },
   "34521": {
     "name": "Border collie puppy",
     "weight": 0.75
   },
+  "34522": {
+    "name": "Ugthanki ribs",
+    "weight": 0.003
+  },
   "34523": {
     "name": "Border collie puppy",
     "weight": 0.75
+  },
+  "34524": {
+    "name": "Wallasalki bone",
+    "weight": 0.003
   },
   "34525": {
     "name": "Border collie puppy",
@@ -104356,7 +104388,8 @@
     "equipment": {
       "slot": 13,
       "rstr": 58
-    }
+    },
+    "ge_limit": 11000
   },
   "34696": {
     "name": "Diamond ascension bolts (e)",
@@ -104418,7 +104451,8 @@
       "str": 40,
       "prayer": 3,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "34719": {
     "name": "Rondache",
@@ -104487,22 +104521,6 @@
   "34730": {
     "name": "Leftovers",
     "weight": 1.5
-  },
-  "34732": {
-    "name": "Candy onion",
-    "weight": 2.267
-  },
-  "34734": {
-    "name": "Sugar",
-    "weight": 1.36
-  },
-  "34736": {
-    "name": "Molten sugar",
-    "weight": 0.907
-  },
-  "34738": {
-    "name": "Old onion",
-    "weight": 1.36
   },
   "34740": {
     "name": "Vampyre monocle",
@@ -104600,5 +104618,540 @@
       "slot": 2,
       "arange": 10
     }
+  },
+  "34766": {
+    "name": "Painted shortsword",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 4,
+      "aslash": 3,
+      "acrush": -2,
+      "dslash": 2,
+      "dcrush": 1,
+      "str": 5,
+      "aspeed": 4
+    }
+  },
+  "34769": {
+    "name": "Painted kiteshield",
+    "weight": 5.443,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": -8,
+      "arange": -3,
+      "dstab": 5,
+      "dslash": 7,
+      "dcrush": 6,
+      "dmagic": -1,
+      "drange": 6
+    }
+  },
+  "34772": {
+    "name": "Painted shortbow",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 8,
+      "aspeed": 4
+    }
+  },
+  "34775": {
+    "name": "Bee box",
+    "weight": 0.01
+  },
+  "34777": {
+    "name": "Bee hunter's hat",
+    "weight": 0.001,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "34779": {
+    "name": "Wasp sting",
+    "weight": 0.005
+  },
+  "34781": {
+    "name": "Killer wasp sting",
+    "weight": 0.005
+  },
+  "34783": {
+    "name": "Brown feather",
+    "weight": 0.002
+  },
+  "34785": {
+    "name": "Black feather",
+    "weight": 0.002
+  },
+  "34787": {
+    "name": "Wasp dart",
+    "weight": 0.01
+  },
+  "34789": {
+    "name": "Killer wasp dart",
+    "weight": 0.01
+  },
+  "34791": {
+    "name": "Bea's supplies",
+    "weight": 0.1
+  },
+  "34793": {
+    "name": "Fresh leaves",
+    "weight": 0.056
+  },
+  "34795": {
+    "name": "Dew-covered branch",
+    "weight": 0.056
+  },
+  "34797": {
+    "name": "Restorative dew",
+    "weight": 0.028
+  },
+  "34799": {
+    "name": "Strong sticks",
+    "weight": 0.056
+  },
+  "34801": {
+    "name": "Pink snelm",
+    "weight": 2.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": -3,
+      "arange": -1,
+      "dstab": 7,
+      "dslash": 8,
+      "dcrush": 6,
+      "dmagic": -1,
+      "drange": 7
+    }
+  },
+  "34808": {
+    "name": "Communication cabbage",
+    "weight": 0.453
+  },
+  "34810": {
+    "name": "The Bib Vol. 1: Seeds of Truth",
+    "weight": 1.0
+  },
+  "34812": {
+    "name": "Antique lamp (A New Leaf)",
+    "weight": 0.1
+  },
+  "34815": {
+    "name": "Cabbage water",
+    "weight": 0.035
+  },
+  "34817": {
+    "name": "Brassican sentience potion",
+    "weight": 0.035
+  },
+  "34819": {
+    "name": "Blessed compost",
+    "weight": 3.0
+  },
+  "34821": {
+    "name": "All Potions Are Gazpacho Vol. 2: The Cabbage Years",
+    "weight": 0.51
+  },
+  "34825": {
+    "name": "Perfect cabbage",
+    "weight": 0.453
+  },
+  "34827": {
+    "name": "Perfect potato",
+    "weight": 0.5
+  },
+  "34829": {
+    "name": "Perfect rosemary",
+    "weight": 0.028
+  },
+  "34831": {
+    "name": "Perfect cabbage stew",
+    "weight": 1.5
+  },
+  "34833": {
+    "name": "Prayer to Brassica",
+    "weight": 0.02
+  },
+  "34835": {
+    "name": "Sedridor's staff",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aslash": -1,
+      "acrush": 7,
+      "amagic": 4,
+      "dstab": 2,
+      "dslash": 3,
+      "dcrush": 1,
+      "dmagic": 4,
+      "str": 3,
+      "aspeed": 5
+    }
+  },
+  "34836": {
+    "name": "Asylum key",
+    "weight": 0.012
+  },
+  "34837": {
+    "name": "Magic lamp (prayer)",
+    "weight": 0.1
+  },
+  "34838": {
+    "name": "Magic lamp (slayer)",
+    "weight": 0.1
+  },
+  "34839": {
+    "name": "Condition notes",
+    "weight": 0.28
+  },
+  "34840": {
+    "name": "Heavy bonesack",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 4,
+      "dmagic": 4,
+      "drange": 4
+    }
+  },
+  "34842": {
+    "name": "Heavy bonesack (open)",
+    "weight": 3.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 1,
+      "dstab": 4,
+      "dslash": 4,
+      "dcrush": 4,
+      "dmagic": 4,
+      "drange": 4
+    }
+  },
+  "34846": {
+    "name": "Angry giant rat bone in vinegar",
+    "weight": 1.36
+  },
+  "34848": {
+    "name": "Ankou bone in vinegar",
+    "weight": 1.36
+  },
+  "34850": {
+    "name": "Armoured zombie bone in vinegar",
+    "weight": 1.36
+  },
+  "34852": {
+    "name": "Aviansie wing in vinegar",
+    "weight": 1.36
+  },
+  "34854": {
+    "name": "Blue dragon bone in vinegar",
+    "weight": 1.36
+  },
+  "34856": {
+    "name": "Boar bone in vinegar",
+    "weight": 1.36
+  },
+  "34858": {
+    "name": "Catablepon ribs in vinegar",
+    "weight": 1.36
+  },
+  "34860": {
+    "name": "Cave horror bone in vinegar",
+    "weight": 1.36
+  },
+  "34862": {
+    "name": "Chicken wing in vinegar",
+    "weight": 1.36
+  },
+  "34864": {
+    "name": "Colonel radick's bone in vinegar",
+    "weight": 1.36
+  },
+  "34866": {
+    "name": "Cow bone in vinegar",
+    "weight": 1.36
+  },
+  "34868": {
+    "name": "Crawling hand bone in vinegar",
+    "weight": 1.36
+  },
+  "34870": {
+    "name": "Crocodile bone in vinegar",
+    "weight": 1.36
+  },
+  "34872": {
+    "name": "Cyclops bone in vinegar",
+    "weight": 1.36
+  },
+  "34874": {
+    "name": "Druid ribs in vinegar",
+    "weight": 1.36
+  },
+  "34876": {
+    "name": "Fox bone in vinegar",
+    "weight": 1.36
+  },
+  "34878": {
+    "name": "Frogeel spine in vinegar",
+    "weight": 1.36
+  },
+  "34880": {
+    "name": "Gnome child bone in vinegar",
+    "weight": 1.36
+  },
+  "34882": {
+    "name": "Goat ribs in vinegar",
+    "weight": 1.36
+  },
+  "34884": {
+    "name": "Hill giant bone in vinegar",
+    "weight": 1.36
+  },
+  "34886": {
+    "name": "Infernal mage bone in vinegar",
+    "weight": 1.36
+  },
+  "34888": {
+    "name": "Lizardman bone in vinegar",
+    "weight": 1.36
+  },
+  "34890": {
+    "name": "Lynx bone in vinegar",
+    "weight": 1.36
+  },
+  "34892": {
+    "name": "Minotaur bone in vinegar",
+    "weight": 1.36
+  },
+  "34894": {
+    "name": "Ork skull in vinegar",
+    "weight": 1.36
+  },
+  "34896": {
+    "name": "Sorebones bone in vinegar",
+    "weight": 1.36
+  },
+  "34898": {
+    "name": "Tortoise bone in vinegar",
+    "weight": 1.36
+  },
+  "34900": {
+    "name": "Turoth leg in vinegar",
+    "weight": 1.36
+  },
+  "34902": {
+    "name": "Ugthanki ribs in vinegar",
+    "weight": 1.36
+  },
+  "34904": {
+    "name": "Wallasalki bone in vinegar",
+    "weight": 1.36
+  },
+  "34906": {
+    "name": "Angry giant rat bone",
+    "weight": 0.003
+  },
+  "34908": {
+    "name": "Ankou bone",
+    "weight": 0.003
+  },
+  "34910": {
+    "name": "Armoured zombie bone",
+    "weight": 0.003
+  },
+  "34912": {
+    "name": "Aviansie wing",
+    "weight": 0.003
+  },
+  "34914": {
+    "name": "Blue dragon bone",
+    "weight": 0.003
+  },
+  "34916": {
+    "name": "Boar bone",
+    "weight": 0.003
+  },
+  "34918": {
+    "name": "Catablepon ribs",
+    "weight": 0.003
+  },
+  "34920": {
+    "name": "Cave horror bone",
+    "weight": 0.003
+  },
+  "34922": {
+    "name": "Chicken wing",
+    "weight": 0.003
+  },
+  "34924": {
+    "name": "Colonel radick's bone",
+    "weight": 0.003
+  },
+  "34926": {
+    "name": "Cow bone",
+    "weight": 0.003
+  },
+  "34928": {
+    "name": "Crawling hand bone",
+    "weight": 0.003
+  },
+  "34930": {
+    "name": "Crocodile bone",
+    "weight": 0.003
+  },
+  "34932": {
+    "name": "Cyclops bone",
+    "weight": 0.003
+  },
+  "34934": {
+    "name": "Druid ribs",
+    "weight": 0.003
+  },
+  "34936": {
+    "name": "Fox bone",
+    "weight": 0.003
+  },
+  "34938": {
+    "name": "Frogeel spine",
+    "weight": 0.003
+  },
+  "34940": {
+    "name": "Gnome child bone",
+    "weight": 0.003
+  },
+  "34942": {
+    "name": "Goat ribs",
+    "weight": 0.003
+  },
+  "34944": {
+    "name": "Hill giant bone",
+    "weight": 0.003
+  },
+  "34946": {
+    "name": "Infernal mage bone",
+    "weight": 0.003
+  },
+  "34948": {
+    "name": "Lizardman bone",
+    "weight": 0.003
+  },
+  "34950": {
+    "name": "Lynx bone",
+    "weight": 0.003
+  },
+  "34952": {
+    "name": "Minotaur bone",
+    "weight": 0.003
+  },
+  "34954": {
+    "name": "Ork skull",
+    "weight": 0.003
+  },
+  "34956": {
+    "name": "Sorebones bone",
+    "weight": 0.003
+  },
+  "34958": {
+    "name": "Tortoise bone",
+    "weight": 0.003
+  },
+  "34960": {
+    "name": "Turoth leg",
+    "weight": 0.003
+  },
+  "34962": {
+    "name": "Ugthanki ribs",
+    "weight": 0.003
+  },
+  "34964": {
+    "name": "Wallasalki bone",
+    "weight": 0.003
+  },
+  "34966": {
+    "name": "Angry giant rat bone",
+    "weight": 0.003
+  },
+  "34968": {
+    "name": "Ankou bone",
+    "weight": 0.003
+  },
+  "34970": {
+    "name": "Armoured zombie bone",
+    "weight": 0.003
+  },
+  "34972": {
+    "name": "Aviansie wing",
+    "weight": 0.003
+  },
+  "34974": {
+    "name": "Blue dragon bone",
+    "weight": 0.003
+  },
+  "34976": {
+    "name": "Boar bone",
+    "weight": 0.003
+  },
+  "34978": {
+    "name": "Catablepon ribs",
+    "weight": 0.003
+  },
+  "34980": {
+    "name": "Cave horror bone",
+    "weight": 0.003
+  },
+  "34982": {
+    "name": "Chicken wing",
+    "weight": 0.003
+  },
+  "34984": {
+    "name": "Colonel radick's bone",
+    "weight": 0.003
+  },
+  "34986": {
+    "name": "Cow bone",
+    "weight": 0.003
+  },
+  "34988": {
+    "name": "Crawling hand bone",
+    "weight": 0.003
+  },
+  "34990": {
+    "name": "Crocodile bone",
+    "weight": 0.003
+  },
+  "34992": {
+    "name": "Cyclops bone",
+    "weight": 0.003
+  },
+  "34994": {
+    "name": "Druid ribs",
+    "weight": 0.003
+  },
+  "34996": {
+    "name": "Fox bone",
+    "weight": 0.003
+  },
+  "34998": {
+    "name": "Frogeel spine",
+    "weight": 0.003
+  },
+  "35000": {
+    "name": "Gnome child bone",
+    "weight": 0.003
+  },
+  "35026": {
+    "name": "Guthixian root",
+    "weight": 0.001
   }
 }
